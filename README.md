@@ -7,8 +7,8 @@ pick. The brand gets no click and no log line. This tool asks the engines the qu
 shopper would type, keeps every answer and every cited source, and scores them so a brand
 team gets numbers it can act on and re-run next month.
 
-Built as the prototype for a take-home exercise (DEPT®, Nov 2026). Worked example: Monzo in
-UK current accounts. Swap `brands/monzo.yaml` for any brand.
+Worked example: Monzo in UK current accounts, run live on 21 November 2026. Swap
+`brands/monzo.yaml` for any brand.
 
 ```
 brief (brand, competitors, a watchlist of brands counted by name only, attributes,
