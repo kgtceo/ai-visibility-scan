@@ -1,0 +1,45 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "S2",
+ "run": 2,
+ "text": "Yes, lots of people in the UK use Monzo as their main account.\n\n**What works**\n- Monzo offers the usual current account services: receiving your salary, setting up direct debits and standing orders, withdrawing cash and transferring money.\n- **Safety:** It's a UK bank authorised by the PRA and regulated by the PRA and FCA, like Barclays, HSBC and NatWest. The FSCS limit rose from £85,000 to £120,000 on 1 December 2025. On a joint account it's £240,000. Some older Monzo documents still show £85,000, so treat those as out of date.\n- **Switching:** You can use the Current Account Switch Service to close your main account and move everything over. Monzo moves your money, direct debits and standing orders, redirects incoming payments including your salary, and closes your old account.\n- **Bills:** You can pay direct debits and standing orders straight from a Regular pot. That makes it easy to set aside money for bills.\n- **Cost:** The basic account has no monthly fee and no minimum deposit.\n\n**Things to check**\n- **Cash withdrawals:** Fee-free withdrawals depend on meeting Monzo's criteria. Broadly, that means at least £500 paid in over a rolling 35-day period plus an active direct debit. A normal salary should meet this.\n- **No branches:** Everything is done through the app and online. This suits you best if you're comfortable with that.\n- **Deposits:** FSCS protection is per eligible person, per authorised firm, not per account or per pot. Your current account, pots and savings at Monzo all count toward the one limit. This only matters if you hold large balances.\n- **Direct debits:** Monzo only supports making direct debit payments, not receiving them. This only matters if you're a sole trader or landlord collecting payments by direct debit. Most people never need it.\n\n**Practical tips**\n- Keep a backup. Many people hold a second account, such as a high-street bank or Starling, in case of an app outage or a frozen account.\n- Before you close your old account, check that your salary and all your direct debits have moved across.\n- Check Monzo's current terms and fee criteria in the app before you switch, because these can change.\n\nIf you tell me whether you're after a joint account, cash deposits, a mortgage or overdraft needs, I can say whether Monzo fits.",
+ "citations": [
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "title": "Monzo review 2026: Should you make the switch? - Money To The Masses"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-current-account-review/",
+   "title": "Monzo Current Account Review 2026 -- Fees, Features and Verdict"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "title": "Double Payday"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "title": "Monzo Savings Pots Explained: Rates and FSCS 2026"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "title": "Is Monzo Safe in 2026? FSCS, Fraud & Security Explained"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.2.pdf",
+   "title": "Monzo current account terms and conditions v2.2"
+  }
+ ],
+ "search_queries": [
+  "Monzo main account salary direct debits FSCS 2026"
+ ],
+ "latency_s": 10.24,
+ "asked_at": "2026-11-21T16:51:56.073473+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

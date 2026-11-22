@@ -1,0 +1,46 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C3",
+ "run": 2,
+ "text": "**For most UK travellers in Europe, Monzo on a free plan is the simpler and cheaper choice. Revolut is better if you want to hold euros or travel often.** Taking both is better still, because they're free to carry and each covers the other's weak spots.\n\n**Card spending**\n- Monzo charges £0 for card payments in a foreign currency. There's no monthly cap and no weekend markup.\n- Revolut Standard is free up to a point. The exchange limit is £1,000 a month, and a 1% fair usage fee applies to any exchange above that.\n- Revolut also has a weekend surcharge. The 1% weekend exchange fee applies to exchanges made between 5pm on Friday and 6pm on Sunday.\n- You can avoid the weekend fee on Revolut. Exchange into the local currency in the app on a weekday, and weekend payments draw from that balance with no extra fee.\n\n**Cash withdrawals**\n- Revolut Standard gives you 5 free ATM withdrawals or £200 per rolling month (whichever comes first), then 2% with a £1 minimum.\n- Monzo gives you £200 free per 30 days, then 3%, according to the most recent comparisons I found. Older articles say Monzo's EEA withdrawals are unlimited if it's your main bank. Check Monzo's app or fee page before you go, as this seems to have changed.\n- If you'll go over the free limit, Revolut is cheaper at 2% against 3%.\n\n**Paid tiers**\n- For monthly travel or weekend spending abroad, Revolut Premium (£7.99 / month) removes the 1% weekend markup and the £1,000 monthly FX cap.\n- Premium also raises the free ATM limit to £400 a month.\n- Only pay for it if you travel often enough to use the extras.\n\n**Other differences**\n- Revolut is stronger for multi-currency balances. You can hold euros and other currencies and exchange in the app.\n- Monzo is better for UK banking and human support. Both are UK-licensed, with £120,000 FSCS protection.\n- Replacing a lost Monzo card abroad costs a flat £30 to ship outside the UK.\n\n**Which to pick**\n- **A couple of trips a year, mostly card spending:** use Monzo.\n- **Cash-heavy trips:** use Revolut for the cheaper overage, and pre-exchange on weekdays.\n- **Frequent travel:** consider Revolut Premium.\n- **Any trip:** take both cards, so you have a backup if one is lost, frozen or declined.\n\nFees and limits change often, so check each app's current fee page before you travel.",
+ "citations": [
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "Monzo vs Revolut in 2026: Fees, Savings and Crypto"
+  },
+  {
+   "url": "https://www.revolut.com/legal/standard-fees/",
+   "title": "Personal Fees (Standard)"
+  },
+  {
+   "url": "https://wise.com/gb/blog/revolut-fees-uk",
+   "title": "Revolut fees in the UK: Detailed guide (Is it free?) - Wise"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/using-revolut-abroad/",
+   "title": "Using Revolut abroad: your guide to travel spending"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/compare/monzo-vs-revolut",
+   "title": "Monzo vs Revolut 2026: which is better for UK banking?"
+  },
+  {
+   "url": "https://moneytothemasses.com/quick-savings/travel-quick-savings/revolut-review-is-it-the-best-way-to-take-money-abroad",
+   "title": "Revolut Review 2026 - Is it the best way to take money abroad?"
+  },
+  {
+   "url": "https://www.dreambigtravelfarblog.com/blog/monzo-vs-revolut",
+   "title": "Monzo vs Revolut: Which Is Best For Travel In 2026? [Full Comparison]"
+  }
+ ],
+ "search_queries": [
+  "Monzo vs Revolut travel abroad fees 2026",
+  "Revolut free plan ATM withdrawal limit weekend exchange fee UK"
+ ],
+ "latency_s": 13.78,
+ "asked_at": "2026-11-21T16:47:34.365254+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

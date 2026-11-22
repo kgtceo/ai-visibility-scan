@@ -1,0 +1,112 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/current-account/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/about-the-service/?utm_source=openai",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "About the service"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Monzo is the alternative I'd consider if customer service matters more to you than overseas cash withdrawals."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I'd choose Starling if you want one app-based UK current account for your salary, bills and everyday spending."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "In the August 2026 Great Britain survey, 79% of Monzo customers said they'd recommend it, versus 76% for Starling.",
+    "verdict": "unverifiable",
+    "fact_id": "F4",
+    "note": "Survey figure of 79% is not covered by the facts; F4 gives an NPS of 76, a different metric, so this is not directly comparable."
+   },
+   {
+    "text": "Monzo's standard account is free",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts mention a free plan but do not state the account has no monthly fee explicitly."
+   },
+   {
+    "text": "Monzo charges £1 per cash deposit",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Outside the European Economic Area, Monzo charges 3% on cash withdrawals above £200 in a rolling 30-day period.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 per 30 days allowance outside the EEA and 3% fee after it."
+   }
+  ]
+ },
+ "judge_error": null
+}

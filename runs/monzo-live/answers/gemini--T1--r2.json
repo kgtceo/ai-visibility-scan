@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "T1",
+ "run": 2,
+ "text": "**Yes, Monzo is safe, and your money is protected if the bank were to go bust.** \n\nHere are the key details on how your money is protected and regulated in the UK:\n\n---\n\n### 1. You are protected by the FSCS (up to £85,000)\nMonzo is a fully licensed UK bank (not just an e-money institution or payment app). Because of this, eligible deposits are protected by the **Financial Services Compensation Scheme (FSCS)**:\n* **Current accounts and standard pots:** Protected up to **£85,000** per person.\n* **Joint accounts:** Protected up to **£170,000** (i.e. £85,000 per account holder).\n\nIf Monzo were to fail, the FSCS is designed to automatically pay your money back (up to the limit), typically within a few days.\n\n---\n\n### 2. Fully Regulated in the UK\nMonzo Bank Limited is authorised by the **Prudential Regulation Authority (PRA)** and regulated by both the **Financial Conduct Authority (FCA)** and the PRA. It is held to the same capital, liquidity, and operational standards as major high-street banks like Barclays, HSBC, or Lloyds.\n\n---\n\n### 3. What about Savings Pots with partner banks?\nMonzo offers savings pots provided by third-party partner banks (such as OakNorth, Shawbrook, Charter Savings Bank, etc.):\n* These pots are **also covered by the FSCS up to £85,000**, but the protection is provided by the **partner bank**, not Monzo.\n* **Watch out for duplicate accounts:** If you already hold savings directly with that specific partner bank outside of Monzo, the £85,000 FSCS limit applies to your *total combined balance* across both accounts with that institution.\n\n---\n\n### 4. What is *not* covered against loss?\n* **Investments:** If you use Monzo Investments, your money is held in funds (e.g., via BlackRock). While FSCS protection covers you if the investment provider collapses unlawfully, it **does not** protect you against standard market fluctuations (i.e., your investment value can go down).\n* **Balances over £85,000:** Any cash held in Monzo deposits exceeding £85,000 is not guaranteed by the FSCS (unless you qualify for temporary high balance protection, such as from the recent sale of a house).\n\n---\n\n### 5. App & Account Security\nBeyond insolvency protection, Monzo has robust consumer protections against day-to-day fraud:\n* Monzo is signed up to the UK's mandatory **Authorised Push Payment (APP) scam reimbursement rules**, meaning you are typically reimbursed if tricked into sending money to a scammer (subject to standard regulatory conditions).\n* You can instantly freeze/unfreeze your card, block gambling transactions, and set up biometrics or approvals within the app.",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 14.48,
+ "asked_at": "2026-11-21T17:58:57.598621+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,155 @@
+{
+ "engine": "claude",
+ "question_id": "D5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-childrens-bank-accounts-aRMaB5Y7IaQO",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best children's bank accounts 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/bank-accounts-for-kids",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best bank accounts for kids UK 2026 (with a £20 pocket money ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/best-childrens-bank-accounts-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Best Children's Bank Accounts in the UK"
+  },
+  {
+   "url": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-best-app-challenger-banks-for-teenagers-2026-updated-list/",
+   "domain": "gbwise.co.uk",
+   "source_type": "other",
+   "title": "Bank Accounts for 16-17 Year Olds UK (2026 Guide)"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/bank-account-for-teenagers/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Bank account for teens: Banking for 16 and 17 year olds"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts.html",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "Child & teen bank accounts"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-bank-accounts-for-under-18s",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Best bank accounts for children and teens"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "the Starling Teen account or Monzo for 16–17s is the best first account. Both are free"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Finder also ranks Starling first for teens."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Nationwide FlexOne (ages 11–17) is a good choice if you want a building society."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo for 16–17s is free",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover the free plan for adults but not a teen account specifically."
+   },
+   {
+    "text": "Which? scores Monzo's 16–17 account 85%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Which? scores."
+   },
+   {
+    "text": "Monzo has blocked spending on gambling and no overdraft for teens",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "To open Monzo's account you need to be 16 or 17 and UK-based, with photo ID, your own UK mobile number and an email address",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Eligibility requirements not in the facts."
+   },
+   {
+    "text": "Spending abroad: Monzo is a good option",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Consistent with no fee on card spending abroad."
+   },
+   {
+    "text": "All UK-licensed banks are covered by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches the FSCS limit for Monzo."
+   }
+  ]
+ },
+ "judge_error": null
+}

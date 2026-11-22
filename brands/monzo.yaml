@@ -1,0 +1,173 @@
+# Brief: Monzo, UK personal current accounts.
+# The client's facts are the only thing the scan trusts; everything else is what the engines say.
+# Facts marked `to_confirm` are NOT used for accuracy scoring until confirmed on monzo.com.
+
+client:
+  name: Monzo
+  aliases: ["Monzo Bank", "monzo.com", "Monzo's"]
+  domains: ["monzo.com", "community.monzo.com"]
+
+competitors:
+  - name: Starling
+    aliases: ["Starling Bank", "Starling's"]
+    domains: ["starlingbank.com"]
+  - name: Revolut
+    aliases: ["Revolut's"]
+    domains: ["revolut.com"]
+  - name: Chase
+    aliases: ["Chase UK", "Chase Bank UK", "JPMorgan Chase UK", "Chase's"]
+    domains: ["chase.co.uk"]
+  - name: Nationwide
+    aliases: ["Nationwide Building Society", "Nationwide's"]
+    domains: ["nationwide.co.uk"]
+
+category: UK personal current accounts and app-based banking
+market: GB
+city: London
+
+# The attributes a UK shopper decides on. Sentiment is scored per attribute, not per brand.
+attributes:
+  - fees
+  - savings_rates
+  - app_and_features
+  - customer_service
+  - safety_and_trust
+  - spending_abroad
+
+facts:
+  - id: F1
+    statement: "Monzo had 15.2 million customers at 31 March 2026 (FY2026 annual report)."
+    source: "https://monzo.com/annual-report/2026"
+    status: verified
+  - id: F2
+    statement: "Monzo's revenue for the year to 31 March 2026 was £1.7bn, up 39%, with a profit of £172.6m."
+    source: "https://monzo.com/annual-report/2026"
+    status: verified
+  - id: F3
+    statement: "Monzo had 10.4 million monthly active customers in FY2026."
+    source: "https://monzo.com/annual-report/2026"
+    status: verified
+  - id: F4
+    statement: "Monzo reports a Net Promoter Score of 76 for FY2026."
+    source: "https://monzo.com/annual-report/2026"
+    status: verified
+  - id: F5
+    statement: "Monzo is a UK bank authorised by the PRA and regulated by the FCA and PRA; eligible deposits are protected by the FSCS up to £120,000 per person."
+    source: "https://monzo.com/help/legal-stuff/deposit-protection-fscs"
+    status: verified
+  - id: F6
+    statement: "Monzo charges no fee on card spending abroad in any currency; it passes on the Mastercard exchange rate with no extra charges."
+    source: "https://monzo.com/help/travelling/understanding-fees"
+    status: verified
+  - id: F7
+    statement: "On Monzo's free plan, fee-free cash withdrawals are £400 every 30 days in the UK and EEA (unlimited if Monzo is your main bank) and £200 every 30 days outside the EEA, with a 3% fee after the allowance."
+    source: "https://monzo.com/help/travelling/understanding-fees"
+    status: verified
+  - id: F8
+    statement: "Monzo's current paid plans are Extra at £3 a month, Perks at £9 a month and Max from £19 a month."
+    source: "https://monzo.com/current-account/extra"
+    status: verified
+  - id: F9
+    statement: "Monzo's Instant Access Savings rate on the free plan is 2.80% AER (variable), as checked on 21 November 2026."
+    source: "https://monzo.com/savings-isas/instant-access"
+    status: verified
+
+# Brands we do not score but want to see coming. Counted by name in unbranded answers only
+# (rules, no judge). If one keeps appearing, promote it to competitors for the next run.
+watchlist:
+  - {name: first direct, aliases: ["First Direct"]}
+  - {name: Santander, aliases: ["Santander UK"]}
+  - {name: NatWest, aliases: ["National Westminster"]}
+  - {name: Lloyds, aliases: ["Lloyds Bank"]}
+  - {name: HSBC, aliases: ["HSBC UK"]}
+  - {name: Barclays, aliases: []}
+  - {name: Kroo, aliases: ["Kroo Bank"]}
+  - {name: Virgin Money, aliases: []}
+  - {name: TSB, aliases: []}
+  - {name: Zopa, aliases: ["Zopa Bank"]}
+  - {name: Halifax, aliases: []}
+  - {name: Tide, aliases: []}
+
+# Where cited pages come from. Brand and competitor domains are classified first.
+source_types:
+  review_comparison:
+    - which.co.uk
+    - moneysavingexpert.com
+    - finder.com
+    - nerdwallet.com
+    - trustpilot.com
+    - unbiased.co.uk
+    - forbes.com
+    - money.co.uk
+    - moneyfacts.co.uk
+    - comparethemarket.com
+    - uswitch.com
+    - smartmoneypeople.com
+    - thetimes.com
+    - pocketwise.co.uk
+    - depositscout.com
+  forum_social:
+    - reddit.com
+    - mumsnet.com
+    - quora.com
+    - youtube.com
+    - tiktok.com
+    - x.com
+    - twitter.com
+    - facebook.com
+    - moneysavingexpert.com/forums
+  news:
+    - bbc.co.uk
+    - bbc.com
+    - theguardian.com
+    - ft.com
+    - telegraph.co.uk
+    - thisismoney.co.uk
+    - cityam.com
+    - independent.co.uk
+    - reuters.com
+    - bloomberg.com
+    - sky.com
+    - standard.co.uk
+    - techcrunch.com
+    - sifted.eu
+  regulator_official:
+    - fca.org.uk
+    - fscs.org.uk
+    - bankofengland.co.uk
+    - gov.uk
+    - financial-ombudsman.org.uk
+    - moneyhelper.org.uk
+
+# 24 questions a UK shopper types. Unbranded ones measure whether Monzo makes the shortlist;
+# branded ones measure what is said about Monzo once asked. Stages follow the journey.
+questions:
+  # discover (unbranded)
+  - {id: D1, stage: discover, branded: false, text: "What's the best bank account in the UK for everyday spending?", attributes: [fees, app_and_features]}
+  - {id: D2, stage: discover, branded: false, text: "Which app-based bank should I switch to in the UK?", attributes: [app_and_features, customer_service]}
+  - {id: D3, stage: discover, branded: false, text: "Best UK bank for budgeting and saving pots?", attributes: [app_and_features, savings_rates]}
+  - {id: D4, stage: discover, branded: false, text: "Which UK bank card is best for spending abroad with no fees?", attributes: [spending_abroad, fees]}
+  - {id: D5, stage: discover, branded: false, text: "Best first bank account for a 16 year old in the UK?", attributes: [app_and_features, safety_and_trust]}
+  - {id: D6, stage: discover, branded: false, text: "Which UK current account pays the best interest on savings right now?", attributes: [savings_rates]}
+  - {id: D7, stage: discover, branded: false, text: "Best bank account for a sole trader or small business in the UK?", attributes: [fees, app_and_features]}
+  - {id: D8, stage: discover, branded: false, text: "Which UK bank has the best customer service?", attributes: [customer_service]}
+  # compare (unbranded: two or more brands named, Monzo may or may not be one)
+  - {id: C1, stage: compare, branded: true, text: "Starling vs Revolut vs Chase, which is best as a main UK account?", attributes: [fees, savings_rates, app_and_features]}
+  - {id: C2, stage: compare, branded: true, text: "Monzo vs Starling, which is better?", attributes: [fees, app_and_features, customer_service]}
+  - {id: C3, stage: compare, branded: true, text: "Monzo or Revolut for travelling in Europe?", attributes: [spending_abroad, fees]}
+  - {id: C4, stage: compare, branded: true, text: "Is Chase UK better than Monzo for cashback and savings?", attributes: [savings_rates, fees]}
+  - {id: C5, stage: compare, branded: true, text: "Monzo vs Nationwide as my main current account?", attributes: [customer_service, safety_and_trust, app_and_features]}
+  # choose (branded)
+  - {id: H1, stage: choose, branded: true, text: "Are Monzo's paid plans worth it?", attributes: [fees, app_and_features]}
+  - {id: H2, stage: choose, branded: true, text: "Does Monzo charge fees for spending or withdrawing cash abroad?", attributes: [spending_abroad, fees]}
+  - {id: H3, stage: choose, branded: true, text: "What interest does Monzo pay on savings?", attributes: [savings_rates]}
+  - {id: H4, stage: choose, branded: true, text: "Does Monzo offer an overdraft and what does it cost?", attributes: [fees]}
+  - {id: H5, stage: choose, branded: true, text: "Can I open a joint account with Monzo and how does it work?", attributes: [app_and_features]}
+  # trust (branded)
+  - {id: T1, stage: trust, branded: true, text: "Is Monzo safe? Is my money protected if it goes bust?", attributes: [safety_and_trust]}
+  - {id: T2, stage: trust, branded: true, text: "Is Monzo a real bank or just an app?", attributes: [safety_and_trust]}
+  - {id: T3, stage: trust, branded: true, text: "Why do people complain about Monzo?", attributes: [customer_service, safety_and_trust]}
+  - {id: T4, stage: trust, branded: true, text: "Does Monzo freeze accounts, and how do I get help if it happens?", attributes: [customer_service, safety_and_trust]}
+  # switch (branded)
+  - {id: S1, stage: switch, branded: true, text: "How do I switch my current account to Monzo and keep my direct debits?", attributes: [app_and_features]}
+  - {id: S2, stage: switch, branded: true, text: "Can I use Monzo as my main account for salary and bills?", attributes: [app_and_features, safety_and_trust]}

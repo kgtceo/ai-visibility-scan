@@ -1,0 +1,21 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H3",
+ "run": 2,
+ "text": "On Monzo’s **free UK plan**, an **Instant Access Savings Pot pays 2.80% AER (variable)**. That’s about **£28 on £1,000** left for a full year if the rate stays the same. You can withdraw whenever you like. ([monzo.com](https://monzo.com/savings-isas))\n\nMonzo lists these rates by plan for its Savings Pots and equivalent Cash ISAs. Both columns are variable AER. ([monzo.com](https://monzo.com/savings-isas))\n\n| Monzo plan | Instant Access | Select Access |\n|---|---:|---:|\n| Free | 2.80% | 3.45% |\n| Extra (£3/month) | 3.15% | 3.45% |\n| Perks (£9/month) | 3.55% | 3.70% |\n| Max (from £19/month) | 3.80% | 3.70% |\n\n**Select Access** requires a **£500 minimum deposit**. You keep the advertised rate if you make no more than **two withdrawals per year** from that Pot; a third withdrawal lowers the rate until the Pot’s anniversary. ([monzo.com](https://monzo.com/savings-isas))\n\nIf you can leave the money for **three years**, Monzo also offers **5.25% AER fixed** on all four plans, with a £500 minimum deposit. Interest is paid at maturity, and closing early means losing some interest. ([monzo.com](https://monzo.com/savings-isas))",
+ "citations": [
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK instant access savings Monzo interest rate November 2026 AER boost select savings pot UK"
+ ],
+ "latency_s": 10.94,
+ "asked_at": "2026-11-21T17:00:28.301098+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D6",
+ "run": 1,
+ "text": "**Nationwide FlexDirect pays the highest rate I found on the UK current-account balance itself:** **5% AER fixed for 12 months on the first £1,500**, with no monthly fee. Money above £1,500 earns no interest, and after the first year the rate drops to 1% AER variable. Rates checked **21 November 2026**. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\nTo qualify, you must **pay in £1,500 each month**; transfers from other Nationwide accounts and refunds don’t count. It must also be your first FlexDirect in three years in your sole name, or with the same joint holder. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\nIf you’re happy to keep the money in a **separate savings account linked to a current account**, two options pay more:\n\n- **For a lump sum:** Santander Edge Saver pays **6% AER variable on up to £4,000**, including a first-year bonus. The standard Edge current account costs **£3 a month**, so factor that fee into the comparison. ([santander.co.uk](https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai))\n- **For monthly savings:** Santander Regular Saver pays **8% AER variable for the first year** on deposits of up to **£200 a month**. Santander’s **fee-free Everyday current account** qualifies, so you don’t need to pay for Edge to get this rate. ([santander.co.uk](https://www.santander.co.uk/personal/savings-and-investments/savings/regular-saver?icid=php-r1_t2-Regular%2520eSaver-0917&utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai",
+   "title": "Santander Edge saver"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/regular-saver?icid=php-r1_t2-Regular%2520eSaver-0917&utm_source=openai",
+   "title": "Regular saving | Savings accounts | Santander UK"
+  }
+ ],
+ "search_queries": [
+  "UK highest interest current account November 2026 21 Nationwide FlexDirect Santander Edge Up in credit interest best current accounts Moneyfacts Kroo Chase current account",
+  "site:nationwide.co.uk FlexDirect current account 5% previous introductory credit interest £1000 1% 1500 November 2026"
+ ],
+ "latency_s": 15.35,
+ "asked_at": "2026-11-21T16:54:42.045068+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

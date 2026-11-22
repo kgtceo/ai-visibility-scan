@@ -1,0 +1,101 @@
+{
+ "engine": "gemini",
+ "question_id": "D4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo / Revolut: Both are fee-free for card spending. However, Monzo charges fees on non-EEA ATM withdrawals over £200/month"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best Debit Card for Cash Withdrawals: Starling Bank"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "negative"
+    },
+    "evidence": "standard Revolut accounts charge weekend exchange rate markups and have a £200/month ATM cap"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best Debit Card Overall (with Cashback): Chase Bank"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is fee-free for card spending.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo charges fees on non-EEA ATM withdrawals over £200/month.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 per 30 days allowance outside the EEA with a 3% fee after."
+   },
+   {
+    "text": "Starling does not place a tight monthly cap on foreign cash withdrawals, unlike Monzo or Chase.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "Implies Monzo has a tight monthly cap abroad; facts only cover the non-EEA allowance, so this is not clearly contradicted."
+   }
+  ]
+ },
+ "judge_error": null
+}

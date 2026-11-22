@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D5",
+ "run": 1,
+ "text": "**Best all-round pick: Starling’s 16–17 account** if you’re happy doing your banking through an app. It’s fee-free, has a debit card, and is designed for teens; age-restricted purchases are blocked. It was also rated highly in the comparison results I found.\n\nA few good alternatives:\n\n- **Nationwide FlexOne** — a good choice if you want access to branches as well as an app. It’s fee-free, available from 11 to 17, and has fee-free overseas card use. You can also open its linked saver.\n- **Monzo 16–17** — another app-based, fee-free option with spending features and age-restricted payments blocked.\n- **NatWest Adapt** — worth considering if you want a traditional bank; 16–17-year-olds can apply themselves with suitable ID. It has no fees or overdraft.\n\nAt 16, you can usually apply for a teen account yourself, though the ID and application requirements vary. **I’d start by comparing Starling and Nationwide**: choose Starling for a polished app, or Nationwide if having branches matters. Teen accounts generally don’t include overdrafts, which is a useful guardrail. Check the current terms directly with the bank before applying, as features can change.",
+ "citations": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/child-savings-tax-free/",
+   "title": "Top children's savings accounts: 5% interest"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/bank-accounts/",
+   "title": "Bank Accounts | MoneySavingExpert"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts.html",
+   "title": "Kids' and Teen Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/cards-for-under-18s/",
+   "title": "Top prepaid cards and bank accounts for under 18s - MSE"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts/revolve_account.html",
+   "title": "Kids Bank Account | Royal Bank of Scotland - RBS"
+  },
+  {
+   "url": "https://www.rbs.co.uk/content/natwest_com/en_uk/personal/current-accounts/childrens-accounts.html",
+   "title": "Kids' and Teen Accounts | NatWest - Royal Bank of Scotland"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/best-bank-cards-for-teenagers-uk-b2997287.html",
+   "title": "The top banking and cash cards for your 16- and 17-year-old kids"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html?LB=4202249893",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-for-grandchildren/",
+   "title": "How to save for your grandchildren: the best accounts & need-to-knows"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/tools-and-guides/current-accounts/what-is-a-current-account/",
+   "title": "Our Guide to Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/",
+   "title": "Banking & Savings"
+  },
+  {
+   "url": "https://www.halifax.co.uk/bankaccounts/accounts-no-longer-on-sale.html",
+   "title": "Accounts no longer on sale"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+   "title": "FlexOne current account"
+  }
+ ],
+ "search_queries": [
+  "best bank account 16 year old UK November 2026",
+  "UK bank current account age 16 fee free debit card",
+  "MoneySavingExpert best bank accounts children age 16 current accounts"
+ ],
+ "latency_s": 5.17,
+ "asked_at": "2026-11-21T17:40:35.347537+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

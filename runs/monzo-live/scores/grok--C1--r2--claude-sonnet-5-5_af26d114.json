@@ -1,0 +1,514 @@
+{
+ "engine": "grok",
+ "question_id": "C1",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/personal-service-quality-survey-results/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/personal-service-quality-survey-results/"
+  },
+  {
+   "url": "https://referral-links.uk/best-digital-bank-uk/",
+   "domain": "referral-links.uk",
+   "source_type": "other",
+   "title": "https://referral-links.uk/best-digital-bank-uk/"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/chase-vs-starling",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/chase-vs-starling"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-fees/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-fees/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/product/chase-account/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/starling-bank-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/starling-bank-review/"
+  },
+  {
+   "url": "https://generationmoney.co.uk/revolut-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "https://generationmoney.co.uk/revolut-vs-starling/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/"
+  },
+  {
+   "url": "https://www.trustpilot.com/review/starlingbank.com?stars=1",
+   "domain": "trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://www.trustpilot.com/review/starlingbank.com?stars=1"
+  },
+  {
+   "url": "https://neobankradar.com/articles/chase-uk-abroad-fees-atm-limits/",
+   "domain": "neobankradar.com",
+   "source_type": "other",
+   "title": "https://neobankradar.com/articles/chase-uk-abroad-fees-atm-limits/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/overdraft-eligibility-tool/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/overdraft/overdraft-eligibility-tool/"
+  },
+  {
+   "url": "https://kkinvesting.io/en/posts/revolut-review/",
+   "domain": "kkinvesting.io",
+   "source_type": "other",
+   "title": "https://kkinvesting.io/en/posts/revolut-review/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/"
+  },
+  {
+   "url": "https://www.trustpilot.com/review/starlingbank.com",
+   "domain": "trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://www.trustpilot.com/review/starlingbank.com"
+  },
+  {
+   "url": "https://www.appbrain.com/app/starling-mobile-banking/com.starlingbank.android",
+   "domain": "appbrain.com",
+   "source_type": "other",
+   "title": "https://www.appbrain.com/app/starling-mobile-banking/com.starlingbank.android"
+  },
+  {
+   "url": "https://bankinggeek.com/en/best-bank-account-uk/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/best-bank-account-uk/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/"
+  },
+  {
+   "url": "https://www.banks.guide/compare/complaints/starling-bank/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/complaints/starling-bank/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/compare-best-bank-accounts/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/compare-best-bank-accounts/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-account-service-quality/starling-bank/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/current-account-service-quality/starling-bank/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/"
+  },
+  {
+   "url": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2",
+   "domain": "thebanker.com",
+   "source_type": "other",
+   "title": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-now-that-revolut-is-a-bank-in-the-uk-how-is-my-money-protected/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-now-that-revolut-is-a-bank-in-the-uk-how-is-my-money-protected/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/chase-uk/",
+   "domain": "currencyexpert.com",
+   "source_type": "other",
+   "title": "https://www.currencyexpert.com/reviews/chase-uk/"
+  },
+  {
+   "url": "https://chase.co.uk/gb/en/support/moving-money/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://chase.co.uk/gb/en/support/moving-money/"
+  },
+  {
+   "url": "https://www.starlingbank.com/news/starling-launches-student-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/news/starling-launches-student-account/"
+  },
+  {
+   "url": "https://delphina.money/compare/revolut-plans",
+   "domain": "delphina.money",
+   "source_type": "other",
+   "title": "https://delphina.money/compare/revolut-plans"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/revolut-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/revolut-review/"
+  },
+  {
+   "url": "https://uk.trustpilot.com/reviews/6ace49aee37ba568a5931463",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/reviews/6ace49aee37ba568a5931463"
+  },
+  {
+   "url": "https://www.spark-intel.co.uk/bright-sparks/battles/challenger-banks/",
+   "domain": "spark-intel.co.uk",
+   "source_type": "other",
+   "title": "https://www.spark-intel.co.uk/bright-sparks/battles/challenger-banks/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/overdraft/"
+  },
+  {
+   "url": "https://www.banks.guide/compare/business-account-service-quality/starling-bank/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/business-account-service-quality/starling-bank/"
+  },
+  {
+   "url": "https://iceburgwealth.com/digital-bank-uk/",
+   "domain": "iceburgwealth.com",
+   "source_type": "other",
+   "title": "https://iceburgwealth.com/digital-bank-uk/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/starling/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/starling/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/revolut-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/revolut-review/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/revolut/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/revolut/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/chase-vs-starling/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/chase-vs-starling/"
+  },
+  {
+   "url": "https://nextsteps.finance/blog/revolut-standard-vs-premium-2026",
+   "domain": "nextsteps.finance",
+   "source_type": "other",
+   "title": "https://nextsteps.finance/blog/revolut-standard-vs-premium-2026"
+  },
+  {
+   "url": "https://bankinggeek.com/en/starling-alternatives/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/starling-alternatives/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/general-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/legal/general-terms-and-conditions/"
+  },
+  {
+   "url": "https://anupress.com/product-review/revolut-review-2026/",
+   "domain": "anupress.com",
+   "source_type": "other",
+   "title": "https://anupress.com/product-review/revolut-review-2026/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/chase-bank-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/chase-bank-review/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/?site_id=google&creative_id=create_bank_account",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/current-account/?site_id=google&creative_id=create_bank_account"
+  },
+  {
+   "url": "https://www.revolut.com/our-pricing-plans",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.revolut.com/our-pricing-plans"
+  },
+  {
+   "url": "https://aurexintel.com/insights/uk-current-accounts-2026-comprehensive-performance-fees-and-feature-analysis",
+   "domain": "aurexintel.com",
+   "source_type": "other",
+   "title": "https://aurexintel.com/insights/uk-current-accounts-2026-comprehensive-performance-fees-and-feature-analysis"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC"
+  },
+  {
+   "url": "https://cleverpound.com/revolut-review/",
+   "domain": "cleverpound.com",
+   "source_type": "other",
+   "title": "https://cleverpound.com/revolut-review/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/chase-alternatives/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/chase-alternatives/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/choosing-a-current-account"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/revolut-vs-starling-bank-how-do-they-compare",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/revolut-vs-starling-bank-how-do-they-compare"
+  },
+  {
+   "url": "https://bankinggeek.com/en/revolut-fees/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/revolut-fees/"
+  },
+  {
+   "url": "https://www.revolut.com/legal/personal-current-account-fees/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.revolut.com/legal/personal-current-account-fees/"
+  },
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/chase-bank-account-overview/",
+   "domain": "moneysavinganswers.com",
+   "source_type": "other",
+   "title": "https://moneysavinganswers.com/personal/bank-accounts/chase-bank-account-overview/"
+  },
+  {
+   "url": "https://www.neobanksemea.com/guides/starling-bank-explained",
+   "domain": "neobanksemea.com",
+   "source_type": "other",
+   "title": "https://www.neobanksemea.com/guides/starling-bank-explained"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/best-uk-current-accounts"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://www.revolut.com/business/help/account-management-plans-and-billings/revolut-bank-launch/question-now-that-revolut-is-a-bank-how-is-my-money-protected/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.revolut.com/business/help/account-management-plans-and-billings/revolut-bank-launch/question-now-that-revolut-is-a-bank-how-is-my-money-protected/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank"
+  },
+  {
+   "url": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/",
+   "domain": "rottenwifi.com",
+   "source_type": "other",
+   "title": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/chase",
+   "domain": "getquids.co.uk",
+   "source_type": "other",
+   "title": "https://getquids.co.uk/en/reviews/chase"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/how-we-protect-your-funds/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.revolut.com/blog/post/how-we-protect-your-funds/"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the best of the three as a main UK current account for most people."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut is best as a travel and multi-currency tool—not as the only place your salary and bills sit."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is often the better second account: park £1,000 in a saver, put eligible everyday spend on the card"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H3",
+ "run": 2,
+ "text": "For Monzo’s **instant-access savings**, the rate depends on your plan:\n\n- **Free:** 2.80% AER variable  \n- **Extra (£3/month):** 3.15%  \n- **Perks, Plus or Premium:** 3.55%  \n- **Max or Max Family:** 3.80%\n\nInterest is paid monthly. Monzo also offers **Select Access** at 3.45% on Free or 3.70% on eligible paid plans, but it requires a £500 minimum and the rate falls if you make more than two withdrawals in a year. Fixed-term accounts have different rates.\n\nRates can change; these figures are from Monzo’s current published rates. [Monzo savings rates](https://monzo.com/savings-isas)",
+ "citations": [
+  {
+   "url": "https://www.zopa.com/savings/easy-access-savings",
+   "title": "Easy Access Savings"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://www.zopa.com/savings",
+   "title": "Smart Saver"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/",
+   "title": "Weekly Savings Roundup | Top UK accounts | November 2026"
+  },
+  {
+   "url": "https://www.lloydsbank.com/savings/instant-access.html",
+   "title": "Instant access savings accounts and ISAs | Lloyds"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-3-years",
+   "title": "Monzo 3 Year Fixed Rate Savings Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-1-year",
+   "title": "Monzo 1 Year Fixed Rate Savings Review: 4.50% AER (Nov 2026)"
+  },
+  {
+   "url": "https://www.fairerfinance.com/ratings/product-ratings/easy-access-savings",
+   "title": "Easy access savings accounts • Fairer Finance"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/variable-rates-rise-but-inflation-poses-risk/",
+   "title": "UK Inflation Threatens Returns Despite Rise in Variable Savings Rates"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK savings interest rates November 2026",
+  "site:monzo.com savings interest rates UK easy access pots",
+  "Monzo savings accounts rate UK current"
+ ],
+ "latency_s": 3.68,
+ "asked_at": "2026-11-21T17:42:50.489735+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

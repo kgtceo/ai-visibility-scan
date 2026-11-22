@@ -1,0 +1,34 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C4",
+ "run": 2,
+ "text": "**Yes, if you’re new to Chase and can keep £1,000 in savings.** Chase is the better pick for predictable cashback on everyday spending, and its introductory easy-access savings rate beats Monzo’s. **Without the introductory boost, free Monzo pays more on an easy-access lump sum.** ([chase.co.uk](https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/))\n\n### Cashback: Chase for your weekly shop and commute\n\nChase pays **2%** on eligible card spending in the UK and Channel Islands, including groceries, public transport, restaurants, cafés, takeaways, fuel and public EV charging. Spend **£500 a month** in those categories and you get **£10 back**; at **£1,000**, you hit the **£20 monthly cap**. Monzo instead offers retailer-specific deals you activate in the app. Those can be worth using for a planned purchase, but they’re less predictable for your weekly shop. ([chase.co.uk](https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/))\n\n**The Chase catch:** To qualify for the following month, you need **£1,000 across eligible Chase savings accounts every day of the calendar month** and **at least 15 card payments or Direct Debits** that month. Direct Debits count towards the 15 but don’t earn cashback. New customers get cashback without meeting those conditions for the rest of their joining month and the whole of the next month. ([chase.co.uk](https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/))\n\n### Savings: it depends on how you save\n\n| Your situation | Better option at the advertised rates |\n|---|---|\n| **You’re new to Chase and have a lump sum** | **Chase:** 4.75% AER variable if you open the boosted saver within 31 days of joining. The boost lasts 12 months. On £5,000, that’s about **£98 more interest** over a year than free Monzo at 2.80%, before tax, if rates stay unchanged. ([chase.co.uk](https://www.chase.co.uk/gb/en/saver-boosted/)) |\n| **You don’t qualify for the Chase boost** | **Free Monzo:** 2.80% AER variable for instant access versus Chase’s standard 2.50%. Monzo’s free Select Access pot pays **3.45% variable** if you make no more than two withdrawals per pot year. ([monzo.com](https://monzo.com/help/monzo-premium/paid-interest)) |\n| **You’re saving from your pay each month** | **Chase Regular Saver:** 6.50% AER fixed for 12 months on deposits of up to **£300 a month**, with penalty-free withdrawals. That rate is for monthly saving, not a lump sum deposited on day one. ([chase.co.uk](https://www.chase.co.uk/gb/en/media/chase-regular-saver/)) |\n\n**If you already use Monzo, I wouldn’t switch everything.** I’d use Chase for eligible everyday spending and the first-year savings boost, keep Monzo for retailer offers that beat 2%, and compare savings rates again when the boost ends. If your savings regularly dip below £1,000, don’t count on Chase cashback after the grace period. ([chase.co.uk](https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/))",
+ "citations": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "title": "Cashback Terms and Conditions | Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "title": "Chase Boost: 4.75% AER variable (4.65% gross) | Chase UK"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-premium/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/",
+   "title": "Chase launches regular savings account to help customers make progress towards their savings goals | Chase UK"
+  }
+ ],
+ "search_queries": [
+  "site:chase.co.uk UK Chase cashback groceries travel 2026 saver boosted savings November rate UK",
+  "site:monzo.com UK cashback activate offers selected retailers Monzo cashback 2026"
+ ],
+ "latency_s": 21.27,
+ "asked_at": "2026-11-21T16:58:33.397183+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H5",
+ "run": 1,
+ "text": "Yes. **You can apply for a Monzo joint current account if you’re both 18 or over, live in the UK full-time, and each have your own Monzo personal current account.** There’s no monthly fee for the standard account, and you don’t need to be a couple – you can open one with a friend or flatmate. ([monzo.com](https://monzo.com/current-account/joint-account?utm_source=openai))\n\n**How to open it:** If either of you doesn’t already bank with Monzo, open a personal account first. Then one of you goes to **Home → + → Apply for a joint account** in the Monzo app and invites the other. If you don’t see the **+**, look at the bottom of the Home screen instead. ([monzo.com](https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account?utm_source=openai))\n\n**How it works day to day:** The joint account has its own account number, and you each get a debit card for it. You could each transfer an agreed amount into it on payday, pay household bills from it and use the joint cards for groceries. You can both see the joint transactions, but neither of you can see the other’s personal balance or spending. ([monzo.com](https://monzo.com/help/joint-accounts/what-joint-account?utm_source=openai))\n\n**What to agree on first:** Either of you can spend or withdraw the money in the joint account, even if one of you paid in more. Opening it also links your credit files: your scores stay separate, but lenders may consider the other person’s credit history when you apply for borrowing. If you use a joint overdraft, Monzo can ask either of you to repay the **full balance**, not just half. ([monzo.com](https://monzo.com/current-account/joint-account?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/joint-account?utm_source=openai",
+   "title": "Open a Joint Bank Account | Simplify Shared Costs with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account?utm_source=openai",
+   "title": "Monzo Help - How to open a Monzo Joint Account"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account?utm_source=openai",
+   "title": "Monzo Help - Understanding joint accounts"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK joint account eligibility apply Monzo how works switching close joint account overdraft FSCS credit link",
+  "site:monzo.com joint account no monthly fee both responsible for full overdraft Monzo UK"
+ ],
+ "latency_s": 12.14,
+ "asked_at": "2026-11-21T17:00:55.856151+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D8",
+ "run": 2,
+ "text": "**For a UK personal current account, Monzo is the strongest overall pick on the latest independent comparison I found.** In the CMA-required service-quality survey, based on customer interviews from July 2025 to June 2026, **79% of Monzo customers said they’d recommend it**—the highest result. Starling followed at 76%, with first direct and Nationwide tied at 75%.\n\nIf you mean **personal, human customer service** rather than overall service quality, **first direct** is also a standout: MoneySavingExpert’s customer poll showed 90% rating its service “great,” though that poll used a different method and smaller sample.\n\n**In short:** choose **Monzo** for the best overall survey result; consider **first direct** if you particularly value speaking to people. Rankings reflect different surveys and don’t guarantee your individual experience.",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/news/article/should-you-choose-a-bank-or-a-building-society-for-your-next-mortgage-aSnro7s6NVi0",
+   "title": "Should you choose a bank or a building society for your next ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "Best banks and bank accounts in UK 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "title": "Which? names the current account providers worth switching ..."
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk",
+   "title": "Highest and lowest-rated banks: latest service quality survey ..."
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/46882/monzo-beats-chase-nationwide-and-starling-in-uk-customer-satisfaction---yougov",
+   "title": "Monzo beats Chase, Nationwide, and Starling in UK customer satisfaction"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/service-quality-metrics/",
+   "title": "Independent service quality survey results"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/banking-statistics",
+   "title": "Banking statistics UK: Biggest banks by market share"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma",
+   "title": "Best banks for customer satisfaction named - where does yours rank?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/big-banks-fail-to-keep-up-with-rates-from-lesser-known-savings-providers-aFg7j1T7dExO",
+   "title": "Big banks fail to keep up with rates from lesser-known savings ..."
+  },
+  {
+   "url": "https://www.finder.com/uk/finderawards/current-accounts-customer-satisfaction-awards",
+   "title": "Finder Current Accounts Customer Satisfaction Awards 2026"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/moneyfactscomparecouk-awards/2025-results/",
+   "title": "Moneyfactscompare.co.uk Awards | 2025 Results"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "title": "Best UK banks for customer service: the CMA survey, August 2026"
+  },
+  {
+   "url": "https://www.the-independent.com/news/business/nationwide-customer-service-john-lewis-specsavers-b3007633.html",
+   "title": "Nationwide named UK's best brand for customer service as ..."
+  }
+ ],
+ "search_queries": [
+  "UK best bank customer service survey 2026 current account",
+  "Which bank has best customer service UK 2025 survey",
+  "UK customer satisfaction bank rankings 2026 Which? bank"
+ ],
+ "latency_s": 5.2,
+ "asked_at": "2026-11-21T17:41:15.090487+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,31 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "H4",
+ "run": 1,
+ "text": "Yes, Monzo offers arranged overdrafts in the UK for eligible personal current account holders aged 18 and over.   \nMonzo\n\nInterest Rates & Costs\n\nInstead of daily flat fees, Monzo charges an Effective Annual Rate (EAR) based on your credit score and financial history:   \nMonzo\n\nRates: 19%, 29%, or 39% EAR (variable). Most customers are offered the representative rate of 39% EAR.   \nMonzo\n+ 1\n\nLimits: Up to £2,000 (or up to £3,000 for select customers), depending on what Monzo assesses you can safely afford.   \nMonzo\n\nNo Hidden Fees: There are no extra setup fees, late fees, or charges for declined payments if you hit your limit.   \nMonzo\n\nRepresentative Example:If you borrow £1,200 for 30 days at 39.0% EAR (variable), it will cost you £32.94 in interest. (Note: Interest is calculated daily on your overdrawn balance and collected on the 1st of each month).   \nMonzo\n+ 1\n\nEligibility & How It Works\n\nCredit Checks: Monzo checks your eligibility using your account data alongside credit reference agencies (TransUnion, Experian, and Equifax). Checking your eligibility in the app uses a soft search and won't affect your credit score.   \nMonzo\n+ 1\n\nIn-App Control: If eligible, you can switch your overdraft on, adjust your limit, or cancel it anytime directly from your profile settings in the Monzo app.   \nMonzo\n\nUnarranged Overdrafts: If you don't have an arranged overdraft—or try to spend past your limit—Monzo will normally decline the transaction for free. If an offline payment (like a train ticket or in-flight purchase) pushes you into an unarranged overdraft, Monzo won't charge extra fees, though you should top up the balance quickly as it can negatively impact your credit file.\n\nTip: Because 39% EAR is relatively steep compared to some UK competitors (like Starling or First Direct, which offer lower rates or small interest-free buffers), Monzo's overdraft is best kept as a short-term emergency buffer rather than for ongoing borrowing.",
+ "citations": [
+  {
+   "url": "https://monzo.com/overdrafts",
+   "title": "Monzo Apply for an Arranged Overdraft with Monzo “Monzo Overdrafts. Arranged overdrafts are a safety net for unplanned surprises. They're designed for short ter"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-for-overdrafts-aHIVs6t8cJBu",
+   "title": "Which.co.uk Best bank accounts for overdrafts 2026 - Which? - Which.co.uk “ Monzo. Monzo charges 19%, 29% or 39% EAR on overdrafts up to £3,000, depending on yo"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo",
+   "title": "Monzo Overdrafts with Monzo - Monzo Help “You can increase, decrease, or switch off your overdraft at any time in the app. * Fees and interest. Using your overd"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "title": "Monzo Getting a personal overdraft - Monzo Help “ We determine eligibility based on our own data, and information from the credit reference agencies, TransUnion"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 38.25,
+ "asked_at": "2026-11-21T13:39:37.300666+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "T1",
+ "run": 2,
+ "text": "**Yes—Monzo is a UK-authorised bank, and eligible money in its current and savings accounts is protected by the FSCS if the bank fails.**\n\nThe deposit limit is **£120,000 per person, per authorised bank**. It’s a combined limit across your eligible Monzo accounts—not £120,000 for each account. If you also have deposits with another brand that shares Monzo’s banking authorisation, those may count toward the same limit. For a joint account, each named account holder has their own limit.\n\nThe FSCS generally aims to pay eligible deposit compensation within **seven days** of a bank failure. Some qualifying temporary high balances—such as certain proceeds from selling a home—can receive extra protection for a limited time.\n\nA couple of important distinctions:\n\n- **Investments aren’t bank deposits:** FSCS protection for investment services works differently, and it doesn’t cover investment losses from market movements.\n- **FSCS protection doesn’t prevent fraud or account-access problems:** Keep your phone and login details secure, and contact Monzo promptly if you spot suspicious activity.\n\nSo, if your Monzo balance is within the deposit limit and it’s held in an eligible bank account, it should be protected if Monzo goes bust.",
+ "citations": [
+  {
+   "url": "https://register.fca.org.uk/s/firm?id=001b000002syvKiAAI",
+   "title": "MONZO BANK LIMITED"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/banks-building-societies-credit-unions/deposit-limit/",
+   "title": "Deposit protection limit | FSCS"
+  },
+  {
+   "url": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf",
+   "title": "Final Notice 2025: Monzo Bank Limited"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/deposit-protection-banks/",
+   "title": "Deposit protection Q&As - banks & building societies"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://www.fscs.org.uk/globalassets/badge-assets-2025/leaflet/fscs_protected-website-leaflet---feb-2026.pdf",
+   "title": "How FSCS protects your money"
+  },
+  {
+   "url": "https://monzo.com/legal/investments/key-features/version-2-5",
+   "title": "Key Features Document"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/industry-toolkit/",
+   "title": "Deposit protection limit campaign - industry toolkit"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "title": "Monzo Help - Deposit protection (FSCS)"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "title": "What we cover | Check your money is protected | FSCS"
+  },
+  {
+   "url": "https://www.fscs.org.uk/?lang=en",
+   "title": "Financial Services Compensation Scheme | FSCS"
+  },
+  {
+   "url": "https://www.fscs.org.uk/media/press/2025/nov/fscs-welcomes-higher-deposit-protection-limit-of-120000--giving-people-confidence-their-money-is-protected/",
+   "title": "FSCS welcomes higher deposit protection limit of £120,000 ..."
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "Is Monzo safe? How we help protect your money"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/authorisations/financial-services-compensation-scheme%C2%A0",
+   "title": "Financial Services Compensation Scheme - Bank of England"
+  },
+  {
+   "url": "https://www.fscs.org.uk/check/check-your-money-is-protected/",
+   "title": "Bank & savings protection checker"
+  }
+ ],
+ "search_queries": [
+  "Monzo FSCS protection deposits UK 2026",
+  "FSCS deposit protection limit £120,000 2026 UK",
+  "Monzo bank authorised Prudential Regulation Authority FCA"
+ ],
+ "latency_s": 5.33,
+ "asked_at": "2026-11-21T17:43:18.908485+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

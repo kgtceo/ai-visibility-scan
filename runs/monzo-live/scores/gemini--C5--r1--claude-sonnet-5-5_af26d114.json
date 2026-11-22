@@ -1,0 +1,117 @@
+{
+ "engine": "gemini",
+ "question_id": "C5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo (Clear Winner): Monzo’s app is best-in-class."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide (Clear Winner): ... Nationwide is the obvious choice."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has no physical branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers branches."
+   },
+   {
+    "text": "Cash deposits must be done at PayPoint stores, costing £1 per deposit, with limits of £300 per transaction and £1,000 every 180 days on standard accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Deposit terms are not covered by the facts."
+   },
+   {
+    "text": "Paid tiers (Extra, Perks, Max) cost £3 to £17/month.",
+    "verdict": "contradicted",
+    "fact_id": "F8",
+    "note": "Max is from £19 a month, so the range tops out at £17, which is wrong. Extra at £3 is correct."
+   },
+   {
+    "text": "The standard free account pays 0% interest on your main balance, though you can open instant-access savings pots powered by partner banks.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F9 gives a 2.80% Instant Access Savings rate but does not cover the main balance interest or partner banks."
+   },
+   {
+    "text": "Monzo passes on the Mastercard wholesale exchange rate with 0% foreign transaction fees on debit card spending worldwide.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Fee-free international ATM withdrawal allowance of £200 every 30 days on the free tier.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo's app has instant push notifications, automated budgeting categories, bill-splitting and Pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App features are not covered by the facts."
+   },
+   {
+    "text": "Paid tiers offer credit score tracking, higher cash deposit limits, and packaged travel/phone insurance.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plan features are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

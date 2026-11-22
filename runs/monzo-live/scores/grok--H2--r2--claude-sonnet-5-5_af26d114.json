@@ -1,0 +1,267 @@
+{
+ "engine": "grok",
+ "question_id": "H2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/features/travel",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/travel"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "domain": "insighthq.uk",
+   "source_type": "other",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/travelling/understanding-fees"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/monzo/",
+   "domain": "currencyexpert.com",
+   "source_type": "other",
+   "title": "https://www.currencyexpert.com/reviews/monzo/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/debit-cards/monzo-debit-card",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/debit-cards/monzo-debit-card"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/"
+  },
+  {
+   "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm"
+  },
+  {
+   "url": "https://www.monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://transferfees.io/monzo-international-transfer-fee-calculator/",
+   "domain": "transferfees.io",
+   "source_type": "other",
+   "title": "https://transferfees.io/monzo-international-transfer-fee-calculator/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-fees"
+  },
+  {
+   "url": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad",
+   "domain": "eboots.co.uk",
+   "source_type": "other",
+   "title": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad"
+  },
+  {
+   "url": "https://www.bitdegree.org/money-transfer/monzo-review",
+   "domain": "bitdegree.org",
+   "source_type": "other",
+   "title": "https://www.bitdegree.org/money-transfer/monzo-review"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-monzo-card/us-using-your-monzo-card-outside-the-us",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-monzo-card/us-using-your-monzo-card-outside-the-us"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-card-abroad"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-abroad/most-asked-travel-questions"
+  },
+  {
+   "url": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/reasons-travel-is-better-with-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/travelling/reasons-travel-is-better-with-monzo"
+  },
+  {
+   "url": "https://www.ibusinesstalk.co.uk/can-you-use-monzo-abroad/",
+   "domain": "ibusinesstalk.co.uk",
+   "source_type": "other",
+   "title": "https://www.ibusinesstalk.co.uk/can-you-use-monzo-abroad/"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "No Monzo fee on card spending abroad; cash withdrawals are fee-free only up to plan- and location-based limits, then 3%."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does not charge a foreign transaction fee on debit card payments in other currencies.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "It passes on Mastercard's exchange rate with no markup.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Anything over the allowance is charged at 3%.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Free account, not main bank: £400 fee-free every 30 days in UK & EEA, then 3%; £200 outside the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Free account, main bank: unlimited fee-free in UK & EEA, £200 outside the EEA every 30 days.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo Plus: unlimited fee-free UK & EEA, £400 outside the EEA; Premium, Perks & Max: unlimited UK & EEA, £600 outside the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only the free plan allowances."
+   },
+   {
+    "text": "Main bank status on a free account if at least £500 paid in over a rolling 35-day period with an active Direct Debit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Allowances run on a rolling 30-day basis and are shared across personal and joint accounts.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "30-day period matches, joint account sharing not covered."
+   },
+   {
+    "text": "Paid plans such as Extra are generally treated more like main-bank customers for UK/EEA withdrawals.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Daily ATM withdrawal limit (often £400) is separate from fee-free allowances.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "You can see your remaining allowance in the app under Fees and allowances.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

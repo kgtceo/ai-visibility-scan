@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "T2",
+ "run": 2,
+ "text": "**Yes, Monzo is a real, fully licensed bank in the UK.**\n\nWhile it operates entirely through an app and doesn't have physical high-street branches, it holds the exact same legal and regulatory status as traditional banks like Barclays, HSBC, or NatWest.\n\nKey points to know about Monzo:\n\n* **Fully Regulated:** Monzo Bank Ltd is authorised by the **Prudential Regulation Authority (PRA)** and regulated by both the **Financial Conduct Authority (FCA)** and the PRA. It was granted a full UK banking licence in April 2017.\n* **FSCS Protection:** Because it is a licensed UK bank, eligible deposits held with Monzo are protected by the **Financial Services Compensation Scheme (FSCS)** up to **£85,000** per person.\n* **Standard Bank Features:** Monzo provides standard UK current accounts with sort codes, account numbers, direct debits, overdrafts, personal loans, and savings options.\n* **Cash & Cheque Handling:** Even without branches, you can pay in cash via PayPoint locations across the UK and deposit cheques digitally through the app (or post them in).\n\n*(Note: People sometimes confuse it with apps like Revolut, which operated for years strictly as an electronic money institution in the UK, but Monzo has been a bona fide bank for years.)*",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 9.24,
+ "asked_at": "2026-11-21T17:59:17.694680+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

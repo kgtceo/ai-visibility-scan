@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C1",
+ "run": 2,
+ "text": "**I’d choose Starling as your main UK account.** If you want one place for your salary, bills and everyday spending, it has the fewest practical gaps. There’s no monthly fee; you can pay in cheques through the app, deposit cash at the Post Office (£1,000 per calendar year free, then 0.7% on the excess), and apply for an arranged overdraft. Starling also charges no fee for card spending or ATM withdrawals abroad, so occasional holidays aren’t, by themselves, a reason to pick Revolut. ([starlingbank.com](https://www.starlingbank.com/current-account/?utm_source=openai))\n\n**I’d choose Chase instead if you’re cashless and will earn the cashback without changing your habits.** It pays 2% on eligible UK spending such as groceries, eating out, transport and fuel, capped at £20 a month. To qualify for the following month, you need at least £1,000 in Chase saver accounts **every day** of the qualifying month and at least 15 card payments or Direct Debits that month. At £500 of eligible spending, that’s £10 back. The trade-off: Chase doesn’t accept cash or cheque deposits, offer an overdraft, or let you send international bank payments. ([chase.co.uk](https://www.chase.co.uk/gb/en/support/cashback-general-faq/?utm_source=openai))\n\n**I’d choose Revolut if you regularly hold, exchange or send money in different currencies.** That’s its clearest advantage over Starling, though exchange and transfer fees depend on your plan and usage. Before moving your salary, check which entity holds your account: eligible deposits with **Revolut Bank UK Ltd** have FSCS protection up to £120,000 per person, while a **Revolut Ltd** e-money balance is safeguarded instead. Revolut also no longer accepts cash deposits. ([revolut.com](https://www.revolut.com/blog/post/best-online-bank-accounts-in-the-uk/?utm_source=openai))\n\n**Bottom line:** If neither Chase’s cashback nor Revolut’s currency features is a clear draw for you, go with **Starling**.",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/current-account/?utm_source=openai",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/?utm_source=openai",
+   "title": "I need help with cashback | Chase UK"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/best-online-bank-accounts-in-the-uk/?utm_source=openai",
+   "title": "Best Online Bank Accounts in the UK | Revolut United Kingdom"
+  }
+ ],
+ "search_queries": [
+  "site:revolut.com UK bank migration November 2026 UK current account FSCS cash deposits CASS UK Revolut",
+  "site:revolut.com UK personal migration which entity profile bottom UK bank account currency hold exchange Standard fees current account switch service"
+ ],
+ "latency_s": 17.13,
+ "asked_at": "2026-11-21T16:56:41.407116+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

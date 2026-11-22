@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T3",
+ "run": 2,
+ "text": "The most common complaint about Monzo is that it freezes or closes accounts with little warning or explanation.\n\n**Main complaints**\n\n- **Frozen or closed accounts.** A private Facebook group, \"Monzo stole our money\", was mostly made up of customers complaining that their accounts were frozen without warning. The BBC's Watchdog programme highlighted the account closure problem. Monzo has denied having a problem. It said it hadn't changed how it monitors activity.\n- **Vague reasons.** One customer was told \"we reserve the right to close an account at any time\". Others say they were told the bank couldn't explain why the account was frozen or when it would be unfrozen.\n- **Trouble getting money back.** Some users claim they had to wait to get their money back, or never received it at all. Recent reviews include similar stories, such as one from a customer who says over £5,000 was frozen and they couldn't get it back.\n- **Slow or unhelpful customer service.** One reviewer said the team that closed their account wasn't customer-facing, and they waited four days for a manager to call.\n- **Low-value transactions triggering freezes.** One solicitor argued that Monzo's compliance procedures appeared not to have kept pace with its growth in customers.\n\n**Why it happens, according to Monzo**\nMonzo says freezes come from fraud and financial-crime checks. In one Financial Ombudsman case, its system flagged a payment as risky, so the account was temporarily frozen while it investigated. It explained that fraudsters sometimes ask customers to lie about why they're making payments, so it probes further. In that case, though, Monzo admitted it got things wrong with how long the account stayed frozen. It offered £50 for the delay.\n\n**Other issues**\n- In 2021 the CMA found that 143,437 former customers should have received a transaction history when their account closed but didn't. Monzo says it fixed this.\n- From memory, and not from these search results, the FCA also fined Monzo in 2025 over weaknesses in its financial-crime controls. Check that against a current source.\n\n**Context**\nComplaints tend to come from the minority of people whose accounts are affected. Monzo has millions of customers, and many are happy with it. Still, a frozen account can be serious if it holds your main income.\n\nIf you use Monzo, it's sensible to keep a backup account elsewhere and not rely on it as your only bank. If you're affected, you can complain to Monzo. If you're unhappy with its response, or it hasn't replied within 8 weeks, you can take the complaint to the Financial Ombudsman Service.",
+ "citations": [
+  {
+   "url": "https://www.fintechfutures.com/bankingtech/monzo-bank-accused-of-freezing-accounts-for-no-apparent-reason-",
+   "title": "Monzo bank accused of “freezing accounts for no apparent reason”"
+  },
+  {
+   "url": "https://www.vice.com/en/article/monzo-freezing-closing-accounts-complaints/",
+   "title": "Monzo Users Say Their Accounts Are Being Frozen without Warning"
+  },
+  {
+   "url": "https://jp.trustpilot.com/users/659851f78482530011b9bd2c",
+   "title": "jp.trustpilot.com"
+  },
+  {
+   "url": "https://www.reviews.io/company-reviews/store/monzo",
+   "title": "Monzo Reviews - Read 240 Genuine Customer Reviews"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3431449.pdf",
+   "title": "Decision Reference DRN-3431449"
+  },
+  {
+   "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/995344/Public_letter_to_Monzo_2021_.pdf",
+   "title": "Public letter to Monzo 2021"
+  }
+ ],
+ "search_queries": [
+  "Monzo complaints customers account closed frozen"
+ ],
+ "latency_s": 11.23,
+ "asked_at": "2026-11-21T16:50:53.848084+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

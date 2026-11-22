@@ -1,0 +1,387 @@
+{
+ "engine": "grok",
+ "question_id": "S1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://switchbonus.co.uk/switches",
+   "domain": "switchbonus.co.uk",
+   "source_type": "other",
+   "title": "https://switchbonus.co.uk/switches"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/joint-account-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/joint-accounts/joint-account-switch"
+  },
+  {
+   "url": "https://legalclarity.org/how-to-cancel-monzo-close-your-account-in-the-app/",
+   "domain": "legalclarity.org",
+   "source_type": "other",
+   "title": "https://legalclarity.org/how-to-cancel-monzo-close-your-account-in-the-app/"
+  },
+  {
+   "url": "https://community.monzo.com/t/in-app-account-switching/78025",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/in-app-account-switching/78025"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/account-switching",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/legal/account-switching"
+  },
+  {
+   "url": "https://bankinggeek.com/en/how-to-switch-bank-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/how-to-switch-bank-account/"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/switch"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=tRUN7c8wMRk",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "https://www.youtube.com/watch?v=tRUN7c8wMRk"
+  },
+  {
+   "url": "https://stablecoininsider.org/tsb-alternatives/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/tsb-alternatives/"
+  },
+  {
+   "url": "https://www.moneyhq.uk/data/bank-switching-offers",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "https://www.moneyhq.uk/data/bank-switching-offers"
+  },
+  {
+   "url": "https://www.zopa.com/blog/article/the-current-account-switch-service-explained",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "https://www.zopa.com/blog/article/the-current-account-switch-service-explained"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-switch-in",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-switch-in"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account"
+  },
+  {
+   "url": "https://community.monzo.com/t/account-switch-feedback/43877",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/account-switch-feedback/43877"
+  },
+  {
+   "url": "https://community.monzo.com/t/transferring-direct-debits-to-monzo/142995",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/transferring-direct-debits-to-monzo/142995"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account-switch-offers/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account-switch-offers/"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/switching-to-monzo/cass-what"
+  },
+  {
+   "url": "https://community.monzo.com/t/switching-back-to-monzo-after-partial-switch-out-direct-debits/156410",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/switching-back-to-monzo-after-partial-switch-out-direct-debits/156410"
+  },
+  {
+   "url": "https://moneyguide.org.uk/banking/bank-switching-bonuses/",
+   "domain": "moneyguide.org.uk",
+   "source_type": "other",
+   "title": "https://moneyguide.org.uk/banking/bank-switching-bonuses/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/choosing-a-current-account"
+  },
+  {
+   "url": "https://www.beswitchready.co.uk/blog-how-to-switch-banks-and-keep-your-direct-debits",
+   "domain": "beswitchready.co.uk",
+   "source_type": "other",
+   "title": "https://www.beswitchready.co.uk/blog-how-to-switch-banks-and-keep-your-direct-debits"
+  },
+  {
+   "url": "https://www.zopa.com/blog/article/what-happens-to-your-direct-debits-when-you-switch-current-accounts",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "https://www.zopa.com/blog/article/what-happens-to-your-direct-debits-when-you-switch-current-accounts"
+  },
+  {
+   "url": "https://www.zopa.com/blog/article/how-to-switch-current-account",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "https://www.zopa.com/blog/article/how-to-switch-current-account"
+  },
+  {
+   "url": "https://moneycandor.com/banking/how-to-switch-banks/",
+   "domain": "moneycandor.com",
+   "source_type": "other",
+   "title": "https://moneycandor.com/banking/how-to-switch-banks/"
+  },
+  {
+   "url": "https://www.monzo.com/help/account-and-profile/account-number2",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/help/account-and-profile/account-number2"
+  },
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/business-banking/business-switch"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-switch-out",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-switch-out"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/09/04/move-your-salary-to-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2018/09/04/move-your-salary-to-monzo"
+  },
+  {
+   "url": "https://swiftmoney.com/guides/switching-banks.php",
+   "domain": "swiftmoney.com",
+   "source_type": "other",
+   "title": "https://swiftmoney.com/guides/switching-banks.php"
+  },
+  {
+   "url": "https://community.monzo.com/t/switching-to-monzo-direct-debits/174520",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/switching-to-monzo-direct-debits/174520"
+  },
+  {
+   "url": "https://community.monzo.com/t/moving-one-direct-debit-to-my-monzo-account/170787",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/moving-one-direct-debit-to-my-monzo-account/170787"
+  },
+  {
+   "url": "https://cambridgecurrencies.com/monzo-sort-code-and-account/",
+   "domain": "cambridgecurrencies.com",
+   "source_type": "other",
+   "title": "https://cambridgecurrencies.com/monzo-sort-code-and-account/"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/direct-debit-set-up",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-getting-started/direct-debit-set-up"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/switching-bank-cass-subscriptions-left-behind",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/news/switching-bank-cass-subscriptions-left-behind"
+  },
+  {
+   "url": "https://monzo.com/features/payments",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/payments"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-mobile/changing-your-mobile-plan",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-mobile/changing-your-mobile-plan"
+  },
+  {
+   "url": "https://www.moneyhq.uk/bank-switching",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "https://www.moneyhq.uk/bank-switching"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what"
+  },
+  {
+   "url": "https://monzo.com/features/switch/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/switch/"
+  },
+  {
+   "url": "https://www.probusinessblog.co.uk/monzo-sort-code/",
+   "domain": "probusinessblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.probusinessblog.co.uk/monzo-sort-code/"
+  },
+  {
+   "url": "https://community.monzo.com/t/switch-from-monzo-but-keep-joint-account-open/125159",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/switch-from-monzo-but-keep-joint-account-open/125159"
+  },
+  {
+   "url": "https://community.monzo.com/t/switching-banks/122231",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/switching-banks/122231"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/04/25/switch-to-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2018/04/25/switch-to-monzo"
+  },
+  {
+   "url": "https://easydebit.co.uk/guides/how-to-set-up-a-direct-debit-for-a-bank-switch.html",
+   "domain": "easydebit.co.uk",
+   "source_type": "other",
+   "title": "https://easydebit.co.uk/guides/how-to-set-up-a-direct-debit-for-a-bank-switch.html"
+  },
+  {
+   "url": "https://monzo.com/mobile",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/mobile"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=YQVzrXKBtiw",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "https://www.youtube.com/watch?v=YQVzrXKBtiw"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Use the UK Current Account Switch Service (CASS) from the Monzo app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The switch service is free and covered by the Current Account Switch Guarantee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching costs or the guarantee."
+   },
+   {
+    "text": "A full switch moves your Direct Debits and standing orders, then closes the old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching process."
+   },
+   {
+    "text": "Choose a switch date at least 7 working days ahead.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switch timing."
+   },
+   {
+    "text": "Monzo does not offer a partial switch that moves the Direct Debits and leaves the old account open.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers partial switching."
+   },
+   {
+    "text": "Overdrafts are not transferred automatically.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft transfers."
+   },
+   {
+    "text": "Joint accounts can only switch to another joint account, and both account holders must agree.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint accounts."
+   },
+   {
+    "text": "Monzo's site says to tap Home, then the three dots on your account, then Switch to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers app navigation."
+   },
+   {
+    "text": "You can cancel the switch up to seven working days before the switch date by speaking to Monzo in the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cancellation."
+   }
+  ]
+ },
+ "judge_error": null
+}

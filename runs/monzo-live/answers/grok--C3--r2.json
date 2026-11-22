@@ -1,0 +1,309 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "C3",
+ "run": 2,
+ "text": "**Monzo is usually the simpler and more predictable choice for most UK trips to Europe. Revolut can be better if you travel often, spend heavily, or want to hold euros.**\n\nEurope (especially the eurozone) is very card-friendly, so fees on spending matter more than cash for most people. Both beat high-street banks, which often charge 2–3% plus ATM fees.\n\n### Card spending abroad\n| | **Monzo (free)** | **Revolut Standard (free)** |\n|---|---|---|\n| Fee on card payments | None | None within limits |\n| Rate | Mastercard rate (no markup) | Revolut rate (close to mid-market on weekdays) |\n| Weekend surcharge | None | 1% (roughly Friday evening–Sunday evening) |\n| Monthly FX limit | None | £1,000 fee-free on weekdays, then 1% |\n\nMonzo has no caps or weekend gotchas. Revolut’s rate can be excellent on weekdays within the allowance, but the weekend markup and £1,000 fair-usage limit catch people out on longer or higher-spend trips. You can reduce this by exchanging pounds to euros in the app on a weekday and spending from a euro balance.\n\n### ATM withdrawals in Europe (EEA)\nThe EEA covers EU countries plus Iceland, Liechtenstein and Norway.\n\n- **Monzo**: Unlimited fee-free if it is your main account (typically £500+ paid in plus an active Direct Debit in a rolling period, or certain benefits/student loan). Otherwise £400 fee-free every rolling 30 days, then 3%.\n- **Revolut Standard**: Free up to £200 or 5 withdrawals per month (whichever comes first), then 2% (minimum £1). Weekend markup can also apply to the conversion unless you pre-exchanged.\n\nLocal ATM operators can still charge their own fee on either card—use fee-free machines where possible.\n\n### Other practical differences\n- **Holding currency**: Revolut lets you hold euros (and many other currencies) and spend from that balance. Monzo converts everything to pounds.\n- **Protection**: Both are UK banks. Eligible deposits are FSCS-protected up to £120,000. Revolut completed its full UK banking licence in 2026 and is migrating customers in stages—check in the app whether your account is already with Revolut Bank UK Ltd.\n- **Everyday UK use**: Monzo is stronger as a main current account (pots, salary sorter, overdraft, budgeting). Revolut is stronger as a multi-currency travel tool.\n- **Paid plans**: Revolut Premium/Metal remove the FX limit and weekend fee and add higher ATM allowances plus extras (insurance, lounge access on higher tiers). Monzo’s paid plans mainly raise non-EEA cash limits and add perks/insurance. For pure Europe trips on free plans, the paid upgrade is less necessary with Monzo.\n\n### Which to pick\n- **Occasional trips, mostly card, some cash, want zero surprises** → **Monzo**. Especially strong if you can meet the “main account” criteria for unlimited free EEA cash withdrawals.\n- **Frequent travel, higher monthly spend, or you like holding euros and timing exchanges** → **Revolut** (use the free plan carefully, or a paid plan if the limits would cost you more than the subscription).\n- **Many people use both**: Monzo (or Starling) as the everyday UK account and a free Revolut as a travel wallet.\n\n**Always decline dynamic currency conversion** (the option to pay in pounds at the terminal or ATM). Choose euros/local currency for the better rate.\n\nFees and allowances change, so double-check the current figures in each app or on their fee pages before you travel. For a pure “no thinking required” Europe card, Monzo is the safer default for most UK residents.",
+ "citations": [
+  {
+   "url": "https://freenance.io/comparisons/revolut-vs-monzo-comparison/",
+   "title": "https://freenance.io/comparisons/revolut-vs-monzo-comparison/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/revolut/",
+   "title": "https://pocketwise.co.uk/banking/revolut/"
+  },
+  {
+   "url": "https://crypto-economy.com/exchanges/revolut/",
+   "title": "https://crypto-economy.com/exchanges/revolut/"
+  },
+  {
+   "url": "https://toxigon.com/revolut-vs-monzo-2024-comparison",
+   "title": "https://toxigon.com/revolut-vs-monzo-2024-comparison"
+  },
+  {
+   "url": "https://www.dreambigtravelfarblog.com/blog/monzo-vs-revolut/",
+   "title": "https://www.dreambigtravelfarblog.com/blog/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://bankverse.ch/is-revolut-safe/",
+   "title": "https://bankverse.ch/is-revolut-safe/"
+  },
+  {
+   "url": "https://www.neobanksemea.com/guides/starling-bank-explained",
+   "title": "https://www.neobanksemea.com/guides/starling-bank-explained"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "title": "https://generationmoney.co.uk/monzo-vs-starling/"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "title": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/"
+  },
+  {
+   "url": "https://banksmobile.net/revolut-vs-monzo/",
+   "title": "https://banksmobile.net/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/revolut-vs-monzo/",
+   "title": "https://www.forbes.com/uk/advisor/banking/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-card-abroad",
+   "title": "https://monzo.com/ie/help/using-monzo/help-card-abroad"
+  },
+  {
+   "url": "https://tryabel.com/best-bank-account-for-travelling-uk/",
+   "title": "https://tryabel.com/best-bank-account-for-travelling-uk/"
+  },
+  {
+   "url": "https://wise.com/gb/blog/is-revolut-safe",
+   "title": "https://wise.com/gb/blog/is-revolut-safe"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://help.revolut.com/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/",
+   "title": "https://help.revolut.com/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/savings-apps/revolut-savings",
+   "title": "https://bankcreditratings.co.uk/savings-apps/revolut-savings"
+  },
+  {
+   "url": "https://www.revolut.com/legal/standard-fees/",
+   "title": "https://www.revolut.com/legal/standard-fees/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "title": "https://www.referralplug.co.uk/blog/monzo-vs-starling"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/how-we-protect-your-funds/",
+   "title": "https://www.revolut.com/blog/post/how-we-protect-your-funds/"
+  },
+  {
+   "url": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/",
+   "title": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/"
+  },
+  {
+   "url": "https://generationmoney.co.uk/revolut-vs-monzo/",
+   "title": "https://generationmoney.co.uk/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/revolut/",
+   "title": "https://www.currencyexpert.com/reviews/revolut/"
+  },
+  {
+   "url": "https://www.thetraveler.org/monzo-travel-review-after-comparing-top-banking-apps/",
+   "title": "https://www.thetraveler.org/monzo-travel-review-after-comparing-top-banking-apps/"
+  },
+  {
+   "url": "https://www.telegraph.co.uk/money/banking/current-accounts/monzo-vs-revolut-comparison/",
+   "title": "https://www.telegraph.co.uk/money/banking/current-accounts/monzo-vs-revolut-comparison/"
+  },
+  {
+   "url": "https://cdn.revolut.com/terms_and_conditions/pdf/fee_information_document_66433c66_1.2.0_1721059987_en.pdf",
+   "title": "https://cdn.revolut.com/terms_and_conditions/pdf/fee_information_document_66433c66_1.2.0_1721059987_en.pdf"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/revolut-vs-monzo/",
+   "title": "https://www.forbes.com/advisor/uk/banking/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.flightdelayclaim.com/blog/monzo-vs-revolut-which-is-the-best-credit-card-to-use-abroad-115",
+   "title": "https://www.flightdelayclaim.com/blog/monzo-vs-revolut-which-is-the-best-credit-card-to-use-abroad-115"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/revolut-vs-monzo/",
+   "title": "https://www.businessexpert.co.uk/business-banking/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/",
+   "title": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/monzo/",
+   "title": "https://www.currencyexpert.com/reviews/monzo/"
+  },
+  {
+   "url": "https://www.currencybrokers.uk/blog/best-uk-banks-international-transfers",
+   "title": "https://www.currencybrokers.uk/blog/best-uk-banks-international-transfers"
+  },
+  {
+   "url": "https://blog.usro.net/2025/06/revolut-vs-monzo-best-for-travel-abroad/",
+   "title": "https://blog.usro.net/2025/06/revolut-vs-monzo-best-for-travel-abroad/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/"
+  },
+  {
+   "url": "https://www.revolut.com/legal/fee-information-document/",
+   "title": "https://www.revolut.com/legal/fee-information-document/"
+  },
+  {
+   "url": "https://kkinvesting.io/en/posts/revolut-review/",
+   "title": "https://kkinvesting.io/en/posts/revolut-review/"
+  },
+  {
+   "url": "https://www.revolut.com/our-pricing-plans",
+   "title": "https://www.revolut.com/our-pricing-plans"
+  },
+  {
+   "url": "https://wise.com/us/blog/revolut-foreign-transaction-fee",
+   "title": "https://wise.com/us/blog/revolut-foreign-transaction-fee"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/revolut/revolut-fees-uk/",
+   "title": "https://pocketwise.co.uk/banking/revolut/revolut-fees-uk/"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-vs-starling/",
+   "title": "https://www.lilachbullock.com/monzo-vs-starling/"
+  },
+  {
+   "url": "https://bestexchangerates.com/reviews/revolut-uk-plans-subscriptions",
+   "title": "https://bestexchangerates.com/reviews/revolut-uk-plans-subscriptions"
+  },
+  {
+   "url": "https://cleverpound.com/revolut-review/",
+   "title": "https://cleverpound.com/revolut-review/"
+  },
+  {
+   "url": "https://www.poundsterlinglive.com/best-exchange-rates/providers/revolut",
+   "title": "https://www.poundsterlinglive.com/best-exchange-rates/providers/revolut"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/revolut-vs-monzo-which-is-best",
+   "title": "https://moneytothemasses.com/banking/revolut-vs-monzo-which-is-best"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/bank/revolut-ltd",
+   "title": "https://bankcreditratings.co.uk/bank/revolut-ltd"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling",
+   "title": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling"
+  },
+  {
+   "url": "https://feeswizard.com/review/revolut/",
+   "title": "https://feeswizard.com/review/revolut/"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/how-to-use-revolut-abroad",
+   "title": "https://www.revolut.com/blog/post/how-to-use-revolut-abroad"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/fee-information",
+   "title": "https://monzo.com/en-es/legal/fee-information"
+  },
+  {
+   "url": "https://icomparefx.com/compare/revolut-vs-monzo/",
+   "title": "https://icomparefx.com/compare/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank",
+   "title": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/using-revolut-abroad/",
+   "title": "https://www.revolut.com/blog/post/using-revolut-abroad/"
+  },
+  {
+   "url": "https://delphina.money/compare/revolut-plans",
+   "title": "https://delphina.money/compare/revolut-plans"
+  },
+  {
+   "url": "https://transferfees.io/monzo-international-transfer-fee-calculator/",
+   "title": "https://transferfees.io/monzo-international-transfer-fee-calculator/"
+  },
+  {
+   "url": "https://www.monzo.com/legal/fee-information",
+   "title": "https://www.monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank",
+   "title": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank"
+  },
+  {
+   "url": "https://bankinggeek.com/en/revolut-vs-monzo/",
+   "title": "https://bankinggeek.com/en/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo",
+   "title": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo"
+  },
+  {
+   "url": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2",
+   "title": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2"
+  },
+  {
+   "url": "https://rates.fm/banks/monzo-vs-revolut/",
+   "title": "https://rates.fm/banks/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/",
+   "title": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/"
+  },
+  {
+   "url": "https://www.thetripverdict.com/monzo-vs-starling-europe-fees",
+   "title": "https://www.thetripverdict.com/monzo-vs-starling-europe-fees"
+  },
+  {
+   "url": "https://www.neobanksemea.com/guides/is-revolut-safe",
+   "title": "https://www.neobanksemea.com/guides/is-revolut-safe"
+  },
+  {
+   "url": "https://www.revolut.com/legal/personal-current-account-fees/",
+   "title": "https://www.revolut.com/legal/personal-current-account-fees/"
+  },
+  {
+   "url": "https://www.xflowpay.com/blog/revolut-vs-monzo",
+   "title": "https://www.xflowpay.com/blog/revolut-vs-monzo"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "https://monzo.com/help/travelling/understanding-fees"
+  },
+  {
+   "url": "https://www.thetraveler.org/starling-bank-vs-monzo-best-choice-for-uk-travelers/",
+   "title": "https://www.thetraveler.org/starling-bank-vs-monzo-best-choice-for-uk-travelers/"
+  },
+  {
+   "url": "https://quidsy.com/offers/revolut",
+   "title": "https://quidsy.com/offers/revolut"
+  },
+  {
+   "url": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-revolut-which-is-best-for-you",
+   "title": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-revolut-which-is-best-for-you"
+  },
+  {
+   "url": "https://bankinggeek.com/en/revolut-fees/",
+   "title": "https://bankinggeek.com/en/revolut-fees/"
+  }
+ ],
+ "search_queries": [
+  "Monzo vs Revolut for travel Europe UK 2024",
+  "Monzo foreign exchange fees ATM withdrawals Europe",
+  "Revolut fees spending abroad Europe UK 2024",
+  "Monzo vs Revolut which is better for travelling",
+  "Revolut UK Standard plan fees currency exchange ATM 2024 OR 2025 OR 2026",
+  "Revolut weekend exchange fee UK Standard plan current",
+  "Monzo vs Revolut exchange rate Mastercard vs interbank",
+  "Revolut UK banking licence FSCS protection status 2026",
+  "Starling bank vs Monzo for Europe travel fees"
+ ],
+ "latency_s": 47.12,
+ "asked_at": "2026-11-21T17:19:04.877318+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

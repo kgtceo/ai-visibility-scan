@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D5",
+ "run": 2,
+ "text": "**I’d pick Nationwide FlexOne with the Visa debit card** as your first account at 16. There’s no monthly fee, you can have wages paid straight in, and you can use the app for everyday banking or visit a branch if you need help. When you apply, choose the **debit card**, not the cash card: the debit card works in shops and online as well as at cash machines. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexone))\n\nWhat makes it stand out is the savings option. The current account pays **2% AER variable on up to £1,000**. Once it’s open, you can also open a separate **FlexOne Saver**, which pays **5% AER variable on up to £5,000**, with unlimited withdrawals. I’d keep spending money in the current account and move anything you’re saving into the Saver. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexone))\n\n**I’d choose Monzo for 16–17s instead** if you’d rather do everything on your phone and like the idea of automatically rounding up purchases into savings. You can apply with photo ID, your own UK mobile number and an email address. Its instant-access Savings Pot pays **2.80% AER variable**, so Nationwide is my pick if saving is the priority. ([monzo.com](https://monzo.com/current-account/16-17))",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+   "title": "Children’s Bank Account | FlexOne Account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17",
+   "title": "A Bank Account for 16-17 Year Olds | Teen Bank Accounts"
+  }
+ ],
+ "search_queries": [
+  "UK Nationwide FlexOne 16 17 interest rate November 2026 open online debit card Monzo 16 17 UK official Starling teen 16 bank account"
+ ],
+ "latency_s": 16.81,
+ "asked_at": "2026-11-21T16:54:26.689403+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,132 @@
+{
+ "engine": "claude",
+ "question_id": "D3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://bankadvisor.co.uk/guides/best-banks-for-budgeting",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "Banks for Budgeting Tools UK 2026"
+  },
+  {
+   "url": "https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "The best budgeting apps in the UK for 2026 - Money To The Masses"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  },
+  {
+   "url": "https://www.finder.com/uk/savings-accounts/best-savings-accounts",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best savings accounts in the UK 2026"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best savings account and bond rates 2026 - Which.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the best all-rounder for budgeting and savings pots."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "If you want the simplest free option, choose Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut (best if you travel)"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "If you want cashback with savings, choose Chase."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The cheapest plan is Monzo Extra, which costs £3 per month and adds budgeting features.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra at £3 a month matches."
+   },
+   {
+    "text": "Monzo Savings Pots reach up to 5% AER on the Extra plans (per a comparison site).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give 2.80% AER on the free plan; paid plan rates not covered."
+   },
+   {
+    "text": "Monzo is especially strong for Pots, spending categories, Salary Sorter, bill splitting and real-time insights.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Feature claims not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,123 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/joint-account?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Joint Bank Account | Simplify Shared Costs with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - How to open a Monzo Joint Account"
+  },
+  {
+   "url": "https://monzo.com/legal/files/joint-account/monzo-joint-account-terms-and-conditions-1.3.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Joint Account Terms & Conditions  "
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. You can apply for a Monzo joint current account if you’re both 18 or over"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can apply for a Monzo joint current account if you’re both 18 or over, live in the UK full-time and each have your own Monzo personal current account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Eligibility criteria not covered by the facts."
+   },
+   {
+    "text": "You don’t need to be married or even a couple – you can open one with a friend or flatmate.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "In the Monzo app, go to Home → + → Open a joint account and invite the other person.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You each get a debit card for the joint account and can see its balance and transactions in your own app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Either of you can spend or withdraw money without the other’s approval.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "If the account goes overdrawn, Monzo can ask either of you to repay the full amount, not just half.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Opening the account links your credit files; scores stay separate but lenders may consider the other person’s credit history.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

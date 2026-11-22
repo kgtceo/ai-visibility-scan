@@ -1,0 +1,243 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D8",
+ "run": 1,
+ "text": "**Monzo currently ranks highest overall in the main official survey, with Starling, first direct, and Nationwide close behind.** “Best” depends on whether you prioritise app experience, phone support, or branches.\n\n### Latest official rankings (CMA/Ipsos survey)\nThe Competition and Markets Authority requires large banks to publish independent Ipsos survey results on how likely their own customers are to recommend them. The most recent results (published August 2026, covering July 2025–June 2026; ~17,000 personal current account customers in Great Britain) show:\n\n| Rank | Bank                  | Would recommend (overall) |\n|------|-----------------------|---------------------------|\n| 1    | Monzo                | 79%                       |\n| 2    | Starling Bank        | 76%                       |\n| 3=   | first direct         | 75%                       |\n| 3=   | Nationwide           | 75%                       |\n| 5    | Chase                | 68%                       |\n\nTraditional high-street banks generally score lower (e.g. Royal Bank of Scotland at the bottom on 48%). Monzo also led online/mobile banking (85%) and overdraft services. Nationwide led branch services (83%). Digital banks (Monzo, Starling, Chase, first direct) have no branch network. \n\nThese figures are the share of customers saying they were “extremely” or “very” likely to recommend the provider.\n\n### Other surveys\n- **Which?** customer scores (recent data) have often put **Starling** at or near the top (around 86%), with Monzo and first direct close behind (around 85% and 84%). first direct frequently receives the highest marks specifically for overall customer service and telephone banking (full five stars in recent assessments), reflecting its long-standing focus on 24/7 human phone support.\n- Other reviews and satisfaction awards also regularly highlight the digital banks and first direct for service quality, while noting that experiences vary.\n\n### What this means in practice\n- **App-first / overall recommendation**: Monzo or Starling tend to lead.\n- **Speaking to a person on the phone**: first direct has the strongest long-term reputation.\n- **Branches**: Nationwide usually ranks highest among those that have them.\n\nCustomer service rankings shift slightly between surveys and over time, and they don’t cover fees, interest rates, features, or eligibility. Switching via the Current Account Switch Service is generally straightforward if you want to try a higher-rated provider. Check the latest published CMA results on bank websites or the Ipsos site, as they update every six months.",
+ "citations": [
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/first-direct/",
+   "title": "https://www.consumer-rights.org/complaints/finance/first-direct/"
+  },
+  {
+   "url": "https://www.thetimes.com/money/family-finances/article/first-direct-bank-online-internet-customer-service-best-hsbc-99fstrtqq",
+   "title": "https://www.thetimes.com/money/family-finances/article/first-direct-bank-online-internet-customer-service-best-hsbc-99fstrtqq"
+  },
+  {
+   "url": "https://www.bankofscotland.co.uk/bankaccounts/help/cma-results.html",
+   "title": "https://www.bankofscotland.co.uk/bankaccounts/help/cma-results.html"
+  },
+  {
+   "url": "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/nationwide-still-uks-top-financial-brand-as-monzo-climbs-the-ranks/597702",
+   "title": "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/nationwide-still-uks-top-financial-brand-as-monzo-climbs-the-ranks/597702"
+  },
+  {
+   "url": "https://www.dailymail.co.uk/money/saving/article-13746493/Britains-favourite-banks-revealed-Monzo-Starling-Chase-leading-pack.html",
+   "title": "https://www.dailymail.co.uk/money/saving/article-13746493/Britains-favourite-banks-revealed-Monzo-Starling-Chase-leading-pack.html"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality",
+   "title": "https://www.ipsos.com/en-uk/personal-banking-service-quality"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/uk-cx-report-opportunity-delight",
+   "title": "https://www.ipsos.com/en-uk/uk-cx-report-opportunity-delight"
+  },
+  {
+   "url": "https://www.statista.com/statistics/386749/uk-leading-banks-by-customer-satisfaction/?__sso_cookie_checker=failed",
+   "title": "https://www.statista.com/statistics/386749/uk-leading-banks-by-customer-satisfaction/?__sso_cookie_checker=failed"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "title": "https://www.finder.com/uk/current-accounts/best-banks"
+  },
+  {
+   "url": "https://news.sky.com/story/best-and-worst-uk-banks-for-customer-satisfaction-revealed-by-poll-13197499",
+   "title": "https://news.sky.com/story/best-and-worst-uk-banks-for-customer-satisfaction-revealed-by-poll-13197499"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/service-quality-metrics/",
+   "title": "https://www.barclays.co.uk/current-accounts/service-quality-metrics/"
+  },
+  {
+   "url": "https://www.retailbankerinternational.com/news/chase-beats-monzo-starling-to-rank-first-for-banking-satisfaction/",
+   "title": "https://www.retailbankerinternational.com/news/chase-beats-monzo-starling-to-rank-first-for-banking-satisfaction/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC"
+  },
+  {
+   "url": "https://www.fairerfinance.com/ratings/customer-experience/bank-accounts",
+   "title": "https://www.fairerfinance.com/ratings/customer-experience/bank-accounts"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-account-service-quality/monzo/",
+   "title": "https://www.banks.guide/compare/current-account-service-quality/monzo/"
+  },
+  {
+   "url": "https://www.mortgagestrategy.co.uk/news/mortgage-lenders-remain-least-trusted-part-of-banking-sector/",
+   "title": "https://www.mortgagestrategy.co.uk/news/mortgage-lenders-remain-least-trusted-part-of-banking-sector/"
+  },
+  {
+   "url": "https://www.pulsapi.com/services/monzo-bank",
+   "title": "https://www.pulsapi.com/services/monzo-bank"
+  },
+  {
+   "url": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2",
+   "title": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/",
+   "title": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/best-and-worst-banks-revealed",
+   "title": "https://moneyweek.com/personal-finance/best-and-worst-banks-revealed"
+  },
+  {
+   "url": "https://ifamagazine.com/mortgage-borrowers-remain/",
+   "title": "https://ifamagazine.com/mortgage-borrowers-remain/"
+  },
+  {
+   "url": "https://www.openbanking.org.uk/news/the-cma-publishes-open-data-service-quality-indicators/",
+   "title": "https://www.openbanking.org.uk/news/the-cma-publishes-open-data-service-quality-indicators/"
+  },
+  {
+   "url": "https://www.gov.uk/government/news/latest-banking-satisfaction-survey-results-revealed-by-cma",
+   "title": "https://www.gov.uk/government/news/latest-banking-satisfaction-survey-results-revealed-by-cma"
+  },
+  {
+   "url": "https://www.bankrate.com/banking/best-banks-customer-experience/",
+   "title": "https://www.bankrate.com/banking/best-banks-customer-experience/"
+  },
+  {
+   "url": "https://datawrapper.dwcdn.net/kmatI/4/",
+   "title": "https://datawrapper.dwcdn.net/kmatI/4/"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-account-service-quality/first-direct/",
+   "title": "https://www.banks.guide/compare/current-account-service-quality/first-direct/"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/29909683/best-and-worst-banks-customer-satisfaction/",
+   "title": "https://www.thesun.co.uk/money/29909683/best-and-worst-banks-customer-satisfaction/"
+  },
+  {
+   "url": "https://www.cityam.com/challenger-banks-pip-high-street-rivals-again-as-monzo-top-league-table/",
+   "title": "https://www.cityam.com/challenger-banks-pip-high-street-rivals-again-as-monzo-top-league-table/"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026",
+   "title": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026"
+  },
+  {
+   "url": "https://community.monzo.com/t/ipsos-personal-banking-service-quality-august-2026/196395",
+   "title": "https://community.monzo.com/t/ipsos-personal-banking-service-quality-august-2026/196395"
+  },
+  {
+   "url": "https://bankinggeek.com/en/first-direct-review/",
+   "title": "https://bankinggeek.com/en/first-direct-review/"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "title": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS"
+  },
+  {
+   "url": "https://www.firstdirect.com/service-quality/survey-results/",
+   "title": "https://www.firstdirect.com/service-quality/survey-results/"
+  },
+  {
+   "url": "https://fintech-intel.com/banktech/monzo-named-uks-most-recommended-bank-by-customers-for-12th-time/",
+   "title": "https://fintech-intel.com/banktech/monzo-named-uks-most-recommended-bank-by-customers-for-12th-time/"
+  },
+  {
+   "url": "https://www.finder.com/banking/best-banks-for-customer-service",
+   "title": "https://www.finder.com/banking/best-banks-for-customer-service"
+  },
+  {
+   "url": "https://www.independent.co.uk/news/business/nationwide-customer-service-john-lewis-specsavers-b3007633.html",
+   "title": "https://www.independent.co.uk/news/business/nationwide-customer-service-john-lewis-specsavers-b3007633.html"
+  },
+  {
+   "url": "https://www.finder.com/uk/finderawards/current-accounts-customer-satisfaction-awards",
+   "title": "https://www.finder.com/uk/finderawards/current-accounts-customer-satisfaction-awards"
+  },
+  {
+   "url": "https://www.moneyexpert.com/news/first-direct-named-uks-favourite-current-account-provider/",
+   "title": "https://www.moneyexpert.com/news/first-direct-named-uks-favourite-current-account-provider/"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/should-you-choose-a-bank-or-a-building-society-for-your-next-mortgage-aSnro7s6NVi0",
+   "title": "https://www.which.co.uk/news/article/should-you-choose-a-bank-or-a-building-society-for-your-next-mortgage-aSnro7s6NVi0"
+  },
+  {
+   "url": "https://hotpaths.com/chase-uk-tops-latest-banking-customer-satisfaction-survey/",
+   "title": "https://hotpaths.com/chase-uk-tops-latest-banking-customer-satisfaction-survey/"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/33419848/best-worst-banks-revealed-winners-not-lloyds-natwest/",
+   "title": "https://www.thesun.co.uk/money/33419848/best-worst-banks-revealed-winners-not-lloyds-natwest/"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/finder-banking-customer-satisfaction-awards-2024",
+   "title": "https://www.finder.com/uk/banking/finder-banking-customer-satisfaction-awards-2024"
+  },
+  {
+   "url": "https://www.gov.uk/government/news/how-does-your-bank-rank-cma-releases-satisfaction-survey-ratings",
+   "title": "https://www.gov.uk/government/news/how-does-your-bank-rank-cma-releases-satisfaction-survey-ratings"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "title": "https://bankcreditratings.co.uk/service-quality"
+  },
+  {
+   "url": "https://www.ft.com/content/bd7d806c-5028-4a93-a04b-81c72af6bb95",
+   "title": "https://www.ft.com/content/bd7d806c-5028-4a93-a04b-81c72af6bb95"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/which-names-best-current-accounts-36272293",
+   "title": "https://www.mirror.co.uk/money/which-names-best-current-accounts-36272293"
+  },
+  {
+   "url": "https://www.which.co.uk/money/mortgages-and-property/mortgages/mortgage-lender-reviews/first-direct-mortgage-review-and-rates-aigue4b4YAzM",
+   "title": "https://www.which.co.uk/money/mortgages-and-property/mortgages/mortgage-lender-reviews/first-direct-mortgage-review-and-rates-aigue4b4YAzM"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/bank-accounts/best-and-worst-uk-banks-for-online-banking",
+   "title": "https://moneyweek.com/personal-finance/bank-accounts/best-and-worst-uk-banks-for-online-banking"
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/26460/first-direct-tops-customer-service-charts---which",
+   "title": "https://www.finextra.com/newsarticle/26460/first-direct-tops-customer-service-charts---which"
+  },
+  {
+   "url": "https://www.forrester.com/report/forresters-uk-banking-total-experience-score-rankings-2025/RES186830",
+   "title": "https://www.forrester.com/report/forresters-uk-banking-total-experience-score-rankings-2025/RES186830"
+  },
+  {
+   "url": "https://www.themarketreporter.co.uk/companies/news/1054173/lloyds-loses-out-to-digital-banks-in-customer-service-poll-1054173.html",
+   "title": "https://www.themarketreporter.co.uk/companies/news/1054173/lloyds-loses-out-to-digital-banks-in-customer-service-poll-1054173.html"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma",
+   "title": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/best-worst-banks-revealed-out-34698260",
+   "title": "https://www.mirror.co.uk/money/best-worst-banks-revealed-out-34698260"
+  },
+  {
+   "url": "https://danskebank.co.uk/personal/independent-service-quality-survey-results-personal",
+   "title": "https://danskebank.co.uk/personal/independent-service-quality-survey-results-personal"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk",
+   "title": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk"
+  }
+ ],
+ "search_queries": [
+  "best UK bank customer service 2024",
+  "UK bank customer satisfaction rankings Which? Trustpilot",
+  "best UK banks for customer service 2025",
+  "CMA banking satisfaction survey latest results Monzo",
+  "Ipsos personal banking service quality survey latest rankings UK",
+  "Which? best banks customer service 2025 OR 2026 Starling First Direct",
+  "first direct customer service rating UK Which? OR CMA"
+ ],
+ "latency_s": 39.98,
+ "asked_at": "2026-11-21T17:13:57.971217+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,185 @@
+{
+ "engine": "perplexity",
+ "question_id": "D5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/child-savings-tax-free/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Top children's savings accounts: 5% interest"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Bank Accounts | MoneySavingExpert"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids' and Teen Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/cards-for-under-18s/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Top prepaid cards and bank accounts for under 18s - MSE"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts/revolve_account.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids Bank Account | Royal Bank of Scotland - RBS"
+  },
+  {
+   "url": "https://www.rbs.co.uk/content/natwest_com/en_uk/personal/current-accounts/childrens-accounts.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids' and Teen Accounts | NatWest - Royal Bank of Scotland"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/best-bank-cards-for-teenagers-uk-b2997287.html",
+   "domain": "independent.co.uk",
+   "source_type": "news",
+   "title": "The top banking and cash cards for your 16- and 17-year-old kids"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html?LB=4202249893",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-for-grandchildren/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "How to save for your grandchildren: the best accounts & need-to-knows"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/tools-and-guides/current-accounts/what-is-a-current-account/",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Our Guide to Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Banking & Savings"
+  },
+  {
+   "url": "https://www.halifax.co.uk/bankaccounts/accounts-no-longer-on-sale.html",
+   "domain": "halifax.co.uk",
+   "source_type": "other",
+   "title": "Accounts no longer on sale"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexOne current account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo 16–17 — another app-based, fee-free option with spending features and age-restricted payments blocked."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best all-round pick: Starling’s 16–17 account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Nationwide FlexOne — a good choice if you want access to branches as well as an app."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo 16–17 is an app-based, fee-free option",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover the free plan's withdrawal limits and paid plans but not the 16–17 account being fee-free."
+   },
+   {
+    "text": "Monzo 16–17 has spending features",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers teen account features."
+   },
+   {
+    "text": "Monzo 16–17 blocks age-restricted payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers age-restricted payment blocking."
+   }
+  ]
+ },
+ "judge_error": null
+}

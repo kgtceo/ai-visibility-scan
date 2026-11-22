@@ -1,0 +1,117 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5776674.pdf?utm_source=openai",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5776674"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/paypoint-fee-why?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Why there's a fee for cash deposits"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "A recurring frustration with Monzo in the UK is not knowing what’s happening when access to your money is interrupted."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has no branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers branches."
+   },
+   {
+    "text": "You can pay cash in at a Post Office or PayPoint, but deposits can carry a fee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not covered by the facts."
+   },
+   {
+    "text": "82% of Monzo customers surveyed in Great Britain said they'd recommend it.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give an NPS of 76 but not this survey figure."
+   },
+   {
+    "text": "Monzo ranked first for overall service quality in the independent Ipsos survey published in August 2026.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ipsos survey ranking is not covered by the facts."
+   },
+   {
+    "text": "Financial Ombudsman cases describe customers losing access to accounts without a clear explanation, including one couple whose account closure disrupted a mortgage payment.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ombudsman cases are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

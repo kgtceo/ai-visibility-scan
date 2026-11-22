@@ -1,0 +1,128 @@
+{
+ "engine": "gemini",
+ "question_id": "T1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is safe, and your money is protected if the bank were to go bust."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £85,000 per person.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says the FSCS limit is £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Joint accounts are protected up to £170,000 (£85,000 per account holder).",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Based on the £85,000 limit; the fact gives £120,000 per person."
+   },
+   {
+    "text": "Monzo Bank Limited is authorised by the PRA and regulated by both the FCA and the PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo is a fully licensed UK bank (not just an e-money institution or payment app).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with Monzo being a UK bank authorised by the PRA."
+   },
+   {
+    "text": "Monzo offers savings pots provided by partner banks such as OakNorth, Shawbrook, Charter Savings Bank.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo savings pots with partner banks are covered by the FSCS up to £85,000.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "The fact gives a £120,000 FSCS limit."
+   },
+   {
+    "text": "Balances over £85,000 in Monzo deposits are not guaranteed by the FSCS.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "The fact gives a £120,000 limit."
+   },
+   {
+    "text": "Monzo is signed up to the UK's mandatory APP scam reimbursement rules.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can instantly freeze/unfreeze your card, block gambling transactions, and set up biometrics in the Monzo app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Investments holds money in funds (e.g. via BlackRock).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "The FSCS typically pays back within a few days if Monzo fails.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

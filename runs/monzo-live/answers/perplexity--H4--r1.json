@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H4",
+ "run": 1,
+ "text": "Yes. Monzo offers **arranged overdrafts** to eligible UK personal-account customers, subject to approval.\n\n- **Interest:** a variable **19%, 29% or 39% EAR** (the rate depends on your circumstances; many customers are offered 39%).\n- **No separate fee** for having or using the personal overdraft. Interest is calculated daily on the amount you owe and is usually charged on the **1st of each month**.\n- **Example:** Monzo says borrowing **£1,200 for 30 days at 39%** would cost **£32.94**.\n\nYou can check your eligibility and personal rate in the Monzo app. An overdraft is short-term borrowing, so paying it back sooner reduces the interest.",
+ "citations": [
+  {
+   "url": "https://monzo.com/business-banking/features/sole-trader-overdrafts",
+   "title": "Sole Trader Overdrafts | Apply for ..."
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "title": "Monzo Help - Overdraft Interest"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-do-overdrafts-work",
+   "title": "monzo.com · help · budgeting-overdrafts-savingsMonzo Help - Overdrafts with Monzo"
+  },
+  {
+   "url": "https://monzo.com/information-about-current-account-services",
+   "title": "Information about our Personal Current Account Services"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "title": "Apply for an Arranged Overdraft with Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/overdraft-information/",
+   "title": "About overdrafts at Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "title": "Getting a personal overdraft"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.3.pdf",
+   "title": "These terms and using your Monzo account"
+  },
+  {
+   "url": "https://monzo-prod.com/help/overdrafts-loans/eligibility-limited-company-overdrafts",
+   "title": "Monzo Help - Getting a limited company overdraft"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-1-2",
+   "title": "Terms and Conditions - Monzo"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible",
+   "title": "Monzo Help - Check if you're eligible for a personal overdraft"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/does-overdraft-affect-credit-score",
+   "title": "Does having an overdraft affect your credit score? - Monzo USA"
+  },
+  {
+   "url": "https://monzo.com/overdraft-calculator",
+   "title": "Monzo overdraft calculator"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web",
+   "title": "Monzo Help - Managing your overdraft"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK overdraft interest rates fees official",
+  "Monzo overdraft representative example UK 2026",
+  "Monzo overdraft help eligibility arranged overdraft official"
+ ],
+ "latency_s": 4.02,
+ "asked_at": "2026-11-21T17:42:54.518473+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,171 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "T2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://apps.apple.com/es/app/monzo-bank-mobile-banking/id1052238659?l=en-GB",
+   "domain": "apps.apple.com",
+   "source_type": "other",
+   "title": "apps.apple"
+  },
+  {
+   "url": "https://www.techadvisor.com/article/729009/what-is-monzo-bank.html",
+   "domain": "techadvisor.com",
+   "source_type": "other",
+   "title": "techadvisor"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/06/14/monzo-most-asked-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Your 31 most-asked questions about Monzo, answered We took to Google to find out what Monzo-related questions you’ve been searching the internet for."
+  },
+  {
+   "url": "https://monzo.com/about",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo About Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo We Are Now a Bank Today, we're excited to announce that we have hit another milestone on our journey. We are now officially a bank in the UK…"
+  },
+  {
+   "url": "https://apps.apple.com/us/app/monzo-bank-mobile-banking/id1052238659?l=ko&platform=ipad",
+   "domain": "apps.apple.com",
+   "source_type": "other",
+   "title": "apps.apple ‎Monzo Bank - Mobile Banking 앱 - App Store - Apple App Store에서 Monzo Bank Limited의 Monzo Bank - Mobile Banking 앱을 다운로드하십시오. 스크린샷, 평가 및 리뷰, 사용자 팁 및 Mo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes — Monzo is a real UK bank, not merely an app or a prepaid-card service."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is authorised by the Prudential Regulation Authority (PRA) and regulated by the PRA and Financial Conduct Authority (FCA)",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Its Financial Services Register number is 730427",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the register number."
+   },
+   {
+    "text": "It is Monzo Bank Limited",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Legal entity name not in facts."
+   },
+   {
+    "text": "You can receive your salary, set up Direct Debits and standing orders, make bank transfers, and use a sort code and account number",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "It provides current accounts, savings products, business banking, and other banking services",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts mention a savings rate but not the full product range."
+   },
+   {
+    "text": "Monzo has no traditional high-street branches and is app-first",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You also get a physical debit card for shops, online purchases, and cash machines",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "The FSCS limit is £120,000, not the more commonly cited £85,000 figure, because it reflects the current UK scheme limit",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "The £120,000 figure matches the fact."
+   }
+  ]
+ },
+ "judge_error": null
+}

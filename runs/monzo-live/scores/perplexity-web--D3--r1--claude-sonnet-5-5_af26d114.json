@@ -1,0 +1,160 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "D3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.rbs.co.uk/life-moments/managing-your-money/pots.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "rbs.co"
+  },
+  {
+   "url": "https://moneyzine.com/uk/banking/best-savings-accounts/",
+   "domain": "moneyzine.com",
+   "source_type": "other",
+   "title": "moneyzine"
+  },
+  {
+   "url": "https://www.boringmoney.co.uk/learn/articles/budgeting-apps-reviewed/",
+   "domain": "boringmoney.co.uk",
+   "source_type": "other",
+   "title": "boringmoney.co Which budgeting and saving app is best? Monzo vs Plum vs Emma vs Chip ... Monzo, Plum, Chip, Emma and Snoop compared for 2026: fees, interest rat"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-online-banks/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes Best Online Digital Bank Accounts UK 2026 Best Online Bank Accounts In The UK For 2026"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/best-current-accounts/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "becleverwithyourcash Best Current Accounts 2026 - Be Clever With Your Cash These are the top picks of the best current accounts in 2025, whether you're looking"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best savings accounts 2026 - Which? Discover the top instant-access, fixed and regular savings rates on the market, plus the best banks and building so"
+  },
+  {
+   "url": "https://wise.com/gb/blog/banks-in-the-uk",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise Best banks in the UK for 2026: Top picks and how to choose Compare the best UK banks for 2026, including HSBC, Barclays, Lloyds, NatWest, Nationwide and mo"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? Discover the best banks and current accounts as rated both by UK customers and our experts. We help yo"
+  },
+  {
+   "url": "https://www.chroniclelive.co.uk/news/cost-of-living/nationwide-lloyds-barclays-savings-account-34611499",
+   "domain": "chroniclelive.co.uk",
+   "source_type": "other",
+   "title": "chroniclelive.co Lloyds, Barclays, Nationwide and other account users given update You can access similar services with a variety of bank account providers"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "finder Best banks and bank accounts UK: A list of top banks 2026 Discover and compare the best banks and bank accounts in the UK. Open the best current account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the strongest overall pick for a UK current account that combines budgeting with saving pots"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling is the best close alternative if you prefer a simpler, free account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "for Monzo and Starling, eligible deposits are protected up to £85,000 per person, per banking licence",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Some premium features require a paid tier",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list paid plans but do not say which features require them."
+   },
+   {
+    "text": "easy-access pot rates can change",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give a variable savings rate but do not address changes to pot rates."
+   },
+   {
+    "text": "Monzo offers spending categories, real-time notifications, round-ups, pot locking, and pots that can be used to pay bills",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by the facts."
+   },
+   {
+    "text": "Monzo also provides access to partner savings products",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

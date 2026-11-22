@@ -1,0 +1,147 @@
+{
+ "engine": "claude",
+ "question_id": "T1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Is Monzo Safe? How We Help Protect Your Money and Savings"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Are My UK Savings Safe?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-reports-annual-losses-of-113-8m-are-your-current-account-and-savings-safe-a6KU47R02DKt",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Monzo reports annual losses of £113.8m: are your current account ..."
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services Compensation Scheme Information Sheet Version 2.0"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Are investment accounts protected?"
+  },
+  {
+   "url": "https://www.flagright.com/post/monzos-ps21-1m-fca-fine-a-scaling-lesson-for-uk-fintech-compliance",
+   "domain": "flagright.com",
+   "source_type": "other",
+   "title": "Monzo's £21M FCA Fine: A Scaling Lesson for UK Fintech Compliance"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is a proper UK bank, and your money is protected if it fails."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is authorised by the Prudential Regulation Authority and regulated by both the PRA and the Financial Conduct Authority.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "FSCS deposit protection covers up to £120,000 per person per banking licence.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches the £120,000 per person limit."
+   },
+   {
+    "text": "Monzo investment accounts are protected by the FSCS up to £85,000 in total.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover deposit protection only, not investments."
+   },
+   {
+    "text": "Monzo also has savings pots provided by partner banks.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Some older pages, including a few on Monzo's own site, still show the £85,000 figure.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has made losses in the past.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give the FY2026 profit."
+   },
+   {
+    "text": "The FCA fined Monzo £21.1m over its financial crime compliance systems.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

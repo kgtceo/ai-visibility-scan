@@ -1,0 +1,201 @@
+{
+ "engine": "perplexity",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information ..."
+  },
+  {
+   "url": "https://monzo.com/current-account/perks",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Perks | Our Bank Account with Benefits for £9 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Extra | The Bank Account for Budgeting for £3 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information/version-1-5",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/plus-premium-plan-price-changes",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plus and Premium: Information about our plan price ..."
+  },
+  {
+   "url": "https://monzo.com/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/basic-vs-packaged-current-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Differences Between Basic and Packaged Bank Accounts"
+  },
+  {
+   "url": "https://community.monzo.com/t/introducing-new-perks-on-monzo-perks-and-max-youtube-premium-lite-just-added/170606?page=29",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "Introducing new perks on Monzo Perks and Max 🍿🚇🚕▶️ ..."
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "Monzo Bank Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/make-monzo-more-you",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Introducing Plans | Make Monzo More You"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Are Monzo's Paid Plans Worth It? Extra, Perks, Max"
+  },
+  {
+   "url": "https://monzo.com/static/docs/premium/monzo-premium-axa-ipid.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "TRAVEL INSURANCE"
+  },
+  {
+   "url": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/",
+   "domain": "thefintechmag.com",
+   "source_type": "other",
+   "title": "Is Monzo Plus Still Worth It at £6? Keep, Switch or Cancel"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Extra can be worth £3; Perks is worth it only if you use its extras; Max can be good value"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Extra costs £3/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks costs £9/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Max costs £19/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Fact says from £19 a month."
+   },
+   {
+    "text": "Max is £228 a year, or £276 with family cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "£228 equals 12 x £19 but family pricing is not covered by the facts."
+   },
+   {
+    "text": "Perks includes an annual Railcard, Uber One, Greggs treats, a Vue ticket and YouTube Premium Lite",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Max plan is for ages 18–69 and has a three-month minimum term",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Max includes travel, phone and breakdown cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Perks includes a savings-rate boost",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

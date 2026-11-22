@@ -1,0 +1,51 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D6",
+ "run": 1,
+ "text": "When looking for interest from a UK current account, the best option depends on whether you mean **interest paid directly on your in-credit account balance**, or access to a **linked high-interest savings pot** exclusively for current account holders.\n\n---\n\n### 1. Best for Interest Directly on Your Current Account Balance\n\nFew banks pay strong interest on everyday current accounts, but a few stand out:\n\n*   **Nationwide FlexDirect — 5% AER (fixed for 12 months)**\n    *   **Max balance:** £1,500.\n    *   **The catch:** You must pay in at least £1,000/month. After the first 12 months, the rate drops significantly (usually to 1% or lower).\n    *   **Best for:** Maximising returns on a small buffer of everyday cash.\n*   **Kroo Current Account — ~3.25% AER (variable)**\n    *   **Max balance:** Up to £500,000.\n    *   **The catch:** None in terms of monthly minimum pay-ins or fees.\n    *   **Best for:** An un-gimmicky app-based bank where you earn decent interest on your entire everyday balance without jumping through hoops.\n*   **Santander Edge Up — 2.50%–3.00% AER (variable)**\n    *   **Max balance:** Up to £25,000.\n    *   **The catch:** Carries a **£5/month fee**. To make it worthwhile, you need a substantial balance and/or earn enough from the linked 1% cashback on council tax, utility bills, and groceries.\n\n---\n\n### 2. Best for Linked Savings Accounts (Highest Overall Return)\n\nIf your goal is to park actual savings, the top returns come from opening a current account to unlock the bank's **exclusive linked saver**:\n\n*   **Santander Edge Current Account → Edge Saver (7.00% AER variable)**\n    *   **Max balance:** Up to £4,000.\n    *   **How it works:** The current account costs **£3/month**. You get access to the linked easy-access *Edge Saver* paying 7% on your first £4,000 (roughly £280 interest/year before account fees), plus 1% cashback on monthly household bills and spending.\n*   **First Direct 1st Account → Regular Saver (7.00% AER fixed)**\n    *   **Max deposit:** Up to £300 per month for 12 months.\n    *   **How it works:** Fee-free current account. You lock in a fixed 7% return on monthly deposits over the course of a year.\n*   **NatWest / RBS Current Account → Digital Regular Saver (6.00% AER variable)**\n    *   **Max balance:** 6% applies on balances up to £5,000 (drops afterwards).\n    *   **The catch:** You can only deposit up to £150 each calendar month.\n*   **Chase UK → Boosted Saver (~3.75%–4.75% AER variable)**\n    *   **Max balance:** £1,000,000.\n    *   **How it works:** Chase offers linked easy-access pots with introductory booster rates for new customers, no monthly fees, and 1% cashback on debit card spending for the first year.\n\n---\n\n### Summary: Which should you choose?\n\n*   **For up to £1,500:** Open **Nationwide FlexDirect** for 5% fixed for a year.\n*   **For up to £4,000 in instant-access savings:** Open the **Santander Edge** account (£3/mo fee) to use the 7% Edge Saver pot.\n*   **For larger balances (£10,000+):** Current accounts rarely offer the best terms. You will usually do better by leaving just spending money in your current account and placing the rest into a dedicated **easy-access savings account** (such as Cahoot or Chip) or a **Cash ISA** to protect your interest from tax.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU7-3tHHUr7IGTM6wiF0v_sCpdaoTkk1_LPO5bevqaoQ7rQkYFWhV5eROoTTVYyGvKrHIiPaHX9Hvc6FpsKuEsNkaf0PegK4DGjiI1lTEYjnDW2D4d3pEDhUCP_kvnHzxl_mTHbjqbQFMPX6v042vCGpZTPz3vvOf5RSWbRqj-Sp8H86w=",
+   "title": "comparethemarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfBfoBYdtGGLdxrhB6jjJ1pNCKQH2ui4sH6MRPO_Ky50eRPJWN8cgi070mQ_45jYhT5aPWFJrpo9v30Gg9bZOdEFXzpe_MPKSjBDjEw0b4a0NHW5DqOKPBgYEzDDZslHvjXpkq7Uld0E6b25DwL81zlDKiSz6f4WGJg2JcUc=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfYOsfxT_ekHA1AqOTHAGHsuKqwobllITAqzfVuVtRsBFzcTz9D9z50C38ifhv7GSpReZJAO-XbuQ9Hf9hEDhnC1KAsA8Ozx4zqcD1snZVDVG4ZzMGAdh5eXwS0cfO9_odU8eFIAT2zPgiaE4nxICzdc=",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFuJwCN3QJGDzpT2ZbczRnUKudzpi8t_fFIhYcVUb8mkNHk3uixRDII_fr5yteh0_c3e1De1GCTG1ddFRaLMCXk0g28nRMssVTwa-Ze71OYeKoPTjMHQ9U38hFKYt9-qgqhuU25YJPrZVOa2l7NEYrhV1FlJUkkA=",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlwre3GV3mucIJleQfQ9JttZeW5ZbXDOAiIj-penK-Czvy5g1jG7m5u_HS-WNf5e4VkM_4Sus6NVqY_nmSEz80Q3yN4YWN3r7PhfwuCynWBzZQcyQZTCYKJ1hb_bxfgC7SJbSn0U0xiPpc2yDxFXQc6VAvMN_3RiHeTkiWvnywHdwsezcHVw==",
+   "title": "moneyfactscompare.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExGo8ZfGpXwVjDSL6HUSPuKKhpeMLzzu0lc6PTl1dlmgw2ymHAKkFy_rI5iqPRNDX8QbJFO59WynqALOUdL5eUGKCTkSHOW0E5qFENDuSFOBnWuD85Nk0_0fE=",
+   "title": "natwest.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7XfQ0DZqNQOKZiEin1VG4hV9KTbvEtOhduGYXUoSQ16pT_smqZMiCGdL1ZKs_qx91WNFEwhofNUmpd1ipU6T8pBnhz7ZsmSK6SApc0e-KmOc2KaTJvtfeRi8pQCkkV7JJyuqn-Z8RTQOxYUFHR4mBFfBieeJx5CcLWmA=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXyYF9MMk5Y5BrzXK5UINzoxV83LNrR98c7Ax6uqrDMscY1wR5azsGa3Lx91XWXdp3a5LW4epvz72NOXpbqPkSryBOdOUFSNZZTqcynwjU7qMcj-ooyF-jkyH7KvFPGjKLEKKlFg6FxZSOqtWyTg2zaNvDWP5HZ60lxjMprTD5384dOA==",
+   "title": "moneysavingexpert.com"
+  }
+ ],
+ "search_queries": [
+  "best interest rate UK current account",
+  "best UK bank accounts with interest on balance moneysavingexpert"
+ ],
+ "latency_s": 24.78,
+ "asked_at": "2026-11-21T17:48:49.984225+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

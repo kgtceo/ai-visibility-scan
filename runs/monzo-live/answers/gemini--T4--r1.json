@@ -1,0 +1,43 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "T4",
+ "run": 1,
+ "text": "**Yes, Monzo does freeze accounts.** Like all UK-regulated banks, Monzo is legally required under Financial Conduct Authority (FCA) rules and UK anti-money laundering (AML) laws to freeze accounts if their automated monitoring flags suspicious activity, unexpected high-value transactions, or potential fraud.\n\n---\n\n### Why Monzo Won’t Give You Details\nIf your account has been frozen, customer support will often give vague answers such as *\"Your account is currently under review.\"* \n\nThis is not necessarily Monzo being difficult; under the **UK Proceeds of Crime Act 2002**, banks are legally prohibited from \"tipping off\" an account holder if an account is subject to a financial crime check or a report to the National Crime Agency (NCA). Staff can face criminal liability if they disclose specific details before the review concludes.\n\n---\n\n### What to Do If Your Monzo Account Is Frozen\n\n#### 1. Check the Monzo App for Document Requests\n* Open the Monzo app and check your home feed or the **Help** section.\n* If the freeze is due to routine source-of-funds or identity verification, there may be an in-app prompt asking you to upload evidence (e.g., payslips, a contract, a tax return, an invoice, or a bank statement showing where transferred funds came from).\n* **Provide clear, unedited documents immediately.** This is usually the fastest way to get the freeze lifted.\n\n#### 2. Contact Monzo Support\nIf there is no in-app request, reach out through official channels:\n* **In-app Chat:** Go to **Help** → search **\"Contact us\"** → tap the chat prompt.\n* **Phone:** Call **`0800 802 1281`** (UK freephone) or **`+44 20 3872 0620`** (if calling from abroad).\n* **Email:** [help@monzo.com](mailto:help@monzo.com).\n\n*Tip:* Keep messages polite, concise, and factual. Ask directly: *\"Is there any documentation or proof of funds I can provide to assist your review?\"*\n\n#### 3. Inform Them if You Are Facing Vulnerability or Hardship\nIf the freeze leaves you unable to buy essential food, medicine, or pay critical utility bills, explicitly tell Monzo in writing:\n> *\"I am currently experiencing severe financial hardship and am left without access to essential living funds.\"*\n\nWhile banks cannot bypass certain legal freezing orders, they are required by FCA guidelines to identify and record vulnerable customers and prioritise their cases where legally permitted.\n\n#### 4. Arrange Temporary Alternatives for Your Money\n* If your salary, benefits, or direct debits are tied to Monzo, contact your employer or the Department for Work and Pensions (DWP) immediately to redirect upcoming payments to a secondary account or a trusted family member.\n* Keep note of any late payment fees or financial losses you incur due to the freeze.\n\n#### 5. Submit an Official Complaint\nIf the freeze drags on without communication (often longer than a few days) and you have not committed any financial wrongdoing:\n* Email Monzo’s formal complaints department: **[complaints@monzo.com](mailto:complaints@monzo.com)**.\n* State clearly that your account has been frozen without clear reason, outline the financial harm it is causing, and request an expedited formal investigation.\n* Monzo has up to **8 weeks** to provide a Final Response letter, but they will often address complaints much faster.\n\n#### 6. Escalate to the Financial Ombudsman Service (FOS)\nIf Monzo takes longer than 8 weeks to resolve your complaint, closes your account unfairly, or issues a Final Response you are dissatisfied with, you can escalate the matter for free to the **Financial Ombudsman Service (FOS)**:\n* **Website:** [financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk)\n* The Ombudsman has the power to order banks to unfreeze funds, compensate you for financial losses, and award damages for distress and inconvenience.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkv5Ui-XIQq7R0KtmJc7mH6G8WwFT0F0jHHwp0zhe5cecWwxfkkTw6yO4NIODxZnnPCL7gfpUQ0EQddk9xkKidsfOhVFNtuCGWkdruCKG1VAJtN6OsIFyrzS2OFhSdrFC9v5d5-u9w4Vk=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXkDrDuCZTH7fybTSDV9s5kyKosn-TcyBRj7zG7tHuaAp9CLDoqH_aVfg-gxyNUwXe6ZZfAlhSYK25FzERprOoCzK61rvPtMrmSrcrtcEVe6gVP1v3pMTJt560i12rwb9gHTKnJyeEhuGvNPY3G9ofIG0AzVnS78BUd8Qpx0vBwSR6YyoKjoZyOS6",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6jV2pva0qdoOS8ahvst0Iwqoq4zWLgWq_xnm6UMiy4Xpg6BeNOi_RRaLYXi1IvVcKG85pAO22zCVk352oLiyB2u_ypSpKAwWa1VulOgKqR02nuKGFyR7fu9DKDsxi9fdK4Vo=",
+   "title": "ycombinator.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ERapcS15s8AGBGn5MCnMp53F0Hrjefs4zwhjFdbCNcUY8DU589n2lHNU1EL6raQzeBrHtTh3A4BuPp5RUhFK3sYJVaJt8-d8qtnqFgnDwNNPA1kQf7oB535EU7YZ7ycd-Sv-N6EJPlqkp6tPzsM=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbNPVfIWNAKlt5yBvUz8o62u2xA3gzo4mjZLOysSOz8Um_xpt8NMdDxAve-kJWIpc9QFfLO7zXWqezUvt7cFFGUfftRDhHRJt_XrmQkkNie0E5RXZtVrgFOV3cZUv7O6hLqhzWaCXhxZAfJY4EG7oDLem9owDFmQ==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHthw5JgqWMCgWiYYq23iYAoRi-odEiagi6Rsywo-px_UJ7e9aduXS9oWFE673aYLme6zgWKZflCH_fKJ44SqS-wqZ6SYsq2MspHM6YwEPD-a3-NGw4ThQJDmBykB2QRbPusvL56OLBcF-ylFD9jyCQQ2CZ2lmD9Ge49Lg82g==",
+   "title": "reddit.com"
+  }
+ ],
+ "search_queries": [
+  "monzo blog \"why we block\" OR \"why we freeze\"",
+  "monzo account frozen what to do contact phone email"
+ ],
+ "latency_s": 30.82,
+ "asked_at": "2026-11-21T18:00:32.369567+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

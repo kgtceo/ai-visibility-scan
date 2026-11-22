@@ -1,0 +1,35 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C5",
+ "run": 2,
+ "text": "Choosing between **Monzo** and **Nationwide** as your primary UK current account comes down to whether you prefer a **modern, app-first budgeting tool** or a **traditional, branch-backed building society with member perks**. \n\nBoth are fully licensed UK banks/institutions, meaning both protect your money up to **£85,000 under the FSCS**.\n\nHere is how they compare across the key areas that matter for a main account:\n\n---\n\n### 1. App Experience & Budgeting\n* **Monzo (Clear Winner):** Monzo’s app is best-in-class. You get instant transaction notifications the second you tap your card, along with a “Salary Sorter” that automatically moves money into separate “Pots” on payday. You can even pay direct debits straight from specific pots so you never accidentally spend your rent/bill money. Splitting bills with friends or tracking shared flat expenses is practically effortless.\n* **Nationwide:** The Nationwide app is clean, reliable, and secure, but fundamentally traditional. Transactions can take a couple of days to show full details, and while it has basic spending summaries, it lacks the intuitive ring-fencing and automated micro-saving tools that Monzo offers.\n\n---\n\n### 2. Cash, Cheques, and Physical Branches\n* **Nationwide (Clear Winner):** Nationwide has committed to keeping its branch network open across the UK. If you regularly handle physical cash, deposit cheques, or prefer talking to a human face-to-face when a major issue arises, Nationwide is vastly superior. Cash deposits and cheque drop-offs at branches are completely free and seamless.\n* **Monzo:** Monzo has no physical branches. You can scan smaller cheques directly into the app (up to £500), but larger cheques must be posted by mail. For cash, Monzo charges a **£1 fee per deposit** via PayPoint stores or Post Office counters, and deposits are capped (typically £750 per 30 days on the free account).\n\n---\n\n### 3. Spending Abroad & Travel\n* **Monzo:** Ideal for travel. You get fee-free spending in foreign currencies at the Mastercard exchange rate without any hidden markup. You also get a fee-free ATM withdrawal allowance abroad (up to £200 every 30 days fee-free outside the EEA, and unlimited fee-free withdrawals inside the EEA).\n* **Nationwide:** If you open standard accounts like **FlexDirect** or **FlexAccount**, Nationwide charges a **2.99% non-sterling transaction fee** on debit card spending and cash withdrawals outside the UK. \n  * *Note:* Nationwide does offer fee-free spending abroad, but only if you use their paid **FlexPlus** account or certain member credit cards.\n\n---\n\n### 4. Interest, Rewards & Member Perks\n* **Nationwide:** Because it is a mutual building society (owned by members, not shareholders), Nationwide often shares profits with its current account holders. In recent years, qualifying members have received the **£100 “Nationwide Fairer Share”** bonus. They also offer exclusive member-only savings rates, a competitive **FlexDirect** introductory interest rate (often 5% on balances up to £1,500 for the first year), and their **FlexPlus** account (£13/month) remains one of the best packaged accounts available for worldwide travel, mobile, and breakdown insurance.\n* **Monzo:** The free standard account pays no interest on your main balance, though you can open variable-rate “Savings Pots” linked within the app. Monzo offers paid tiers (Monzo Perks and Max) that add features like travel insurance, phone insurance, and free Greggs treats, but they operate on a commercial subscription model rather than a mutual profit-share.\n\n---\n\n### 5. Customer Service & Reliability\n* **Nationwide:** Consistently scores very high for customer satisfaction in independent surveys (such as *Which?*). You can visit a branch or call dedicated UK call centres, which provides peace of mind if you ever need to make large transfers (e.g., buying a car or paying a house deposit).\n* **Monzo:** Support is managed almost entirely through in-app live chat. For everyday queries, it works well, but if an urgent or complex issue arises (such as an anti-fraud block on your account), reaching a specialist can sometimes take longer than picking up the phone to a traditional bank.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ym7vLX1xdcI9KynslhqrxnoKxDS9KZfNkS0rzCYrXhLNhZSG6AEYC0lUrthGwR-_DGYDxAl3hJUFMyMY7JhVLn_wxVbkp9Dp3OcV6eqYOt3FmV49I5XeDno7CSgtdm4EbmmIcX1HcRbyPzQAW9-jwudTdp4_1SAa",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQJy-D0XNG3ZCJqyawciy6hAThoI6MFMKrybf6fo4Mw0UcdrOX583EKTLLJYJ3e2SehEpaRxrmVaCLmXZ4iijZTvaH0KAfPoZqGDr0cmlJIsrb1Kr-R7vU0RiTGybJF7IVvNirUpQDL24v44hnZ62nfPnI_rFZ4s=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHMka09Gme2Ig4LUjl8lqSMgB6LngLLKiqHnzmcwtSTvcQy1As1Ep9hvI3GuhZcF--yNgscShZmXqMch8Vqu1Y9aTz07_8NL0LCpViKrQLNG2BSHI0iQ_0-L0pSciJeA-6zBlSF2QFeQ_8Ej7QlCxjLat-cEO7-nnVIJ8OjINC1caHSzMkOrGvAKvBr-ruhJhYrjdYUZexgL2muTO9tdn63t43v-zP8L5OYtQO_ULzwpiyvbnf_Otl0uSnxK3I",
+   "title": "nationwide.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz7k4Xp3QGfkbG8SaGdJOzt7QeFb9-9zhlcno3v8Ts6BBTtOcWV8jvDct1XpXxgaC29vtDopkEmO_FgW-4kusZbBWuXqvnTrhLN3PVysjuRDTLaCitcIc_2khwzycuyE2gQeXhriIbzvfnFUPsqcJ54U5-RENiNY2gif-eiGyh",
+   "title": "sendabroad.co.uk"
+  }
+ ],
+ "search_queries": [
+  "monzo cash deposit post office",
+  "nationwide flexdirect foreign transaction fee"
+ ],
+ "latency_s": 29.32,
+ "asked_at": "2026-11-21T17:55:09.767833+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

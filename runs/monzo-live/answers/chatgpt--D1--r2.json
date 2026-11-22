@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D1",
+ "run": 2,
+ "text": "**I’d pick Chase UK for everyday debit-card spending if you can comfortably keep £1,000 in a Chase saver.** Its current account has no monthly fee and pays **2% cashback** on eligible UK purchases including groceries, cafés, restaurants, takeaways, public transport and fuel. If you spend £500 a month in those categories, that’s about **£10 back**; the cap is **£20 a month**. ([static.chase.co.uk](https://static.chase.co.uk/documents/assets/gb/en/everyday-cashback-2-terms-and-conditions-1.0.0.pdf))\n\n**The catch:** To earn cashback in a given month, you must have kept at least £1,000 across your Chase saver accounts **every day of the previous calendar month** and made at least **15 Chase card or Direct Debit payments** that month. Direct Debits count towards the 15 but don’t themselves earn cashback. New customers get the rest of their joining month and the whole following month without those requirements. ([static.chase.co.uk](https://static.chase.co.uk/documents/assets/gb/en/everyday-cashback-2-terms-and-conditions-1.0.0.pdf))\n\n**If you’d rather not track those conditions, I’d choose Starling.** It has no monthly fee, and its *Bills Manager* lets you set bill money aside and pay bills from that separate balance, so you can see what’s actually left to spend. Starling also charges no fees of its own for card spending or cash withdrawals abroad. ([starlingbank.com](https://www.starlingbank.com/current-account/))",
+ "citations": [
+  {
+   "url": "https://static.chase.co.uk/documents/assets/gb/en/everyday-cashback-2-terms-and-conditions-1.0.0.pdf",
+   "title": "Cashback Terms and Conditions"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account | Starling"
+  }
+ ],
+ "search_queries": [
+  "best UK bank account everyday debit card cashback November 2026 Chase Santander Edge Trading 212 Nationwide UK current account everyday spending Monzo Starling official"
+ ],
+ "latency_s": 16.73,
+ "asked_at": "2026-11-21T16:52:31.151760+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

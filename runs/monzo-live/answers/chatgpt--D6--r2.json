@@ -1,0 +1,26 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D6",
+ "run": 2,
+ "text": "**Nationwide FlexDirect pays the highest rate I found on a UK current-account balance as of 21 November 2026: 5% AER fixed for 12 months on the first £1,500, with no monthly fee.** Anything above £1,500 earns no interest, and after the first year the rate drops to 1% AER variable. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\nTo get the 5%, you must **pay in £1,500 every month**; transfers from other Nationwide accounts and refunds don’t count. It must also be your first FlexDirect in three years in your sole name, or with the same joint account holder. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\n**If you have more than £1,500 and don’t need it all in your spending account**, consider Santander’s **Edge Saver**. It’s a separate savings account linked to the Edge current account and pays **6% AER variable on up to £4,000**, including a first-year bonus. The Edge current account costs **£3 a month (£36 a year)**, so factor that in when comparing returns. ([santander.co.uk](https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai",
+   "title": "Santander Edge saver"
+  }
+ ],
+ "search_queries": [
+  "best UK high interest current account November 2026 Nationwide Santander Edge up Kroo interest November 21 2026 current account 5% UK",
+  "site:santander.co.uk Edge saver 6% 4000 12 months £3 2026"
+ ],
+ "latency_s": 17.15,
+ "asked_at": "2026-11-21T16:54:59.197623+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

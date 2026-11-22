@@ -1,0 +1,179 @@
+{
+ "engine": "perplexity",
+ "question_id": "D8",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/news/article/should-you-choose-a-bank-or-a-building-society-for-your-next-mortgage-aSnro7s6NVi0",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Should you choose a bank or a building society for your next ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best banks and bank accounts in UK 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Which? names the current account providers worth switching ..."
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "Highest and lowest-rated banks: latest service quality survey ..."
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/46882/monzo-beats-chase-nationwide-and-starling-in-uk-customer-satisfaction---yougov",
+   "domain": "finextra.com",
+   "source_type": "other",
+   "title": "Monzo beats Chase, Nationwide, and Starling in UK customer satisfaction"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/service-quality-metrics/",
+   "domain": "barclays.co.uk",
+   "source_type": "other",
+   "title": "Independent service quality survey results"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/banking-statistics",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Banking statistics UK: Biggest banks by market share"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "Best banks for customer satisfaction named - where does yours rank?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/big-banks-fail-to-keep-up-with-rates-from-lesser-known-savings-providers-aFg7j1T7dExO",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Big banks fail to keep up with rates from lesser-known savings ..."
+  },
+  {
+   "url": "https://www.finder.com/uk/finderawards/current-accounts-customer-satisfaction-awards",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Finder Current Accounts Customer Satisfaction Awards 2026"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/moneyfactscomparecouk-awards/2025-results/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Moneyfactscompare.co.uk Awards | 2025 Results"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "Best UK banks for customer service: the CMA survey, August 2026"
+  },
+  {
+   "url": "https://www.the-independent.com/news/business/nationwide-customer-service-john-lewis-specsavers-b3007633.html",
+   "domain": "the-independent.com",
+   "source_type": "other",
+   "title": "Nationwide named UK's best brand for customer service as ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the strongest overall pick... 79% of Monzo customers said they'd recommend it—the highest result."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling followed at 76%"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "neutral",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "first direct and Nationwide tied at 75%"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "79% of Monzo customers said they'd recommend it—the highest result in the CMA-required service-quality survey (July 2025 to June 2026)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list an NPS of 76 but nothing on the CMA survey recommendation percentage."
+   },
+   {
+    "text": "Monzo is the strongest overall pick for a UK personal current account",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Evaluative claim not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

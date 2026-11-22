@@ -1,0 +1,184 @@
+{
+ "engine": "gemini",
+ "question_id": "C4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl2pG_HTBE8zsqF6qcPGPav2qhB3a5LJdlQTnDIkGL6JLaEAUs5cjsvXZw8JiM-nccZiG6L4V0N-wH5waJQMnk0MZmPm0L8Lh85cxz6Fk9BNWOl-bGazWKr8Y=",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDc4tkfgffZwH5savNo90qff9mnu8rHFEeAUHpmPnwukfsS9BvdhW5Jj0rmu5CzNzAWw8MhaoV2bDQ90fB5dY5AXrFjn2nazWEbI5x2uaqG3zpAZG7T374JRBa-2zTyA_XdJQk4hf9KQ==",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEezpTZVUpMJ-5y_OnMBkNa48sHzSnRD0Ap3Fa7CdgwvSFO5bCqApKUvWKP6YzFJFEEfd6boebPV4z9UgXaKP__U150CrNKtdskya0yctlJzlvY4Su0Y38u4Jx9jdSPAdCuySNdhFb5Vv51BiNewh5vO1aF2uyIdEs=",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx_2x2OgLYa8qOaIWWgqY2or86XnUV6UkHIUjvLV5jMNh6-fEejYCDGbahzifEsxUAnkEnZ3-n_cVOWhwb1_srnXUvSDDfcKTlZfrGnbEh3G_00_GRGMeC_zquYnSFF-NUH8_ZzcxLcS8DXBC--7NM2p0kwAJZ43i4k96MP3VbK46sHg==",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Llkef_qKp3Ke5FeRpx2M8QEcjtk6-GaGBllTmwQzgW4uoTc2VYfg2lWJSn05alohFSDNA6Flsh2HGQaeXuBQKE6pIJIKo2vJRob2aRswleXXhMxmmJRH30f_DA==",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "thefinancelowdown.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3la_hwM_hratcUiJjHraQHJm30RPOPBKPVGM5KF_E4Ykt8aSc0fE5XQUB80kQAQ2oJvshK9tSi7i9IfLO9ay3XqgdhsGI03cALSVMA95n-_WqGIJbB5ipAPN8GQwkYCHvHu11WIdMOpD6dfKDeMTPxXqdwHr68tKIji9-DZrcr9MFn1jwRZLh",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_yGMN_kbxpF7wvodY4KLqK_5CGCn511Hoy0masVWxorlPyCJSuqZltDR_Q3diiFgRej8rTHXU5WQrYda7oStgAVkATRZF2lriDi_f-xlGerSpNZo3sgSXKa_8Cvm_QvXfendoaidGVztP92UVKQYF0bb9w5rzLepkPvwEqeBHpauQDJRGB7V4z-3RDXhAg==",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "moneytothemasses.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI81A67ZH_A-rBPZjOgfN00PqaE79xpoig8iIUM-lXz9glgdDjeNsubUbJyZdrXDYzVUg82Oovu5zOggOnTWVJB-K-lHTRQv339DqNUyZAKoEwByS5Yqr1jQ==",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp_BCOF0w2bSShlMzb3_IFlZpUNq06n-Uv0CjyF6Df0GfIpBNY0EBbPa56KUJzPSXinL6kUPSj_XAiRer4fzm9Gjtr0HALqei6S1rmHxML6b9_vMLnNakfmOY=",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwZOY3ye6SZ-uuw9Gwmy_Vb4n6Iw204xydDk_KKKC541wOhBtnexrXlNMhnBo72jP_VEZrWvniu4V7sHMc-JcOws8HleeWJhgsGBPnVmSSWNUTwWrgI-RRzeY=",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-n12BT643Ba2F_hdUNlTwgYdiVKnBgDFOrSSTjsc-C6Xwt8AnvG6dNjpdHNIjnnBpt2mTLLVA9oM4H1CB3XEmVszNbt8kjX5EcMZ847LwMTChOsP1b6Gweb52PQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIo5qaKZV132IKXTHPZWy8KF5l2SocANZQ3QLw_QMVYemuxzdIqxsIqP1zcOWTqGhYXGiQWq-s1lvyB2-_ol7sW4xLiijJe7Z6CgNeXCEPmnC5ErHl-EFysJ7K9bwcRaTwubPQdm3m0ikGbE2TDsSUVAp7Kwje4pA=",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "moneysupermarket.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Keep Monzo as the primary current account for budgeting, direct debits, and bill management."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Chase UK is generally better than Monzo for both cashback and savings"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The standard Instant Access Savings pot offers a modest rate (around 2.80% – 3.45% AER) on the free account.",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Range contains the fact's 2.80% figure, so not contradicted."
+   },
+   {
+    "text": "Higher rates (approaching 3.8%–4%) are gated behind paid monthly tiers such as Monzo Perks (£7/mo) or Monzo Max.",
+    "verdict": "contradicted",
+    "fact_id": "F8",
+    "note": "Monzo Perks is £9 a month, not £7."
+   },
+   {
+    "text": "Monzo uses a merchant-specific cashback model with offers of 2%–10% at select partners like Sainsbury's, Deliveroo or Argos.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has a Savings Marketplace allowing Cash ISAs and fixed-term savings pots from third-party partner banks in the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers joint accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers in-app Cash ISAs and investment options.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's expense tracking, salary sorter, and virtual pots are significantly more advanced than Chase's.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

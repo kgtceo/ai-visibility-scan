@@ -1,0 +1,141 @@
+{
+ "engine": "gemini",
+ "question_id": "H5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvW6Hbv1PBh_HV6gVnMZf76tClvRW2E9khOr_LKl0aykY8DR1n5At7vCHA623_tCSPKeZGbfV3tUnAvIFK30zkISYloqyBo-NqnUFtzWZ8eAufvd24fOfzC0gJOGIxwIUhKpg",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcgeyvrzCxQ67WuNQBItZhnqMP-Toa3l2g3BN4xhKczIIo4K-ZPQHxvJpb-Q41LP8tVS83ZLhGOsWZNWCUxwSxeOMSCIzXZTgpC4I8Djd0PMkdZ_7t3T5Mx02IzgzGQ5ekBPUQlg==",
+   "domain": "getcino.com",
+   "source_type": "other",
+   "title": "getcino.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwf8SbUlg_VUVaD5gphLcU3w2Am-osfTBME025UN41laeXF3kumk4-n709FKQOQ3KUF8GhZYtPMUJxBud7QYUWD_69UQaVRwUu89_8HtTQqsC8WdzSv4WkFrYPCEWdMuQRCUY4WOlalYN1RD8b518jSVaK-g==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyuJ7xu6X0N-829O8i-H9G1IjzoJi_APA60euK1UAaWo6hFjIt38xEhnDXtgKDdmfYWyREuFMK3wvyl9lnnbr-B7krMxqywS9oYnWPPcDZfm0RC8FNIeLX7i5UVin1cOL84M5B3kxf1WvvLZZArhpuYq-W",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNMkPfT4MOQzHWo3pFVMnRpkNc22Kq-yM2le_U6-i8khJT_85P5y_88IHUqGWhqG6wpucEOpzRY8eYCpwmRJI2ZNOWEe0RzloaW_9XomGw5VZ96HIaR34hO93YvzJSGH--dmFdKSPgKdFeAMnIiyQjVWA6wBJ5T-c99mSHS7rSGg==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHigfBVP5rdqBqJKpx67RflP-wBI-19vZnGCmYll-DcScnMsfbPWBeCAqDqB2g6rcuihm_T6gF1DWQSfbG_cKVmoFWZnar8KOJzyS581c1foh6W30TC13TDnfuDsh3kJhiivupmdRWHTLHMV1qkA3d-eSd7jAp_uGm3prb9tr4rr7ESaVTkHjPOazsQlZegBELCSHirYsBnirckyaMQk6Kp5Q==",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can open a joint account with Monzo in the UK. It is free to open and run"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "It is free to open and run",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover paid plans and withdrawal fees but not joint account costs."
+   },
+   {
+    "text": "Money held in the joint account is protected by the FSCS up to £85,000 per person (or up to £170,000 jointly).",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Both must be at least 18 years old and a UK resident, and already have an active personal Monzo account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers eligibility."
+   },
+   {
+    "text": "Invitation link is valid for 24 hours.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Each person receives their own physical joint debit card.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "If either person requests to close the joint account, Monzo will close it for both holders.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Joint Pots, Bills Pot and Salary Sorter are available on the joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   }
+  ]
+ },
+ "judge_error": null
+}

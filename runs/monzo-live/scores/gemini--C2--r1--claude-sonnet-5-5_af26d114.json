@@ -1,0 +1,172 @@
+{
+ "engine": "gemini",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnL1Y2lGBYFeA0gBe4fDR42bKrEkMFe-vsrWU2HpDbaDwxxBVlve44-NB1fUvoVW7s4aIwErYfp6k6wlUYQ0Av3p1GK1UX_PeCgMAYpUXsjlzDYbM0rXJTAG0QL-reSB6JAF6Vl6ZlodDeHz8HTB-Y-k=",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2G7S4Aur3od0eN-DFvTmR7p41Dz90nSeqK0YJ0GLAkrr_yXrmp4Tlmp_LaVX1uKIoK78rBzTfS_zVHpc1DwczqjDmKeePOSqEi7TKLD-D581gL6uE8CwY1UbHdFW8R3LL-ohDmky2pdF3-mjaQ==",
+   "domain": "studentmoneyuk.co.uk",
+   "source_type": "other",
+   "title": "studentmoneyuk.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9w40aZhq_e1WSvf4zTYHU7XMi3MsslddiKam1KU8MUxW21Z_S69hHxe5vZHCONUs7MGiyG3oqyjd_CBMkEODtHb4Ng3tameax8ARqaNzK1G_FHxNzOeRfPoR1zjRzu-3ucrHXmRy1dxqK8OuCTN8EcCuaI5AmVumVZa7VE5ldk9oMF1X2H0sfEPJcauOdzfjyjPw2s1j05VOpnrUCng==",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENtO0gy5a1LU3eXP7ZFr05Vygb5UGF0luUc5XJtJJM0Vn0u4fwK9ORpfH8QUlDwlAxtfTraA6fRFOfnlAAHhSXatDQtTJDRzg5xfk_Kkah1wF_L6dB67YKMiPw06bSzxFOttD2k61ZCdrQpcnqZNYRsSV9kj1DHQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3t5RVJySNsl2wv9VStk8thnMhqRbM7McfR7YFopS7eFWYfvXfTbCGKcMUcSKGu63URmpQQr7KryDN4TIS1O5a6SeAcnayDwBkBmr1ppsSa_eOy4Ck-yL-xBPjXGsU4ZF5",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is superior for day-to-day budgeting and social features"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is better for travel, everyday practicality (cash/cheques), and customer service."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a full UK bank regulated by the PRA/FCA",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "FSCS protection guards your deposits up to £85,000",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo card spending abroad is free (Mastercard exchange rate)",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo overseas ATM withdrawals are free in the EEA; £200/month limit outside EEA (3% fee thereafter)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches £200 every 30 days outside EEA and 3% fee."
+   },
+   {
+    "text": "Monzo virtual cards are behind paid tiers (from £3/mo)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra plan is £3 a month; the virtual card restriction itself is not covered."
+   },
+   {
+    "text": "Monzo offers tiered paid plans (Extra, Perks, Max)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo cash deposits via PayPoint cost a £1 fee per deposit, limit £300/time",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo cheque deposits via in-app photo up to £500",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has only an emergency-only web portal",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo customer support is in-app chat with a phone line for emergencies",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo lets you claim BACS salary at 4 pm the day before it is due",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers bundled travel/phone insurance and RAC breakdown cover on paid plans",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

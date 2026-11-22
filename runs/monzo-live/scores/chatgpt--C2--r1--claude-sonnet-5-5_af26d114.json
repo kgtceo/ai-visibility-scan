@@ -1,0 +1,148 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Virtual cards: Spend directly from a Space - Starling Bank | Starling"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-split?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Split | Settle Up With Anyone | Split The Bill"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/post-office-branch-finder/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Post Office Branch Finder - Starling Bank | Starling"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "I’d pick Monzo instead if you regularly split expenses with other people or want to organise your salary"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d pick Starling as the better all-round free UK current account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo’s virtual cards start with Extra at £3/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra is £3 a month; virtual card availability is not covered, but the price matches."
+   },
+   {
+    "text": "Monzo Free charges 3% after £200 in any 30 days outside the UK and European Economic Area.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 allowance outside the EEA and 3% fee; the answer says 'UK and EEA' which is a minor variation."
+   },
+   {
+    "text": "Neither bank charges for overseas card purchases.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad."
+   },
+   {
+    "text": "Monzo’s Salary Sorter can automatically divide your pay into Pots for rent, bills and spending.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Salary Sorter."
+   },
+   {
+    "text": "Monzo Split tracks ongoing shared costs, and friends can join by link without opening a Monzo account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Monzo Split."
+   },
+   {
+    "text": "Monzo charges £1 per deposit at a Post Office or PayPoint.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not in the facts."
+   },
+   {
+    "text": "If your employer pays by Bacs, Monzo lets you access your salary one business day early.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Early salary access is not in the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

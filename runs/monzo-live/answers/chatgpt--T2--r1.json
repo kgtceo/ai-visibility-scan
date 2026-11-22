@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T2",
+ "run": 1,
+ "text": "**Yes — Monzo is a real, licensed UK bank.** If you open a Monzo current account, your account is with Monzo Bank Limited itself. The app is how you manage it. The Bank of England lists Monzo as a regulated bank. ([bankofengland.co.uk](https://www.bankofengland.co.uk/prudential-regulation/authorisations/which-firms-does-the-pra-regulate?utm_source=openai))\n\nIf Monzo were to fail, the Financial Services Compensation Scheme (FSCS) would protect eligible deposits up to **£120,000 per person** across your accounts with Monzo Bank Limited, not £120,000 per account. ([monzo.com](https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/authorisations/which-firms-does-the-pra-regulate?utm_source=openai",
+   "title": "Which firms does the PRA regulate? | Bank of England – the UK's central bank"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf?utm_source=openai",
+   "title": "Financial Services"
+  }
+ ],
+ "search_queries": [
+  "Monzo Bank Limited UK bank PRA FCA FSCS £120000 Monzo current account"
+ ],
+ "latency_s": 7.2,
+ "asked_at": "2026-11-21T17:01:36.605094+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

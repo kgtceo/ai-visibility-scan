@@ -1,0 +1,104 @@
+{
+ "engine": "gemini",
+ "question_id": "T4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "neutral",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does freeze accounts."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does freeze accounts; it is legally required to monitor accounts and temporarily freeze or restrict them under certain conditions.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezing."
+   },
+   {
+    "text": "Monzo is regulated by the Financial Conduct Authority (FCA).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Facts say regulated by the FCA and PRA."
+   },
+   {
+    "text": "Monzo support phone line is 0800 802 1281, available 24/7.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Contact details not in facts."
+   },
+   {
+    "text": "From abroad, call Monzo on +44 20 3872 0620.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo email support is help@monzo.com and complaints go to complaints@monzo.com.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "In-app chat via Help > Chat with us is available.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo must provide a Final Response within 15 working days for payment services, or up to 8 weeks in complex cases; the customer can then go to the Financial Ombudsman Service.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaint process not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

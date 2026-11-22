@@ -1,0 +1,111 @@
+{
+ "engine": "gemini-web",
+ "question_id": "C3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is the better pick for most UK travellers because it offers zero-fee weekend spending"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut is only better if you plan to exchange large amounts of money in advance on weekdays"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers zero-fee weekend spending and unlimited fee-free card payments abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad in any currency."
+   },
+   {
+    "text": "Monzo weekday card spending uses the Mastercard rate",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo fee-free ATM withdrawals are £200 per 30 days in the EEA, then 3% fee",
+    "verdict": "contradicted",
+    "fact_id": "F7",
+    "note": "Fact says £400 every 30 days in the UK and EEA on the free plan (£200 applies outside the EEA)."
+   },
+   {
+    "text": "Monzo FSCS protection is up to £85,000",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person."
+   },
+   {
+    "text": "Monzo is a full UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo holds GBP only and converts automatically at time of purchase",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers currency holding."
+   },
+   {
+    "text": "Monzo's 16–17 account still offers fee-free spending abroad",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover 16–17 accounts."
+   }
+  ]
+ },
+ "judge_error": null
+}

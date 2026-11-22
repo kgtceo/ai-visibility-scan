@@ -1,0 +1,173 @@
+{
+ "engine": "perplexity",
+ "question_id": "D5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/savings/child-savings-tax-free/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Top children's savings accounts: 5% interest"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/cards-for-under-18s/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Top prepaid cards and bank accounts for under 18s - MSE"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.rbs.co.uk/content/natwest_com/en_uk/personal/current-accounts/childrens-accounts.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids' and Teen Accounts | NatWest - Royal Bank of Scotland"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts/revolve_account.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids Bank Account | Royal Bank of Scotland - RBS"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts.html",
+   "domain": "rbs.co.uk",
+   "source_type": "other",
+   "title": "Kids' and Teen Accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-for-grandchildren/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "How to save for your grandchildren: the best accounts & need-to-knows"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts/teen-bank-account-adapt.checkParam.html",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "Adapt Teen Bank Account | Under 18 Bank Account | NatWest"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/childrens-bank-account/",
+   "domain": "barclays.co.uk",
+   "source_type": "other",
+   "title": "Children's Bank Account for Under 18s | Barclays"
+  },
+  {
+   "url": "https://www.ulsterbank.co.uk/current-accounts/childrens-accounts/teen-bank-account-adapt.html",
+   "domain": "ulsterbank.co.uk",
+   "source_type": "other",
+   "title": "Teen Bank Account | Teenage Debit Card"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts/kids-and-teens.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Current accounts for kids and teens"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/bank-account-for-teenagers/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Teen Bank Account"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts/debit-card-under-18s.html",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "Child and teen bank accounts with a card"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo 16–17 account — worth considering if you already like Monzo's app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "a strong choice if you want an app-first account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "My default pick: Nationwide FlexOne"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo 16–17 account has age-related restrictions on some services.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover the 16–17 account restrictions."
+   }
+  ]
+ },
+ "judge_error": null
+}

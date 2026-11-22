@@ -1,0 +1,98 @@
+{
+ "engine": "gemini",
+ "question_id": "S1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "you can use the Current Account Switch Service (CASS) directly inside the Monzo app"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a full member of CASS",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers CASS membership."
+   },
+   {
+    "text": "The switch is free, takes 7 working days, and automatically moves Direct Debits, Standing Orders and incoming payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Switch process not covered by facts."
+   },
+   {
+    "text": "You can start the switch inside the Monzo app via Manage > Switch to Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App steps not covered."
+   },
+   {
+    "text": "Payments sent to old account details are redirected to Monzo for at least 3 years",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Redirection period not covered."
+   },
+   {
+    "text": "Old overdrafts cannot be automatically carried over to Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "CPAs tied to old debit card, like Netflix, do not move via CASS and must be updated with the new Monzo card",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

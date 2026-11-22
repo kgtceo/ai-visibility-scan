@@ -1,0 +1,126 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://era.app/en-GB/articles/best-budgeting-apps-uk/",
+   "domain": "era.app",
+   "source_type": "other",
+   "title": "era.app Best budgeting apps in the UK (2026) — Era “Pots let you set money aside for goals, and the spending summaries show where the month went. Paid plans add"
+  },
+  {
+   "url": "https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Money To The Masses The best budgeting apps in the UK for 2026 - Money To The Masses “Can link bank accounts to see an overview of all your accounts in one plac"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the top overall choice in the UK"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "followed closely by Starling Bank for everyday simplicity"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Multi-bank tracking and frequent travellers."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase UK if you want higher interest rates and cashback alongside your pots"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Virtual cards linked to specific pots (on paid plans from £3/mo).",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra is £3 a month; feature-tier claim itself not covered."
+   },
+   {
+    "text": "Up to 3.45%–3.65% AER on instant/limited-access pots (varies by tier).",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Facts give 2.80% AER on free plan Instant Access; a tier-dependent range for other products is not covered."
+   },
+   {
+    "text": "Monzo Extra (£3/month)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Extra at £3 a month."
+   },
+   {
+    "text": "Monzo is a fully licensed UK bank with £85,000 FSCS deposit protection",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection up to £120,000, not £85,000."
+   },
+   {
+    "text": "Monzo has Salary Sorter and Bills Pots; round-ups with 2x/5x/10x multipliers on paid plans",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Feature claims not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

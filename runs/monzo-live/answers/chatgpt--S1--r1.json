@@ -1,0 +1,31 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "S1",
+ "run": 1,
+ "text": "Yes. A **full switch** to Monzo through the UK’s Current Account Switch Service moves your existing Direct Debits automatically. **Don’t cancel or recreate them.** The switch also moves your standing orders and remaining balance, redirects incoming payments such as your salary, and **closes your old account**. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n\n1. **Open a Monzo current account** if you don’t already have one. Check that Monzo and your old bank have the same address for you. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))\n2. **Start the switch in the Monzo app:** go to **Home → the three dots on your account → Switch to Monzo**. Follow the prompts and choose a switch date at least **7 working days** away. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n3. **Keep enough money in your old account** for bills due before the switch date. If you need to set up a *new* Direct Debit during those final 7 working days, use your **Monzo** details. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n\n**One exception:** subscriptions charged to your **debit card number** aren’t Direct Debits. Update those with the provider using your new Monzo card details. If an actual Direct Debit is missing after the switch, contact Monzo; the Switch Guarantee covers charges or interest caused by a switching error. ([nationwide.co.uk](https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p2205-switching-guide.pdf?rev=2d10426b78fb44d39f7ab3a2346395f2&utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/switch?utm_source=openai",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p2205-switching-guide.pdf?rev=2d10426b78fb44d39f7ab3a2346395f2&utm_source=openai",
+   "title": "Current Account Switch Service | Nationwide"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com help switch current account Monzo app direct debits seven days new direct debit 7 days UK switch tab home",
+  "site:currentaccountswitch.co.uk recurring debit card payments subscriptions won't move card number",
+  "UK bank switch recurring card payments subscriptions not transferred site:nationwide.co.uk"
+ ],
+ "latency_s": 16.96,
+ "asked_at": "2026-11-21T17:03:05.669733+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

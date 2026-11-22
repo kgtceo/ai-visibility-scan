@@ -1,0 +1,111 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/account-and-profile/your-account-is-under-review",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Why is my account under review?"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Making a complaint"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo can temporarily freeze or restrict a UK account while it checks unusual activity"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo can temporarily freeze or restrict a UK account while it checks unusual activity, protects you from suspected fraud, or carries out legally required checks.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezes."
+   },
+   {
+    "text": "Urgent support is available 24/7.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers support hours."
+   },
+   {
+    "text": "You can call Monzo free from the UK on 0800 088 4040.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers contact numbers."
+   },
+   {
+    "text": "You can email help@monzo.com for help getting back into the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers contact emails."
+   },
+   {
+    "text": "You can make a formal complaint in the app or email complaints@monzo.com.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the complaints process."
+   },
+   {
+    "text": "You can take the complaint to the Financial Ombudsman Service for free, normally within six months of Monzo's final response.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Ombudsman escalation or time limits."
+   }
+  ]
+ },
+ "judge_error": null
+}

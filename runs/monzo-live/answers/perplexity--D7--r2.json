@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D7",
+ "run": 2,
+ "text": "**For most UK sole traders and very small businesses, I’d start by comparing Starling, Mettle and Monzo Business Lite.** They all have no monthly fee on their free plans; the best fit depends mainly on cash deposits, accounting tools and how you like to bank.\n\n| Account | Could suit you if… | Points to check |\n|---|---|---|\n| **Starling Business** | You want a free digital account, unlimited UK transfers and links to accounting software such as Xero, QuickBooks or FreeAgent. | Cash deposits at the Post Office cost 0.7% (minimum £3); no branch counter service. |\n| **Mettle by NatWest** | You want a free account with bookkeeping features and FreeAgent included. | Check eligibility and whether its features suit your business; it’s app-based. |\n| **Monzo Business Lite** | You want a straightforward app-based account and don’t need accounting-software integrations on the free plan. | Cash deposits cost £1; the paid plan adds features. |\n| **Tide** | You value invoicing and business admin tools. | Its free plan has transaction charges: the comparison found five free UK transfers a month, then 20p each; cash deposits also cost extra. |\n| **A high-street bank, such as Lloyds** | You regularly deposit cash or cheques, or want branch access. | Lloyds advertises 12 months free, then £10/month; cash and cheque transactions can cost extra. |\n\n**My quick pick:** Starling for a simple, free everyday business account; Mettle if FreeAgent is useful; and a high-street bank if you rely on cash or in-person service. Compare the *ongoing* costs, not just introductory offers—especially cash deposits, payment volumes, international transactions and any paid bookkeeping plan.\n\nOne caveat: a sole trader isn’t always required to have a separate business account, but keeping business and personal transactions separate can make bookkeeping and tax records much easier. If you’re a **limited company**, use an account intended for business rather than a personal current account.\n\nFees and features can change, so check the provider’s current tariff and eligibility before applying.",
+ "citations": [
+  {
+   "url": "https://www.lloydsbank.com/business/landing-pages/bca/start-and-grow.html",
+   "title": "Start and grow"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/compare-business-bank-accounts/",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/startup-small-businesses.html?WT.ac=Lloyds-business--hub_page-starting_your_business-cta-open_a_business_bank_account",
+   "title": "Business Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html.html",
+   "title": "Small Business Bank Account | Lloyds UK"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/sole-traders.html",
+   "title": "Sole Trader Bank Account"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/?ref=EMBER",
+   "title": "www.tide.co · business-current-accountBusiness Bank Account | Apply Online | Tide Business"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/compare-business-bank-accounts/",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/startup-small-businesses.html?WT.ac=lloyds-business-resource_centre-starting_a_business-illustration-get_a_business_account",
+   "title": "Business Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html?WT.ac=lloyds-business-bca-startup_hub-other_accounts-FOM-see_more_accounts",
+   "title": "Business Bank Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html?WT.ac=lloyds-business-bca-startup_hub-other_accounts_product_banner-FOM-see_more_accounts",
+   "title": "Current Accounts for Businesses & Organisations"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/business-bank-account/",
+   "title": "Best business bank accounts UK compared"
+  },
+  {
+   "url": "https://www.barclays.co.uk/business-banking/",
+   "title": "Business banking"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-small-business-bank-accounts/",
+   "title": "Best Small Business Bank Accounts UK 2026 - Forbes"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/",
+   "title": "Business Bank Accounts - Apply Online, from £0 Per Month"
+  }
+ ],
+ "search_queries": [
+  "best UK business bank accounts sole trader 2026 fees",
+  "UK business current account fees Starling Monzo Tide 2026",
+  "UK business bank account small business Barclays Lloyds eligibility fees 2026"
+ ],
+ "latency_s": 6.18,
+ "asked_at": "2026-11-21T17:41:04.596512+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

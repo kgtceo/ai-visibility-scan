@@ -1,0 +1,166 @@
+{
+ "engine": "gemini-web",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Abel Monzo vs Starling: Which Digital Bank Is Best in 2026? - Abel “Starling suits people who want everything free with no upsell: no monthly plans, generous fr"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Forbes Monzo Vs Starling Bank: Compare Features & Benefits - Forbes “Only in linked easy access savings, interest paid at 2.50% AER (variable) | | Debit card |"
+  },
+  {
+   "url": "https://www.comparebusinessaccount.co.uk/guides/monzo-vs-starling-business-account-2026-full-comparison",
+   "domain": "comparebusinessaccount.co.uk",
+   "source_type": "other",
+   "title": "Compare the Best UK Business Bank Accounts Business Bank Account UK 2026 Monzo vs Starling “Choose Starling Business if: You prioritize a free core business acc"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Referral Plug Monzo vs Starling Bank: which digital bank is better in 2026? “The differences are more about style than substance: * Monzo feels more social and"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is better if you want superior budgeting tools, social bill-splitting, or packaged bank perks"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is better if you want everything included for free, especially for travel cash, overdrafts, and depositing cash."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully licensed UK bank with FSCS protection (up to £120,000 per person)",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo offers fee-free debit card spending abroad at the Mastercard exchange rate",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo paid tiers: Extra £3",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra at £3 matches"
+   },
+   {
+    "text": "Monzo Perks £7",
+    "verdict": "contradicted",
+    "fact_id": "F8",
+    "note": "Fact says Perks is £9 a month"
+   },
+   {
+    "text": "Monzo Max £17–£19/mo",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Range contains the 'from £19' figure but starts lower; not covered exactly"
+   },
+   {
+    "text": "Monzo free account: unlimited ATM withdrawals in EEA if main account, £200/month outside EEA (3% fee after)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo cash deposits cost £1 per deposit at Post Office or PayPoint",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo overdrafts up to £3,000 at 19%, 29%, or 39% EAR",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Instant Access Pots ~2.75% AER free, higher on paid plans",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Approximate figure near 2.80% AER; rounds within a few percent, not exact"
+   },
+   {
+    "text": "Monzo Salary Sorter splits payday money into Bills Pots; Monzo has bill-splitting and Monzo-to-Monzo payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo locks virtual cards behind its £3/month Extra tier",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Flex (BNPL/credit card), personal loans, Cash ISAs and in-app investments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

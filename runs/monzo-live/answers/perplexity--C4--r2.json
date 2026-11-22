@@ -1,0 +1,81 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C4",
+ "run": 2,
+ "text": "**Short answer:** Chase looks better if you want *predictable cashback on everyday essentials* and are happy to keep savings there. Monzo may suit you better for *selective brand offers* and, depending on your plan and savings product, a competitive savings rate.\n\n| | **Chase UK** | **Monzo** |\n|---|---|---|\n| **Cashback** | 2% on eligible groceries, restaurants, cafés, takeaways, everyday transport, fuel and public EV charging. Capped at **£20/month**. To qualify after the introductory period, you generally need 15 card payments or Direct Debits a month and at least **£1,000 across Chase savers each day**. | Cashback is through offers you choose at participating brands, advertised at **2–10%**. It can be useful if you shop with those brands, but it’s not the same as 2% on broad everyday categories. |\n| **Savings** | Standard easy-access Saver: **2.5% AER variable**. New customers may be offered **4.75% AER for 12 months** on one boosted Saver, subject to eligibility and the offer being available. There’s also a **6.5% AER fixed Regular Saver** for up to £300 a month, if eligible. | Instant Access Savings is advertised at **2.75–3.25% AER variable**, depending on subscription plan. Monzo also advertises other savings products and rates, which may have different access terms. |\n\n**Practical verdict:** If you can meet Chase’s qualifying conditions and spend a lot in its eligible categories, Chase’s cashback could be more straightforward and valuable. For example, £500 of eligible monthly spending would earn £10; £1,000 would reach the £20 cap. But don’t move or hold £1,000 in Chase *just* for cashback without comparing the interest you’d give up elsewhere.\n\nFor savings, compare the **rate you personally qualify for**, how long it lasts, and whether the money is easy-access or fixed-term. Chase’s boosted rate is time-limited for new customers; Monzo’s instant-access rate depends on plan. Rates and offers can change, so check the providers’ current terms before switching.",
+ "citations": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-saver-account/",
+   "title": "Easy access savings account"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-features/",
+   "title": "Features - Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/",
+   "title": "Chase UK: Home"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "title": "Chase Boost: 4.75% AER variable (4.65% gross)"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/",
+   "title": "Earn 2% cashback with Chase"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/how-interest-on-savings-accounts-works/",
+   "title": "How do interest rates work on savings accounts?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/",
+   "title": "Chase launches regular savings account to help customers make ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/cashback-explained/",
+   "title": "What is cashback and how does it work?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-roundups/",
+   "title": "Chase round-up account"
+  },
+  {
+   "url": "https://monzo.com/gb/",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "title": "Cashback Terms and Conditions"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "title": "Our savings rates"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/regular-saver/",
+   "title": "Regular Saver | Save monthly at a fixed rate"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "title": "I need help with cashback"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/download-affiliates/",
+   "title": "Download the Chase app today"
+  }
+ ],
+ "search_queries": [
+  "Chase UK cashback current offer savings rate November 2026",
+  "Monzo UK cashback current offer savings rates November 2026",
+  "Chase UK savings account interest cashback terms official",
+  "Monzo cashback savings account interest rates official UK"
+ ],
+ "latency_s": 6.77,
+ "asked_at": "2026-11-21T17:42:07.572950+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

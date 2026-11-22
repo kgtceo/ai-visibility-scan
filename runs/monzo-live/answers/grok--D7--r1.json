@@ -1,0 +1,221 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D7",
+ "run": 1,
+ "text": "For most UK sole traders and very small businesses, **Starling** is the strongest default, with **Mettle** close behind if free accounting software matters more than pure banking features.\n\nThere is no single best account. It depends on cash, accounting software, and whether you need a high-street branch.\n\n### Quick picks\n\n| Need | Best fit | Why |\n|---|---|---|\n| Most sole traders (digital payments) | **Starling** | Free, full bank, unlimited UK transfers, FSCS cover |\n| Free bookkeeping / tax software | **Mettle** (NatWest) | Free account + FreeAgent included |\n| Best app / already use Monzo | **Monzo Business Lite** | Strong service ratings; free tier |\n| Built-in invoicing tools | **Tide** | Good tools; free plan has transfer limits |\n| Lots of cash or branch access | **NatWest, HSBC, Barclays or Lloyds** | Counters and deposit machines |\n\n### Starling (best overall for most people)\n- **£0** monthly fee and **no charge** for UK Faster Payments, Direct Debits or standing orders.\n- Fully licensed UK bank, so eligible deposits are **FSCS-protected** (limit is £120,000 per person per banking licence).\n- Free links to accounting software (Xero, QuickBooks, FreeAgent) and built-in tools aimed at Making Tax Digital for Income Tax.\n- Cash can be paid in at the Post Office at **0.7% (minimum £3)**. Sole trader cash limits are tighter than for limited companies (around £5,000 a day and a lower annual cap — check the current figure before you rely on it).\n- Weak spots: cash is relatively expensive if you bank a lot of it; overdrafts are not a given for sole traders.\n\n### Mettle (best free package if you want FreeAgent)\n- **£0** a month, free UK transfers, FSCS cover via NatWest.\n- **FreeAgent included** (normally paid software) as long as you make at least one transaction a month. That can be worth well over £100 a year.\n- Aimed at sole traders and very small companies (typically up to two owners).\n- Limitations: no cheques, no international payments, and cash deposits cost more than Monzo’s.\n\n### Monzo Business\n- **Lite is free**, with free UK transfers and FSCS protection.\n- Often ranks at or near the top of independent business banking service surveys, and the app is excellent.\n- Cash deposits are relatively cheap (**£1 each** at Post Office / PayPoint), which helps trades and cash-heavy work.\n- Accounting integrations and some tax features sit on the paid **Pro** plan (about £9 a month).\n\n### Tide\nUseful if you want invoicing, receipts and expense tools in the app. The free plan only includes a small number of free transfers (often five a month), then about **20p each**, so costs rise if you move money often. Current accounts are provided via ClearBank, so FSCS cover usually applies — confirm the latest terms.\n\n### High-street banks\nWorth it if you regularly pay in cash or want a counter:\n- **NatWest**: startup/switch offers have included a period of free everyday banking, plus FreeAgent while you hold the account.\n- **HSBC**: some small-business accounts have no monthly fee, with branch and Post Office access.\n- **Barclays / Lloyds / Santander**: often free for an introductory period, then a monthly fee. Better for cash and in-branch service than the app-only banks.\n\n### Practical points\n- As a **sole trader** you are not legally required to have a business account, but most personal account terms ban business use, and a separate account makes tax and expenses much cleaner — especially with Making Tax Digital for Income Tax.\n- A **limited company** must keep company money separate from personal money.\n- For sole traders, personal and business balances at the **same** bank are usually added together for the FSCS limit.\n- E-money accounts (some Tide setups, ANNA, etc.) are safeguarded rather than always FSCS-protected in the same way as a bank. Prefer a licensed bank if protection matters to you.\n- Fees, cash limits and free periods change. Check the provider’s current tariff before you apply, and look for any switch or signup bonus that is still live.\n\n**Simple rule:** open **Starling** unless you specifically want FreeAgent free (**Mettle**), already live in the Monzo app (**Monzo Lite**), or bank a lot of cash in person (a high-street account).",
+ "citations": [
+  {
+   "url": "https://statrys.com/reviews/starling-business-account",
+   "title": "https://statrys.com/reviews/starling-business-account"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html"
+  },
+  {
+   "url": "https://www.starlingbank.com/sole-trader-bank-account/",
+   "title": "https://www.starlingbank.com/sole-trader-bank-account/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-fees/",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-fees/"
+  },
+  {
+   "url": "https://www.refer200.co.uk/tide-vs-starling-vs-monzo",
+   "title": "https://www.refer200.co.uk/tide-vs-starling-vs-monzo"
+  },
+  {
+   "url": "https://www.freeagent.com/mettle/",
+   "title": "https://www.freeagent.com/mettle/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-business-for-freelancers",
+   "title": "https://www.referralplug.co.uk/blog/monzo-business-for-freelancers"
+  },
+  {
+   "url": "https://bankinggeek.com/en/business-account-sole-trader/",
+   "title": "https://bankinggeek.com/en/business-account-sole-trader/"
+  },
+  {
+   "url": "https://www.freeagent.com/blog/product-spotlight-october-2026/",
+   "title": "https://www.freeagent.com/blog/product-spotlight-october-2026/"
+  },
+  {
+   "url": "http://www.moneysavingexpert.com/banking/small-business",
+   "title": "http://www.moneysavingexpert.com/banking/small-business"
+  },
+  {
+   "url": "https://www.lilachbullock.com/is-freeagent-free/",
+   "title": "https://www.lilachbullock.com/is-freeagent-free/"
+  },
+  {
+   "url": "https://www.mobiletransaction.org/best-bank-account-for-sole-traders-uk/",
+   "title": "https://www.mobiletransaction.org/best-bank-account-for-sole-traders-uk/"
+  },
+  {
+   "url": "https://micahguru.com/guides/tide-vs-starling-business-account",
+   "title": "https://micahguru.com/guides/tide-vs-starling-business-account"
+  },
+  {
+   "url": "https://morningfold.co.uk/articles/best-uk-business-bank-account-2026/",
+   "title": "https://morningfold.co.uk/articles/best-uk-business-bank-account-2026/"
+  },
+  {
+   "url": "https://thepaidhour.com/starling-business-account-review/",
+   "title": "https://thepaidhour.com/starling-business-account-review/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/starling-business-account-review/",
+   "title": "https://bankinggeek.com/en/starling-business-account-review/"
+  },
+  {
+   "url": "https://tillradar.co.uk/starling-business-account-review/",
+   "title": "https://tillradar.co.uk/starling-business-account-review/"
+  },
+  {
+   "url": "https://www.freeagent.com/pricing/free-accounting-software/",
+   "title": "https://www.freeagent.com/pricing/free-accounting-software/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/best-for-sole-traders.html",
+   "title": "https://thebusinessbankingexpert.co.uk/best-for-sole-traders.html"
+  },
+  {
+   "url": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/",
+   "title": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/"
+  },
+  {
+   "url": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/",
+   "title": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/"
+  },
+  {
+   "url": "https://freedomisntfree.co.uk/compare/business-bank-accounts",
+   "title": "https://freedomisntfree.co.uk/compare/business-bank-accounts"
+  },
+  {
+   "url": "https://www.mettle.co.uk/features/freeagent/",
+   "title": "https://www.mettle.co.uk/features/freeagent/"
+  },
+  {
+   "url": "https://eternityaccountants.co.uk/freeagent-accounting-software/",
+   "title": "https://eternityaccountants.co.uk/freeagent-accounting-software/"
+  },
+  {
+   "url": "https://support.freeagent.com/hc/en-gb/articles/19653298292882-Set-up-a-Mettle-account",
+   "title": "https://support.freeagent.com/hc/en-gb/articles/19653298292882-Set-up-a-Mettle-account"
+  },
+  {
+   "url": "https://ukbusinessbankaccounts.co.uk/best-business-bank-accounts-uk",
+   "title": "https://ukbusinessbankaccounts.co.uk/best-business-bank-accounts-uk"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/providers/starling.html",
+   "title": "https://thebusinessbankingexpert.co.uk/providers/starling.html"
+  },
+  {
+   "url": "https://www.paygradecareers.com/guides/business-bank-account-sole-trader/",
+   "title": "https://www.paygradecareers.com/guides/business-bank-account-sole-trader/"
+  },
+  {
+   "url": "https://www.quotehunt.co.uk/business-bank-accounts/starling",
+   "title": "https://www.quotehunt.co.uk/business-bank-accounts/starling"
+  },
+  {
+   "url": "https://investingintheweb.com/brokers/best-business-bank-accounts-uk/",
+   "title": "https://investingintheweb.com/brokers/best-business-bank-accounts-uk/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/",
+   "title": "https://thebusinessbankingexpert.co.uk/"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/",
+   "title": "https://www.starlingbank.com/business-account/"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/best-for-freelancers/",
+   "title": "https://www.businessexpert.co.uk/business-banking/best-for-freelancers/"
+  },
+  {
+   "url": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-uk-2026/",
+   "title": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-uk-2026/"
+  },
+  {
+   "url": "https://support.freeagent.com/hc/en-gb/articles/19653298292882",
+   "title": "https://support.freeagent.com/hc/en-gb/articles/19653298292882"
+  },
+  {
+   "url": "https://www.mettle.co.uk/blog/mettles-guide-to-using-freeagent/",
+   "title": "https://www.mettle.co.uk/blog/mettles-guide-to-using-freeagent/"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/mettle-review/",
+   "title": "https://www.businessexpert.co.uk/business-banking/mettle-review/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/small-business",
+   "title": "https://www.moneysavingexpert.com/banking/small-business"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/accounts-for-sole-traders/",
+   "title": "https://www.businessexpert.co.uk/business-banking/accounts-for-sole-traders/"
+  },
+  {
+   "url": "https://soletradertoolkit.co.uk/business-banking-starling-bank",
+   "title": "https://soletradertoolkit.co.uk/business-banking-starling-bank"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/tide-vs-starling/",
+   "title": "https://www.businessexpert.co.uk/business-banking/tide-vs-starling/"
+  },
+  {
+   "url": "https://www.ukcalc.uk/best-business-bank-account-sole-traders/",
+   "title": "https://www.ukcalc.uk/best-business-bank-account-sole-traders/"
+  },
+  {
+   "url": "https://www.kaeltripton.com/best-sole-trader-bank-accounts-uk/",
+   "title": "https://www.kaeltripton.com/best-sole-trader-bank-accounts-uk/"
+  },
+  {
+   "url": "https://www.simplybusiness.co.uk/knowledge/banking/best-small-business-bank-account/",
+   "title": "https://www.simplybusiness.co.uk/knowledge/banking/best-small-business-bank-account/"
+  },
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "title": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "title": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/"
+  },
+  {
+   "url": "https://www.nutsaboutmoney.com/banking/best-sole-trader-bank-account",
+   "title": "https://www.nutsaboutmoney.com/banking/best-sole-trader-bank-account"
+  },
+  {
+   "url": "https://mikemcdonnell.co.uk/tide-vs-monzo-business-vs-starling",
+   "title": "https://mikemcdonnell.co.uk/tide-vs-monzo-business-vs-starling"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-business-bank-account-review",
+   "title": "https://moneytothemasses.com/banking/monzo-business-bank-account-review"
+  }
+ ],
+ "search_queries": [
+  "best bank account for sole trader small business UK 2024",
+  "best business bank accounts UK comparison sole trader",
+  "Starling Tide Monzo business account review UK 2025",
+  "Starling business account fees sole trader 2026",
+  "Mettle FreeAgent included free 2026"
+ ],
+ "latency_s": 42.41,
+ "asked_at": "2026-11-21T17:12:25.969590+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

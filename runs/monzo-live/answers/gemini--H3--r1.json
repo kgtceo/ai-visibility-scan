@@ -1,0 +1,43 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H3",
+ "run": 1,
+ "text": "The interest rate Monzo pays depends on the type of savings pot you open and whether you have a standard free account or one of Monzo’s paid subscription tiers (Extra, Perks, or Max).\n\n---\n\n### 1. Instant Access Savings Pots\nThese accounts allow unlimited, instant withdrawals with no minimum deposit. Interest is calculated daily and paid monthly on the 1st:\n\n* **Free account:** **2.80% AER** (variable)\n* **Monzo Extra (£3/mo):** **3.15% AER** (variable)\n* **Monzo Perks / Plus / Premium (£7/mo):** **3.55% AER** (variable)\n* **Monzo Max (£17/mo):** **3.80% AER** (variable)\n\n*(Instant Access Cash ISAs are also available offering matching tax-free variable rates.)*\n\n---\n\n### 2. Select Access Savings Pots\nA tiered easy-access pot requiring a £500 minimum deposit. It offers a higher rate as long as you make **2 or fewer withdrawals** per pot per year:\n\n* **Free account:** **3.45% AER** (variable) \n  *(drops to 2.65% if you make 3 or more withdrawals in a year)*\n* **Paid Plans (Perks, Max, Plus, Premium):** **3.70% AER** (variable) \n  *(drops to 3.10% if you make 3 or more withdrawals in a year)*\n\n---\n\n### 3. Fixed Rate Pots & Fixed Cash ISAs\nIf you lock your money away for a set term, you can earn a guaranteed fixed rate:\n\n* **Terms:** Usually 1, 2, or 3 years.\n* **Rates:** Up to **4.50% – 5.25% AER** (fixed), paid at maturity.\n* **Minimum deposit:** £500.\n\n---\n\n### Good to Know:\n* **FSCS Protection:** Eligible deposits in Monzo savings products are protected under the Financial Services Compensation Scheme (FSCS) up to £120,000 per person.\n* **Checking your live rates:** Variable rates adjust when the Bank of England base rate changes. You can always see your specific active rates directly in the app by going to the **Savings / Pots** tab.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfc64uojJ8H2FrrSpLWKerjnep4n8Ak4L3ZFWg_hJNHy7ATokIswWS4Ag4plTjPdVZ5fOFp9Z4DAwocRpuaSfIzpRicIDY_WB2hLBOffQo9H8hLNGrTLM8G92eSQ==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb86ZDf4lYd2H7jJ89xXu5l7gVTS5_sj8NggB_TCxP1Ntan0i-aQSrRp_WIIlBG6Fj4vUfI_tra_6nN0jAAQet4Q5XvbE8j5MZitJMt1Rwx_FCyV3ZusPNnr_zk7WwEqo2acgmMA==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9zcbysemKmvfyInOmpsrSpwDLEMnDIftcLbfYp3o4zTKlHPljYRBQjz7HWfdh49cGVYcQ1ODX7r_CV123IQRSuMwYuwPYwWIW9SY5GGCTfiVSu5w1F4phK5ZDYOuDgMZ3olg=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_plXyM1yg8f2iHpwTWr4GpmCKFBfKDh0HmMsSP3gFF_p2xn9ag_jEDt7PDu9gIt0x3fAul9oVH_uu0WvtJ4ChM5MzCTvRFYZYkGFl3ma4UqGGZ4inhxrOl_XaGrRRbdLE21nwrxlLxLYtB6xPrYejVGL1S-SQkw==",
+   "title": "ffnews.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLNrN6TXPiiVeiGdyprkRESr-BQCWM9hAfEHnoVZTmlU9hlP7ZKJ2vEXmd9YyJXmWWITYYDWSZtSqvHnTySdc-Vw9tlRjD4xzZG_nVuZav8_24wxb4dCcDJh0=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG74NH5e2K_ob3NciMzhg_4xdRjgpekVt7I9e2mzkVtr7fqhC0Pp7RpWBR9N9nvuxMdv3Dn48R60slZdoj_w7gCH9LmN__iaObw3dmIVsn0TbgOU4Yzwj1E4TDD639afX9yh2GB_0qxaB-9tA2vPglC1YWRgg==",
+   "title": "depositscout.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo instant access savings pot AER interest rate UK",
+  "Monzo UK savings interest rates current"
+ ],
+ "latency_s": 15.67,
+ "asked_at": "2026-11-21T17:56:49.382336+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

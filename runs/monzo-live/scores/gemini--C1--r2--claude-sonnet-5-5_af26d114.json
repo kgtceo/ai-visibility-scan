@@ -1,0 +1,136 @@
+{
+ "engine": "gemini",
+ "question_id": "C1",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElXTxeF3vh2CqJeKEGvTz1ykId5yxxeKl8pd0RIrBVd53RGbDrdw0LADZQRHWARapruLBe46o1Vyb2rorqi6Ci0MZeHb7LQ1B-PlvrgIJpTulZu76R0uLqRCArMJbc2bw=",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECQ9BuYsWW6yMhXtZ6mY7iA_l5MqbBQvi7tKvzLUbTWPgJi9clwObcb0qmeKwTaCxAQNiocpByGAb9_61Irftek9oJ05JU37hmito3zrLD5_Ux-Fqfs9G8TmuUzyLaeyW_g0Q4dEdYLVN2IHDqKm9o3iFeS39mHtdfqv-wOssFuGupzA==",
+   "domain": "bankingexplained.co.uk",
+   "source_type": "other",
+   "title": "bankingexplained.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxpa-lArcJFX4hBWH9wISCveDfegeMze6s1ZWdm0Z58P48ud2lF0Qd5LwDUnRoB7lvkXGAqZjSN3dKrEshBpVYzzeWlbex0myG-mrEanUMF2rF5ZtAdFTkmnpLYi3fgXkDptKbMBej5N5H",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3Bo9SYTC0UjdupxWjF2pUkjETu3YuWqEuLoHml7a2p-bZQDuvXRE_-l454gsrP3pCR72oIoWjikAA1a5Z2gZ-Sca97n4pgShksufI2wGZg8OAwsTb4J3sjv1f2w=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDP1TCG7CzwyYRILgLIv9wBFjKSFSgpYMtAEsbLVAba57SKUlQMRpSNWSUacoLO5MoUTwGRybkwAaCq8CKkjs6zluybvERrFaVX6YvEcvR2WRHJjacH-jataSr-K_2gRKT5SDGaWvcNtB69Avcf-5kdB-EerubsAz7S39IVo2xtJgcwN3Pmijdd8eHzQREUZarQ==",
+   "domain": "fintechfutures.com",
+   "source_type": "other",
+   "title": "fintechfutures.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0PXW81dBaaJBT3T8uewmyB0vXBvFv9eUguhW1aooPhuUg3nnM6R1Zf6si6Ja-_MhoSnoNhRww_UqBJBRbBSm1fXtMlEFlFRLaNwHF8zVOjwW4veMaQkX9W_m8S-04U6ReouZz86nUiAoc3-ILYEQx2Pa0AwGKknBXlvcmkSS7F2yziuPUORW_IaDt4tn38JlHzXMd3sri05DXww1dcoStOUjPABg=",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMzFW568v4oak8Ck7S0EUrUyrznBU7_TXjnHBMrCnRDDQOJDuN5vWcTFm3igkiSsajq4enL1L3CmmG9P4KA-_opPGW4z6BpaQRHOnEfyFVaeAwWzqwEQtQDY0wjGzZGlmHPGGprGJZ01r89PYRECu71mdh-V943EYDWwYlJy5tqQCuILkS",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBptmc2mK1nFlAFOSwMRJCEAYrUOpHzG8AaOPzn-VQFKBYqpU1vvxyuGrpqEghr0dMWwvQsyIdHDpeE6mG2cIgelMkNbuccBOWFZAIis9UjtiDnmb141ZrVX4wcc3nGgnzPNNMCoSVFvxCso=",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "starlingbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4j4DzOdOxPxSrRmMdNshLw0EmDmepY6J--A_NTAow7HD3HQfzBVpaK5i96Nn3GuzuV180fLsh1xG8aq0rVXaACCMuQVwO_6czFy6zRsrUXQKd_vQtYUm4EHpCaTrEvgjHqJzrC1OqNFNTSJO3XNSWg4XKIA_pPA==",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwej9eOkOymjMJ_v6oegioxcTGS9UbWT39T4spnqGLFF8ivG4vx24PHhXnGExdbZLlKhyczK_o6om5V9ODcss55VPdSnAlE4HRzNK898lNLlq3SCtrBqQKlgIP5C0mL66p4SiO-XW7gKyi",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling Bank is the most reliable and complete choice."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Chase and Revolut have strong features, both have gaps that make them frustrating to use as your sole bank account."
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase UK — Best for Spending Perks & Savings"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

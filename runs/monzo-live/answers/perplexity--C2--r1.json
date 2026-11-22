@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C2",
+ "run": 1,
+ "text": "**Short answer:** For most people, either is a solid free UK bank account. I’d lean **Starling as an everyday main account**, especially if you travel, use cash, or want a straightforward no-fee account. Choose **Monzo** if its budgeting tools and app experience suit you better.\n\n| What matters | Monzo | Starling |\n|---|---|---|\n| **Monthly fee** | Free account; paid plans add extras | Free |\n| **Travel spending** | No fee on card purchases abroad; ATM withdrawal limits depend on your account and circumstances | No fees from Starling for card spending or cash withdrawals abroad |\n| **Cash deposits** | Usually a fee at PayPoint | Post Office deposits are free up to an annual limit |\n| **Budgeting** | Strong budgeting and spending tools; paid plans add features | Spaces, spending insights and bill management |\n| **Overdraft** | Rate depends on your offer; check the app | Rate depends on your offer too—don’t assume a headline rate applies to you |\n| **Support** | App-based support | App-based support |\n\n**My rule of thumb:**\n- **Starling** for a simple main account, frequent travel, or occasional cash deposits.\n- **Monzo** if you want its budgeting features, spending controls, or paid-plan extras.\n\nBoth are app-based rather than branch banks, so consider keeping a second account elsewhere if branch services matter. Also compare the current account terms directly before deciding: fees, withdrawal allowances, savings rates and overdraft offers can change, and overdrafts are personal.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/service-information/",
+   "title": "Current account service information - Starling Bank"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/compare-best-bank-accounts/",
+   "title": "The best bank accounts: Compare current accounts"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-general-terms-may-2026.pdf",
+   "title": "starling-personal-account-general-terms-may-2026. ..."
+  },
+  {
+   "url": "https://monzo.com/index.html",
+   "title": "Monzo – Online Banking Made Easy | Open An Account Online"
+  },
+  {
+   "url": "https://www.starlingbank.com/",
+   "title": "Starling | Award-winning bank accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "title": "Monzo Vs Starling Bank: Compare Features & Benefits"
+  }
+ ],
+ "search_queries": [
+  "Monzo current account fees features UK 2026",
+  "Starling personal current account fees features UK 2026",
+  "Monzo vs Starling UK comparison customer service savings FSCS"
+ ],
+ "latency_s": 6.19,
+ "asked_at": "2026-11-21T17:41:35.242581+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

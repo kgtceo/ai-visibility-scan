@@ -1,0 +1,81 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D1",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://static.chase.co.uk/documents/assets/gb/en/everyday-cashback-2-terms-and-conditions-1.0.0.pdf",
+   "domain": "static.chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Cashback Terms and Conditions"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account | Starling"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you’d rather not track those conditions, I’d choose Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d pick Chase UK for everyday debit-card spending if you can comfortably keep £1,000 in a Chase saver."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

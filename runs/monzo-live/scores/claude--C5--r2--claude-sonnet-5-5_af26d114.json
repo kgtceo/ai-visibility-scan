@@ -1,0 +1,186 @@
+{
+ "engine": "claude",
+ "question_id": "C5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best bank account switching deals November 2026 - Which?"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/the-best-bank-switching-cashback-interest-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "The best bank switching offers (November 2026) - Be Clever With ..."
+  },
+  {
+   "url": "https://heymoneytalk.co.uk/nationwide-current-account-review/",
+   "domain": "heymoneytalk.co.uk",
+   "source_type": "other",
+   "title": "Nationwide current account review: Is it worth switching?"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With ..."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-nationwide",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Nationwide: which current account is actually better?"
+  },
+  {
+   "url": "https://stablecoininsider.org/metro-bank-alternatives/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "Metro Bank Alternatives (2026): 5 UK Current Accounts Compared"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/current-accounts-2026/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "UK current accounts compared: fees, branches, FSCS"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/nationwide-flexdirect-current-account-review/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "Nationwide FlexDirect current account review: 5% interest & £10 ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is better for day-to-day app use and for spending abroad."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "The app has improved a lot but isn't as good as Monzo, Starling or Chase."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "isn't as good as Monzo, Starling or Chase."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Nationwide FlexDirect is the better choice for the first year"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "It charges £0 on card spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "EEA withdrawals are unlimited in the worked example.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "Unlimited only if Monzo is main bank; the answer's condition is vague."
+   },
+   {
+    "text": "Cash withdrawals outside the free allowance can carry fees.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "3% fee after allowance."
+   },
+   {
+    "text": "Paid plans cost up to £19 a month.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Max is from £19, so 'up to £19' is a bound not matching exactly."
+   },
+   {
+    "text": "Both are covered by the £120k FSCS protection.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The free account has no automatic buffer; arranged overdraft at 19%, 29% or 39% EAR depending on credit score.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No overdraft fact."
+   },
+   {
+    "text": "Paying in cash goes through PayPoint or the Post Office at £1 per deposit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Pots, instant notifications and spending insights are widely rated above high-street apps.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has no switch bonus listed.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

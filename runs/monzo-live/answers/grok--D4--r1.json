@@ -1,0 +1,291 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D4",
+ "run": 1,
+ "text": "**Starling Bank’s debit card is the strongest all-round choice for most UK residents who want genuinely fee-free spending and cash withdrawals abroad.**\n\n### Top debit cards (current accounts)\nThese charge **no foreign transaction fees** on card purchases and pass through a competitive Mastercard (or equivalent) rate with no bank markup:\n\n| Provider | Card spending abroad | ATM withdrawals abroad | Key notes |\n|----------|----------------------|------------------------|-----------|\n| **Starling** | None | None from Starling (no monthly cap) | Daily limit £300 (max 6 withdrawals). Excellent customer scores. Free account, strong app, FSCS-protected. |\n| **Chase UK** | None | None up to £500/day and £1,500/calendar month | Fee applies beyond the monthly limit. Cashback is UK-only (not on overseas spending). App-only. |\n| **First Direct** | None | None (up to £500/day) | Scrapped fees in 2023. Strong service reputation; often runs switching incentives. Mastercard rate. |\n\n**Monzo** is fee-free for card spending but charges 3% on ATM withdrawals above a monthly allowance (typically £200 outside the EEA, with higher/unlimited allowances in the EEA if it is your main account). Revolut’s free plan has monthly spending limits and a weekend markup, so it is less straightforward.\n\nWhich? ranks Starling highest among truly fee-free options by customer score, followed by First Direct and Chase.\n\n### Strong credit card options (for purchases)\nThese also charge **0% foreign transaction fees** and can add Section 75 protection on purchases of £100–£30,000:\n\n- **Lloyds Bank Ultra** — 0% fees on foreign purchases and no Lloyds cash-withdrawal fee. 1% cashback in the first year (then 0.25%). Interest starts immediately on cash advances, so use a debit card for ATMs. Relatively low representative APR. Often highlighted as a Which? Best Buy.\n- **Barclaycard Rewards** — 0% fees on purchases and cash withdrawals. Unusually, no interest on overseas cash withdrawals if you clear the balance in full by the due date. 0.25% cashback. Higher APR.\n\n### Practical tips\n- Always choose to be charged in the **local currency**, not GBP. Selecting pounds triggers dynamic currency conversion (DCC), which usually gives a worse rate.\n- Overseas ATM operators can still add their own fee even if your bank charges nothing—check the screen and cancel if needed.\n- Carry a backup card. Limits, eligibility, and terms can change, so confirm the latest details with the provider before you travel.\n\n**Bottom line:** Open a **Starling** account if you want the simplest fee-free option for both spending and cash with no monthly ATM cap. Add **Chase** or **First Direct** if you prefer their other features, and consider the **Lloyds Ultra** credit card if you want cashback plus purchase protection on holiday spending.",
+ "citations": [
+  {
+   "url": "https://www.finder.com/uk/credit-cards/best-credit-card-to-use-overseas",
+   "title": "https://www.finder.com/uk/credit-cards/best-credit-card-to-use-overseas"
+  },
+  {
+   "url": "https://www.lloydsbank.com/credit-cards/ultra.html",
+   "title": "https://www.lloydsbank.com/credit-cards/ultra.html"
+  },
+  {
+   "url": "https://www.thetraveler.org/how-to-use-the-lloyds-ultra-travel-card-abroad-and-save/",
+   "title": "https://www.thetraveler.org/how-to-use-the-lloyds-ultra-travel-card-abroad-and-save/"
+  },
+  {
+   "url": "https://www.lovemoney.com/bestbuys/1573/best-debit-cards-to-use-abroad-foreign-usage-fees",
+   "title": "https://www.lovemoney.com/bestbuys/1573/best-debit-cards-to-use-abroad-foreign-usage-fees"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/",
+   "title": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/"
+  },
+  {
+   "url": "https://morningfold.co.uk/articles/best-uk-debit-cards-travel-abroad-2026/",
+   "title": "https://morningfold.co.uk/articles/best-uk-debit-cards-travel-abroad-2026/"
+  },
+  {
+   "url": "https://www.firstdirect.com/travel-and-international/travel-help-and-advice/using-your-cards-outside-the-uk/",
+   "title": "https://www.firstdirect.com/travel-and-international/travel-help-and-advice/using-your-cards-outside-the-uk/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html"
+  },
+  {
+   "url": "https://seo-pages-web.vercel.www.nerdwallet.com/banking/learn/foreign-atm-and-debit-card-transaction-fees-by-bank",
+   "title": "https://seo-pages-web.vercel.www.nerdwallet.com/banking/learn/foreign-atm-and-debit-card-transaction-fees-by-bank"
+  },
+  {
+   "url": "https://www.thetraveler.org/my-honest-starling-bank-travel-review-fees-fx-compared/",
+   "title": "https://www.thetraveler.org/my-honest-starling-bank-travel-review-fees-fx-compared/"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/credit-cards/revealed-3-best-debit-cards-use-abroad",
+   "title": "https://www.clearscore.com/learn/credit-cards/revealed-3-best-debit-cards-use-abroad"
+  },
+  {
+   "url": "https://wise.com/gb/blog/credit-cards-with-no-foreign-transaction-fee",
+   "title": "https://wise.com/gb/blog/credit-cards-with-no-foreign-transaction-fee"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/",
+   "title": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/"
+  },
+  {
+   "url": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/",
+   "title": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/"
+  },
+  {
+   "url": "https://www.telegraph.co.uk/money/banking/credit-cards/best-free-bank-cards-use-holiday-monzo-chase-revolut/",
+   "title": "https://www.telegraph.co.uk/money/banking/credit-cards/best-free-bank-cards-use-holiday-monzo-chase-revolut/"
+  },
+  {
+   "url": "https://depositscout.com/guides/the-best-travel-cards-for-uk-travellers-in-2026",
+   "title": "https://depositscout.com/guides/the-best-travel-cards-for-uk-travellers-in-2026"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/chase",
+   "title": "https://getquids.co.uk/en/reviews/chase"
+  },
+  {
+   "url": "https://gbwise.co.uk/foreign-transaction-fees-explained-how-they-work-how-to-avoid-them-in-2026-for-uk-consumers/",
+   "title": "https://gbwise.co.uk/foreign-transaction-fees-explained-how-they-work-how-to-avoid-them-in-2026-for-uk-consumers/"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account"
+  },
+  {
+   "url": "http://www.moneysavingexpert.com/credit-cards/mastercard-visa-amex",
+   "title": "http://www.moneysavingexpert.com/credit-cards/mastercard-visa-amex"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/30111361/high-street-bank-fee-credit-card-cashback-spending-abroad/",
+   "title": "https://www.thesun.co.uk/money/30111361/high-street-bank-fee-credit-card-cashback-spending-abroad/"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/chase-uk/",
+   "title": "https://www.currencyexpert.com/reviews/chase-uk/"
+  },
+  {
+   "url": "https://wise.com/gb/blog/using-first-direct-abroad",
+   "title": "https://wise.com/gb/blog/using-first-direct-abroad"
+  },
+  {
+   "url": "https://www.lloydsbank.com/credit-cards/travel.html",
+   "title": "https://www.lloydsbank.com/credit-cards/travel.html"
+  },
+  {
+   "url": "https://depositscout.com/banks/lloyds/credit-cards/ultra-credit-card",
+   "title": "https://depositscout.com/banks/lloyds/credit-cards/ultra-credit-card"
+  },
+  {
+   "url": "https://www.firstdirect.com/rates-and-charges/charges/",
+   "title": "https://www.firstdirect.com/rates-and-charges/charges/"
+  },
+  {
+   "url": "https://wise.com/gb/blog/banks-with-no-foreign-transaction-fees",
+   "title": "https://wise.com/gb/blog/banks-with-no-foreign-transaction-fees"
+  },
+  {
+   "url": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/",
+   "title": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/"
+  },
+  {
+   "url": "https://www.starlingbank.com/blog/using-your-starling-card-abroad/",
+   "title": "https://www.starlingbank.com/blog/using-your-starling-card-abroad/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/first-direct/first-direct-atm-limit/",
+   "title": "https://pocketwise.co.uk/banking/first-direct/first-direct-atm-limit/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/monzo-vs-starling-vs-revolut/",
+   "title": "https://pocketwise.co.uk/banking/bank-reviews/monzo-vs-starling-vs-revolut/"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "title": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee"
+  },
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "title": "https://www.firstdirect.com/banking/travel-debit-card/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-atm-withdrawal-limit/",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-atm-withdrawal-limit/"
+  },
+  {
+   "url": "https://www.firstdirect.com/banking/local-currency-or-gbp/",
+   "title": "https://www.firstdirect.com/banking/local-currency-or-gbp/"
+  },
+  {
+   "url": "https://www.lloydsbank.com/credit-cards/help-and-guidance/credit-card-fees.html",
+   "title": "https://www.lloydsbank.com/credit-cards/help-and-guidance/credit-card-fees.html"
+  },
+  {
+   "url": "https://www.currencytransfer.com/blog/expert-analysis/best-uk-credit-card-for-international-travel-low-fees-and-perks",
+   "title": "https://www.currencytransfer.com/blog/expert-analysis/best-uk-credit-card-for-international-travel-low-fees-and-perks"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling",
+   "title": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/first-direct-scraps-fees-for-spending-abroad-on-debit-cards-how-does-it-compare-aV9TB9X6Hian",
+   "title": "https://www.which.co.uk/news/article/first-direct-scraps-fees-for-spending-abroad-on-debit-cards-how-does-it-compare-aV9TB9X6Hian"
+  },
+  {
+   "url": "https://www.starlingbank.com/blog/how-to-avoid-card-charges-abroad/",
+   "title": "https://www.starlingbank.com/blog/how-to-avoid-card-charges-abroad/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/credit-cards-and-loans/credit-cards/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR",
+   "title": "https://www.which.co.uk/money/credit-cards-and-loans/credit-cards/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://www.thetraveler.org/how-starling-bank-works-for-international-spending/",
+   "title": "https://www.thetraveler.org/how-starling-bank-works-for-international-spending/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-credit-card/",
+   "title": "https://www.chase.co.uk/gb/en/product/chase-credit-card/"
+  },
+  {
+   "url": "https://exiap.co.uk/guides/using-a-starling-card-abroad",
+   "title": "https://exiap.co.uk/guides/using-a-starling-card-abroad"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/first-direct/",
+   "title": "https://www.currencyexpert.com/reviews/first-direct/"
+  },
+  {
+   "url": "https://www.currencybrokers.uk/blog/best-travel-credit-cards-uk",
+   "title": "https://www.currencybrokers.uk/blog/best-travel-credit-cards-uk"
+  },
+  {
+   "url": "https://www.prepaidtravelcards.co.uk/reviews/starling-bank-travel-money-card/",
+   "title": "https://www.prepaidtravelcards.co.uk/reviews/starling-bank-travel-money-card/"
+  },
+  {
+   "url": "https://www.finder.com/uk/credit-cards/lloyds-bank/lloyds-ultra-credit-card",
+   "title": "https://www.finder.com/uk/credit-cards/lloyds-bank/lloyds-ultra-credit-card"
+  },
+  {
+   "url": "https://neobankradar.com/articles/chase-uk-abroad-fees-atm-limits/",
+   "title": "https://neobankradar.com/articles/chase-uk-abroad-fees-atm-limits/"
+  },
+  {
+   "url": "https://www.aph.com/community/holidays/using-your-debit-card-abroad-foreign-transaction-fees-for-16-uk-banks-compared/",
+   "title": "https://www.aph.com/community/holidays/using-your-debit-card-abroad-foreign-transaction-fees-for-16-uk-banks-compared/"
+  },
+  {
+   "url": "https://www.yonder.com/blog/the-authoritative-guide-to-the-best-uk-debit-card-with-no-foreign-transaction-fees",
+   "title": "https://www.yonder.com/blog/the-authoritative-guide-to-the-best-uk-debit-card-with-no-foreign-transaction-fees"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/cash-deposits-and-withdrawals/how-much-money-can-i-take-out-from-an-atm/",
+   "title": "https://help.starlingbank.com/personal/topics/cash-deposits-and-withdrawals/how-much-money-can-i-take-out-from-an-atm/"
+  },
+  {
+   "url": "https://help.starlingbank.com/joint/topics/travelling-overseas/can-i-use-my-card-abroad-and-are-there-any-fees-or-charges/",
+   "title": "https://help.starlingbank.com/joint/topics/travelling-overseas/can-i-use-my-card-abroad-and-are-there-any-fees-or-charges/"
+  },
+  {
+   "url": "https://moneytothemasses.com/using-credit/credit-cards/lloyds-ultra-credit-card-review",
+   "title": "https://moneytothemasses.com/using-credit/credit-cards/lloyds-ultra-credit-card-review"
+  },
+  {
+   "url": "https://www.thetraveler.org/lloyds-ultra-travel-card-review-is-it-worth-packing/",
+   "title": "https://www.thetraveler.org/lloyds-ultra-travel-card-review-is-it-worth-packing/"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/the-best-debit-and-credit-cards-to-use-abroad/",
+   "title": "https://becleverwithyourcash.com/the-best-debit-and-credit-cards-to-use-abroad/"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/lloyds-ultra-credit-card/",
+   "title": "https://becleverwithyourcash.com/lloyds-ultra-credit-card/"
+  },
+  {
+   "url": "https://wise.com/gb/blog/starling-bank-limits",
+   "title": "https://wise.com/gb/blog/starling-bank-limits"
+  },
+  {
+   "url": "https://www.nutsaboutmoney.com/banking/best-travel-money-cards",
+   "title": "https://www.nutsaboutmoney.com/banking/best-travel-money-cards"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/travel-with-chase/",
+   "title": "https://www.chase.co.uk/gb/en/support/travel-with-chase/"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/starling-bank/",
+   "title": "https://www.currencyexpert.com/reviews/starling-bank/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B"
+  },
+  {
+   "url": "https://tryabel.com/best-bank-account-for-travelling-uk/",
+   "title": "https://tryabel.com/best-bank-account-for-travelling-uk/"
+  }
+ ],
+ "search_queries": [
+  "best UK bank card for spending abroad no fees 2024",
+  "best UK debit card no foreign transaction fees ATM withdrawals abroad",
+  "Starling vs Monzo vs Chase UK vs Revolut foreign spending fees",
+  "Chase UK cashback overseas spending 2025 OR 2026",
+  "Starling Bank ATM withdrawal limit abroad",
+  "First Direct foreign transaction fees abroad ATM",
+  "Lloyds Ultra credit card foreign fees cash withdrawal interest"
+ ],
+ "latency_s": 37.05,
+ "asked_at": "2026-11-21T17:08:21.212306+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

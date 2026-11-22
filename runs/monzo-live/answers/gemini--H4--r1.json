@@ -1,0 +1,47 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H4",
+ "run": 1,
+ "text": "**Yes, Monzo does offer arranged overdrafts** to eligible UK customers aged 18 and over.\n\n---\n\n### 1. How much does it cost?\nMonzo does not charge standard fixed account or setup fees; instead, **you only pay interest on the amount you borrow**. \n\nMonzo operates a tiered pricing model based on your credit score and financial assessment:\n* **Interest rates:** **19%, 29%, or 39% EAR (variable)**\n* **Representative rate:** **39% APR (variable)** (this is the rate the majority of accepted applicants receive)\n\n#### What that looks like in practice:\n* **Representative Example:** Borrowing **£1,200 for 30 days** at **39.0% EAR** costs approximately **£32.94** in interest.\n* **Smaller borrowing:** Borrowing **£100 for 7 days** at 39% EAR costs roughly **63p–65p**.\n* **Daily calculation:** Interest is calculated daily on the balance you owe and is deducted once a month (on the 1st of the following month).\n\n---\n\n### 2. Overdraft Limits\n* Monzo offers limits of up to **£2,000** for personal accounts, depending on your eligibility and credit file.\n* You can adjust your limit downwards at any time in the app if you want to restrict how much you can borrow.\n\n---\n\n### 3. Extra Fees & Declined Payments\n* **No setup or monthly fees:** There are no annual, monthly, or admin maintenance fees.\n* **No fees for unpaid transactions:** If a direct debit or card payment fails because you do not have enough funds or would exceed your overdraft limit, Monzo will simply decline the transaction for free rather than charging you a fee.\n* **Unarranged overdrafts:** If an \"offline\" transaction (such as a TfL contactless tap or in-flight payment) slips through and takes you over your limit or into the negative without an agreed overdraft, Monzo does not charge a penalty fee, but you will need to pay it back promptly to avoid potential impacts to your credit score.\n\n---\n\n### How to check your eligibility\nYou can check your limit and interest tier directly inside the **Monzo app** (under your profile or borrow section). Monzo uses a **soft credit check** to show you what rate and limit you would qualify for, which will not impact your credit score unless you accept the facility.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEguuZ2Xey5b76wMLc7tjNWeACIMZzbd0cIDng1CgOQEvGIo2N1U2GHmZcvn1YvbTYtWT9P89wUYqKlDRO4TWkZzu4sp5doaDUHu29Zx6DimPig",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3cYNFwaH36A3GvRSjVGcKM5LiIKGfptIE1jhYjHXdfJfwxJ333KwDsOSeX7YM7_NfJhup5R2c8emDIPwlyLf3MMrhuid9dfi_6bUS8xn6Na69Dw==",
+   "title": "overdrafts.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-z2xnWwy7izQjQ0c8S7Ku85FDNRK6NtUSRuTJJR2gy8fIjoJeSeKdQlHKgT-pEqjOUYGFnFx604Ui61w_hrFcap1Rz2Iv9z7vYObEpJjxGXcdvd8bS0NOVpykb4n0rRcRifvgl-q3jX2gbLJWSaXElCD-NoVFRUkVwc0Jo3c5LwXNRwnSA5lkg8glou86-CHshnpTjbGvfceCaW6mrS57Ft4Lsb6E_7hcgweNyEtsZKw2Tw==",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6u5xpLkEmOtLxIfLBvMQ0F2kONVriXOLakLDVWTAaro232cBR8WbiAJ6239_EUfu0_2Olptb3geKWzK1WKEbeO2jN4AMu4f2dpSWyJ8SDYcZMpcJqZ9NsFB83z14KhYhOzt5R9FKqrsEySMmqnxsT6V1mzRzK-dmPeN0zCS1C2xNCS1V3aWWaQaTYrg==",
+   "title": "fundingcircle.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAt4Hy8Z-oI7qlGUi3hjqYcfrtXl9omYQToJoYxz94WJSwkni72igf7fn7iYcyix_T9wEVJUTGUaqjQ6jKDjmDuW4QPBbmYLjJaP25cc_ztpreP8fc9oIN0w30U2k3455N4zaLiqPLidVS9BjgQpV0ft9ohw==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuPQpO81tcrgjUbn_oEZxou2J2cMWDUK6vPxzmIsbfDPnM8pvxYNIRywvm7q2GLdwdWPsP7dlc4MJYXEhymY-wK41n8ZA02tAz3Wh-uLB9XOQucO7WeAzPYMtDqw==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMtT-yW6h4_mrLuASupWhCA2Nbwb00PPS5EdTemi8a2vG-phPF4oeyQ65W2MC0MrRaRL3Nj97b_eLi4jKVdvLmrH9c_DYtumFNMNWhk9l72lcT98bwyZFZqoZMp0X7v8bo",
+   "title": "youtube.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo overdraft interest rate cost UK",
+  "Monzo overdraft pricing EAR"
+ ],
+ "latency_s": 16.64,
+ "asked_at": "2026-11-21T17:57:23.917100+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

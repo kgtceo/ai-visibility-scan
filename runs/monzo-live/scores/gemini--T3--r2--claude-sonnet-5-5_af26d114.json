@@ -1,0 +1,110 @@
+{
+ "engine": "gemini",
+ "question_id": "T3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "negative",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Monzo remains one of the most popular digital banks in the UK, it attracts a specific set of regular complaints."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has scaled to over 9 million users",
+    "verdict": "unverifiable",
+    "fact_id": "F3",
+    "note": "15.2m customers and 10.4m monthly active; 'over 9 million' is a lower bound that contains the figures, so not contradicted."
+   },
+   {
+    "text": "Free foreign ATM withdrawals are capped at typically £200/month fee-free outside the EEA on standard accounts, followed by a 3% charge",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo's paid plans are Extra, Perks and Max",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match."
+   },
+   {
+    "text": "Monzo charges £1 per deposit at PayPoint, with a maximum of £300 in one go and up to £1,000 every 180 days",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees or limits."
+   },
+   {
+    "text": "Larger cheques (over £500) must be posted to Monzo by Royal Mail",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Joint Accounts, and both parties must already have individual Monzo accounts to open one",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Flex is Monzo's buy-now-pay-later credit product, and the app promotes loans and overdrafts",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Features like virtual cards, advanced budgeting, custom categories and credit score tracking were bundled into paid plans",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

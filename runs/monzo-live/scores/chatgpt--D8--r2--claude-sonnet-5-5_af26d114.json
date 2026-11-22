@@ -1,0 +1,100 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D8",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.firstdirect.com/ways-to-bank/?utm_source=openai",
+   "domain": "firstdirect.com",
+   "source_type": "other",
+   "title": "Ways To Bank | Personal Banking Options - first direct bank"
+  },
+  {
+   "url": "https://uk.virginmoney.com/current-accounts/service-quality-indicators/?utm_source=openai",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Independent service quality survey results | Virgin Money UK"
+  },
+  {
+   "url": "https://uk.virginmoney.com/current-accounts/service-quality-indicators/",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Independent service quality survey results | Virgin Money UK"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo for overall service. In the August 2026 Ipsos survey, Monzo ranked first in both Great Britain and Northern Ireland"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide for face-to-face help. It ranked first for branch service in Great Britain"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "In the August 2026 Ipsos survey, Monzo ranked first in both Great Britain and Northern Ireland",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Survey rankings are not covered by the facts (F4 covers NPS only)."
+   },
+   {
+    "text": "79% and 82% of Monzo's customers, respectively, were very or extremely likely to recommend it",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The facts give an NPS of 76, which is a different measure and does not cover these percentages."
+   }
+  ]
+ },
+ "judge_error": null
+}

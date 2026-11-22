@@ -1,0 +1,33 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H2",
+ "run": 1,
+ "text": "**Spending abroad: no fee from Monzo.** You can pay anywhere in any currency with your Monzo card, fee-free. Monzo passes on Mastercard's exchange rate without extra charges.\n\n**Cash withdrawals abroad: free up to a limit, then 3%.** Your limit depends on your account type and where you are. This table is from Monzo's help page: \n\n| | UK & EEA | Outside EEA |\n|---|---|---|\n| Monzo is not my main bank | £400 fee-free every 30 days (3% afterwards) | £200 fee-free every 30 days (3% afterwards) |\n| Monzo is my main bank | Unlimited fee-free | £200 fee-free every 30 days (3% afterwards) |\n| Monzo Plus | Unlimited fee-free | £400 fee-free every 30 days (3% afterwards) |\n| Monzo Premium, Perks & Max | Unlimited fee-free | £600 fee-free every 30 days (3% afterwards) |\n\n\n\n- Monzo's travel page says it counts as your main account if your salary is paid into Monzo.\n- The allowance is rolling, not calendar-based. If you withdraw £150 on the 2nd and £50 on the 5th, that allowance resets on the 2nd and 5th of the next month.\n- Some ATMs charge their own fee, which Monzo doesn't receive. Use a free machine where you can.\n- If an ATM or shop offers to charge you in pounds instead of the local currency, decline. Withdrawing in local currency helps you avoid additional conversion fees.\n\nSome pages I found, including a third-party one, mention a flat £2 withdrawal fee and a different 2.5% rule with a €300 allowance. The £2 fee comes from an unofficial site and doesn't match Monzo's own UK help pages. The €300 figures are from Monzo's Ireland pages, so they don't apply to UK accounts. Allowances can change, so check the Monzo app or the cash withdrawal limits breakdown on their website before you travel.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  }
+ ],
+ "search_queries": [
+  "Monzo fees spending and withdrawing cash abroad"
+ ],
+ "latency_s": 7.7,
+ "asked_at": "2026-11-21T16:49:00.243093+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

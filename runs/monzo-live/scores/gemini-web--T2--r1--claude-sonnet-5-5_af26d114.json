@@ -1,0 +1,166 @@
+{
+ "engine": "gemini-web",
+ "question_id": "T2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Is Monzo Safe? How We Help Protect Your Money and Savings “ Yes, Monzo is a fully regulated UK bank. This means we're authorised by the Prudential Regulat"
+  },
+  {
+   "url": "https://www.digitalbanknetworks.com/partners/monzo",
+   "domain": "digitalbanknetworks.com",
+   "source_type": "other",
+   "title": "Digital Bank Networks Monzo Review 2026 – Best UK Digital Bank? Fees & Features “Monzo also offers overdrafts, personal loans, and a Business account for sole t"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "UK Finance Blog Is Monzo Safe in 2026? FSCS, Fraud & Security Explained “Monzo is a fully authorised UK bank and eligible deposits receive FSCS protection. Some"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Moneyfacts FSCS explained: Are my UK savings safe? - Moneyfacts “For example: * Is Monzo FSCS protected? Monzo is a fully regulated, UK-authorised bank so it ha"
+  },
+  {
+   "url": "https://www.fscs.org.uk/check/check-your-money-is-protected/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "Financial Services Compensation Scheme FSCS bank and savings protection checker “Can't find your firm? If you can't find your provider using the protection chec"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes — Monzo is a real, fully regulated UK bank."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Revolut's standard UK e-money accounts, which use \"safeguarding\" rather than direct FSCS bank deposit protection."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo started out in 2015 as a prepaid card and spending app",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Monzo's origins."
+   },
+   {
+    "text": "Monzo received its full UK banking licence in April 2017",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Licence date not in the facts."
+   },
+   {
+    "text": "Monzo Bank Limited is authorised by the PRA and regulated by both the FCA and the PRA",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo's Firm Reference Number is 730427",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "FRN not in the facts."
+   },
+   {
+    "text": "Eligible deposits held with Monzo are protected by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "FSCS protection is £240,000 for joint accounts",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account limit not in the facts."
+   },
+   {
+    "text": "Monzo holds its own standalone banking licence and does not share it with another brand",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers a standard UK sort code and 8-digit account number, Direct Debits, standing orders, BACS/Faster Payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers arranged overdrafts, personal loans and Monzo Flex instalments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has no physical branches and support is managed through the app or a basic emergency web portal",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Cash deposits at PayPoint or Post Office cost a small fee, or are free within monthly allowances on certain paid plans",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Deposit fees not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

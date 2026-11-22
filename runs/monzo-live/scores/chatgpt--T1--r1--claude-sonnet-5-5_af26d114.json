@@ -1,0 +1,111 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/faq?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo - Frequently asked questions"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/instant-access-savings-pots-web?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - What are Instant Access Savings Pots?"
+  },
+  {
+   "url": "https://protected.fscs.org.uk/check/check-your-money-is-protected/?utm_source=openai",
+   "domain": "protected.fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "Bank & savings protection checker | Check your money is protected | FSCS"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. If Monzo Bank fails, the UK's Financial Services Compensation Scheme (FSCS) protects up to £120,000 per person"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "FSCS protects up to £120,000 per person in eligible cash deposits held with Monzo.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo is a licensed UK bank, so its customers get the same deposit protection as customers of a UK high-street bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Monzo is a UK bank authorised by the PRA with FSCS protection."
+   },
+   {
+    "text": "In most cases, the FSCS pays you back automatically within seven working days; you don't need to make a claim.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Payout timing is not covered by the facts."
+   },
+   {
+    "text": "Add together your Monzo current account, regular Pots, savings held by Monzo itself and your share of any joint account; if the total is £120,000 or less, eligible cash is fully covered.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with the £120,000 per person limit."
+   },
+   {
+    "text": "Two joint holders can have up to £240,000 covered between them, provided neither exceeds their individual limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account coverage is not stated in the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

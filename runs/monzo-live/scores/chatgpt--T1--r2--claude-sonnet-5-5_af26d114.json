@@ -1,0 +1,111 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/faq?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo - Frequently asked questions"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services"
+  },
+  {
+   "url": "https://protected.fscs.org.uk/making-a-claim/customer-info/banking-licences/?utm_source=openai",
+   "domain": "protected.fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "How do banking licences affect FSCS protection? | FSCS"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. If Monzo goes bust, the UK’s FSCS protects up to £120,000 per person in eligible cash deposits"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The FSCS protects up to £120,000 per person in eligible cash deposits held with Monzo Bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo is a UK-authorised bank, so your deposits have the same protection as at a UK high-street bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Monzo is UK authorised by the PRA and FSCS protected."
+   },
+   {
+    "text": "In most cases, the FSCS pays you back automatically within seven working days; you don't need to make a claim.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Payout timing not covered by facts."
+   },
+   {
+    "text": "A two-person joint account can have up to £240,000 protected in total, with each person's share counting towards their own £120,000 limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account protection not covered by facts, though consistent with the £120,000 per person limit."
+   },
+   {
+    "text": "Monzo current account, regular Pots, and savings held directly with Monzo all count towards the single £120,000 limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Which products aggregate is not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

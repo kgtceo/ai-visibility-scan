@@ -1,0 +1,14 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "D5",
+ "run": 1,
+ "text": "At 16 in the UK, you no longer need a parent to open or co-sign a bank account—you can apply independently for a dedicated teen current account. None of these accounts charge monthly fees or offer overdrafts, so you cannot accidentally go into debt.\n\nThe best choice depends on whether you want a slick mobile app, high interest on your savings, or a free cash bonus for opening:\n\nBank & Account\tBest For\tInterest & Perks\tKey Features\nMonzo for 16–17s\tBest all-round app & budgeting\t~2.75%–3% AER variable via linked Instant Access Saver\tInstant spending notifications, budgeting \"Pots\", fee-free spending abroad, and Apple/Google Pay.\nStarling Bank Teen Account\tTravel & top-rated customer service\t0% on current account\tHighest customer satisfaction scores, \"Spaces\" to ring-fence money, fee-free overseas card use/ATM withdrawals, and Apple/Google Pay.\nNationwide FlexOne\tHigh-interest saving + branches\t2% AER on current account + access to 5% AER FlexOne Saver (up to £5,000)\tGreat if you want to deposit cash at a physical branch alongside a solid app, plus fee-free spending abroad.\nSantander 1|2|3 Mini\tFree cash bonus & middle-balance interest\t£50 bonus (when depositing £50 within 31 days) + 3% AER on balances between £1,500 and £2,000\tStrong short-term cash incentive and branch access, though the app is more basic than Monzo or Starling.\nNatWest Adapt\tSmall voucher perk\t£20 gift card on opening + 1.60% AER interest\tSolid app with bill-splitting tools, Apple/Google Pay, and easy branch access.\nWhich one should you pick?\n\nIf you're getting a part-time job and want easy budgeting: Go with Monzo or Starling. Both let you separate money for bills/goals from your everyday spending card in seconds, and neither charges foreign transaction fees when you go on holiday.\n\nIf you have savings to grow: Open Nationwide FlexOne so you can pair it with their 5% AER FlexOne Saver, or grab Santander if you want an immediate £50 boost. (You are also allowed to hold more than one account—for instance, using Monzo for daily spending and Nationwide for savings.)\n\nWhat you'll need to apply\n\nMost of these let you apply directly on your phone in about 10 minutes. You will need:\n\nValid photo ID (a UK passport or provisional driving licence).\n\nProof of address (such as a recent bank/building society letter, NHS letter, or college enrolment letter—though digital banks like Monzo and Starling often verify your address automatically without paperwork).\n\nAre you mostly looking for an everyday spending card for a part-time job, or somewhere to build up savings?",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 22.47,
+ "asked_at": "2026-11-21T13:31:32.615730+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

@@ -1,0 +1,59 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "H1",
+ "run": 1,
+ "text": "Usually, no—Monzo’s paid plans are only worth it if you will genuinely use the specific benefits. For most UK users, the free Monzo account is already strong; Extra is the easiest small upgrade, Perks can pay for itself if you use several lifestyle perks, and Max is mainly a bundled-insurance decision.\nmonzo\n\nCurrent plans and prices\nPlan\tMonthly cost\tBest for\tMain extras\nFree\t£0\tMost people\tFull current account, budgeting, Pots, 2.80% AER instant-access savings, one connected account, one virtual card. \nmonzo\n\nExtra\t£3\tPeople who want better money management\tUnlimited connected accounts, up to five virtual cards, advanced round-ups, custom categories, two credit scores, 3.15% AER instant-access savings. \nmonzo\n\nPerks\t£9\tRegular rail users and people who will use the partner offers\tAnnual Railcard, weekly Greggs treat, monthly Vue ticket, Uber One, YouTube Premium Lite, 3.55% AER instant-access savings, £600 monthly overseas ATM allowance. \nmonzo\n\nMax\tFrom £19\tPeople who would otherwise buy travel, phone and breakdown cover\tEverything in Perks plus worldwide travel insurance, worldwide phone insurance, UK/Europe breakdown cover, and 3.80% AER instant-access savings; family cover costs an extra £4. \nmonzo\n\nHow to judge value\n\nThe key question is not “are the perks worth £300 a year?” but “would I buy or use these things anyway?” Monzo itself values Perks’ partner benefits at over £300 a year, but that is only real value if you would otherwise pay for them or would use them regularly.\nmonzo\n\nExtra (£36/year): Worth it if you value connected accounts, virtual cards, custom budgeting, or a higher savings rate. It is the least risky paid upgrade because the features are broadly useful rather than dependent on lifestyle habits.\nmonzo\n\nPerks (£108/year): Potentially good value if you travel by train, use Uber Eats/Uber, watch YouTube, and would claim the Greggs and Vue benefits. If you would use only the Railcard, it is unlikely to justify £9 a month on its own.\nmonzo\n\nMax (£228/year, or £276 with family): Worth considering only if you do not already have equivalent cover and would otherwise buy annual travel insurance, phone insurance, and breakdown cover. Check eligibility, excesses, claim limits, and exclusions first—particularly age limits, pre-existing medical conditions, phone value, and the insurance provider’s terms.\nmonzo\n\nSavings-rate caveat\n\nThe higher savings rates are a real benefit, but not automatically enough to cover the subscription. Moving from the free plan’s 2.80% AER to Max’s 3.80% AER is a 1 percentage-point uplift; on £10,000, that is about £100 a year before tax considerations—well below Max’s £228 annual cost.\nmonzo\n\nYou would need roughly £22,800 in the relevant instant-access savings Pot for that 1-point uplift alone to offset Max’s annual fee. And Monzo’s rates are variable, so they can change.\nmonzo\n\nMy practical recommendation\n\nChoose Free if you mainly want a well-designed UK current account, spending insights, Pots, and ordinary overseas card spending.\n\nChoose Extra if you actively budget across several banks or value virtual cards; it is the most defensible upgrade at £3 a month.\nmonzo\n\nChoose Perks only after listing the perks you will actually claim each month; it works best for a regular commuter who also uses several of the partner benefits.\nmonzo\n\nChoose Max only if the insurance bundle replaces cover you would otherwise buy, and you are comfortable with the policy terms. Otherwise, buying only the insurance you need is likely better value.\nmonzo\n\nOne important distinction: Monzo’s paid plans are packaged bank accounts, not an essential banking upgrade. The free account still includes FSCS protection for eligible deposits up to £120,000 per person, so you are not paying for core account safety.\nmonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "monzo"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "tryabel Are Monzo's Paid Plans Worth It? Extra, Perks, Max Monzo plans cost £3, £9 or £19 a month. Perks needs £21,600 in savings to pay for itself on interest"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-review/",
+   "title": "tryabel Monzo Review: Is It Worth Making Monzo Your Main Bank? An honest Monzo review for 2026: current account, savings Pots, budgeting tools, the paid plans a"
+  },
+  {
+   "url": "https://www.thepennypincher.co.uk/post/post-monzo-review",
+   "title": "thepennypincher.co Monzo Review 2026: A Really Useful Free Money Management App Monzo has become a really useful free money management app. Here's how I use it"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=3KjQEZGdPM8&pp=ugUHEgVlbi1HQg==",
+   "title": "youtube I Tested Every Monzo Card in the UK... Here's What I Found Is Monzo actually the best card to travel with, or just the one everyone happens to own? I pu"
+  },
+  {
+   "url": "https://ecommerce-platforms.com/banking/monzo-review",
+   "title": "ecommerce-platforms Monzo Review: Does This Digital Bank Live Up to The Hype? If you're looking for an in-depth Monzo review you're in the right place. Click he"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "title": "forbes Monzo UK Bank Review: Pros & Cons Monzo is an app-based bank with a wide range of money management features on offer. We’ve rounded up what you need to k"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb",
+   "title": "which.co Monzo changes its paid accounts - are the perks worth paying for? - Which? New perks include a Greggs weekly treat and a railcard"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=9VgIQu7oQ0c",
+   "title": "youtube Monzo Review 2026: Is it Worth it in 2026? Our comprehensive review of Monzo in 2026 - it's key features, the pros and cons, the plans and more! 🤑 Free"
+  },
+  {
+   "url": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-revolut-which-is-best-for-you",
+   "title": "unbiased Monzo vs Revolut: which is best for you? Discover the significant differences between Monzo and Revolut and find out which digital bank suits your fina"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 24.22,
+ "asked_at": "2026-11-21T13:16:45.798670+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

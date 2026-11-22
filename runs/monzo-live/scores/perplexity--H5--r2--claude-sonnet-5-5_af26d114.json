@@ -1,0 +1,189 @@
+{
+ "engine": "perplexity",
+ "question_id": "H5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Joint Bank Account | Simplify Shared Costs with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How to open a Monzo Personal Account"
+  },
+  {
+   "url": "https://monzo.com/gb/help/opening-an-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Opening a Monzo Personal, Joint or Business Account"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Opening a joint account"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/en-es/current-account/joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Joint Bank Account Online | Monzo Spain"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Joint Savings Accounts | Save Together with Monzo"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Apply for an Arranged Overdraft with Monzo"
+  },
+  {
+   "url": "https://monzo.com/learn/money-together/joint-account-for-shared-living-expenses",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How a Joint Bank Account Can Simplify Shared Living Expenses"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Opening a joint account - Monzo Help"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-overdraft-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "About joint overdrafts at Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Joint Account terms"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How to open a Monzo Joint Account"
+  },
+  {
+   "url": "https://monzo.com/-webviews/joint-account-terms-and-conditions/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo –"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. In the UK, you can open a Monzo joint account with one other person"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can open a Monzo joint account with one other person, who doesn't have to be your partner.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint accounts."
+   },
+   {
+    "text": "Both need to be 18 or over, live in the UK, and already have Monzo personal current accounts, with Payments with Friends switched on.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Eligibility not covered by facts."
+   },
+   {
+    "text": "To apply, go to Home in the Monzo app, tap +, and choose Apply for a Joint Account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Application steps not covered by facts."
+   },
+   {
+    "text": "You each get a debit card and can both see transactions and make payments; both can set up Direct Debits and standing orders.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account features not covered by facts."
+   },
+   {
+    "text": "For a joint overdraft, eligibility is assessed for both and you're both responsible for repaying it; an overdraft isn't guaranteed.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Overdraft terms not covered by facts."
+   },
+   {
+    "text": "A joint account creates a financial association but doesn't merge credit scores.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Credit file effects not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

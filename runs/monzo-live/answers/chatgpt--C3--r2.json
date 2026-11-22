@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C3",
+ "run": 2,
+ "text": "**I’d choose Monzo for a European holiday**, assuming you’re comparing the free UK accounts. You can pay straight from your pound balance at Mastercard’s exchange rate, with no Monzo conversion fee, even at weekends. There’s no need to buy euros before you go. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))\n\n**Revolut is worth choosing if you want to buy euros in advance** and set your holiday budget in euros. On Revolut Standard, you can exchange up to £1,000 per month on weekdays without an extra fee; there’s a 1% fee on the amount above that. Weekend exchanges also carry a 1% fee. If you already have enough euros to cover a euro purchase, there’s no exchange to make when you pay. ([help.revolut.com](https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai))\n\n**If you’ll need cash, Monzo also has the edge in the EU.** Its UK and European Economic Area allowance is £400 per rolling 30 days, or unlimited if you meet its main-bank criteria. Outside the EEA, the free account’s allowance is £200 per rolling 30 days. Revolut Standard allows £200 or five withdrawals per month, whichever comes first. ATM operators can still charge their own fees. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))\n\nWhichever you take, **choose the local currency, not pounds**, if a terminal or cash machine offers a choice. That keeps the conversion with your card provider rather than the merchant or ATM. ([monzo.com](https://monzo.com/features/travel?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai",
+   "title": "Standard plan | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/features/travel?utm_source=openai",
+   "title": "Fee-free Debit & Credit Cards Made for Travel | Monzo"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com help using Monzo abroad EEA £400 free fees Mastercard UK"
+ ],
+ "latency_s": 11.36,
+ "asked_at": "2026-11-21T16:57:47.360321+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

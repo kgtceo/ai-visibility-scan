@@ -1,0 +1,35 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "H2",
+ "run": 1,
+ "text": "Card Spending AbroadMonzo does not charge any fees for paying by card (or contactless/Apple Pay/Google Pay) in any currency abroad. They pass Mastercard's exchange rate directly onto you with no markup. (Tip: Always choose to pay in the local currency rather than GBP at card terminals or ATMs so you don't get hit by the merchant's own poor exchange rate.)   \nMonzo\n+ 1\n\nCash Withdrawals AbroadMonzo gives you a fee-free ATM allowance over a rolling 30-day period, after which they charge a 3% fee. Your allowance depends on where you are travelling and which Monzo account tier you have:   \nMonzo\n\nAccount Type\tUK & EEA*\tOutside the EEA\tFee After Allowance\nFree (Monzo is NOT your main bank)\t£400 every 30 days\t£200 every 30 days\t3%\nFree (Monzo IS your main bank)\tUnlimited\t£200 every 30 days\t3%\nMonzo Extra / legacy Plus\tUnlimited\t£200 (Extra) / £400 (Plus)\t3%\nMonzo Perks / Max / legacy Premium\tUnlimited\t£600 every 30 days\t3%\n\n*The EEA includes all EU countries plus Iceland, Liechtenstein, and Norway.   \nMonzo\n\nA few things to keep in mind:\n\nRolling 30-day reset: Your limit does not reset on the 1st of the month—each withdrawal drops off your allowance exactly 30 days after you made it.   \nMonzo\n\n\"Main bank\" criteria: Monzo generally counts as your main bank if you pay at least £500 into your account and have an active Direct Debit within a rolling 35-day period (or receive DWP/DfC benefit payments into it). You can check your exact live allowance in the app under Account > Fees and allowances.   \nPocketWise\n+ 1\n\nLocal ATM operator fees: Even when Monzo doesn't charge you, some overseas ATMs charge their own flat withdrawal fee (which will be shown on the ATM screen before you confirm).   \nMonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Monzo Fee-free Debit & Credit Cards Made for Travel | Monzo “Travel money that goes the distance * Spend overseas with no extra fees. Pay anywhere, in any curre"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-fees",
+   "title": "Monzo Fees and allowances - Monzo Help “We don't charge exchange fees either, you can read more about our exchange rates here. If an ATM gives you the option to"
+  },
+  {
+   "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+   "title": "Monzo How Much Can You Withdraw From an ATM? | ATM Limits | Monzo “Find out how much you can withdraw fee-free in the app. Tap the three dots menu on the accoun"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "Monzo Understanding fees for using your Monzo card abroad “ Any fees you may have to pay are partly based on whether you're in the UK & European Economic Area ("
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-atm-withdrawal-limit/",
+   "title": "PocketWise Monzo ATM Withdrawal Limit 2026 — UK and Abroad Cash Limits “Table_title: Monzo ATM Limits by Plan (September 2026) Table_content: | Allowance | Free"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 34.45,
+ "asked_at": "2026-11-21T13:38:13.024297+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

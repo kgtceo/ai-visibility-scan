@@ -1,0 +1,29 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H3",
+ "run": 2,
+ "text": "Monzo's rate depends on which type of Savings Pot you use and which Monzo plan you're on. The sources I found disagree, which probably means the rates have changed recently.\n\n**Monzo's own pages**\n- Instant Access Savings: Free 2.80% AER (variable), Extra 3.15%, Perks/Plus/Premium 3.55%, Max and Max Family 3.80%.\n- Select Access Savings pays 3.45% AER (variable) on free accounts and 3.70% on Perks, Plus, Premium, Max and Max Family, as long as you make 2 or fewer withdrawals a year per Pot. A third withdrawal temporarily drops the rate to 2.65% for free accounts, or 3.10% for the paid plans.\n- Fixed Rate pots come in 1, 2 and 3 year terms, with rates of up to 5.25% AER (fixed), paid at maturity.\n- Interest is paid on the 1st of the month.\n\n**A more recent third-party snapshot**\nA comparison site dated 17 October 2026 listed lower figures. The free plan paid 2.75% AER variable on Instant Access, 3.15% on Select Access with two or fewer withdrawals a year, and 4.70% fixed on a one-year Fixed Rate pot. It showed paid plans at 3.00%, 3.25% and 3.50% for Instant Access. That site isn't Monzo, so treat it with some caution.\n\nThe Monzo pages I found may be out of date, since some looked months old. Variable rates also change often. Check the Savings tab in the Monzo app for your current rate.\n\nIf you tell me which plan you're on, I can narrow this down to your likely rate.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, ..."
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "Monzo Savings Pot Interest Rates: 2.75% to 4.70% by Plan"
+  }
+ ],
+ "search_queries": [
+  "Monzo savings interest rates Instant Access Pots"
+ ],
+ "latency_s": 8.37,
+ "asked_at": "2026-11-21T16:49:22.889635+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

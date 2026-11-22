@@ -1,0 +1,177 @@
+{
+ "engine": "perplexity",
+ "question_id": "T4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5804281.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "[PDF] Decision Reference DRN-5804281 - Financial Ombudsman Service"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5687602.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "DRN-5687602 The complaint Mr G complains Monzo Bank ..."
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5559257.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5559257"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3764100.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-3764100"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5379725.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5379725"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4845058.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4845058"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4396027.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4396027"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2063005.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-2063005"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3431449.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-3431449"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4524410.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4524410"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4933382.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4933382"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5407663.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5407663"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4982704.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4982704"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?BusinessName=Monzo&Business=Monzo&DateFrom=&DateTo=&Sort=relevance&SecurityID=11c74a4152b6f48e721e6dc621ed7615fe0a8059&Captcha=&Captcha_Timestamp=1642107624&Start=100",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Ombudsman decisions – Financial Ombudsman service"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "neutral",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo can temporarily freeze or restrict an account while it reviews activity, verifies identity, or meets legal and regulatory obligations."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo can temporarily freeze or restrict an account while it reviews activity, verifies identity, or meets legal and regulatory obligations.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezes."
+   },
+   {
+    "text": "Monzo may not be able to explain the reason or give a specific timeline while checks are ongoing.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo's official help page for frozen or locked accounts is at monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers help page URLs."
+   },
+   {
+    "text": "If unhappy with how Monzo handled it, you can make a formal complaint through Monzo and may be able to take it to the Financial Ombudsman Service.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaints process is not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

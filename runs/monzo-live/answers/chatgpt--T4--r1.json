@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T4",
+ "run": 1,
+ "text": "**Yes.** Monzo can temporarily restrict a UK account while it carries out security or financial-crime checks. A review doesn’t mean you’ve done anything wrong or that your account is being closed. Monzo says most reviews take a couple of hours and almost all finish within two days, though some take longer. It can’t always tell you what triggered the review. ([monzo.com](https://monzo.com/help/account-and-profile/your-account-is-under-review))\n\n- **Check the Monzo app first.** It tells you which restrictions apply. For example, you may still be able to pay by card even if bank transfers are blocked. Monzo sends updates and requests for documents in the app; reply there promptly if it asks for anything. ([monzo.com](https://monzo.com/help/account-and-profile/your-account-is-under-review))\n- **If you can’t pay for essentials, don’t wait for the review to finish.** Open in-app chat, ask for an agent and say exactly what you need and when—for example, “I can’t pay for my prescription today. What help is available?” Urgent support is available 24/7. If you can’t access the app, call Monzo free in the UK on **0800 088 4040**. ([monzo.com](https://monzo.com/help/account-and-profile/your-account-is-under-review))\n- **If you’re unhappy with how Monzo handles it,** make a formal complaint in the app or email **complaints@monzo.com**. Explain when the restriction started and how it affected you. If you’re unhappy with Monzo’s final response, you can usually take the complaint to the **Financial Ombudsman Service** for free within **six months** of that response. ([monzo.com](https://monzo.com/help/legal-stuff/make-complaint-web?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/account-and-profile/your-account-is-under-review",
+   "title": "Monzo Help - Why is my account under review?"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web?utm_source=openai",
+   "title": "Monzo Help - Making a complaint"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK frozen account Monzo what to do chat call 0800 urgent money freeze complaints financial ombudsman"
+ ],
+ "latency_s": 11.1,
+ "asked_at": "2026-11-21T17:02:34.650744+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

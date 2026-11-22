@@ -1,0 +1,14 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "D2",
+ "run": 1,
+ "text": "",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 0.0,
+ "asked_at": "2026-11-21T13:53:25.955269+00:00",
+ "error": "LoginWall: perplexity-web asked for a sign-in instead of answering (signed-out quota reached, or sign-in required). Resume later with the same --scan-id; failed questions are retried. Or `aivs login perplexity` to use your own account.",
+ "synthetic": false,
+ "access": "api"
+}

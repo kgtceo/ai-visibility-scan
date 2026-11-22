@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C2",
+ "run": 1,
+ "text": "Neither bank is better for everyone. It depends on what you want from it. I'm assuming you mean personal accounts, and I've added a business note at the end.\n\n**Pick Monzo if:**\n- **Budgeting matters most to you.** Monzo is the pick for the best budgeting tools, pots to separate your money, and a more feature-rich daily banking experience. It also has bill splitting, instant Monzo-to-Monzo payments and connected accounts, so you can see other banks in the app.\n- **You want more ways to borrow.** Monzo offers personal loans and the Monzo Flex credit card as well as an overdraft. It also has packaged accounts with insurance, like Monzo Max (from £19 a month).\n\n**Pick Starling if:**\n- **You want everything free without upsells.** Starling suits people who want no monthly plans, generous free cash withdrawals and a solid easy-access saver.\n- **You travel a lot.** On a free account, Monzo gives £200 a month of free foreign ATM withdrawals and charges 3% after that. Starling is unlimited, up to £300 a day. Neither charges fees on foreign card spending.\n- **You use an overdraft.** Starling charges 15% EAR on arranged overdrafts. Monzo charges 19–39% EAR, depending on your credit score.\n- **You prefer a simpler app.** Starling feels cleaner and more focused, with less clutter.\n\n**Savings:** The two are close, and the rates change often, so check both apps before you decide. On a free account, Starling's Easy Saver has recently paid a higher headline rate (around 4.00% AER variable, including a first-year bonus). Monzo can match or beat it only on its paid Perks or Max plans.\n\n**What the reviewers say:** They split. Generation Money gives Starling the edge, because its personal account has no monthly fees and it gives access to a personal finance marketplace. Another review recommends picking Monzo as your primary account. Both are FSCS protected up to £120,000.\n\n**Business accounts:** Starling is generally recommended for most businesses, because its free tier includes accounting integrations and an overdraft, which Monzo doesn't offer. Monzo came first for business service quality in the August 2026 results, though.\n\n**My suggestion:** Choose Monzo if you want to track and control your spending. Choose Starling if you want a simple, free bank that's good for travel. Both are free to open, so many people use one for everyday spending and the other for savings or travel.",
+ "citations": [
+  {
+   "url": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/",
+   "title": "Monzo vs Starling for Students 2026/27"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "title": "Monzo vs Starling Bank: which digital bank is better in 2026?"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "title": "Monzo vs Starling (2026): Which Digital Bank Is The Best? - ..."
+  },
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "title": "Monzo vs Starling: Which Digital Bank Is Best in 2026?"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling",
+   "title": "Monzo vs Starling Business (2026) — Which Should You Open?"
+  }
+ ],
+ "search_queries": [
+  "Monzo vs Starling comparison 2026"
+ ],
+ "latency_s": 9.21,
+ "asked_at": "2026-11-21T16:46:58.576203+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

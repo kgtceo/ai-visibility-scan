@@ -1,0 +1,27 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "D4",
+ "run": 1,
+ "text": "For fee-free spending abroad from the UK, Starling Bank and Chase are the best overall debit cards, while Lloyds Ultra and Barclaycard Rewards are the top credit cards. The best choice depends on whether you prefer debit (no credit checks, instant budgeting) or credit (Section 75 protection on big bookings).   \nMoney Saving Expert\n+ 1\n\nTop UK Fee-Free Travel Cards Compared\nCard\tType\tForeign Spending Fee\tOverseas ATM Withdrawals\tKey Perks & Catch\nStarling Bank\tDebit\t0% (Mastercard rate)\tFee-free (up to £300/day, max 6/day)\tBest all-rounder: No monthly ATM cap, great app, no credit check.\nChase UK\tDebit\t0% (Mastercard rate)\tFee-free (up to £500/day, £1,500/month)\tBest for rewards: 1% cashback on everyday spending in year 1 (capped/subject to terms).\nFirst Direct 1st Account\tDebit\t0% (Mastercard rate)\tFee-free (up to £500/day)\tBest traditional bank: Often offers a lucrative switching bonus and top customer service.\nLloyds Ultra\tCredit\t0% (Visa rate)\tFee-free, but daily interest applies\tBest credit card: 1% cashback worldwide in year 1 (0.25% after) + Section 75 protection.\nBarclaycard Rewards\tCredit\t0% (Visa rate)\tFee-free & interest-free (if paid in full)\tBest credit card for cash: 0.25% cashback; rare credit card with no cash advance interest.\nMonzo (Free)\tDebit\t0% (Mastercard rate)\tFree in EEA; £200/30 days outside EEA (3% after)\tGreat for splitting group bills and budgeting, but restrictive for cash outside Europe.\nWhich One Should You Pick?\n\nFor everyday spending & cash withdrawals: Go with Starling Bank. Unlike Monzo or Revolut, Starling doesn't restrict your free monthly ATM withdrawals or add weekend exchange rate markups. Chase is an equally strong alternative if you want cashback and don't need more than £1,500/month in foreign cash.   \nYonder\n+ 1\n\nFor hotels, flights, and car hire: Use a fee-free credit card like Lloyds Ultra or Barclaycard Rewards. Paying by credit card gives you Section 75 protection on purchases between £100 and £30,000 if a company goes bust or something goes wrong—and car rental desks strongly prefer credit cards for security deposits. (Always set up a Direct Debit to pay the balance in full each month to avoid high APR interest.)   \nMoney Saving Expert\n+ 1\n\nIf you don't want a new bank account: Trading 212 (free Invest account, no investing required) offers a Mastercard debit card with 0% fees and the pure interbank exchange rate, though free ATM withdrawals are capped at £400/month.\n\nGolden Rule When Paying Abroad\n\nAlways choose to pay in the local currency (e.g., Euros, Dollars) on card machines and ATMs. If you select GBP (£), the merchant or ATM uses Dynamic Currency Conversion (DCC) and applies their own terrible exchange rate, wiping out your card's fee-free benefit.\n\nAre you planning a specific trip where you'll need lots of cash, or mostly paying by card?",
+ "citations": [
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "title": "Money Saving Expert Best Travel Credit & Debit Cards 2026 - Fees & Top Picks “Top travel cards – Which is the winner? * Overall top pick. Lloyds Ultra pays 1% c"
+  },
+  {
+   "url": "https://www.yonder.com/blog/the-authoritative-guide-to-the-best-uk-debit-card-with-no-foreign-transaction-fees",
+   "title": "Yonder The authoritative guide to the Best UK Debit Card with no foreign “* ProviderFree ATM AllowanceExcess FeeYonder (Debit)£200/monthNo FX feeStarlingNo mont"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "title": "Wise Best UK debit cards with no foreign transaction fee - Wise “6 * Chase card. The Chase card can be used abroad wherever Mastercard is accepted. Chase's curr"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 31.18,
+ "asked_at": "2026-11-21T13:31:10.124633+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

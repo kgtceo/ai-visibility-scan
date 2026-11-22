@@ -1,0 +1,586 @@
+{
+ "engine": "grok",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "https://generationmoney.co.uk/monzo-vs-starling/"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/savings/starling-bank-easy-access-saver-is-it-worth-it",
+   "domain": "moneyweek.com",
+   "source_type": "other",
+   "title": "https://moneyweek.com/personal-finance/savings/starling-bank-easy-access-saver-is-it-worth-it"
+  },
+  {
+   "url": "https://monzo.com/savings/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings/instant-access"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/starling-vs-monzo",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/starling-vs-monzo"
+  },
+  {
+   "url": "https://statrys.com/reviews/starling-vs-monzo-business-account",
+   "domain": "statrys.com",
+   "source_type": "other",
+   "title": "https://statrys.com/reviews/starling-vs-monzo-business-account"
+  },
+  {
+   "url": "https://outboundlynx.com/using-monzo-credit-card-abroad/",
+   "domain": "outboundlynx.com",
+   "source_type": "other",
+   "title": "https://outboundlynx.com/using-monzo-credit-card-abroad/"
+  },
+  {
+   "url": "https://www.starlingbank.com/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/guides/fscs-protection",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "https://bankcreditratings.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/monzo-vs-starling-vs-revolut/"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/easy-saver/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/savings/easy-saver/"
+  },
+  {
+   "url": "https://www.starlingbank.com/contact/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/contact/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "domain": "savesterling.co.uk",
+   "source_type": "other",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/"
+  },
+  {
+   "url": "https://consumer-credit.org/banking-savings/fscs-protection/",
+   "domain": "consumer-credit.org",
+   "source_type": "other",
+   "title": "https://consumer-credit.org/banking-savings/fscs-protection/"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/",
+   "domain": "studentmoneyuk.co.uk",
+   "source_type": "other",
+   "title": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-starling/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-vs-starling/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-fees/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-fees/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/banks-building-societies-credit-unions/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/banks-building-societies-credit-unions/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-atm-withdrawal-limit/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-atm-withdrawal-limit/"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/cash-deposits-and-withdrawals/how-much-money-can-i-take-out-from-an-atm/",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://help.starlingbank.com/personal/topics/cash-deposits-and-withdrawals/how-much-money-can-i-take-out-from-an-atm/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-atm-withdrawal-limit/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-atm-withdrawal-limit/"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html",
+   "domain": "independent.co.uk",
+   "source_type": "news",
+   "title": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html"
+  },
+  {
+   "url": "https://depositscout.com/banks/starling",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/starling"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://starlingbank.com/savings/easy-saver",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://starlingbank.com/savings/easy-saver"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/starling/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/starling/"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/using-your-debit-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-abroad/using-your-debit-card-abroad"
+  },
+  {
+   "url": "https://wise.com/gb/blog/starling-bank-limits",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "https://wise.com/gb/blog/starling-bank-limits"
+  },
+  {
+   "url": "https://monzo.com/help/app-help/contacting-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/app-help/contacting-support"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/savings/"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/monzo-vs-starling",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "https://bankadvisor.co.uk/monzo-vs-starling"
+  },
+  {
+   "url": "https://banksmobile.net/starling-vs-monzo/",
+   "domain": "banksmobile.net",
+   "source_type": "other",
+   "title": "https://banksmobile.net/starling-vs-monzo/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-general-info/us-calling-monzo-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-general-info/us-calling-monzo-support"
+  },
+  {
+   "url": "https://neobankradar.com/articles/monzo-uk-atm-limits-rolling-30-days/",
+   "domain": "neobankradar.com",
+   "source_type": "other",
+   "title": "https://neobankradar.com/articles/monzo-uk-atm-limits-rolling-30-days/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-card-abroad"
+  },
+  {
+   "url": "https://community.monzo.com/t/customer-service-monzo-vs-starling/124015",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/customer-service-monzo-vs-starling/124015"
+  },
+  {
+   "url": "https://www.itechguides.com/compare/starling-bank-vs-monzo/",
+   "domain": "itechguides.com",
+   "source_type": "other",
+   "title": "https://www.itechguides.com/compare/starling-bank-vs-monzo/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html"
+  },
+  {
+   "url": "https://baypayforum.com/news/regulation-news/monzo-beats-chase--nationwide--and-starling-in-uk-customer-satisfaction---yougov",
+   "domain": "baypayforum.com",
+   "source_type": "other",
+   "title": "https://baypayforum.com/news/regulation-news/monzo-beats-chase--nationwide--and-starling-in-uk-customer-satisfaction---yougov"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/cash-isas"
+  },
+  {
+   "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/financial-services-compensation-scheme-fscs/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "https://www.businessexpert.co.uk/financial-services-compensation-scheme-fscs/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://www.starlingbank.com/blog/how-to-avoid-card-charges-abroad/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/blog/how-to-avoid-card-charges-abroad/"
+  },
+  {
+   "url": "https://www.starlingbank.com/send-money-abroad/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/send-money-abroad/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/instant-access-savings",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/instant-access-savings"
+  },
+  {
+   "url": "https://www.tradingandinvestmentnews.co.uk/fscs-protection-limit/",
+   "domain": "tradingandinvestmentnews.co.uk",
+   "source_type": "other",
+   "title": "https://www.tradingandinvestmentnews.co.uk/fscs-protection-limit/"
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/www.monzo.com?languages=all&sort=recency",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/review/www.monzo.com?languages=all&sort=recency"
+  },
+  {
+   "url": "https://www.kaeltripton.com/fscs-protection-limit-uk/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/fscs-protection-limit-uk/"
+  },
+  {
+   "url": "https://www.starlingbank.com/news/5-easy-saver-release/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/news/5-easy-saver-release/"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/monzo-under-16s-vs-starling-under-16s",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/banking/childrens-banking/monzo-under-16s-vs-starling-under-16s"
+  },
+  {
+   "url": "https://www.finder.com/uk/business/monzo-vs-starling",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/business/monzo-vs-starling"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/travel/"
+  },
+  {
+   "url": "https://help.starlingbank.com/joint/topics/travelling-overseas/can-i-use-my-card-abroad-and-are-there-any-fees-or-charges/",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://help.starlingbank.com/joint/topics/travelling-overseas/can-i-use-my-card-abroad-and-are-there-any-fees-or-charges/"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/personal"
+  },
+  {
+   "url": "https://www.starlingbank.com/send-money-abroad/country-fees/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/send-money-abroad/country-fees/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html"
+  },
+  {
+   "url": "https://www.telegraph.co.uk/money/banking/current-accounts/guide-monzo-vs-starling/",
+   "domain": "telegraph.co.uk",
+   "source_type": "news",
+   "title": "https://www.telegraph.co.uk/money/banking/current-accounts/guide-monzo-vs-starling/"
+  },
+  {
+   "url": "https://firststepsavings.com/monzo-vs-starling-bank-uk/",
+   "domain": "firststepsavings.com",
+   "source_type": "other",
+   "title": "https://firststepsavings.com/monzo-vs-starling-bank-uk/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/monzo-vs-starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/resources/tools/currency-calculator/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/resources/tools/currency-calculator/"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2254029/bank-boosts-easy-saver-interest-rate",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2254029/bank-boosts-easy-saver-interest-rate"
+  },
+  {
+   "url": "https://depositscout.com/banks/starling/easy-saver",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/starling/easy-saver"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "If budgeting tools and optional extras matter more, Monzo is often the better fit."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For a simple free everyday account — especially if you travel or might use an overdraft — Starling usually edges it."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both are fully licensed UK banks with FSCS protection up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "fee-free overseas card spending (Mastercard rate)",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo’s free account limits fee-free cash outside the UK/EEA to about £200 every rolling 30 days, then 3%",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Extra (£3/month), Perks (£9) and Max (from £19)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Instant Access is about 2.80% AER variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Monzo’s overdraft rates are 19%, 29% or 39% EAR",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "Monzo charges £1 per cash deposit",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Trustpilot is frequently around 4.6 for Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Trustpilot ratings."
+   },
+   {
+    "text": "Loans and Monzo Flex are available (subject to eligibility)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these products."
+   },
+   {
+    "text": "Max adds travel, phone and breakdown cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plan benefits are not covered by the facts."
+   },
+   {
+    "text": "Monzo has Pots, Salary Sorter, detailed categories, trends and spending targets",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

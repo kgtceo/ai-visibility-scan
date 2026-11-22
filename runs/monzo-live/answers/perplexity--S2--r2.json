@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "S2",
+ "run": 2,
+ "text": "Yes. Monzo’s UK personal current account can receive your salary and pay bills by Direct Debit and standing order, so you can use it as your main account. You can give your employer your Monzo account details, or switch using the Current Account Switch Service, which moves your balance and regular payments and redirects payments sent to your old account. A full switch usually takes seven working days and closes your old account.\n\nA few things to weigh up:\n\n- **Cash:** deposits are limited to £750 a month and usually cost £1 per deposit.\n- **Savings protection:** eligible deposits are covered by the FSCS up to £120,000 per person.\n- **If you’re switching:** check any payments or services that use your old card details separately; they may need updating.\n\nIf you rely on depositing lots of cash or want a backup account, you could keep another bank account open rather than doing a full switch.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/cash-deposit-limit",
+   "title": "Monzo Help - Cash deposit limits"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/accountlimits",
+   "title": "What are the spending limits for accounts?"
+  },
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/cash-deposit-how-to",
+   "title": "Making a cash deposit"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-2-11",
+   "title": "Terms & Conditions"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/cash-deposit-limit-why",
+   "title": "Why there's a cash deposit limit"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/08/adding-money-to-monzo",
+   "title": "​​How do I add money to my Monzo account?"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fee-information/version-1-8/fee-information-version-1.8.pdf",
+   "title": "[PDF] Monzo Fee Information Document v1.8"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "title": "Get Paid Early | Payday, the Monzo Way"
+  }
+ ],
+ "search_queries": [
+  "Monzo current account salary Direct Debit standing orders FSCS UK",
+  "Monzo salary account switch guarantee UK direct debits",
+  "Monzo cash deposits limits current account UK"
+ ],
+ "latency_s": 5.18,
+ "asked_at": "2026-11-21T17:44:12.790508+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

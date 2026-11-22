@@ -1,0 +1,110 @@
+{
+ "engine": "gemini",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, absolutely. Monzo is a fully licensed UK bank, and millions of people use it as their primary bank account"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully licensed UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with PRA authorisation and FCA/PRA regulation."
+   },
+   {
+    "text": "Eligible deposits are protected up to £85,000 per person by the FSCS",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states the FSCS limit is £120,000 per person, not £85,000."
+   },
+   {
+    "text": "millions of people use it as their primary bank account",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give 15.2m customers and 10.4m monthly active, but nothing on primary account use."
+   },
+   {
+    "text": "Monzo lets you claim your salary at 4:00 PM on the working day before it would normally land",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Get Paid Early timing is not covered by the facts."
+   },
+   {
+    "text": "Monzo allows cash deposits via PayPoint and the Post Office, with a £1 per deposit fee on the free standard plan",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not covered by the facts."
+   },
+   {
+    "text": "Monzo participates in the Current Account Switch Service 7-day switch guarantee",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "CASS participation is not covered by the facts."
+   },
+   {
+    "text": "Monzo offers joint accounts, arranged overdrafts, and credit cards (Monzo Flex)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Monzo has no physical branches; customer service is via the app or telephone support",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

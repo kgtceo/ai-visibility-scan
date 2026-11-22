@@ -1,0 +1,130 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect/?utm_source=openai",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare?query=2026&utm_source=openai",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Compare our bank accounts | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/features/travel?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee-free Debit & Credit Cards Made for Travel | Monzo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4327-flexdirect-cashback-offer-terms.pdf?hash=B8A67D960A511D0F7944077FD56EA7F3&rev=6b68f2feaac241c3ba987a135b9631ff&utm_source=openai",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect Cashback Offer | Nationwide"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I'd choose Monzo if you'd get more value from seeing what's safe to spend after payday, or if you regularly use your debit card abroad."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "negative"
+    },
+    "evidence": "I'd choose Nationwide FlexDirect as your main account if your salary and bills qualify for its rewards."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both accounts have no monthly fee.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts list paid plans but a free plan is implied; no explicit statement of no monthly fee."
+   },
+   {
+    "text": "Monzo adds no fee to overseas card purchases.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Free Monzo has 24/7 in-app chat.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Paying in cash at a Post Office or PayPoint costs £1 per deposit on Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Salary Sorter lets you set aside bills and savings in separate Pots when you're paid.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

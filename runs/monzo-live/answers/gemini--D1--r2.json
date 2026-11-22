@@ -1,0 +1,34 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D1",
+ "run": 2,
+ "text": "The “best” bank account for everyday spending in the UK depends on whether you prioritize **earning cashback**, **app-based budgeting tools**, or **fee-free overseas spending**. \n\nHere are the top options:\n\n---\n\n### 1. Best for Cashback: **Chase UK**\nIf your goal is to earn money back on your daily debit card purchases, Chase is generally the top contender.\n\n* **Cashback:** 2% cashback on eligible everyday spending (groceries, dining, takeaways, fuel, and public transport) up to £20 per month. \n* **Round-ups:** Offers 5% AER variable interest on spare change rounded up to the nearest pound.\n* **Foreign Spending:** Completely fee-free card payments and ATM withdrawals abroad (uses Mastercard’s exchange rate).\n* **The Catch:** To qualify for the cashback, you generally need to keep at least £1,000 in a linked Chase savings account continuously and make at least 15 card or Direct Debit payments per calendar month.\n\n---\n\n### 2. Best for Budgeting & Features: **Monzo**\nIf you want an account specifically to manage your daily discretionary spending and prevent overspending, Monzo remains the gold standard.\n\n* **Budgeting tools:** Instant transaction notifications, automatic categorization, and spending targets.\n* **Pots & Salary Sorter:** Segregate money for rent, bills, or fun spending so you never accidentally spend bill money.\n* **Social features:** “Shared Tabs” and easy bill splitting with other Monzo users.\n* **Foreign Spending:** Fee-free card spending worldwide (with a limit on free foreign ATM cash withdrawals).\n* **The Catch:** Basic account pays no debit card cashback, though paid tiers (Extra, Perks) offer higher-end features and interest.\n\n---\n\n### 3. Best All-Rounder (No Fees & Great Overseas Perks): **Starling Bank**\nIf you want an app-based bank that is completely straightforward, reliable, and fee-free, Starling is typically preferred over Monzo by those who dislike \"gamified\" banking.\n\n* **Everyday experience:** Clean app, virtual “Spaces” to ring-fence money, and 24/7 UK-based customer support.\n* **Travel:** Uncapped fee-free card spending and fee-free ATM withdrawals abroad (unlike Monzo, which caps foreign ATM withdrawals on its free tier).\n* **The Catch:** No ongoing cashback program on general debit card purchases.\n\n---\n\n### 4. Best for Combined Bills + Everyday Spending: **Santander Edge**\nIf you want a single main account that gives rewards on both everyday purchases and monthly direct debits.\n\n* **Cashback:** \n  * 1% cashback on supermarket spending, fuel, and travel (capped at £10/month).\n  * 1% cashback on household bills like council tax, energy, water, and broadband (capped at £10/month).\n* **Linked Perks:** Access to the linked Santander Edge high-interest savings account.\n* **The Catch:** Costs **£3/month**, requires paying in £500/month, and requires having at least two active Direct Debits. You need to earn at least £3/month in cashback to break even.\n\n---\n\n### 5. Best for Customer Service: **First Direct (1st Account)**\nConsistently ranked #1 or #2 in UK customer satisfaction surveys.\n\n* **Features:** 24/7 UK phone support answered by humans, access to a market-leading Regular Saver account, fee-free spending abroad, and a £250 interest-free overdraft buffer.\n* **The Catch:** App interface and budgeting tools are more traditional compared to Monzo or Starling.\n\n---\n\n### Which should you choose?\n\n* **Choose Chase** if you want to maximize return on everyday spend (groceries, coffee, trains, restaurants) and can meet the qualifying balance/transaction rules.\n* **Choose Monzo** if you want to transfer your weekly/monthly allowance into an app that actively stops you from overspending with categories and instant alerts.\n* **Choose Starling** if you travel frequently, want clean simplicity, and don't want to worry about any withdrawal limits or tiered fees.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM1aEor6xz-g-sSBwWundNuqoPh-Od6L3koWQmSq4f8igg_1ia0rtfxvqy8y2zlhTNysSEw5bqeSx9E_0zoGQtnOknN5-HFptuxDW2FLLE7BQfAUq8XAq_pI-W3i-6KvXBykUCy6JGd50i",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGspVl0sB1b4gm8F88g-xV6KepXx_277qUO5mZQA4mwNQ4oM0HGTFLNKZcgE37te38ydJHz2FAqVxi7QkNn1O1ZghzWYj3Vy6jazp1DYCZjGGvCMP0wmV92Am0=",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFj4x6_NyI6fuN82iYQ_hSBV8zP2NMPqGiY6edkjl-EcjlJIDze4YqnkUns2w7tNrz67AZ5raJDibL5eICk6bvSEl5WtoZZQX4Sp1EX5D1TPCTs7H9VycXdeuLUwcfp93rd4MYVN1lNwOYRgyDk1RrUT5x4w4D5PcUohPno3Do4NCl7A==",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_t_nf22U0V1X_p0kG4Jph-J7zT9O2UOyxCs-szDbrHXDnnRtjeUVMDoe0K-9JO3DcbFl1usQt0diTtcIrF9oejmC8ocrhhodT7H-76JtrYElFqk-ZQ9FSkK3uol-YRClcRbxtG8xhbOFG7I_V97k=",
+   "title": "chase.co.uk"
+  }
+ ],
+ "search_queries": [
+  "Chase UK cashback terms current"
+ ],
+ "latency_s": 24.9,
+ "asked_at": "2026-11-21T17:45:24.240059+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

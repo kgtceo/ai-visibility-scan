@@ -1,0 +1,74 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D4",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "domain": "firstdirect.com",
+   "source_type": "other",
+   "title": "Travel Debit Card | Fee Free Card To Use Abroad - first direct"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you already have a Starling debit card, I'd use that rather than open another account just for the trip."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

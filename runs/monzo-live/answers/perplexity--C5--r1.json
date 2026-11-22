@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C5",
+ "run": 1,
+ "text": "**Short version:** choose **Monzo** if you mainly bank in an app and value budgeting tools, quick notifications and convenient day-to-day controls. Choose **Nationwide** if you want branch and phone banking, or may benefit from its current switch offer and FlexDirect rewards.\n\n| | **Monzo** | **Nationwide** |\n|---|---|---|\n| **Everyday use** | App-led: useful spending categories, Pots and instant transaction notifications. | A more traditional option: online, phone and branch banking. |\n| **Cost** | Free standard account; paid plans are optional. | FlexAccount and FlexDirect have no monthly fee. |\n| **Interest/rewards** | The results available here don’t give a like-for-like rate for the free account. | FlexDirect currently advertises **5% interest** and up to **£120 cashback over the first 12 months**, subject to conditions. |\n| **Overdraft** | Available if approved; check your offered rate before relying on it. | FlexAccount gives the first **£50 of an arranged overdraft interest-free**, then charges **39.9% variable**. |\n| **Travel** | Card spending abroad is fee-free; ATM withdrawal allowances and fees depend on account and eligibility. | Nationwide says charges can apply for card use abroad. |\n| **Deposit protection** | Eligible deposits protected by FSCS, up to the applicable limit. | FSCS protection applies; Nationwide says eligible deposits across Nationwide and Virgin Money are covered up to **£120,000 per person**. |\n| **Switching** | — | A **£175 switch bonus** is currently advertised, with eligibility and other conditions. |\n\n**My take:** If you don’t need cash or in-person service, Monzo is a strong everyday account—especially if its app-based budgeting suits you. If you want a bank you can visit, or you’ll actually use FlexDirect’s interest and cashback, Nationwide may offer more value. For the Nationwide rewards or switch bonus, check the full eligibility rules and dates before switching; the offer may not last.\n\nOne practical compromise is to keep your salary and main Direct Debits with Nationwide, while using Monzo for spending—but only if managing two accounts won’t make your finances harder.",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+   "title": "FlexAccount current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts",
+   "title": "Open current account online"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/switch",
+   "title": "Switch your bank account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-2-11",
+   "title": "Terms & Conditions"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://monzo.com/static/docs/monzo-terms-and-conditions-2.0.pdf",
+   "title": "These terms and using your Monzo account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare",
+   "title": "Compare our everyday bank accounts"
+  },
+  {
+   "url": "https://monzo.com/index.html",
+   "title": "Monzo – Online Banking Made Easy | Open An Account Online"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/check-youre-eligible-to-switch",
+   "title": "Check you're eligible for our switch offer"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/switch-offer",
+   "title": "£175 when you switch your current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf",
+   "title": "Interest rates & charges"
+  }
+ ],
+ "search_queries": [
+  "Monzo current account official fees FSCS overdraft features 2026",
+  "Nationwide FlexAccount current account official fees FSCS features 2026",
+  "Monzo Nationwide current account switching offer November 2026 UK"
+ ],
+ "latency_s": 6.82,
+ "asked_at": "2026-11-21T17:42:14.402509+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

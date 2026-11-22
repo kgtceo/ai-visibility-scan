@@ -1,0 +1,179 @@
+{
+ "engine": "perplexity",
+ "question_id": "D4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/travel/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/products/bank-accounts/travel-debit-cards/",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Travel debit cards to use abroad"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Fees for using your card in a foreign currency"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/using-your-debit-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Everything you need to know about using your debit card abroad"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://www.halifax.co.uk/travel/using-debit-credit-cards-abroad.html",
+   "domain": "halifax.co.uk",
+   "source_type": "other",
+   "title": "Travel | Using Your Card Abroad"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "Best UK debit cards with no foreign transaction fee"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best debit cards to use abroad 2026 - Which?"
+  },
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "domain": "firstdirect.com",
+   "source_type": "other",
+   "title": "Travel Debit Card | Fee Free Card To Use Abroad"
+  },
+  {
+   "url": "https://www.firstdirect.com/travel-and-international/travel-help-and-advice/using-your-cards-outside-the-uk/",
+   "domain": "firstdirect.com",
+   "source_type": "other",
+   "title": "Using your card outside the UK"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best Travel Credit & Debit Cards 2026 - Fees & Top Picks"
+  },
+  {
+   "url": "https://www.aph.com/community/holidays/using-your-debit-card-abroad-foreign-transaction-fees-for-16-uk-banks-compared/",
+   "domain": "aph.com",
+   "source_type": "other",
+   "title": "Debit Card Fees Abroad: 16 UK Banks Compared"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/credit-cards/best-debit-card-to-use-abroad/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Debit Cards To Use Abroad"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/best-bank-accounts-to-use-abroad/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "Best bank accounts to use abroad"
+  },
+  {
+   "url": "https://www.yourmoney.com/household-bills/best-and-worst-travel-cards-for-summer-2026",
+   "domain": "yourmoney.com",
+   "source_type": "other",
+   "title": "Best and worst travel cards for summer 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is fee-free for purchases, but its free cash allowance is limited and depends on your account and where you are."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best all-round pick: Starling’s personal current-account debit card."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is also fee-free for foreign spending, but overseas cash withdrawals are capped at £1,500 per month."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is fee-free for purchases",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad."
+   },
+   {
+    "text": "Monzo's free cash allowance is limited and depends on your account and where you are",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free plan allowances differ by region (UK/EEA vs outside EEA) and by whether Monzo is the main bank."
+   }
+  ]
+ },
+ "judge_error": null
+}

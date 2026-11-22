@@ -1,0 +1,111 @@
+{
+ "engine": "gemini",
+ "question_id": "T2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is a real, fully licensed bank in the UK."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "People sometimes confuse it with apps like Revolut, which operated for years strictly as an electronic money institution"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a real, fully licensed bank in the UK.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with UK bank authorised by the PRA and regulated by the FCA."
+   },
+   {
+    "text": "Monzo Bank Ltd is authorised by the Prudential Regulation Authority (PRA) and regulated by both the FCA and the PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "It was granted a full UK banking licence in April 2017.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers licence date."
+   },
+   {
+    "text": "Eligible deposits held with Monzo are protected by the FSCS up to £85,000 per person.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states the FSCS protection limit is £120,000, not £85,000."
+   },
+   {
+    "text": "Monzo provides standard UK current accounts with sort codes, account numbers, direct debits, overdrafts, personal loans, and savings options.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by facts."
+   },
+   {
+    "text": "You can pay in cash via PayPoint locations across the UK and deposit cheques digitally through the app (or post them in).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo operates entirely through an app and doesn't have physical high-street branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

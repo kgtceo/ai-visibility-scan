@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D3",
+ "run": 2,
+ "text": "**Monzo** is the best all-rounder for budgeting and savings pots. Starling and Chase are the main alternatives.\n\n**Monzo (best overall)**\n- Monzo is especially strong for Pots, spending categories, Salary Sorter, bill splitting and real-time insights.\n- Some of the best budgeting features are paid. The cheapest plan is Monzo Extra, which costs £3 per month and adds budgeting features.\n- One comparison site says Monzo Savings Pots reach up to 5% AER on the Extra plans. Check the current rate yourself, because it changes often.\n\n**Starling (best for simplicity)**\n- Starling's Spaces, Bills Manager, virtual cards and spending insights make it a strong practical budgeting account.\n- It's a good choice if you want a clean app with no monthly fee.\n\n**Chase (best for automation and cashback)**\n- Chase is good for simple savings organisation, round-ups and spending insights without much clutter.\n- It pairs a competitive easy-access saver with 1% cashback on debit spend, on a free account with no monthly fee.\n- It also scores well on satisfaction. 77% of customers say they'd recommend Chase for savings.\n\n**Revolut (best if you travel)**\n- Revolut combines spending analytics, Pockets and controls with multi-currency and travel features.\n- It received its UK banking licence in March 2026, so it is now a fully-fledged UK bank.\n\n**My suggestion**\n- If you want the strongest budgeting tools, choose Monzo.\n- If you want the simplest free option, choose Starling.\n- If you want cashback with savings, choose Chase.\n- You can open more than one. Many people use Monzo or Starling for day-to-day budgeting and keep a separate high-rate saver for larger balances.\n\n**Things to check before you choose**\n- Pot interest rates are often introductory or tiered, and they change. Check the live rate in each app.\n- Pots in these apps pay less than the best standalone savings accounts. For example, Chetwood Bank offers 5.33% on a two-year fixed rate account. That is a fixed term and not a flexible pot.\n- Make sure the provider is covered by FSCS protection. This covers up to £120,000 per person, per authorised institution.\n\nI can narrow this down if you tell me what you want from it. For example, do you want a free account, the highest interest, or help with bills and salary day?",
+ "citations": [
+  {
+   "url": "https://bankadvisor.co.uk/guides/best-banks-for-budgeting",
+   "title": "Banks for Budgeting Tools UK 2026"
+  },
+  {
+   "url": "https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying",
+   "title": "The best budgeting apps in the UK for 2026 - Money To The Masses"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  },
+  {
+   "url": "https://www.finder.com/uk/savings-accounts/best-savings-accounts",
+   "title": "Best savings accounts in the UK 2026"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "title": "Best savings account and bond rates 2026 - Which.co.uk"
+  }
+ ],
+ "search_queries": [
+  "best UK bank accounts for budgeting and savings pots 2026"
+ ],
+ "latency_s": 9.64,
+ "asked_at": "2026-11-21T16:44:42.066055+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

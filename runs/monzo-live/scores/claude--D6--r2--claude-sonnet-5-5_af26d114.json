@@ -1,0 +1,119 @@
+{
+ "engine": "claude",
+ "question_id": "D6",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://which.co.uk/money/savings-and-isas/savings-accounts/best-easy-access-savings-accounts",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best savings account and bond rates 2026 - Which?"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Best UK bank accounts - November 2026 - Money To The Masses"
+  },
+  {
+   "url": "https://goodmoneyguide.com/savings/interest-paying-savings-accounts/",
+   "domain": "goodmoneyguide.com",
+   "source_type": "other",
+   "title": "Best High Interest-Paying Savings Current Accounts November 2026"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/current-accounts/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Best UK Current Accounts 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo's Extra plans pay up to 5%."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase offers 4.5% AER on a savings account linked to its current account."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Highest headline rate: Nationwide FlexDirect"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's Extra plans pay up to 5%.",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Facts cover only the free plan's 2.80% AER Instant Access Savings rate and Extra's £3 price, not a 5% rate on Extra plans."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,114 @@
+{
+  "_note": "SYNTHETIC fixtures, hand-written to look like answer-engine output so the pipeline can run with no keys. They are not real answers and carry no information about Monzo's actual visibility. A live scan overwrites nothing here; it writes to runs/.",
+  "chatgpt": {
+    "D1": {
+      "text": "For everyday spending in the UK, the two accounts most people end up with are Starling and Monzo.\n\n- Starling: no monthly fee, fee-free spending abroad at the Mastercard rate, 24/7 UK-based support and a well-regarded app. Often picked as the best all-round main account.\n- Monzo: no monthly fee, very strong budgeting with Pots and salary sorter, instant notifications. Spending abroad is fee-free; foreign ATM withdrawals are capped on the free plan before a fee applies.\n- Chase: 1% cashback on everyday debit card spending for the first year and a competitive easy-access saver, but a thinner feature set.\n- Revolut: great for multi-currency, though the free plan has weekend FX markups and some limits.\n\nIf you want one simple main account, go with Starling. If budgeting features matter most, Monzo is the better pick.",
+      "citations": [
+        {"url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts", "title": "Best bank accounts - Which?"},
+        {"url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/", "title": "Best bank accounts - MoneySavingExpert"},
+        {"url": "https://www.reddit.com/r/UKPersonalFinance/comments/abc123/starling_vs_monzo/", "title": "Starling vs Monzo in 2026? : r/UKPersonalFinance"}
+      ],
+      "search_queries": ["best UK bank account everyday spending 2026", "Starling vs Monzo 2026"]
+    },
+    "D2": {
+      "text": "If you're switching to an app-based bank in the UK, the usual shortlist is Starling, Monzo, Chase and Revolut.\n\nStarling is the top choice for most people: full UK banking licence, FSCS protection, no fees, strong app and customer support. Monzo is a close second and wins on budgeting tools, though some users report slow in-app support at busy times. Chase suits people chasing cashback and savings rates. Revolut became a fully licensed UK bank in 2026 and is strongest for travel and currencies.\n\nUse the Current Account Switch Service so your direct debits move automatically within seven working days.",
+      "citations": [
+        {"url": "https://www.finder.com/uk/current-accounts/best-bank-accounts", "title": "Best UK bank accounts 2026 - finder.com"},
+        {"url": "https://www.reddit.com/r/UKPersonalFinance/comments/def456/switching_to_app_bank/", "title": "Which app bank to switch to? : r/UKPersonalFinance"},
+        {"url": "https://www.starlingbank.com/current-account/", "title": "Personal current account - Starling Bank"}
+      ]
+    },
+    "D3": {
+      "text": "For budgeting and saving pots, Monzo is the stand-out choice. Pots let you ring-fence money for bills, a salary sorter moves cash the day you're paid, and spending is categorised automatically with notifications. Starling has Spaces, which work much the same way, and its interest on balances is a point in its favour. Revolut has Pockets and round-ups too. If budgeting is the main thing, Monzo; if you also want interest on the current account, Starling.",
+      "citations": [
+        {"url": "https://monzo.com/features/pots/", "title": "Pots - Monzo"},
+        {"url": "https://www.moneysavingexpert.com/banking/best-budgeting-apps/", "title": "Best budgeting apps - MoneySavingExpert"}
+      ]
+    },
+    "D4": {
+      "text": "For fee-free spending abroad, the best UK cards are:\n\n1. Starling: no fees on card spending or ATM withdrawals abroad, Mastercard rate, no monthly cap on fee-free ATM use.\n2. Chase: no fees on spending or ATM withdrawals abroad (daily ATM limit applies).\n3. Monzo: no fees on card spending abroad, but the free plan limits fee-free foreign ATM withdrawals and charges 3% above that.\n4. Revolut: fee-free on weekdays up to a monthly allowance; weekend markup and ATM limits on the free plan.\n\nStarling or Chase are the safest picks for a long trip.",
+      "citations": [
+        {"url": "https://www.moneysavingexpert.com/travel/cheap-travel-money/", "title": "Cheapest ways to spend abroad - MSE"},
+        {"url": "https://www.which.co.uk/money/travel/travel-money/best-cards-to-use-abroad", "title": "Best cards to use abroad - Which?"},
+        {"url": "https://www.starlingbank.com/travel/", "title": "Travel - Starling Bank"}
+      ]
+    },
+    "D8": {
+      "text": "On customer service, the names that come up most are First Direct, Starling and Monzo. First Direct consistently tops the UK satisfaction surveys with phone support available around the clock. Starling has 24/7 in-app and phone support and scores highly. Monzo scores well on surveys and has a high Net Promoter Score, though complaints on forums tend to be about slow chat replies and accounts frozen during fraud checks without much explanation. Nationwide is well rated for branch service.",
+      "citations": [
+        {"url": "https://www.which.co.uk/money/banking/switching-your-bank/best-and-worst-banks", "title": "Best and worst banks - Which?"},
+        {"url": "https://www.reddit.com/r/monzo/comments/ghi789/account_frozen/", "title": "Account frozen, no reply : r/monzo"},
+        {"url": "https://uk.trustpilot.com/review/monzo.com", "title": "Monzo Reviews - Trustpilot"}
+      ]
+    },
+    "C2": {
+      "text": "Monzo vs Starling comes down to what you value.\n\nMonzo: stronger budgeting (Pots, salary sorter, Trends), a bigger set of paid plans with extras, and a very active community. Fee-free card spending abroad; foreign ATM withdrawals on the free plan are capped before a 3% fee.\n\nStarling: interest on current account balances, fee-free ATM withdrawals abroad with no monthly cap, 24/7 support, and a slightly more conservative feel. No paid plans.\n\nBoth are fully licensed UK banks with FSCS protection up to £85,000. For budgeting, Monzo. For a no-frills main account with better travel terms, Starling.",
+      "citations": [
+        {"url": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-starling", "title": "Monzo vs Starling - Unbiased"},
+        {"url": "https://monzo.com/plans/", "title": "Plans - Monzo"},
+        {"url": "https://www.starlingbank.com/current-account/", "title": "Personal account - Starling"}
+      ]
+    },
+    "T1": {
+      "text": "Yes. Monzo is a fully authorised UK bank, regulated by the FCA and PRA, and eligible deposits are protected by the Financial Services Compensation Scheme up to £85,000 per person. If Monzo failed, you would be compensated up to that limit. It has around 12 million customers and reported its first annual profit in 2024. The usual caveats apply: FSCS covers money in the bank account, not money you've moved into third-party investments through the app.",
+      "citations": [
+        {"url": "https://www.fscs.org.uk/check-your-money-is-protected/", "title": "Check your money is protected - FSCS"},
+        {"url": "https://monzo.com/legal/fscs-information/", "title": "FSCS information - Monzo"},
+        {"url": "https://en.wikipedia.org/wiki/Monzo", "title": "Monzo - Wikipedia"}
+      ]
+    },
+    "T3": {
+      "text": "The most common complaints about Monzo are: accounts being frozen or closed during fraud and anti-money-laundering checks with little explanation; slow replies in the in-app chat at peak times; and the fee-free foreign ATM allowance on the free plan being lower than Starling's. Some customers also dislike the push towards paid plans. On the other side, Monzo has one of the highest customer satisfaction scores among UK banks, so these complaints are a minority, but they are loud on Reddit and Trustpilot.",
+      "citations": [
+        {"url": "https://www.reddit.com/r/monzo/comments/ghi789/account_frozen/", "title": "Account frozen : r/monzo"},
+        {"url": "https://uk.trustpilot.com/review/monzo.com", "title": "Monzo Reviews - Trustpilot"},
+        {"url": "https://www.theguardian.com/money/2026/mar/01/monzo-account-closures-complaints", "title": "Digital banks and account closures - The Guardian"}
+      ]
+    }
+  },
+  "claude": {
+    "D1": {
+      "text": "A few strong options depending on what matters to you:\n\n**Starling Bank** is my top recommendation for an everyday account: no monthly fees, no charges for spending or withdrawing cash abroad, interest on your balance, and highly rated customer service available 24/7.\n\n**Monzo** is excellent if you want budgeting help. Pots, instant spending notifications and the salary sorter are genuinely useful. Note that the free plan caps fee-free cash withdrawals abroad.\n\n**Chase** is worth a look for the 1% cashback on debit card spending (first 12 months) and its savings rate.\n\nAll three are FSCS-protected UK banks. For most people, Starling as a main account, with Chase or Monzo alongside, works well.",
+      "citations": [
+        {"url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/", "title": "Best bank accounts - MoneySavingExpert"},
+        {"url": "https://www.starlingbank.com/current-account/", "title": "Starling Bank personal current account"},
+        {"url": "https://www.chase.co.uk/gb/en/current-account/", "title": "Current account - Chase UK"}
+      ]
+    },
+    "D4": {
+      "text": "For spending abroad with no fees, Starling and Chase are the two I'd recommend. Both charge nothing on card payments or ATM withdrawals overseas and use the Mastercard rate. Monzo is fee-free on card spending too, but limits fee-free ATM withdrawals abroad on its free plan. Revolut is good on weekdays within its monthly allowance but adds a markup at weekends on the free tier.",
+      "citations": [
+        {"url": "https://www.which.co.uk/money/travel/travel-money/best-cards-to-use-abroad", "title": "Best cards to use abroad - Which?"},
+        {"url": "https://www.moneysavingexpert.com/travel/cheap-travel-money/", "title": "Travel money - MSE"}
+      ]
+    },
+    "D8": {
+      "text": "Starling Bank and First Direct are usually rated highest for customer service in the UK. Starling offers 24/7 support by in-app chat and phone and tops several independent surveys. Monzo also scores well overall and has a loyal customer base, but a recurring criticism is slow chat responses at busy times and limited phone support. Among traditional banks, Nationwide is well regarded, particularly for branch access.",
+      "citations": [
+        {"url": "https://www.which.co.uk/money/banking/switching-your-bank/best-and-worst-banks", "title": "Best and worst banks - Which?"},
+        {"url": "https://www.reddit.com/r/UKPersonalFinance/comments/jkl012/best_customer_service_bank/", "title": "Best customer service bank? : r/UKPersonalFinance"}
+      ]
+    },
+    "C2": {
+      "text": "Both are good, fully licensed UK banks with FSCS protection. Choose Monzo if budgeting tools matter most: Pots, salary sorter and spending insights are the best in the market. Choose Starling if you want interest on your current account balance, uncapped fee-free cash withdrawals abroad and 24/7 support. Starling also has no paid tiers, while Monzo's extra features sit behind monthly plans.",
+      "citations": [
+        {"url": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-starling", "title": "Monzo vs Starling - Unbiased"},
+        {"url": "https://monzo.com/features/", "title": "Features - Monzo"}
+      ]
+    },
+    "T1": {
+      "text": "Monzo is safe in the sense that matters: it is a UK-regulated bank and eligible deposits are protected by the FSCS up to £85,000 per person. If Monzo went bust you would get your money back up to that limit, usually within seven days. Monzo has over 15 million customers and has been profitable since 2024. Money you move into investments via the app is not covered by FSCS deposit protection.",
+      "citations": [
+        {"url": "https://monzo.com/legal/fscs-information/", "title": "FSCS information - Monzo"},
+        {"url": "https://www.fscs.org.uk/", "title": "FSCS"}
+      ]
+    },
+    "T3": {
+      "text": "Common complaints about Monzo centre on three things: accounts frozen during fraud checks with limited explanation, slow in-app chat responses at peak times, and the free plan's cap on fee-free foreign ATM withdrawals. Monzo's overall satisfaction scores remain among the highest for UK banks, so these are a minority, but they are frequent topics on Reddit and Trustpilot.",
+      "citations": [
+        {"url": "https://www.reddit.com/r/monzo/", "title": "r/monzo"},
+        {"url": "https://uk.trustpilot.com/review/monzo.com", "title": "Monzo Reviews - Trustpilot"}
+      ]
+    }
+  }
+}

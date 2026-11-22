@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "T3",
+ "run": 1,
+ "text": "The main complaints seem to be slow or hard-to-reach customer support, sometimes described as automated or impersonal, and account freezes or closures that leave customers frustrated—especially when they can’t quickly get an explanation or resolution.\ncommunity.monzo\n\nSome users also dislike products that feel unfinished or missing features. Online complaints can overrepresent people with bad experiences, though; the examples here don’t establish how common these problems are across Monzo’s UK customers.\ncommunity.monzo",
+ "citations": [
+  {
+   "url": "https://community.monzo.com/t/why-im-leaving-monzo/169446",
+   "title": "community.monzo Why I'm leaving Monzo - Feedback & Ideas I’ve been thinking about switching to a different bank for a while and I finally did it yesterday. I wa"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1ehacw1/is_monzo_really_that_bad/",
+   "title": "reddit Is monzo really that bad? Is monzo really that bad?"
+  },
+  {
+   "url": "https://community.monzo.com/t/unacceptable-customer-service-deteriorations/181826",
+   "title": "community.monzo Unacceptable customer service deteriorations - Feedback & Ideas Dear Monzo, As a long-standing customer since your prepaid card days, with a cus"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/14aoy4l/any_downsides/",
+   "title": "reddit Any downsides? Are there any downsides to Monzo? Anything thats made you think about leaving? Its just really going to be a day to day spending account."
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? - Monzo Community Monzo is doing some really exciting and interesting things, some of which we’v"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1hzppvi/terrible_customer_service_ruining_the_company/",
+   "title": "reddit Terrible customer service ruining the company Terrible customer service ruining the company"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2271440.pdf",
+   "title": "financial-ombudsman.org Decision Reference DRN-2271440 raised a number of complaints. Miss B complained that Monzo had failed to secure her account effectively."
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536?page=2",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? - Page 2 Absolutely correct. Some more new than others, though."
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-in-the-media/51194?page=279",
+   "title": "community.monzo Monzo in the Media - Page 279 Monzo wouldn’t drop the UK like Revolut is doing - it’s not a d0dgy 🇷🇺 business. 😉 But if I were the shareholde"
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536?page=5",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? 🤔 I’ll have to have another look at Starling. Last time I looked (August) it was an absolute sh"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.39,
+ "asked_at": "2026-11-21T13:24:39.551176+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

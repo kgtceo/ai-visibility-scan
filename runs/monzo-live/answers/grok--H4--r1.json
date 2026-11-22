@@ -1,0 +1,127 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "H4",
+ "run": 1,
+ "text": "Yes. Monzo offers arranged overdrafts on personal current accounts in the UK (18+, subject to eligibility and affordability).\n\n### What it costs\nInterest only — there are no extra usage or arrangement fees on a personal arranged overdraft. Your rate is one of three variable EARs, based on your credit score:\n\n- **19%, 29%, or 39% EAR** (variable)\n- **Representative APR: 39.0%** (variable) — the rate offered to more than 51% of people who apply\n\n**Representative example:** borrowing £1,200 for 30 days at 39.0% EAR/APR costs **£32.94**.\n\nYou’ll see your exact personal rate (and what it means in pounds) in the app before you switch the overdraft on. Interest is calculated daily on the overdrawn balance (including interest that has built up) and taken on the 1st of each month.\n\n### Other points\n- **Limits:** up to **£2,000**, depending on what Monzo assesses you can afford. You can choose a lower limit and change or cancel it in the app (you need to repay what you owe plus any interest first).\n- **Unarranged overdraft:** **£0** interest or fees. Monzo usually rejects payments that would take you over your limit (or below £0 if you have no overdraft), but some offline payments (for example TfL or in-flight) can’t be rejected. Being unarranged can still affect your credit score, so repay as soon as you can.\n- **Eligibility check:** you can check in the app (or via Monzo’s online checker) with a soft search that doesn’t affect your credit score. Turning the overdraft on involves a hard credit check.\n\nDetails can change, so confirm your rate and limit in the Monzo app or on [monzo.com/overdrafts](https://monzo.com/overdrafts). Business overdrafts (sole trader or limited company) have different limits, rates, and in some cases annual fees.",
+ "citations": [
+  {
+   "url": "https://banktopp.com/articles/best-current-accounts-2026",
+   "title": "https://banktopp.com/articles/best-current-accounts-2026"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work",
+   "title": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work"
+  },
+  {
+   "url": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans",
+   "title": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans"
+  },
+  {
+   "url": "https://www.iwoca.co.uk/lenders/monzo-business-overdrafts",
+   "title": "https://www.iwoca.co.uk/lenders/monzo-business-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo",
+   "title": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/unauthorised-overdrafts",
+   "title": "https://monzo.com/help/overdrafts-loans/unauthorised-overdrafts"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/",
+   "title": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/"
+  },
+  {
+   "url": "https://monzo.com/overdraft-calculator",
+   "title": "https://monzo.com/overdraft-calculator"
+  },
+  {
+   "url": "https://monzo.com/legal/overdraft-information",
+   "title": "https://monzo.com/legal/overdraft-information"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://compare100.com/monzo-current-account/",
+   "title": "https://compare100.com/monzo-current-account/"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "title": "https://monzo.com/overdrafts"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-overdraft-changes/",
+   "title": "https://becleverwithyourcash.com/monzo-overdraft-changes/"
+  },
+  {
+   "url": "https://calks.uk/calculator/overdraft-cost-calculator/",
+   "title": "https://calks.uk/calculator/overdraft-cost-calculator/"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-overdraft/",
+   "title": "https://www.lilachbullock.com/monzo-overdraft/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible",
+   "title": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "title": "https://monzo.com/help/overdrafts-loans/overdrafts-fees"
+  },
+  {
+   "url": "https://monzo.com/legal/files/ie/overdraft-information/overdraft-information-1.0.pdf",
+   "title": "https://monzo.com/legal/files/ie/overdraft-information/overdraft-information-1.0.pdf"
+  },
+  {
+   "url": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.3.pdf",
+   "title": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.3.pdf"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web",
+   "title": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/accounts-with-overdraft/",
+   "title": "https://www.businessexpert.co.uk/business-banking/accounts-with-overdraft/"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "title": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft"
+  },
+  {
+   "url": "https://monzo.com/business-banking/features/sole-trader-overdrafts",
+   "title": "https://monzo.com/business-banking/features/sole-trader-overdrafts"
+  }
+ ],
+ "search_queries": [
+  "Monzo overdraft UK cost fees interest rate",
+  "Monzo overdraft eligibility how it works site:monzo.com",
+  "Monzo current overdraft rates 2024 OR 2025"
+ ],
+ "latency_s": 27.1,
+ "asked_at": "2026-11-21T17:26:17.703568+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

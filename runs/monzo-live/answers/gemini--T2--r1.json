@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "T2",
+ "run": 1,
+ "text": "**Yes, Monzo is a real, fully licensed UK bank**, not just an app. \n\nWhile it doesn't have physical high-street branches, legally and functionally it is as much a bank as Barclays, HSBC, or NatWest:\n\n* **Fully Regulated:** Monzo holds a full UK banking licence. It is authorised by the **Prudential Regulation Authority (PRA)** and regulated by both the **Financial Conduct Authority (FCA)** and the PRA.\n* **FSCS Protection:** Because it is a licensed bank, your money is protected by the **Financial Services Compensation Scheme (FSCS)**. If Monzo were to go bust, your eligible deposits up to **£85,000** are covered and guaranteed by the UK government.\n* **Full Banking Services:** It provides full UK current accounts with your own sort code and account number. You can receive your salary, set up Direct Debits and standing orders, apply for overdrafts and loans, and earn interest on savings.\n\n### Why do some people think it’s \"just an app\"?\n* **No branches:** Monzo is a digital-only (\"challenger\") bank, meaning all day-to-day management is handled via their smartphone app.\n* **History:** When Monzo first launched in 2015 (originally called *Mondo*), it started as an electronic-money prepaid card while awaiting regulatory approval. However, it was granted a full UK banking licence in **April 2017** and has been a genuine bank ever since.\n\n*(Note: There are financial apps in the UK that are **not** banks—such as Wise or Revolut's UK entity, which operate under Electronic Money Institution (EMI) rules and rely on \"safeguarding\" rather than FSCS protection. Monzo is **not** one of those; it is a full bank).*",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 10.84,
+ "asked_at": "2026-11-21T17:59:08.452597+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

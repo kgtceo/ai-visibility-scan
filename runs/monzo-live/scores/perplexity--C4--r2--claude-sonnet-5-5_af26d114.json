@@ -1,0 +1,178 @@
+{
+ "engine": "perplexity",
+ "question_id": "C4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-saver-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Easy access savings account"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-features/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Features - Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase UK: Home"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase Boost: 4.75% AER variable (4.65% gross)"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Earn 2% cashback with Chase"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/how-interest-on-savings-accounts-works/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "How do interest rates work on savings accounts?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase launches regular savings account to help customers make ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/cashback-explained/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "What is cashback and how does it work?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-roundups/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase round-up account"
+  },
+  {
+   "url": "https://monzo.com/gb/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Cashback Terms and Conditions"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Our savings rates"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/regular-saver/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Regular Saver | Save monthly at a fixed rate"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "I need help with cashback"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/download-affiliates/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Download the Chase app today"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo may suit you better for selective brand offers and, depending on your plan and savings product, a competitive savings rate."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase looks better if you want predictable cashback on everyday essentials and are happy to keep savings there."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo cashback is through offers you choose at participating brands, advertised at 2–10%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Monzo cashback offers."
+   },
+   {
+    "text": "Monzo Instant Access Savings is advertised at 2.75–3.25% AER variable, depending on subscription plan.",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Range contains the free-plan rate of 2.80%, so it is not contradicted."
+   },
+   {
+    "text": "Monzo also advertises other savings products and rates, which may have different access terms.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers other Monzo savings products."
+   }
+  ]
+ },
+ "judge_error": null
+}

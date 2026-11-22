@@ -1,0 +1,74 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D6",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Santander Edge saver"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect pays the highest rate I found on a UK current-account balance"
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

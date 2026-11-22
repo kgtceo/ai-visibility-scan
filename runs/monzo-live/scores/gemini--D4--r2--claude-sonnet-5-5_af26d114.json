@@ -1,0 +1,94 @@
+{
+ "engine": "gemini",
+ "question_id": "D4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo: Great for card spending abroad (fee-free, Mastercard rate), but overseas fee-free ATM withdrawals are capped at £200"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you need to withdraw cash frequently: Go with Starling (no monthly limit on free overseas ATM withdrawals)."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase UK (Best overall for spending & perks)"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is great for card spending abroad (fee-free, Mastercard rate)",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches no fee and Mastercard rate."
+   },
+   {
+    "text": "Overseas fee-free ATM withdrawals are capped at £200 per 30-day rolling window (outside the EEA)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 every 30 days outside the EEA."
+   },
+   {
+    "text": "A 3% charge applies after the fee-free allowance",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches 3% fee after the allowance."
+   }
+  ]
+ },
+ "judge_error": null
+}

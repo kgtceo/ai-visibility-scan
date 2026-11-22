@@ -1,0 +1,181 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "T1",
+ "run": 2,
+ "text": "Yes. Monzo is a fully authorised UK bank, and eligible deposits are protected by the Financial Services Compensation Scheme (FSCS) if it fails.\n\n**Regulation**  \nMonzo Bank Limited is authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority (FCA) and the PRA (Firm Reference Number 730427). It has held a UK banking licence since 2016. That is the same type of authorisation as high-street banks for taking deposits.\n\n**If Monzo goes bust**  \nEligible deposits (such as money in current accounts, savings, and cash ISAs) are protected by the FSCS up to **£120,000 per eligible person, per authorised firm**. The limit rose from £85,000 on 1 December 2025.  \n\n- All your eligible Monzo accounts are added together and covered up to that single limit.  \n- Joint accounts are protected up to £120,000 per eligible holder (so up to £240,000 combined for two people).  \n- Certain temporary high balances (for example from a house sale or inheritance) can be protected up to £1.4 million for up to six months.  \n- The FSCS aims to pay most depositors automatically within seven working days using the bank’s records—you normally do not need to submit a claim.  \n\nMonzo has its own banking licence, so the limit is not shared with other banks.\n\n**What is not covered the same way**  \nInvestment products (such as stocks and shares) generally have a separate FSCS limit of £85,000 and are not protected against falls in value. FSCS protection is for the firm failing, not for fraud, scams, or unauthorised payments (those are handled under different rules and bank obligations). Some account holders, such as certain financial institutions, are excluded.\n\nYou can confirm current details on the [FSCS website](https://www.fscs.org.uk) (including its protection checker) and on Monzo’s own FSCS information. This is general information, not personal financial advice. If you hold more than the limit, spreading money across different banks with separate licences increases total protection.",
+ "citations": [
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "title": "https://monzo.com/help/investments/investments-FSCS"
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm",
+   "title": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm"
+  },
+  {
+   "url": "http://fscs.org.uk/news/protection/bank-fails/",
+   "title": "http://fscs.org.uk/news/protection/bank-fails/"
+  },
+  {
+   "url": "https://open.endole.co.uk/insight/company/09446231-monzo-bank-limited?__cf_chl_rt_tk=hWAnTKIA4BOn2gwAFVgVXfdTOd_nZcKccFkPni74e1Y-1795198684-1.0.1.1-N0m.ksFiN40tVFkyM.fqkqnHqG86iSaZXDQYRn2rOI8",
+   "title": "https://open.endole.co.uk/insight/company/09446231-monzo-bank-limited?__cf_chl_rt_tk=hWAnTKIA4BOn2gwAFVgVXfdTOd_nZcKccFkPni74e1Y-1795198684-1.0.1.1-N0m.ksFiN40tVFkyM.fqkqnHqG86iSaZXDQYRn2rOI8"
+  },
+  {
+   "url": "https://monzo.com/legal/pensions/fscs-information",
+   "title": "https://monzo.com/legal/pensions/fscs-information"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231/filing-history",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231/filing-history"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-fscs-information",
+   "title": "https://monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "https://monzo.com/learn/money-today/understanding-fscs-protection"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/guides/best-app-banks-fscs-protection",
+   "title": "https://bankadvisor.co.uk/guides/best-app-banks-fscs-protection"
+  },
+  {
+   "url": "https://www.fscs.org.uk/making-a-claim/",
+   "title": "https://www.fscs.org.uk/making-a-claim/"
+  },
+  {
+   "url": "https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/compensation-if-your-bank-or-building-society-goes-bust",
+   "title": "https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/compensation-if-your-bank-or-building-society-goes-bust"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/guides/fscs-protection",
+   "title": "https://bankcreditratings.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://ergsy.com/information/do-monzo-and-revolut-have-deposit-protection-schemes/orphans",
+   "title": "https://ergsy.com/information/do-monzo-and-revolut-have-deposit-protection-schemes/orphans"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/bank/monzo-bank-ltd",
+   "title": "https://bankcreditratings.co.uk/bank/monzo-bank-ltd"
+  },
+  {
+   "url": "https://www.fscs.org.uk/making-a-claim/claims-process/timescales/",
+   "title": "https://www.fscs.org.uk/making-a-claim/claims-process/timescales/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://signaltools.org/check-platform/monzo/",
+   "title": "https://signaltools.org/check-platform/monzo/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/media/press/2025/nov/fscs-welcomes-higher-deposit-protection-limit-of-120000--giving-people-confidence-their-money-is-protected/",
+   "title": "https://www.fscs.org.uk/media/press/2025/nov/fscs-welcomes-higher-deposit-protection-limit-of-120000--giving-people-confidence-their-money-is-protected/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2025/11/safe-savings-limit-rise-fscs/",
+   "title": "https://www.moneysavingexpert.com/news/2025/11/safe-savings-limit-rise-fscs/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/banks-building-societies-credit-unions/",
+   "title": "https://www.fscs.org.uk/banks-building-societies-credit-unions/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement",
+   "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december",
+   "title": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231"
+  },
+  {
+   "url": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf",
+   "title": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf"
+  },
+  {
+   "url": "https://www.lexology.com/library/detail.aspx?g=aba6c933-c65e-4306-a212-539e36acb984",
+   "title": "https://www.lexology.com/library/detail.aspx?g=aba6c933-c65e-4306-a212-539e36acb984"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/",
+   "title": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank",
+   "title": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://www.companiesintheuk.co.uk/ltd/monzo-bank",
+   "title": "https://www.companiesintheuk.co.uk/ltd/monzo-bank"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "title": "https://monzo.com/help/legal-stuff/deposit-protection-fscs"
+  },
+  {
+   "url": "https://www.legalentityidentifier.co.uk/leicert/213800PLUYXGZ8LU7T61/",
+   "title": "https://www.legalentityidentifier.co.uk/leicert/213800PLUYXGZ8LU7T61/"
+  },
+  {
+   "url": "https://monzo.com/security",
+   "title": "https://monzo.com/security"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information/version-1-3",
+   "title": "https://monzo.com/legal/fscs-information/version-1-3"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231/persons-with-significant-control",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231/persons-with-significant-control"
+  },
+  {
+   "url": "https://media.umbraco.io/ciigroup-dxp/miyhndse/r02_2025-26_web_update_3_03_03-2026.pdf",
+   "title": "https://media.umbraco.io/ciigroup-dxp/miyhndse/r02_2025-26_web_update_3_03_03-2026.pdf"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "title": "https://www.ukfinanceblog.co.uk/is-monzo-safe/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme",
+   "title": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme"
+  }
+ ],
+ "search_queries": [
+  "Is Monzo bank safe FSCS protection UK",
+  "FSCS deposit protection limit 2024 2025 UK",
+  "Monzo bank PRA FCA regulated FSCS covered",
+  "Monzo Bank Limited FCA register FRN 730427",
+  "FSCS payout time if bank fails UK"
+ ],
+ "latency_s": 24.1,
+ "asked_at": "2026-11-21T17:28:26.123710+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

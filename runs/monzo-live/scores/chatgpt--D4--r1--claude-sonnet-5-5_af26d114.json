@@ -1,0 +1,87 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D4",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/travel-with-chase/?af_ad=boosted&af_channel=organic-social&c=mkt-686_uk_gl_dgt_oso_fbig_eng_xdv_pr_adp_at11_reach_awareness&pid=facebook-instagram&utm_source=openai",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Travelling with Chase | Chase UK"
+  },
+  {
+   "url": "https://help.starlingbank.com/joint/topics/travelling-overseas/what-do-the-different-debit-card-exchange-rates-mean/?utm_source=openai",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "What do the different debit card exchange rates mean? - Starling Help"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d pick Starling Bank’s debit Mastercard for everyday spending abroad."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you already have a Chase UK debit card, I’d use that rather than open another account"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

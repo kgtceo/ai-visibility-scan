@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C1",
+ "run": 2,
+ "text": "**Short answer: Starling is the best default choice for a main UK account.** It’s a straightforward, full-service current account with no monthly fee, FSCS protection for eligible deposits, fee-free card spending and cash withdrawals abroad, and the option to pay in cash at participating Post Office branches.\n\n| Account | Best for | Main trade-offs |\n|---|---|---|\n| **Starling** | A dependable everyday account, especially if you want a simple app and occasional cash access | Cash deposits at the Post Office may incur a fee once you exceed the annual allowance; check the current tariff |\n| **Chase** | Cashback on eligible spending and fee-free spending abroad | Cashback is capped and comes with eligibility conditions; it may be less compelling if your spending doesn’t fit the qualifying categories |\n| **Revolut** | Travel, foreign currencies and keeping several money-related features in one app | Its UK banking rollout is recent and may be gradual; check that your particular account is held with Revolut Bank UK and that its terms suit you |\n\n### My take\n\n- **Choose Starling** if you want one account for salary, bills, direct debits and everyday spending, with a clear all-round proposition.\n- **Choose Chase** if you’ll make good use of its **2% cashback** on qualifying categories. The offer is capped at **£20 a month** and, according to Chase’s current terms, requires **15 or more qualifying card payments and/or Direct Debits** plus **£1,000 or more across Chase saver accounts** to qualify for cashback the following month.\n- **Choose Revolut** if foreign-currency features and travel convenience matter more to you than having the most established-feeling setup as your sole account. Revolut says eligible deposits with **Revolut Bank UK** are FSCS-protected, but accounts may be transitioning from its e-money setup—so check your account’s legal provider and protection status in the app.\n\n**Bottom line:** I’d use **Starling as the main account**, and consider **Chase alongside it** if you can reliably meet the cashback conditions. Whichever you pick, keep a backup account elsewhere if you rely on your bank for everything. FSCS protection applies to eligible deposits, currently up to **£120,000 per person, per banking licence**; check the provider’s current terms before moving a large balance.",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://www.revolut.com/en-GB/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "title": "www.revolut.com · en-GB · blogIs Revolut a fully licensed bank in the UK? Here’s what's ..."
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-now-that-revolut-is-a-bank-in-the-uk-how-is-my-money-protected/",
+   "title": "Now that Revolut is a bank, how is my money protected?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-saver-account/",
+   "title": "Easy access savings account"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-what-will-happen-my-account-when-its-moved/",
+   "title": "What will happen to my account when it’s moved? | Revolut ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-is-my-savings-account-fscs-protected/",
+   "title": "Is the money in my Savings account protected by the FSCS?"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/",
+   "title": "What does the UK Bank Licence mean for my account?"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-general-terms-may-2026.pdf",
+   "title": "starling-personal-account-general-terms-may-2026. ..."
+  },
+  {
+   "url": "https://www.revolut.com/en-GB/news/revolut_launches_uk_bank/",
+   "title": "Revolut Launches UK Bank | Revolut United Kingdom"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-features/",
+   "title": "Features - Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "title": "Chase Boost: 4.75% AER variable (4.65% gross)"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/",
+   "title": "Chase UK: Home"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/fscs-info-sheet-2026.pdf",
+   "title": "FSCS-Information-Sheet - Starling Bank"
+  }
+ ],
+ "search_queries": [
+  "Starling Bank personal current account fees FSCS cash deposits 2026",
+  "Revolut UK personal current account FSCS banking licence 2026",
+  "Chase UK current account fees cashback savings FSCS 2026"
+ ],
+ "latency_s": 6.85,
+ "asked_at": "2026-11-21T17:41:28.997807+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

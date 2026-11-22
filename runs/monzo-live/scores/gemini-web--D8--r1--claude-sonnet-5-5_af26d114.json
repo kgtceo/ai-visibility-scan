@@ -1,0 +1,112 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D8",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "First Direct, Monzo, and Starling Bank consistently top UK customer service rankings."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling tends to edge ahead slightly in official CMA overall service quality scores and has zero fees on overseas spending"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide Building Society regularly outperforms the major high street banks in customer satisfaction."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo consistently tops UK customer service rankings.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give an NPS of 76 but no rankings."
+   },
+   {
+    "text": "Monzo offers fast in-app chat support, instant notifications, and proactive fraud/spending controls.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "Monzo is a fully licensed UK bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Monzo is authorised by the PRA and regulated by the FCA."
+   },
+   {
+    "text": "Monzo is widely praised for its intuitive app design and budgeting tools.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo is app-only.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo offers Under 16s/16–17 accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   }
+  ]
+ },
+ "judge_error": null
+}

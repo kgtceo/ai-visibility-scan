@@ -1,0 +1,183 @@
+{
+ "engine": "perplexity",
+ "question_id": "H3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare Cash ISAs: Instant & Select Access | Monzo"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access-cash-isa",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Select Access Cash ISA"
+  },
+  {
+   "url": "https://monzo.com/?msclkid=88f6814e89e91c803058eb18c446d1ca",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Instant Access Savings Account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-tomorrow/types-of-savings-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "The Different Types of Savings Accounts: A Guide"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-3-years",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo 3 Year Fixed Rate Savings Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-1-year",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo 1 Year Fixed Rate Savings Review: 4.50% AER (Nov 2026)"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best savings accounts 2026 - Which?"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-cash-isa-3-years",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo 3 Year Fixed Rate Cash ISA Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Instant Access: 2.80% AER on the free plan; 3.15% with Extra; 3.55% with Perks, Plus or Premium; and 3.80% with Max"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Instant Access: 2.80% AER on the free plan",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan Instant Access rate."
+   },
+   {
+    "text": "3.15% with Extra; 3.55% with Perks, Plus or Premium; and 3.80% with Max or Max Family",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Paid-plan instant access rates are not covered by the facts."
+   },
+   {
+    "text": "Select Access: 3.45% AER on a free plan, or 3.70% on eligible paid plans, with no more than two withdrawals a year",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Select Access is not covered by the facts."
+   },
+   {
+    "text": "Fixed Rate: up to 5.25% AER fixed for three years; £500 minimum, access restricted until maturity",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Fixed rate details are not covered by the facts."
+   },
+   {
+    "text": "Instant Access rate is variable, with instant withdrawals",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The facts say the rate is variable but do not mention instant withdrawals."
+   }
+  ]
+ },
+ "judge_error": null
+}

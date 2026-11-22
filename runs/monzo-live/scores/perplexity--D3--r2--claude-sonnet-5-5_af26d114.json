@@ -1,0 +1,185 @@
+{
+ "engine": "perplexity",
+ "question_id": "D3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/saving-pots/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "What is a savings pot and how can they be used?"
+  },
+  {
+   "url": "https://monzo.com/features/pots",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Pots | Separate Your Money However You Like"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Instant Access Savings Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://monzo.com/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/blog/looking-for-a-budgeting-app-supercharge-your-savings-and-budget-better-with",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Looking for a budgeting app? Supercharge your savings ... - Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/instant-access-savings-pots-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What are Instant Access Savings Pots?"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://enginebystarling.com/mobile-sdks/savings-and-budgeting-features/",
+   "domain": "enginebystarling.com",
+   "source_type": "other",
+   "title": "Saving and Budgeting Features"
+  },
+  {
+   "url": "https://monzo.com/gb/help/budgeting-overdrafts-savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Opening pots, budgeting and saving - Monzo USA"
+  },
+  {
+   "url": "https://www.starlingbank.com/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Starling | Award-winning bank accounts"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/pot-type-explanation",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What’s the difference between a Regular Pot, a Savings Pot ..."
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Extra | The Bank Account for Budgeting for £3 a Month"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/how-to-save-for-a-mortgage/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "How to start saving for a mortgage deposit"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the best all-round choice for budgeting and savings pots."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Choose Starling if you prefer a straightforward setup."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Choose Chase if your priority is savings accounts and round-ups."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Savings Pots earn interest.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give an Instant Access Savings rate but do not cover Savings Pots generally."
+   },
+   {
+    "text": "You can automate saving with recurring transfers and round-ups, and set bills to come from a Pot.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Feature details are not covered by the facts."
+   },
+   {
+    "text": "Some extras, such as custom categories, are on paid plans.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list paid plan prices but not which features they include."
+   }
+  ]
+ },
+ "judge_error": null
+}

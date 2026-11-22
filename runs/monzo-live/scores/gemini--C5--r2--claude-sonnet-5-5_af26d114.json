@@ -1,0 +1,154 @@
+{
+ "engine": "gemini",
+ "question_id": "C5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ym7vLX1xdcI9KynslhqrxnoKxDS9KZfNkS0rzCYrXhLNhZSG6AEYC0lUrthGwR-_DGYDxAl3hJUFMyMY7JhVLn_wxVbkp9Dp3OcV6eqYOt3FmV49I5XeDno7CSgtdm4EbmmIcX1HcRbyPzQAW9-jwudTdp4_1SAa",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQJy-D0XNG3ZCJqyawciy6hAThoI6MFMKrybf6fo4Mw0UcdrOX583EKTLLJYJ3e2SehEpaRxrmVaCLmXZ4iijZTvaH0KAfPoZqGDr0cmlJIsrb1Kr-R7vU0RiTGybJF7IVvNirUpQDL24v44hnZ62nfPnI_rFZ4s=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHMka09Gme2Ig4LUjl8lqSMgB6LngLLKiqHnzmcwtSTvcQy1As1Ep9hvI3GuhZcF--yNgscShZmXqMch8Vqu1Y9aTz07_8NL0LCpViKrQLNG2BSHI0iQ_0-L0pSciJeA-6zBlSF2QFeQ_8Ej7QlCxjLat-cEO7-nnVIJ8OjINC1caHSzMkOrGvAKvBr-ruhJhYrjdYUZexgL2muTO9tdn63t43v-zP8L5OYtQO_ULzwpiyvbnf_Otl0uSnxK3I",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "nationwide.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz7k4Xp3QGfkbG8SaGdJOzt7QeFb9-9zhlcno3v8Ts6BBTtOcWV8jvDct1XpXxgaC29vtDopkEmO_FgW-4kusZbBWuXqvnTrhLN3PVysjuRDTLaCitcIc_2khwzycuyE2gQeXhriIbzvfnFUPsqcJ54U5-RENiNY2gif-eiGyh",
+   "domain": "sendabroad.co.uk",
+   "source_type": "other",
+   "title": "sendabroad.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo (Clear Winner): Monzo’s app is best-in-class."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Nationwide (Clear Winner): ... Nationwide is vastly superior."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both protect your money up to £85,000 under the FSCS.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo has no physical branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can scan smaller cheques into the app (up to £500).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo charges a £1 fee per deposit via PayPoint or Post Office, capped at typically £750 per 30 days on the free account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Fee-free spending in foreign currencies at the Mastercard exchange rate without any hidden markup.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Up to £200 every 30 days fee-free outside the EEA, and unlimited fee-free withdrawals inside the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Unlimited in the EEA applies if Monzo is the main bank, which fits the main-account question."
+   },
+   {
+    "text": "The free standard account pays no interest on your main balance, though you can open variable-rate Savings Pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F9 covers an Instant Access Savings rate but not the main balance interest."
+   },
+   {
+    "text": "Monzo offers paid tiers (Perks and Max) that add features like travel insurance, phone insurance, and free Greggs treats.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 confirms the plans exist but not these features."
+   },
+   {
+    "text": "Monzo support is managed almost entirely through in-app live chat.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has a Salary Sorter that moves money into Pots on payday, and direct debits can be paid from pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

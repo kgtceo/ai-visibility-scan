@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D8",
+ "run": 1,
+ "text": "**Monzo is the best-rated UK bank overall for a personal current account.** In the independent Ipsos survey published in August 2026, **79%** of Monzo customers surveyed in Great Britain and **82%** in Northern Ireland said they were very or extremely likely to recommend it. Monzo ranked first in both. That measures the overall banking experience, though, not how quickly someone helps when something goes wrong. ([ipsos.com](https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai))\n\n- **If you want to speak to someone by phone, I’d pick first direct.** Its UK-based team answers calls 24/7, and it ranked joint third overall in Great Britain at 75%. ([firstdirect.com](https://www.firstdirect.com/ways-to-bank/?utm_source=openai))\n- **If you prefer face-to-face help, I’d pick Nationwide.** It ranked first for branch service in both Great Britain (83%) and Northern Ireland (81%). ([hsbc.co.uk](https://www.hsbc.co.uk/help/csqi/))",
+ "citations": [
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  },
+  {
+   "url": "https://www.firstdirect.com/ways-to-bank/?utm_source=openai",
+   "title": "Ways To Bank | Personal Banking Options - first direct bank"
+  },
+  {
+   "url": "https://www.hsbc.co.uk/help/csqi/",
+   "title": "CSQI - HSBC UK"
+  }
+ ],
+ "search_queries": [
+  "August 2026 Great Britain personal current account service quality survey overall service quality Monzo first direct Ipsos August 2026 UK bank",
+  "site:firstdirect.com phone 24/7 speak to real person UK first direct telephone banking"
+ ],
+ "latency_s": 12.89,
+ "asked_at": "2026-11-21T16:55:51.967148+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

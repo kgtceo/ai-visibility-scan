@@ -1,0 +1,159 @@
+{
+ "engine": "claude",
+ "question_id": "T2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "​​Is Monzo a bank?"
+  },
+  {
+   "url": "https://monzo.com/security",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Industry-first security"
+  },
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "What Is Monzo? Review, Plans & Fees Explained (2026)"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Is Monzo Safe? How We Help Protect Your Money and Savings"
+  },
+  {
+   "url": "https://www.flagright.com/post/monzos-ps21-1m-fca-fine-a-scaling-lesson-for-uk-fintech-compliance",
+   "domain": "flagright.com",
+   "source_type": "other",
+   "title": "Monzo's £21M FCA Fine: A Scaling Lesson for UK Fintech Compliance"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a real bank. It isn't only an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has been a fully-fledged bank since it received its banking licence in April 2017.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Licence date not covered by facts."
+   },
+   {
+    "text": "It is authorised by the Prudential Regulation Authority and regulated by both the FCA and the PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000 per person per banking licence.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The FSCS limit was raised from £85,000 on 1 December 2025.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Date of change not in facts."
+   },
+   {
+    "text": "On a joint account the limit is £240,000.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account limit not covered."
+   },
+   {
+    "text": "Monzo operates almost entirely through a mobile app rather than branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Investment products such as Stocks & Shares ISAs and General Investment Accounts have a separate £85,000 of protection.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo was fined £21.1m by the FCA in 2025 over financial crime control failures relating to 2018–2020.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Fine not covered by facts."
+   },
+   {
+    "text": "Monzo is not an e-money institution.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts say it is a PRA-authorised bank, which implies this, but not stated directly."
+   },
+   {
+    "text": "Monzo Bank Limited's FCA reference number is 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

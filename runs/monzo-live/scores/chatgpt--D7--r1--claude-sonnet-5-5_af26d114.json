@@ -1,0 +1,124 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/sole-trader-bank-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Sole trader bank account | No monthly fees | Starling"
+  },
+  {
+   "url": "https://www.natwest.com/business/bank-accounts/startup-bank-account.html?intcam=HP-B-P3-DEF-Default&utm_source=openai",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "Start-Up Business Bank Account | NatWest Business"
+  },
+  {
+   "url": "https://monzo.com/business-banking/plans-pricing",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Business Banking Plans | Explore Lite, Pro & Team"
+  },
+  {
+   "url": "https://www.business.gov.uk/support/accounting-tax-cashflow/getting-a-business-bank-account/?utm_source=openai",
+   "domain": "business.gov.uk",
+   "source_type": "regulator_official",
+   "title": "Getting a business bank account | business.gov.uk"
+  },
+  {
+   "url": "https://help.starlingbank.com/business/topics/cash-and-cheques/can-i-deposit-cash-into-my-account/?utm_source=openai",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Can I deposit cash into my account? - Starling Help"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo Business Lite | No monthly fee and free UK bank transfers. I'd start with Lite rather than pay £9/month for Pro"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I'd choose Starling's Sole Trader account. There's no monthly fee, you can create and send invoices for free"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite has no monthly fee and free UK bank transfers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover Monzo personal plans, not business plans."
+   },
+   {
+    "text": "Monzo Business Pro costs £9/month.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 lists £9 for the personal Perks plan; business Pro pricing is not covered."
+   },
+   {
+    "text": "Monzo Business Team is from £25/month and offers employee expense cards with spending limits and bulk payments.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Business Team pricing and features are not covered by the facts."
+   },
+   {
+    "text": "Pro offers features such as automatically setting aside tax or invoicing from Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

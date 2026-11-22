@@ -1,0 +1,30 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "S1",
+ "run": 1,
+ "text": "In the UK, you can switch your current account to Monzo using the **Current Account Switch Service (CASS)**. \n\nBecause Monzo is fully integrated with CASS, **all of your Direct Debits and standing orders are moved over automatically**—you do not need to contact the companies taking payments.\n\n---\n\n### Step-by-Step: How to Switch\n\n#### 1. Open a Monzo Account\nIf you haven’t already, download the Monzo app and open a standard current account.\n\n#### 2. Gather Your Old Bank Details\nYou will need:\n* The name of your existing bank.\n* Your existing sort code and account number.\n* The 16-digit debit card number and expiry date linked to your old account.\n\n#### 3. Start the Switch in the Monzo App\n1. Open the Monzo app and go to the **Home** tab.\n2. Tap the **three dots (...)** on your account card.\n3. Select **Switch to Monzo**.\n4. Enter your old account details.\n5. Choose your **switch date** (it must be a working day, typically at least 7 working days away).\n\n---\n\n### What Happens to Your Direct Debits & Money?\n\n* **Direct Debits & Standing Orders:** On the switch date, your existing Direct Debits and standing orders transfer to Monzo automatically.\n* **Balance & Redirection:** Your remaining balance moves across, and your old account is closed. Any incoming payments sent to your old account details will be redirected to your Monzo account automatically for at least 3 years.\n* **Current Account Switch Guarantee:** If a Direct Debit or scheduled payment goes wrong or incurs a charge during the switch, you will be refunded under the CASS guarantee.\n\n---\n\n### Important Things to Keep in Mind\n\n1. **Card Subscriptions (CPAs) vs Direct Debits:** \n   * CASS **does not** transfer Continuous Payment Authorities (recurring subscriptions linked to your 16-digit debit card number, such as Netflix, Spotify, or gym memberships). You will need to manually update your card details for those services once your new Monzo debit card arrives.\n2. **Salary:** \n   * Although incoming payments will be redirected automatically, it is best practice to notify your employer's payroll team of your new Monzo sort code and account number.\n3. **Avoid Making Changes Mid-Switch:**\n   * Try not to set up new Direct Debits or cancel existing ones on your old account in the 7 working days leading up to your switch date.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8EMjEQCyXxEOZ2BxOE4sUBfrnA9nPwUuIFHwtdDMF533tIBDrQWoHtC4uYCQ1_MZsEqeStScaxRTRkwNF3TzhxC4zl8bt-biHPQ5Emuo=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEplT95zVtQ0l0jWyqHOrg0GzKmULGH68FCacbL0mYIjKOracxVqoH7B5u5N594RcqI254lZdtvNYsHuw5_vehKbZ4YG1k0eO5l45YiKhMuzYQgr3vE3BznJD0sNZXhH9fQsXgzZE9a",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhGXMCcP_1754T89FG7y0KfBD6j6GKAdmmOV9zXb3q6yCGxI38wuuPn4C20hSlxMVf_uBcKsJLilQPsgaS004cgWdgKMEGqf_Dp77quaFTYKtEXC7YCu6fiCpD3Tkdh5evsGXh_XJatHco",
+   "title": "monzo.com"
+  }
+ ],
+ "search_queries": [
+  "monzo switch to monzo app steps current account switch service"
+ ],
+ "latency_s": 19.3,
+ "asked_at": "2026-11-21T18:01:11.364782+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

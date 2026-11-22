@@ -1,0 +1,33 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H4",
+ "run": 1,
+ "text": "Yes, Monzo offers overdrafts on personal accounts in the UK if you're eligible. It's optional, and you apply in the app.\n\n**How it works**\n- When you open an account, Monzo checks your credit file to decide whether it can lend to you. This is a soft search, so it won't affect your chances of getting credit.\n- If you're offered an overdraft, you can switch it on at sign-up or apply to turn it on later.\n- You choose your own limit, up to the amount Monzo can offer you. You can change it at any time in the app or switch it off.\n\n**What it costs**\n- The EAR (effective annual rate) depends on your credit score and will be 19%, 29% or 39%. You can see your personal rate in the overdraft section of the app.\n- The rate is variable. As an example, an arranged overdraft of £1,200 used for 30 days at 39.0% EAR/APR would cost £32.94.\n- Monzo says it doesn't charge hidden or late fees, so its EAR and APR are the same.\n- Interest comes out of your account on the first of every month.\n\n**Going over your limit**\n- If you go over your arranged limit, you enter an unarranged overdraft, which is charged at the same rate as your arranged one.\n- If you have no arranged overdraft and your balance goes below zero, Monzo charges 39% EAR (variable). Unarranged overdraft charges on your current account are capped at £15.50 a month.\n\n**Short-term use only**\n- Monzo says overdrafts are for short-term borrowing. If you use yours but add no money to the account for over 60 days, Monzo might ask you to make a payment into it.\n\nBusiness accounts have separate overdraft terms. The figures above are from Monzo's personal overdraft pages, and the PDF I drew some from is an older version. Check the app for your exact rate before you borrow.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work",
+   "title": "Monzo Help - Overdrafts with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "title": "Monzo Help - Overdraft Interest"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "title": "Overdrafts"
+  },
+  {
+   "url": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.2.pdf",
+   "title": "About overdrafts at Monzo Version 1.2 General information"
+  }
+ ],
+ "search_queries": [
+  "Monzo overdraft cost EAR interest rate"
+ ],
+ "latency_s": 7.48,
+ "asked_at": "2026-11-21T16:49:30.368527+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,59 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C4",
+ "run": 1,
+ "text": "**Short answer:** Chase UK is better for everyday cashback. For savings it depends on which product you mean. Neither pays the best rate on the market, and some figures below differ between sources, so check the apps before you commit.\n\n## Cashback: Chase wins for most people\n\n- **Chase:** It pays 2% cashback on everyday spending, capped at £20 a month, as long as you pass two monthly tests. Eligible categories are groceries, restaurants and cafes, takeaways, transport, fuel and public EV charging.\n- **Chase's conditions:** One review says you need 15 or more qualifying payments and £1,000 or more in Chase savers every day. If you miss that in a month, you don't get the cashback.\n- **Monzo:** There is no flat rate on all spending. You can get 2% to 10% at selected retailers, but you must activate each offer in the app. That article is about a year old, so the retailer list may have changed. Monzo's own help page says cashback also applies on its Flex credit card, and across the Plus, Premium, Perks, Extra and Max plans.\n- **Monzo paid plans:** Perks adds extras such as 5% cashback on normal Uber rides and 10% on train tickets via Uber One. Perks costs £9 a month.\n\n## Savings: more mixed\n\n**Chase**\n- The Chase Saver pays 2.25% AER variable. The same review says it was due to rise to 2.50% AER on 12 November 2026.\n- New customers can get a 12-month boost to 4.50% AER if they open it in their first 31 days.\n- There's also a Regular Saver at 6.50% AER fixed for 12 months, up to £300 a month.\n\n**Monzo**\n- On the free plan, Instant Access pays 2.80% AER (variable). The paid plans pay more, up to 3.80% on Max, and Perks pays 3.55%.\n- Fixed-rate savings are 4.70% for one year, 5.10% for two years and 5.25% for three years, and you can't withdraw until maturity.\n- The 2026 Saving Challenge pays 5.00%, but it's a regular-saver-style product and is mainly for paid-plan members.\n\n**How they compare**\n- **Easy access, free account:** Monzo is slightly ahead, at about 2.80% against 2.25–2.50%. Chase wins if you're a new customer on the 4.5% boost, which lasts 12 months.\n- **Regular saving:** Chase's 6.5% is higher, but the cap is £300 a month.\n- **Locking money away:** Monzo's fixed rates are competitive.\n- **Market context:** Both are below the best rates elsewhere. One review notes that you might give up some interest compared with the very top-paying savings accounts if you keep your savings at Chase for the cashback.\n\n## Which to pick\n\n- **Chase** suits you if you spend regularly on groceries, fuel, transport and eating out. It also suits you if you're happy to keep £1,000 in its savers, or you're new and can use the 4.5% boost.\n- **Monzo** suits you if you want a main banking app with more features, or you'd use the fixed-rate pots. The free account's 2.80% easy-access rate is also slightly higher than Chase's standard rate.\n- **Both:** Many people use both, with Chase for cashback and its savings, and Monzo for day-to-day banking. This is only worth it if you'll actually meet Chase's conditions.\n\nRates are variable and change often, so check each app for current terms. For top savings rates, compare the whole market rather than just these two.",
+ "citations": [
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "title": "Chase UK Review: 2% Cashback Rules and Every Rate Checked"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "title": "Chase UK Review: Cashback, Saver Rates & Catches (2026)"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-offers-cashback-in-new-trial/",
+   "title": "Monzo offers cashback: is it any good? - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://monzo.com/help/cashback/what-is-cashback",
+   "title": "Monzo Help - Cashback explained"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-perks-review/",
+   "title": "Monzo Perks price increase: is it still worth it? - Be Clever With ..."
+  },
+  {
+   "url": "https://monzo.com/current-account/perks",
+   "title": "Monzo Perks"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, ..."
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-perks-what",
+   "title": "Monzo Help - What benefits are included with Perks?"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/",
+   "title": "Chase user? Your cashback is doubling to 2%"
+  }
+ ],
+ "search_queries": [
+  "Chase UK cashback savings rate 2026",
+  "Monzo savings interest rate cashback 2026",
+  "Monzo cashback offers Perks plan cashback"
+ ],
+ "latency_s": 15.86,
+ "asked_at": "2026-11-21T16:47:50.228580+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

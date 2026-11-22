@@ -1,0 +1,150 @@
+{
+ "engine": "claude",
+ "question_id": "D2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://anna.money/blog/guides/starling-vs-monzo-vs-revolut-business-account/",
+   "domain": "anna.money",
+   "source_type": "other",
+   "title": "Starling vs Monzo vs Revolut Business Account: 2026 Comparison"
+  },
+  {
+   "url": "https://easyearns.com/articles/revolut-vs-monzo-vs-starling",
+   "domain": "easyearns.com",
+   "source_type": "other",
+   "title": "Monzo vs Starling vs Revolut: Which UK Bank Wins in 2026?"
+  },
+  {
+   "url": "https://freenance.io/rankings/best-neobanks-uk-2026/",
+   "domain": "freenance.io",
+   "source_type": "other",
+   "title": "Best Neobanks in UK 2026 — Monzo, Starling, Revolut Compared ..."
+  },
+  {
+   "url": "https://bankadvisor.co.uk/compare-digital-banks-uk-2026",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "Compare Digital Banks UK 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the best all-rounder for everyday use and budgeting."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling is the best free replacement for a high-street bank."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut is best if you travel or move money across borders."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase is best for an easy-access savings account with occasional cashback"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's support is in-app only.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Monzo support channels."
+   },
+   {
+    "text": "Monzo consistently leads on independent satisfaction measures (per one comparison site).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F4 gives an NPS of 76 but does not cover comparison-site rankings."
+   },
+   {
+    "text": "Monzo is free and has a full UK banking licence.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Monzo is a UK authorised bank; the free plan exists per F7."
+   },
+   {
+    "text": "One source puts Monzo's savings rate at 4.0% AER.",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "F9 says 2.80% AER on the free plan, but the answer attributes 4.0% to a source and may describe a different product or condition."
+   },
+   {
+    "text": "You can open a free Monzo account alongside your current bank.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover opening as a secondary account."
+   }
+  ]
+ },
+ "judge_error": null
+}

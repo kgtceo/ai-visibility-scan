@@ -1,0 +1,42 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H1",
+ "run": 2,
+ "text": "Whether Monzo’s paid plans are worth it depends on whether you will actively use the lifestyle perks or insurance bundled with them. For many people, **Monzo’s free tier is already one of the best current accounts in the UK**, meaning you should only pay if the perks clearly offset the subscription fee.\n\nMonzo offers three paid tiers: **Extra**, **Perks**, and **Max**. \n\n---\n\n### 1. Monzo Extra (£3/month / £36/year)\n*Target: Power budgeters and spreadsheet users.*\n\n* **What you get:** Unlimited connected external bank accounts and credit cards, virtual cards linked directly to Pots, advanced auto-roundups, custom spending categories, live auto-export to Google Sheets, and enhanced credit insights (TransUnion & Equifax).\n* **Is it worth it?**\n  * **Yes, if:** You want Monzo to act as your complete financial dashboard, love granular budgeting, or use virtual cards for subscriptions and online shopping safety.\n  * **No, if:** You only do standard day-to-day spending. You can also get open-banking account aggregation for free via third-party apps like Snoop, and basic budgeting is already free on Monzo.\n\n---\n\n### 2. Monzo Perks (£9/month / £108/year)\n*Target: Everyday spenders who can take advantage of lifestyle vouchers.*\n\n* **What you get:** Everything in Extra, plus:\n  * A free weekly Greggs treat (hot drink, sausage roll, or sweet treat).\n  * An annual National Railcard (or similar partner perk).\n  * Boosted interest rates on Monzo savings pots.\n  * Higher fee-free cash withdrawals abroad and 3 fee-free cash deposits per month via PayPoint.\n* **Is it worth it?**\n  * **Yes, if:** You do the maths on the perks. A weekly Greggs item is worth ~£2–£2.50 per week (~£100+/year), and an annual Railcard saves £35/year. If you use both regularly, the plan pays for itself before factoring in the £3/month Extra tools.\n  * **No, if:** You don’t regularly walk past a Greggs or travel by train. Don’t buy Perks purely for the boosted savings rate; you can almost always find comparable or higher easy-access savings rates elsewhere on the open market without paying a monthly fee.\n\n---\n\n### 3. Monzo Max (£19/month / £228/year, or £23/month with Family cover)\n*Target: Frequent travellers and drivers wanting an all-in-one packaged account.*\n\n* **What you get:** Everything in Extra and Perks [1.1.3,",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwfDAaznIc7uNFBVmxZun5eUtiomEWUmkEDr2xQJ5MNrhUMw4n_HdOmhhaa7DEXLFZJqHMCDnxHvPRe6o4Zlf71Q0kiyyOa5uTK5r4UkdHMX8gWRpuC-Ju6DAA8pR1l3oiDlFlpOFJu85UlFj771DoFsZcg1TuPw==",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiOm_59uKyiDlfr1QXZfPmId9REhRm0vvt_WeKIbF3cFvs5OWKzihQnZRjpvsm7FOYqdKCALUQq9FwF-SsUlLDVO_XYzjlmxDmQLOoZ3h7gUjRVn-UU80KtEPhNRMcEfSARg==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuwVrGTrGJBKb6mXULJRWXmoA5UGuXS8FB-ZTeUh2H9uI35zsSZ3uODfqdPH3Zgn3foSFiXHAbpM9wHZt-mtNY4o0rRspS4TDdDKEzv0qKfVf1PMRGUoxyJHAr4FqXd0XX_x2euIYAEgv-Wluc1T29",
+   "title": "delphina.money"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGniQXFwVMfq9uLLwWbYdvi_4gwFa4d3nBzx2Oak8Gh9RKmfiUhW1-fQtcsA6AeybdUFr9pCcZ-soJobeThLqM_HZJ-STpH1tkFxEmogFF24YetYPluEdVzgPfU8A==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr79tDYQrtwvjgr-WatanCJCrLry7O_ku47Zi9IPXG6fQrnI2Rphl7AVVX_ye3cK4QB2A7Bn4lNxAPcr1onOxtow22ga-_34pxQYWPh4TjZ7WK94kg3UDGGMQGh9SqDFOQGXJ4v3EedDGSskFy0l7OtuTPLQ==",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECY4pMBIS3Mo4BTjK00yR-su1bcUbV3_G_gek5wh9VCkMmUb0UdXVdOxSkvo_sYTWKGLcoGIJAuCLZszf3sC2EkYOvF-cP1Oa5ckMkjt6tZBp8-ue_T4fDq7nySMTEM6I=",
+   "title": "coolcuration.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo paid plans UK Extra Perks Max pricing features"
+ ],
+ "latency_s": 23.24,
+ "asked_at": "2026-11-21T17:55:55.164258+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

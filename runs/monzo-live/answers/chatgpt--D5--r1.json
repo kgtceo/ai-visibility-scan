@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D5",
+ "run": 1,
+ "text": "**I’d pick Santander’s 1|2|3 Mini Current Account**, especially if you can pay in £50 in your first month. At 16, you can apply online yourself or go into a branch. There’s no monthly fee or overdraft, and it pays interest on your balance. Choose the **debit card** rather than the cash card so you can pay in shops and online, not just withdraw cash. ([santander.co.uk](https://www.santander.co.uk/personal/current-accounts/123-mini-current-account))\n\n**Why Santander?** It’s currently offering a **£50 bonus** if you open your first 1|2|3 Mini, pay in at least £50 within **31 days**, and keep the account open until the bonus arrives. Santander says it pays within 60 days. Check the offer is still showing before you apply, as it can be withdrawn. ([santander.co.uk](https://www.santander.co.uk/personal/current-accounts/123-mini-current-account))\n\n**What you’ll need:** Proof of identity and a separate proof of address. If you don’t have a passport or bills in your name, one option Santander accepts is **your birth certificate plus your most recent school or college letter showing your address**, dated within the last 12 months. ([santander.co.uk](https://www.santander.co.uk/personal/current-accounts/123-mini-current-account))\n\n**When I’d choose Monzo instead:** If you’d rather do everything on your phone and want to set money aside in Pots or split bills with friends, **Monzo 16–17** is a good free alternative. You can apply in the app with photo ID, your own UK mobile number and an email address. ([monzo.com](https://monzo.com/current-account/16-17?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/123-mini-current-account",
+   "title": "123 Mini Current Account | Kids Bank Account | Santander UK"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17?utm_source=openai",
+   "title": "A Bank Account for 16-17 Year Olds | Teen Bank Accounts"
+  }
+ ],
+ "search_queries": [
+  "UK 16 year old first bank account Nationwide FlexOne 16 apply online interest Halifax Expresscash HSBC MyMoney current account Monzo 16 17 Starling UK Lloyds Smart Start 16 Santander 123 Mini 2026"
+ ],
+ "latency_s": 14.37,
+ "asked_at": "2026-11-21T16:54:09.877921+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

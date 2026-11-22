@@ -1,0 +1,31 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "C1",
+ "run": 1,
+ "text": "Starling is the best all-round main UK current account, offering complete traditional banking features (joint accounts, overdrafts, Post Office cash/cheque deposits, and full Current Account Switch Service support) with zero monthly fees. Chase is the stronger choice if you want to maximize cashback and savings on everyday spending, while Revolut works best as a secondary travel or multi-currency account rather than a primary UK bank.   \nMoney Saving Expert\n+ 1\n\nHead-to-Head Comparison (Free Personal Tiers)\nFeature\tStarling Bank\tChase UK\tRevolut (Standard)\nUK Banking Licence & FSCS\tYes (up to £120,000)\tYes (up to £120,000 via J.P. Morgan)\tYes (up to £120,000)\nCurrent Account Switch (CASS)\tYes (Full 7-day switch)\tYes (Sole accounts only)\tYes (CASS supported)\nJoint Accounts\tYes\tNo\tYes\nArranged Overdraft\tYes (15%–35% EAR)\tNo\tNo\nCash & Cheque Deposits\tYes (Post Office cash up to £1k/yr free; in-app cheques)\tLimited (PayPoint cash up to £500/mth; no cheques)\tNo\nEveryday Rewards\tNone\t2% cashback on groceries, fuel, dining & transport (up to £20/mth, conditions apply)\tRevPoints (1 pt per £10 spent; low cash value on free tier)\nLinked Easy-Access Savings\t~3.75%–4.00% AER (Easy Saver)\t~4.50%–4.75% AER (boosted 12-mth rate, then reverts lower)\t~2.90%–3.15% AER (higher promo rates on paid tiers)\nSpending Abroad\tUnlimited fee-free at Mastercard rate; £300/day ATM limit\tUnlimited fee-free at Mastercard rate; £1,500/mth ATM cap\t£1,000/mth fee-free FX limit (1% weekend markup); £200/mth ATM cap\nInternational Transfers\tYes (0.4% + small delivery fee)\tNot supported\tYes (strongest multi-currency & transfer tools)\nWhich One Fits Your Setup?\n\nChoose Starling as your main hub if: You want a reliable, no-nonsense primary bank where your salary lands and Direct Debits go out. It is the only one of the three that feels like a complete replacement for a high-street bank—supporting joint accounts, a competitively priced overdraft, cheque imaging, Post Office cash deposits, and 24/7 UK customer support.   \nGeneration Money\n\nChoose Chase as your main spender if: You don't need a joint account, overdraft, or international wire transfers, and want to earn passive rewards. Its 2% cashback on everyday essentials (provided you meet the monthly deposit/payment requirements) and boosted linked saver make it one of the most lucrative free accounts for daily spending.   \nThe Finance Lowdown\n+ 1\n\nChoose Revolut if: You frequently hold, convert, or transfer multiple currencies, or want stocks, commodities, and crypto trading inside your banking app. While Revolut now holds a full UK banking licence with FSCS protection, its free Standard tier has strict weekend exchange markups and ATM caps, meaning you either have to pay for a monthly plan or treat it as a secondary app.   \nGeneration Money\n+ 1\n\nThe Optimal Hybrid Setup: Many UK users use Starling as their core salary and bills account (taking advantage of Spaces for bills and joint account options), and transfer a monthly spending allowance to Chase to capture the 2% cashback and boosted savings interest.\n\nWould you like to narrow this down based on how you bank?\nCompare paid tiers (Revolut Plus/Metal)\nSee how Monzo compares to these three\nCheck Chase cashback eligibility rules",
+ "citations": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "title": "Money Saving Expert Best online & digital bank accounts – MSE - Money Saving Expert “Top-pick current accounts. Top all-rounder. Starling* Cheap overdraft & 24-"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "DepositScout Best Free UK Bank 2026: Revolut vs Monzo vs Starling - DepositScout “It's the closest thing to a complete bank in one free app, and it tops custome"
+  },
+  {
+   "url": "https://generationmoney.co.uk/revolut-vs-starling/",
+   "title": "Generation Money Revolut vs Starling: Which Bank Is Better in 2026? - Generation Money “Starling is our pick for a personal current account 🎉 It's a fully lice"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/startup-banks/",
+   "title": "The Finance Lowdown Free app bank accounts compared: Zopa, Monzo, Starling, Chase “ Zopa: no joint CA, not CASS (manual). Chase: no joint CA, CASS sole only. St"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 33.14,
+ "asked_at": "2026-11-21T13:33:59.816137+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

@@ -1,0 +1,43 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D6",
+ "run": 2,
+ "text": "When looking for interest on savings through a UK current account, the best option depends on whether you want **interest paid directly on your day-to-day balance** or access to **exclusive high-interest linked savings accounts** unlocked by opening the current account.\n\n---\n\n### 1. Best for interest directly on your current account balance\n\nMost UK banks pay 0% on current account balances. The few that do pay interest usually cap the balance:\n\n* **Nationwide FlexDirect – 5.00% AER (fixed for 12 months)**\n  * **Limit:** Up to **£1,500**.\n  * **The catch:** You must pay in at least £1,000 per month (not counting transfers from other Nationwide accounts). The 5% rate only lasts for the first 12 months (reverting to a nominal rate after). Because of the £1,500 cap, the maximum interest you can earn in year one is **£75**.\n* **Kroo Current Account – ~3.25% to 4.10% AER (variable)**\n  * **Limit:** Up to **£500,000**.\n  * **Why it stands out:** Unlike Nationwide, Kroo is an app-based bank that does not severely cap your balance. There are no monthly account fees and no minimum monthly pay-in required.\n* **Santander Edge Up – 2.10% to 3.00% AER (variable)**\n  * **Limit:** Up to **£25,000**.\n  * **The catch:** There is a **£5/month fee**. To make this worthwhile, you need to hold a significant balance (usually £10,000+) and take full advantage of its 1% cashback on household bills and supermarket/travel spend.\n\n---\n\n### 2. Best for high-interest *linked* savings accounts\n\nIf you don’t mind sweeping money out of your current account into a linked pot or saver within the same app, you will earn significantly higher returns:\n\n* **Santander Edge Current Account** (Linked **Edge Saver**):\n  * Pays **6.00% to 7.00% AER** on balances up to **£4,000**.\n  * The current account costs £3/month, but comes with cashback on household bills to offset the cost.\n* **First Direct 1st Account** (Linked **Regular Saver**):\n  * Offers an exclusive **7.00% AER fixed** regular saver.\n  * You can save between £25 and £300/month for a 12-month term.\n* **Club Lloyds** (Linked **Monthly Saver**):\n  * Pays **6.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5UTisIO4PnyNS90IYDfne0DMtBiwucRGVe9hJihS6igFazhr0N1dt_68HzvRi-jrJwtdyRskBJqgFTVw5f63Z04JoCwQmOtYXfp_iLlJCCTqCYquHD54vgdBcIa9l_QVE5vjBkouyPAroOdW53_WH3R6wvptPcX-f8MazfO4=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqZrXUerTZZCAC46-bJ22avPE4RHDaC_85cFN94HiM3p-LH8HQOf28fLyE4gnyQQULTmb5W9r_-SLjX9XkdE0UjFmLcMcJW_uN7Q_iA0JHfQ5230KpTpPIiMnJvpn-SbnqnAT_aTjD",
+   "title": "ifastgb.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_8CZpow4AdX_7GRK8GVBIl2cXwzhfs3nwGRKI-mh8OW0N66xvSZEARdkKVJwnD7pC13s7_15vzsezZPkOmW8ZVVmdmMW4xFQ9XUUM8MyPoEaR0NBiN_7pZqUIZHRyS66L176YiGaKtwvY_0GhukDzeqoR6BBaMf8Cp3tOFMy-Jw__U6FNpF92cxCiLqPCPdGLJQVdag==",
+   "title": "clearscore.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqHToHn6ojXqyW-Q8k1VsvFXltQOLTjA_ixbg1PR5oTjtFzDn2hH-htJyZ_5WIkvyvmtskPyolTgiOCu9PI3cT7jXoCQmJ2szkAc88UATi-dS8KRR13_lOaA_vDobHDSnz2d4Agl3buziCDXOGURWbOlj9n8Mz4Qew3AvTGJysDgNCBHA=",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa998jbOZ_BPz80oFMmlRBTpahOtnPkq6QREgs2g2wMMNQk_FZcMqgmLHUr-s5BsxTtLU-KpQo0yOLjdzeKOOeg0LVhlFuqCcnBwJNSG1GkEXlSDE8_RN_aTFdIequf5qZfbrqOwf5KAsEG9VWZtMfexb4iMZ38kd550_2OJWCd61O1e895A==",
+   "title": "moneyfactscompare.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEqmIdKTTvrKK_f_g8bLXF7iznwpDE3uVfzvDBk3hqAXYbwyAvBNAszRR7sk5D8JCFb9JS0Q0MO9uVSutXNcoAeruY_ijGBzlbNFA7se4-Pd-EzERr3RzEl6glVBN9D-Pixvx7Uy8Npqz8aTrAdHC_RKf8jzEAUaM=",
+   "title": "wise.com"
+  }
+ ],
+ "search_queries": [
+  "highest interest current account UK 2024",
+  "best interest paying current account UK moneysavingexpert"
+ ],
+ "latency_s": 25.86,
+ "asked_at": "2026-11-21T17:49:15.848829+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

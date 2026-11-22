@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "S1",
+ "run": 2,
+ "text": "To switch your current account to Monzo and transfer all your Direct Debits, you can use the **Current Account Switch Service (CASS)** directly inside the Monzo app. \n\nBecause Monzo is a full member of CASS, the switch is **free, takes 7 working days**, and automatically moves your Direct Debits, Standing Orders, and regular incoming payments (like your salary) with no manual setup required.\n\n---\n\n### Step-by-Step: How to Switch\n\n#### 1. Open a Monzo account\nIf you haven't already, download the Monzo app, sign up for a personal current account, and complete the identity verification.\n\n#### 2. Start the switch in the app\n1. Open the Monzo app.\n2. Tap your **Profile icon** (top left) or tap your current account card, then go to **Manage** (or the settings gear icon).\n3. Scroll down and tap **Switch to Monzo**.\n4. Read the overview and tap **Continue**.\n\n#### 3. Enter your old bank’s details\nYou will be asked for:\n* The name of your current bank.\n* Your old account number and sort code.\n* The 16-digit debit card number and expiry date associated with that old account (used to verify your identity).\n\n#### 4. Pick a switch date\n* Choose a completion date (must be at least **7 working days** in the future, excluding weekends and bank holidays).\n* Monzo will confirm the timeline and submit the request to your old bank.\n\n---\n\n### What happens to your Direct Debits?\n* **They move automatically:** You do **not** need to contact energy suppliers, broadband providers, council tax, or gym memberships. The switch service notifies all the originators of your new account details.\n* **Do not cancel them manually:** Leaving them active in your old account ensures the automated system can detect and transfer them cleanly.\n* **Payment redirection:** Any accidental payments sent to your old account details will be automatically redirected to your Monzo account for at least 3 years.\n\n---\n\n### Key Things to Keep in Mind\n* **Your old account will be closed:** A full CASS switch automatically closes your existing bank account once the transfer completes on day 7.\n* **The Current Account Switch Guarantee:** If anything goes wrong, any interest or charges incurred on either account as a result of a delayed or missed payment will be refunded under the CASS guarantee.\n* **Overdrafts:** If you have an overdraft on your old account, you will need to clear it or apply for an overdraft with Monzo beforehand, as old overdrafts cannot be automatically carried over.\n* **Continuous Payment Authorities (CPAs):** Subscriptions tied directly to your old 16-digit debit card number (like Netflix, Spotify, or Amazon Prime) do not move via CASS. You will need to update those with your new Monzo debit card details manually once the card arrives.",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 13.44,
+ "asked_at": "2026-11-21T18:01:24.821550+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

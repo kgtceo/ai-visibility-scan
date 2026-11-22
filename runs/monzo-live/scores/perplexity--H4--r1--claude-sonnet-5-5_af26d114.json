@@ -1,0 +1,183 @@
+{
+ "engine": "perplexity",
+ "question_id": "H4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/business-banking/features/sole-trader-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Sole Trader Overdrafts | Apply for ..."
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Overdraft Interest"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-do-overdrafts-work",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com · help · budgeting-overdrafts-savingsMonzo Help - Overdrafts with Monzo"
+  },
+  {
+   "url": "https://monzo.com/information-about-current-account-services",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Information about our Personal Current Account Services"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Apply for an Arranged Overdraft with Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/overdraft-information/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "About overdrafts at Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Getting a personal overdraft"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.3.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "These terms and using your Monzo account"
+  },
+  {
+   "url": "https://monzo-prod.com/help/overdrafts-loans/eligibility-limited-company-overdrafts",
+   "domain": "monzo-prod.com",
+   "source_type": "other",
+   "title": "Monzo Help - Getting a limited company overdraft"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-1-2",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Terms and Conditions - Monzo"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Check if you're eligible for a personal overdraft"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/does-overdraft-affect-credit-score",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Does having an overdraft affect your credit score? - Monzo USA"
+  },
+  {
+   "url": "https://monzo.com/overdraft-calculator",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo overdraft calculator"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Managing your overdraft"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. Monzo offers arranged overdrafts to eligible UK personal-account customers, subject to approval."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers arranged overdrafts to eligible UK personal-account customers, subject to approval.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdrafts."
+   },
+   {
+    "text": "Overdraft interest is a variable 19%, 29% or 39% EAR, with many customers offered 39%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "No separate fee for having or using the personal overdraft; interest is calculated daily and usually charged on the 1st of each month.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo says borrowing £1,200 for 30 days at 39% would cost £32.94.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "You can check your eligibility and personal rate in the Monzo app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

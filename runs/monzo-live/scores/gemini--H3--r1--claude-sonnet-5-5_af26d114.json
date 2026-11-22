@@ -1,0 +1,165 @@
+{
+ "engine": "gemini",
+ "question_id": "H3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfc64uojJ8H2FrrSpLWKerjnep4n8Ak4L3ZFWg_hJNHy7ATokIswWS4Ag4plTjPdVZ5fOFp9Z4DAwocRpuaSfIzpRicIDY_WB2hLBOffQo9H8hLNGrTLM8G92eSQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb86ZDf4lYd2H7jJ89xXu5l7gVTS5_sj8NggB_TCxP1Ntan0i-aQSrRp_WIIlBG6Fj4vUfI_tra_6nN0jAAQet4Q5XvbE8j5MZitJMt1Rwx_FCyV3ZusPNnr_zk7WwEqo2acgmMA==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9zcbysemKmvfyInOmpsrSpwDLEMnDIftcLbfYp3o4zTKlHPljYRBQjz7HWfdh49cGVYcQ1ODX7r_CV123IQRSuMwYuwPYwWIW9SY5GGCTfiVSu5w1F4phK5ZDYOuDgMZ3olg=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_plXyM1yg8f2iHpwTWr4GpmCKFBfKDh0HmMsSP3gFF_p2xn9ag_jEDt7PDu9gIt0x3fAul9oVH_uu0WvtJ4ChM5MzCTvRFYZYkGFl3ma4UqGGZ4inhxrOl_XaGrRRbdLE21nwrxlLxLYtB6xPrYejVGL1S-SQkw==",
+   "domain": "ffnews.com",
+   "source_type": "other",
+   "title": "ffnews.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLNrN6TXPiiVeiGdyprkRESr-BQCWM9hAfEHnoVZTmlU9hlP7ZKJ2vEXmd9YyJXmWWITYYDWSZtSqvHnTySdc-Vw9tlRjD4xzZG_nVuZav8_24wxb4dCcDJh0=",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG74NH5e2K_ob3NciMzhg_4xdRjgpekVt7I9e2mzkVtr7fqhC0Pp7RpWBR9N9nvuxMdv3Dn48R60slZdoj_w7gCH9LmN__iaObw3dmIVsn0TbgOU4Yzwj1E4TDD639afX9yh2GB_0qxaB-9tA2vPglC1YWRgg==",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Eligible deposits in Monzo savings products are protected under the FSCS up to £120,000 per person."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free account Instant Access Savings: 2.80% AER (variable)",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan rate."
+   },
+   {
+    "text": "Monzo Extra costs £3/mo",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Max costs £17/mo",
+    "verdict": "contradicted",
+    "fact_id": "F8",
+    "note": "Fact says Max is from £19 a month."
+   },
+   {
+    "text": "Monzo Perks / Plus / Premium costs £7/mo",
+    "verdict": "contradicted",
+    "fact_id": "F8",
+    "note": "Fact says Perks is £9 a month."
+   },
+   {
+    "text": "Eligible deposits in Monzo savings products are protected by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo Extra Instant Access rate is 3.15% AER (variable)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks/Plus/Premium Instant Access rate is 3.55% AER (variable)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Max Instant Access rate is 3.80% AER (variable)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Select Access Savings Pots require a £500 minimum deposit and pay 3.45% on the free account, dropping to 2.65% with 3 or more withdrawals",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Fixed rate pots offer up to 4.50%–5.25% AER over 1, 2 or 3 years with £500 minimum",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Interest is calculated daily and paid monthly on the 1st",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

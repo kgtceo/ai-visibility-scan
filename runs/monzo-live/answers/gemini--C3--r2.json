@@ -1,0 +1,63 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C3",
+ "run": 2,
+ "text": "For most UK travellers visiting Europe, **Monzo is the simpler, lower-stress choice**, though **Revolut has stronger multi-currency features** if you don't mind managing your balances. \n\n---\n\n### Key Comparison (Standard / Free Accounts)\n\n| Feature | **Monzo** | **Revolut** |\n| :--- | :--- | :--- |\n| **Exchange Rate** | Mastercard wholesale rate (excellent) | Interbank/Revolut market rate (marginally better midweek) |\n| **Weekend Fees** | **None** (same rate 7 days a week) | **1% fee** on currency conversions from Friday evening to Sunday evening |\n| **Monthly FX Cap** | **Unlimited** fee-free card spending | **£1,000/month** limit (1% fee afterwards) |\n| **ATM Cash (in EEA)** | **£400 / rolling 30 days** fee-free (unlimited if Monzo is your main bank); 3% after | **£200 / rolling month** (or 5 withdrawals, whichever comes first); 2% after |\n| **Hold Euros?** | No (converts automatically from GBP on spend) | **Yes** (hold EUR, exchange in advance, get local EUR IBAN) |\n| **UK FSCS Protected?** | **Yes** (up to £85,000) | **No** (standard accounts rely on safeguarding rules) |\n\n---\n\n### Why Choose Monzo?\n\n* **No weekend gotchas:** Financial markets close over the weekend. Monzo doesn't penalise you for this, whereas Revolut adds a 1% markup on weekend spending unless you've already converted your money to EUR beforehand.\n* **True “tap and forget”:** There is no monthly cap on card spending abroad. If you book a nice hotel or spend heavily, you don't have to worry about hitting Revolut’s £1,000 monthly free exchange ceiling.\n* **Better cash withdrawal terms:** If you need cash (which is still common in parts of Germany, Italy, or rural Europe), Monzo gives you double the allowance (£400 vs £200) in the European Economic Area (EEA).\n\n---\n\n### Why Choose Revolut?\n\n* **Locking in exchange rates:** If the pound is performing well before your trip, you can convert money into a dedicated Euro pocket at midday on a Wednesday and hold it there. \n* **Widespread in Europe:** Revolut is much more common among mainland Europeans than Monzo. If you’re travelling with European friends, splitting bills or transferring money peer-to-peer is instant and painless.\n* **Disposable virtual cards:** Great for booking train tickets, tours, or hotels on smaller European travel sites where you might be wary of card fraud.\n* **In-app travel perks:** Revolut lets you purchase budget travel eSIMs directly in the app if you need data abroad.\n\n---\n\n### The Verdict\n\n* **Pick Monzo** if you want zero hassle. You just spend like you would at home without watching calendars, converting balances, or worrying about weekend surcharges.\n* **Pick Revolut** if you want to actively manage and hold Euros, or if you regularly spend/transfer money to European bank accounts.\n\n**Top tip:** If you have both, **take both**. Keep Monzo as your primary card for everyday spending and weekend meals, and keep Revolut loaded as a backup card in case one gets lost, skimmed, or temporarily blocked. \n\n*(And remember: whichever card you use, **always choose to pay in EUR / local currency** at the card reader or ATM, never GBP, to avoid costly Dynamic Currency Conversion markups).*",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_DuNjoFH300dOhhdLMooLSgbWNVs2HU_Vsl-5U5ONArp_rb1t31VQalREOH16G26GYWlA9GOA5OB83wx3t-LK7XtuwJw__CICIXLCKFVGsERf6jZgOQhkYdfTTOwjadAvqarQgPloG6Oj",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrYHTxvQisTeh_90yHqat8J7dswGqecMH0u-JlJEeBvFTekYQoSpaFN-gS_ko6MhU7R8HgQZuF6M-1OwcEgCJGwo0Orq_1DEciKFdIhHefvyH8xk7CCCWjASP07UdivFhlUZmKycsUfRqJyicZXBTPLuMcaJMjIZdJxVyy6-4x9uRw79wNjz93rTKlGpm4",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMWQW5KI1ERD1rl0BRd_CpL3l8_q_By33dM_aFVZ6Uz_v_KGmoqYzGUHRjE8oyGP2p556xVctHYc8wJMfBR3t6OSOkEgAhy2pqSemio5yVTUV1PbBlnVfsWeT8lJ4Bd1pvQoeOtA==",
+   "title": "gaysthattravel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoevZ_3O3SUdLmLpxthYdOwUD-yMzMjg2t4wILfhU6svwLgxdhuWfWLD9HV6xsXhGxuu6FH69yR0NPbuHGpaUhMn-8-IptUjyXiv1Mci9suXO1BwKVspZ1YhpYKDKIEYcWCz-6Gxv39c5lZFX0hJIobB-RFNRNnhnIHktMcW85K7eEW-2FOIafA2Fl3DkJRbVzuqdaxRSqwchfpfSvrpHelohEoBlMtsCvf-S1dU-J6qylz59F_ePNYQhfjaFic56r49JHCpSmSmAeKQ==",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF854H4qMrMf-0htOHB5rkxIz_rXV75Kpt89VS_ulNij_u81Gk7rz8sArF9SWvKJni3-9gYuDXICUmHVDV-ImASOy4GcY9NxV9nWIhwNTpGB1PR9HZo2Is020MjtWq1rg==",
+   "title": "bankverse.ch"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEN3B38hl6JXeUcp1YUEfJVChbFX3D--5FMpqpRJxK2Bg4CuVn1uQ5ZzHe3b_QEvlMnX7iWg1r8QKDLdcAXNK_e_ls-ZUinMUiD7hgSA5-v-xU01jIM5ZXp7kcGJmyU7TGTUD-yFLShkCwo3xWtHTQEmflXm0YvBW48g85EfrK-4phSefY7J0HgA==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvuJ_ECJbukETN4CjxRHfvOZdSv5sEsXA2t_8U2kP0Hu1iubngMD6TTQT5GUYgn_Au3OOYJDfEHGGhoqVbnDOr8pmqtVPGXAFB22rGmTVmxdF8RsFHCkiKI_fn9KUX-GGbgQFJJlM66VOXCst",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKzWcu0FUVVJ13FQSpcdFggY0Wp252UTLyBnrtovosHqfn2cdcIPQ8GZeAWpaPnbxdTKlCFhQEkc3w9QKl8cGZbl3Rtw9X8SwDoM1PESDxQQ1dzbP9fqltzxWhM2y9Q54ohQDCeC350T7unjM=",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHHthVbWgoCnBmjSYBOKYN3WTTbJv864-i9NSG7_sepLF18yfXcF7baUNVZvu526mlSRWpVuISkgG3FrkS0JGh8groRgINMCeVhkVUjXm3ztHA-3jRtxfRzZAJwMEq0S9L",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMqbm3Pgen2eRmjnmZC2QUidEcGF3L-4GIck0EzzUCDfZlwtNyg_KWtIswnEoBiqYIWkXcBtXAYGzS70q2nCqPOMo6ofEMQzfcFPJyNB8UEQ2-AsQG3S8icu2_pk95wDzv",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh4GuX7onRAv7BYytUMd8ounH0Y6GlrI7FmSEzBrldMtxqzg226CVNP8xF7advMaSKErK0dfiK-lT7SxzwJsz-2Jt8NW4EV0cXdH06-WefveXf6TCdCSRDInsnSuDkyRaGRAFEr6HRDQV-37qbnwiEO4toWKWPZ6ARawjY6-iV72h1ZywTiYgCJaXWRQ==",
+   "title": "monzo.com"
+  }
+ ],
+ "search_queries": [
+  "monzo uk fees abroad atm limit eea",
+  "revolut uk spending abroad fees weekend fee limit"
+ ],
+ "latency_s": 27.01,
+ "asked_at": "2026-11-21T17:53:28.661881+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

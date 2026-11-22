@@ -1,0 +1,147 @@
+{
+ "engine": "claude",
+ "question_id": "H5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Joint Bank Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Joint Savings Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Manage your money together with joint accounts!"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-joint-account/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "Monzo Joint Account: Opening, Switching and Credit Scores"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding joint accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Advanced tools for joint accounts"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can open a joint account with Monzo in the UK."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can open a Monzo joint account in the UK with anyone you like, such as a partner, friend or flatmate.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover joint accounts."
+   },
+   {
+    "text": "Both owners need UK residency, to be 18 or over, and need photo ID.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Both of you get a debit card, and the joint account has its own unique account number.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "With a joint account overdraft, either of you can change the limits, make repayments or switch it off at any time.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "You can set up Joint Instant Access Savings Pots if you have a joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give the individual free plan rate only, not joint savings."
+   },
+   {
+    "text": "Monzo plans are Extra, Perks and Max.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match; no prices quoted."
+   },
+   {
+    "text": "Paid plan users get virtual cards, advanced roundups, custom categories and auto-spreadsheets on a joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plan features not covered by facts."
+   },
+   {
+    "text": "Opening a joint account creates a financial association, and missed payments can affect both credit scores.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

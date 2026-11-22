@@ -1,0 +1,67 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C4",
+ "run": 1,
+ "text": "**Yes, Chase UK is generally better than Monzo for both cashback and savings**, especially if you are using Monzo’s free tier. \n\n---\n\n### 1. Cashback\n* **Winner: Chase UK**\n\n* **Chase:** Offers **2% cashback** (capped at £20/month) on everyday spending categories like groceries, dining out, fuel, and transport. While you do have to meet monthly qualifying conditions (such as making a set number of transactions and maintaining a balance in your saver), it provides reliable, steady cash returns on regular essential spending.\n* **Monzo:** Uses a **merchant-specific model**. You have to browse and activate offers for specific retailers (e.g., 2%–10% at select partners like Sainsbury’s, Deliveroo, or Argos). If you don't frequently shop at the featured brands, you will earn very little or no cashback.\n\n---\n\n### 2. Savings Rates\n* **Winner: Chase UK** *(unless you pay for a premium Monzo plan)*\n\n* **Chase:** \n  * **Easy Access Saver:** Pays a boosted rate (typically around **4.50% AER**) for new customers in their first year. \n  * **Regular Saver:** Offers an eye-catching **6.50% AER fixed** (up to £300/month deposit).\n  * **Round-ups:** Earns **5.00% AER variable** on spare-change round-up pots.\n* **Monzo:** \n  * **Free Account:** The standard Instant Access Savings pot offers a modest rate (around **2.80% – 3.45% AER**).\n  * **Paid Plans:** Higher rates (approaching 3.8%–4%) are gated behind paid monthly tiers such as Monzo Perks (£7/mo) or Monzo Max. \n  * *Monzo advantage:* Monzo has a **Savings Marketplace**, meaning you can open Cash ISAs and fixed-term savings pots from third-party partner banks without leaving the app.\n\n---\n\n### Where Monzo Still Wins\nWhile Chase wins on raw returns, Monzo offers a much broader banking experience:\n* **Budgeting & Pots:** Monzo’s expense tracking, salary sorter, and virtual pots are significantly more advanced.\n* **Joint Accounts:** Monzo offers them; Chase UK does not.\n* **ISAs & Investments:** Monzo offers in-app Cash ISAs and investment options.\n\n---\n\n### The Verdict: How to Use Both\nMany UK customers take a **hybrid approach**:\n1. Keep **Monzo** as the primary current account for budgeting, direct debits, and bill management.\n2. Use **Chase** as a spending card to pocket the cashback and park your emergency fund or monthly savings in Chase's higher-rate savings accounts.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl2pG_HTBE8zsqF6qcPGPav2qhB3a5LJdlQTnDIkGL6JLaEAUs5cjsvXZw8JiM-nccZiG6L4V0N-wH5waJQMnk0MZmPm0L8Lh85cxz6Fk9BNWOl-bGazWKr8Y=",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDc4tkfgffZwH5savNo90qff9mnu8rHFEeAUHpmPnwukfsS9BvdhW5Jj0rmu5CzNzAWw8MhaoV2bDQ90fB5dY5AXrFjn2nazWEbI5x2uaqG3zpAZG7T374JRBa-2zTyA_XdJQk4hf9KQ==",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEezpTZVUpMJ-5y_OnMBkNa48sHzSnRD0Ap3Fa7CdgwvSFO5bCqApKUvWKP6YzFJFEEfd6boebPV4z9UgXaKP__U150CrNKtdskya0yctlJzlvY4Su0Y38u4Jx9jdSPAdCuySNdhFb5Vv51BiNewh5vO1aF2uyIdEs=",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx_2x2OgLYa8qOaIWWgqY2or86XnUV6UkHIUjvLV5jMNh6-fEejYCDGbahzifEsxUAnkEnZ3-n_cVOWhwb1_srnXUvSDDfcKTlZfrGnbEh3G_00_GRGMeC_zquYnSFF-NUH8_ZzcxLcS8DXBC--7NM2p0kwAJZ43i4k96MP3VbK46sHg==",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Llkef_qKp3Ke5FeRpx2M8QEcjtk6-GaGBllTmwQzgW4uoTc2VYfg2lWJSn05alohFSDNA6Flsh2HGQaeXuBQKE6pIJIKo2vJRob2aRswleXXhMxmmJRH30f_DA==",
+   "title": "thefinancelowdown.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3la_hwM_hratcUiJjHraQHJm30RPOPBKPVGM5KF_E4Ykt8aSc0fE5XQUB80kQAQ2oJvshK9tSi7i9IfLO9ay3XqgdhsGI03cALSVMA95n-_WqGIJbB5ipAPN8GQwkYCHvHu11WIdMOpD6dfKDeMTPxXqdwHr68tKIji9-DZrcr9MFn1jwRZLh",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_yGMN_kbxpF7wvodY4KLqK_5CGCn511Hoy0masVWxorlPyCJSuqZltDR_Q3diiFgRej8rTHXU5WQrYda7oStgAVkATRZF2lriDi_f-xlGerSpNZo3sgSXKa_8Cvm_QvXfendoaidGVztP92UVKQYF0bb9w5rzLepkPvwEqeBHpauQDJRGB7V4z-3RDXhAg==",
+   "title": "moneytothemasses.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI81A67ZH_A-rBPZjOgfN00PqaE79xpoig8iIUM-lXz9glgdDjeNsubUbJyZdrXDYzVUg82Oovu5zOggOnTWVJB-K-lHTRQv339DqNUyZAKoEwByS5Yqr1jQ==",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp_BCOF0w2bSShlMzb3_IFlZpUNq06n-Uv0CjyF6Df0GfIpBNY0EBbPa56KUJzPSXinL6kUPSj_XAiRer4fzm9Gjtr0HALqei6S1rmHxML6b9_vMLnNakfmOY=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwZOY3ye6SZ-uuw9Gwmy_Vb4n6Iw204xydDk_KKKC541wOhBtnexrXlNMhnBo72jP_VEZrWvniu4V7sHMc-JcOws8HleeWJhgsGBPnVmSSWNUTwWrgI-RRzeY=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-n12BT643Ba2F_hdUNlTwgYdiVKnBgDFOrSSTjsc-C6Xwt8AnvG6dNjpdHNIjnnBpt2mTLLVA9oM4H1CB3XEmVszNbt8kjX5EcMZ847LwMTChOsP1b6Gweb52PQ==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIo5qaKZV132IKXTHPZWy8KF5l2SocANZQ3QLw_QMVYemuxzdIqxsIqP1zcOWTqGhYXGiQWq-s1lvyB2-_ol7sW4xLiijJe7Z6CgNeXCEPmnC5ErHl-EFysJ7K9bwcRaTwubPQdm3m0ikGbE2TDsSUVAp7Kwje4pA=",
+   "title": "moneysupermarket.com"
+  }
+ ],
+ "search_queries": [
+  "Chase UK cashback terms savings rate",
+  "Monzo savings rate cashback"
+ ],
+ "latency_s": 25.31,
+ "asked_at": "2026-11-21T17:53:53.985650+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

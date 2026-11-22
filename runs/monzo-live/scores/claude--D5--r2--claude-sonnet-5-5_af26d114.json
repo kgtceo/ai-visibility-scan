@@ -1,0 +1,149 @@
+{
+ "engine": "claude",
+ "question_id": "D5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/best-bank-account-for-teens",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best bank accounts & prepaid cards for teens (under 18s) in the UK"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-childrens-bank-accounts-aRMaB5Y7IaQO",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best children's bank accounts 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-best-app-challenger-banks-for-teenagers-2026-updated-list/",
+   "domain": "gbwise.co.uk",
+   "source_type": "other",
+   "title": "Bank Accounts for 16-17 Year Olds UK (2026 Guide)"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-bank-accounts-for-under-18s",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Best bank accounts for children and teens"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "the Starling Teen account or the Monzo 16–17 account is the best first account"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling Teen or Monzo 16–17 ... Finder gives it its top score"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best if you want interest: Nationwide FlexOne"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's 16–17 account is also free, and you can open it entirely on your own.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover the 16–17 account's cost or opening process."
+   },
+   {
+    "text": "Which? gives Monzo's 16–17 account 85%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Which? scores."
+   },
+   {
+    "text": "Starling and Monzo both offer fee-free spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad."
+   },
+   {
+    "text": "Monzo has savings pots and budgeting tools.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features are not covered by the facts."
+   },
+   {
+    "text": "Monzo is app-only, so there are no branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Branch availability is not covered by the facts."
+   },
+   {
+    "text": "Monzo 16-17 has no monthly fee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover paid plans for the main account but not the 16-17 account."
+   },
+   {
+    "text": "Monzo is a real, regulated account and money is protected by the FSCS up to £120,000.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches the FSCS limit of £120,000."
+   },
+   {
+    "text": "Monzo can be opened by a 16- or 17-year-old alone, with photo ID and proof of address.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Account opening requirements are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

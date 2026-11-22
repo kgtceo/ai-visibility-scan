@@ -1,0 +1,8 @@
+{
+ "rows": 30,
+ "agree": 30,
+ "corrected": 0,
+ "mode": "verified",
+ "judge_model": "claude-sonnet-5-5",
+ "labels": "evals/labels.csv"
+}

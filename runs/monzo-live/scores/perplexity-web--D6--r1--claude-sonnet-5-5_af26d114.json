@@ -1,0 +1,115 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "D6",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "moneysupermarket"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert Best current account offers: Get up to £300 to switch bank Martin Lewis reveals how to compare and switch bank to the best current accounts th"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best high-interest bank accounts 2026 - Which? - Which.co.uk We reveal the current accounts that pay the most interest, helping you to grow your money"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert Top Savings Accounts Find the top interest rate savings accounts & maximise your returns with Martin Lewis' guide. Includes the top easy-acces"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best savings accounts 2026 - Which? Discover the top instant-access, fixed and regular savings rates on the market, plus the best banks and building so"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "moneyfactscompare.co The UK's Best Savings Accounts & Highest Rates Compare the UK's best savings accounts all in one place. Top rates from leading providers, t"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/savings-accounts/article/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best savings account and bond rates 2026 - Which? Discover the top instant-access, fixed and regular savings rates on the market, plus the best banks a"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/current-accounts/?ref=insighthq.uk",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "moneyfactscompare.co Best UK Current Accounts 2026 | Compare Rates and Perks Find the best current account for your needs, from high interest to basic accounts."
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-2024-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co www.which.co.uk · money · bankingBest high-interest bank accounts 2026 - Which? We reveal the current accounts that pay the most interest, helping you"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/current-accounts/high-interest-current-accounts/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "moneyfactscompare.co Best High Interest Current Accounts Updated every hour, our charts display rates from leading providers. Trusted by millions, explore top r"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

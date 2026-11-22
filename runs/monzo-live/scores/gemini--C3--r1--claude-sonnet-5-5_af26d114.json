@@ -1,0 +1,172 @@
+{
+ "engine": "gemini",
+ "question_id": "C3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDynTptnJcX2FZH79kiK92wEbsqeAnvtHUAepFDsN4Sp04wQVsI3K3KOCeG6F7jqVAbteg2mqi8iHL1jLzKBfsOXDOqdFLKHS4j2oro5ixbYE0FrHjurWWc97khpaAOdOEnyA7_SfgZs2n",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6i6u8uFNimGfYJmKE00O7M5qUOk66_z2movih7A3bC-N-AwMRk37iWmBq0BN-Udu_YWtqI8qZi2rKB12lqFM3YMaxHrpia-sxcXGF-zx3gf9fTEY2RqY=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1kZEl54Viw0mOdAENgR-7uBEpbXUzwVxvhzfOGVBtddbWS24EQxIYZPh8XPXlgYZ66LoXJpPy-_SPmvAqHhDgPUH6kKcYvY1Pu5CGE7-YZ-JkEcZGzRxrmQyRia33co4aqovLulDZdmHop-K-kOvHaAykEJ5LO-imMN4JUFFc5HH4LQWv4ngns5ily1F",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzEn_oyw54blJiFhVGsy8w1cCwnYHpCHFZPJRg5opsrAIQEFyauI1Tc7zYhCDgADvCF49aj07Fqntp79IzXiZIkLdq5LW3M5L9b5MAlxoAcgExmVyH6mMGBJXC7LyVxDyaaYyhbjU5lAAOrNA=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG24pjYTSIQhSHJ1U8TO3Z3N-0NxNoAOxY-ul6C0xjrSGxBIeHNB3D9QJslYCMKnre3pe17u0Wx5qXsEuiPJ901yQZwJ1lOUqx1_yLQoC38VYlqK0fWSx8wDEE_e1VySEDjO7zJ7yFFv55FJB-wCH2sLBNDcSXLabN-fStsyxoR0ebLmgFXrDpmR5Mbh2Topiy6BZm5p8DvaVEwNjIfC3s7wAsGTiDkgkNb7eRcMI9JizYA",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfmDVKK0X4wEtGzwJEOwre-MlPwLPW9WieuondDjqPREUaaH1MeQj_TrdsK2q5-nRs76ZX0gr5qwUlmaQMqqEqddiGHRpav0i4XoE5oWJ-e9_lBTCHaCGj_uH8gF2mPaJ5YSQ0htn-cc9xRsxOhDXegF6MnqZUhpgUpnkOslQokhLq_GrP2n1U_mJz2osLIXbhmSniCiCM85hUi6nwJKLeuRBq5zYVhb_ezZTDIobnTbFLGXq6n1p-2v9B0OPsNomrTTit1erGO8b11w==",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExuf4u7cU3H5OsrUVj_IpUwsiI26Flg-vx7-ktANFVCZ2eqJw71yYvEjDYgtjkQri3dkLt_nRnitttAxacfdZrueGdGIfVU0RidBEGH_T75ZQPMUTVmZwsX4cK2VK10Q==",
+   "domain": "bankverse.ch",
+   "source_type": "other",
+   "title": "bankverse.ch"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgKYCGtxmVb2ChCzDygP5-g7wi7pgHmrIdr39LKhb5dJ5dM__QTc_4oxlQIVVAaRd1eGl0kOSP1RGKkcCyudFGhfKo5dzWraIQId5OoE9HtTt0kXvFyiz-3YGI9Tk0weMk98whN7LzllzyH98saBzfhfbnz55d_MeCAFlGXw7y5A9s4qDz_Tbgig==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSQNhh8xdtAb1D50j0zqHpXJEqwBwRSPOIDVB5KopQ0WEamveTswdw8ZPxQ-U5yS9CuQRowIjpomNW76dLPzZVMjPm7Yscb-Mczp_QsKW_xjp-XDcoBomEL3Mzyo7uiwuGGw==",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is generally the better, hassle-free option for most people"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut has specific perks if you like to manage and hold foreign currency in advance."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo passes on the Mastercard exchange rate with 0% fee",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "There are no monthly caps on how much you can spend on card purchases abroad.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover spending caps."
+   },
+   {
+    "text": "Monzo has no weekend markup; standard Mastercard rate 24/7.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Consistent with no extra charges but weekends not specifically covered."
+   },
+   {
+    "text": "If Monzo is not your main bank: fee-free up to £400 every 30 days in the EEA (3% fee afterwards).",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "If Monzo is your main bank (or you have a paid tier): unlimited fee-free cash withdrawals within the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Main bank condition matches; paid tier part not covered."
+   },
+   {
+    "text": "Monzo does not support holding balances in foreign currencies.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo is a fully licensed UK retail bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Your money is protected up to £85,000 by the FSCS.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H5",
+ "run": 1,
+ "text": "Yes. **Monzo offers UK joint accounts**, and you don’t have to be a couple—you can open one with a partner, friend, relative or housemate.\n\n### Who can apply\nYou’ll both need to:\n- Be **18 or over** and live in the UK full time.\n- Already have your own **Monzo personal accounts**.\n\n### How to open one\nIn the Monzo app, go to **Home**, tap **+**, then **Apply for a joint account**. Follow the steps to invite the other person. If you don’t see the plus button, look for the joint-account option lower down on the Home screen. You may need the latest app version and to enable the relevant contact/profile settings to find or invite each other.\n\n### How it works\n- It’s a **separate account** with its own account details, so you can use it for shared bills and spending.\n- You both get a debit card and can see the joint account’s transactions in the app.\n- You keep your personal Monzo accounts; the other person **can’t see your personal account**.\n- You both have **equal ownership and access** to the money and account features. Either of you can spend from it, so only open one with someone you trust.\n- You can use Pots for shared budgets or savings goals.\n\nCheck Monzo’s current terms and fees in the app before applying, particularly for cash withdrawals, overdrafts and any paid account plans. Sources: [Monzo’s joint-account page](https://monzo.com/current-account/joint-account) and [opening instructions](https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account).",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/us-joint-accounts/us-joint-accounts-on-monzo/",
+   "title": "Monzo Help - Joint accounts on Monzo"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account",
+   "title": "Opening a joint account - Monzo Help"
+  },
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "title": "Open a Joint Bank Account | Simplify Shared Costs with Monzo"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account-info",
+   "title": "Monzo Help - What is a Monzo joint account?"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account",
+   "title": "How to open a Monzo Joint Account"
+  },
+  {
+   "url": "https://monzo.com/usa/joint-account/",
+   "title": "Joint Accounts | Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.0.pdf",
+   "title": "[PDF] These terms and using your Monzo account How to contact us How ..."
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "title": "Opening a joint account"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "title": "What fees do Monzo charge?"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "title": "How to open a Monzo Personal Account"
+  },
+  {
+   "url": "https://monzo.com/-webviews/joint-account-terms-and-conditions/",
+   "title": "Monzo –"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information/version-1-6",
+   "title": "Fee information"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/blog/monzo-us-blog/joint-accounts-beta",
+   "title": "Help us test joint accounts"
+  },
+  {
+   "url": "https://monzo.com/gb/help/opening-an-account",
+   "title": "Opening a Monzo Personal, Joint or Business Account"
+  }
+ ],
+ "search_queries": [
+  "Monzo joint account UK official eligibility open account",
+  "Monzo joint account how it works official help",
+  "Monzo joint account fees cards overdraft official UK"
+ ],
+ "latency_s": 5.37,
+ "asked_at": "2026-11-21T17:43:03.572303+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

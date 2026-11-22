@@ -1,0 +1,179 @@
+{
+ "engine": "perplexity",
+ "question_id": "D2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.co-operativebank.co.uk/pdfs/bank/currentaccounts/switching/switch-offer-terms-and-conditions-nov-26.pdf",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Microsoft Word - November 2026 £200 switch incentive terms and conditions FINAL.docx"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts/switch-and-save.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Switch and save"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/products/bank-accounts/switch-offer/",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Bank Switch Offer - Get up to £200 when you switch to us"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best bank account switching deals November 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872.amp",
+   "domain": "dailyrecord.co.uk",
+   "source_type": "other",
+   "title": "Four banks offering up to £265 free cash to people opening or switching accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/switch-your-business-account.html?WT.ac=lloyds-business-bca-hub_page-switching_accordion-FOM-switching_accounts",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Switch to Lloyds"
+  },
+  {
+   "url": "https://www.moneyhq.uk/data/bank-switching-offers",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "Bank Switching Offers Tracker: Bonuses Up to £500 | MoneyHQ"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/banking/co-op-launches-new-switching-deal-before-christmas/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "The Co-op Bank Launches New £200 Switching Deal Ahead of Christmas"
+  },
+  {
+   "url": "https://www.getsurrey.co.uk/news/cost-of-living/natwest-lloyds-bank-customers-could-34930359",
+   "domain": "getsurrey.co.uk",
+   "source_type": "other",
+   "title": "UK bank customers could claim £ ..."
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/the-most-popular-bank-to-switch-to-and-what-to-know-before-moving-anjVc9B4tVuC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "The most popular bank to switch to – and what to know before ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.somersetlive.co.uk/news/cost-of-living/lloyds-natwest-first-direct-customers-11243084",
+   "domain": "somersetlive.co.uk",
+   "source_type": "other",
+   "title": "NatWest, Lloyds, First Direct customers can get £200 before Xmas"
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/which-business-accounts-fscs-protected",
+   "domain": "businesscomparison.com",
+   "source_type": "other",
+   "title": "Which Business Accounts Are FSCS-Protected?"
+  },
+  {
+   "url": "https://www.closesavings.co.uk/personal/news/fscs-protection-explained-what-savers-need-to-know-in-2026",
+   "domain": "closesavings.co.uk",
+   "source_type": "other",
+   "title": "FSCS protection explained: what savers need to know in 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a strong alternative if you prefer its budgeting tools, pots and app experience."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "My default recommendation: Starling if you want a straightforward, fee-free app-based bank for everyday use."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "positive"
+    },
+    "evidence": "useful if you regularly exchange currencies or want extra travel features, but check which legal entity holds your account"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is particularly handy for budgeting, shared spending and managing money in pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by the facts."
+   },
+   {
+    "text": "Some Monzo features require a paid plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list paid plans but do not say which features need them."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,29 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D1",
+ "run": 2,
+ "text": "There isn't one best account for everyone, but a few come out on top in the November 2026 roundups.\n\n**Best all-rounder for everyday spending: Starling**\n- Finder ranks it first, with a score of 9.8/10. It calls it the best all-rounder and best for overseas spending.\n- It has interest on balances, no foreign transaction fees, and a strong app.\n- It has no monthly fee.\n\n**Best for cashback: Chase**\n- It pays 1% cashback on debit card spending (up to £15/month), with no monthly fee.\n- It's a good pick if you want to be paid for ordinary spending without a fee. Reviewers do note it has no switching bonus.\n\n**Best if you pay lots of bills: Santander Edge**\n- It pays 1% cashback on bills and selected spending, for a £3/month fee.\n- Be Clever With Your Cash rates it the best account for bills and for savings interest.\n\n**Other options**\n- **Monzo** is good for budgeting and extra features. Finder ranks it second, at 9.3/10.\n- **First Direct** is rated best for customer service. It has no monthly fee and often a switching bonus.\n- **HSBC Advance** has a big switching offer. Selectra says it pays £500 in November 2026, the highest cash bonus on the market. Check the eligibility conditions first.\n\n**My suggestion**\n- For simple, low-fuss daily use, choose **Starling**.\n- If you want cashback, add **Chase** alongside it.\n- If you're happy to switch your main account for a one-off payout, look at the current switching bonuses.\n\nMost people can have more than one account. A common setup is a main account for salary and bills, plus a second one for spending or cashback.\n\nRates, fees and bonuses change often, so check the provider's own page before applying. Tell me what matters most to you, such as cashback, travelling abroad, branches or overdraft rates, and I can narrow it down.",
+ "citations": [
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "title": "Best banks and bank accounts UK: A list of top banks 2026"
+  },
+  {
+   "url": "https://www.moneysavingadvice.co.uk/guides/saving/best-current-accounts-uk",
+   "title": "Best Current Accounts UK 2026: Chase, Starling, First Direct Compared ..."
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  }
+ ],
+ "search_queries": [
+  "best current accounts UK November 2026"
+ ],
+ "latency_s": 8.32,
+ "asked_at": "2026-11-21T16:44:00.838233+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

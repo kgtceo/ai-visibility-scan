@@ -1,0 +1,112 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Standard plan | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d pick Monzo for most European trips"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut is the better fit if you want to buy euros ahead of time."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can pay by card at Mastercard’s exchange rate, with no Monzo fee",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches no fee and Mastercard rate."
+   },
+   {
+    "text": "Monzo's shared UK/EEA allowance is £400 every 30 days, or unlimited fee-free withdrawals if Monzo is your main bank",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA, the free account allows £200 every 30 days",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo has no weekend surcharge or monthly currency-exchange allowance",
+    "verdict": "unverifiable",
+    "fact_id": "F6",
+    "note": "Facts say no fee on spending abroad but do not mention weekend surcharges or allowances."
+   }
+  ]
+ },
+ "judge_error": null
+}

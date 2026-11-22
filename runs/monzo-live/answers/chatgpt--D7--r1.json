@@ -1,0 +1,38 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D7",
+ "run": 1,
+ "text": "**If you’re a UK sole trader and most customers pay by bank transfer, I’d choose Starling’s Sole Trader account.** There’s no monthly fee, you can create and send invoices for free, and you can set money aside for tax. It also connects to Xero, QuickBooks and FreeAgent without a bank integration fee. The main drawback is cash: Post Office deposits cost **0.7%, with a £3 minimum per deposit**, and sole traders can deposit at most **£20,000 per calendar year**. ([starlingbank.com](https://www.starlingbank.com/sole-trader-bank-account/))\n\nI’d change that recommendation in three situations:\n\n| If this describes your business | I’d choose | Why |\n|---|---|---|\n| You’re starting out and want branch access or your accountant uses FreeAgent | **NatWest Start-up** | For eligible businesses trading less than a year with turnover under £1m, everyday banking is free for two years. FreeAgent stays free while you keep the account, but standard transaction charges apply after year two. ([natwest.com](https://www.natwest.com/business/bank-accounts/startup-bank-account.html?intcam=HP-B-P3-DEF-Default&utm_source=openai)) |\n| You’re a sole trader or run a one-person limited company and just need a basic account | **Monzo Business Lite** | No monthly fee and free UK bank transfers. I’d start with Lite rather than pay **£9/month for Pro**, unless you specifically want features such as automatically setting aside tax or invoicing from Monzo. ([monzo.com](https://monzo.com/business-banking/plans-pricing)) |\n| You have employees who need to spend company money | **Monzo Business Team** | From **£25/month**, it offers employee expense cards with spending limits and bulk payments for salaries or suppliers. Those are concrete reasons to pay for an account rather than use a free one. ([monzo.com](https://monzo.com/business-banking/plans-pricing)) |\n\nOne UK distinction: a **sole trader** doesn’t legally need a business account, though some personal accounts prohibit business use. A **limited company** must keep its banking separate from the directors’ personal banking. ([business.gov.uk](https://www.business.gov.uk/support/accounting-tax-cashflow/getting-a-business-bank-account/?utm_source=openai))\n\nIf you regularly take cash, **how much you deposit and how often** matters more than the monthly fee: at Starling, paying in £100 four times costs £12, versus £3 for one £400 deposit. If you tell me whether you’re a sole trader or Ltd, how customers usually pay, and whether you already use accounting software, I can narrow this to one account. ([help.starlingbank.com](https://help.starlingbank.com/business/topics/cash-and-cheques/can-i-deposit-cash-into-my-account/?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/sole-trader-bank-account/",
+   "title": "Sole trader bank account | No monthly fees | Starling"
+  },
+  {
+   "url": "https://www.natwest.com/business/bank-accounts/startup-bank-account.html?intcam=HP-B-P3-DEF-Default&utm_source=openai",
+   "title": "Start-Up Business Bank Account | NatWest Business"
+  },
+  {
+   "url": "https://monzo.com/business-banking/plans-pricing",
+   "title": "Business Banking Plans | Explore Lite, Pro & Team"
+  },
+  {
+   "url": "https://www.business.gov.uk/support/accounting-tax-cashflow/getting-a-business-bank-account/?utm_source=openai",
+   "title": "Getting a business bank account | business.gov.uk"
+  },
+  {
+   "url": "https://help.starlingbank.com/business/topics/cash-and-cheques/can-i-deposit-cash-into-my-account/?utm_source=openai",
+   "title": "Can I deposit cash into my account? - Starling Help"
+  }
+ ],
+ "search_queries": [
+  "site:starlingbank.com sole trader business account monthly fee cash deposit cheque 2026 UK",
+  "site:natwest.com business bank account freeagent free startup free everyday banking 2 years cash deposits"
+ ],
+ "latency_s": 22.66,
+ "asked_at": "2026-11-21T16:55:21.859745+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

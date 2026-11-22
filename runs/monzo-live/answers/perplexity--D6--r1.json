@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D6",
+ "run": 1,
+ "text": "If you mean **interest paid directly on the current-account balance**, **Nationwide FlexDirect** appears to be the best deal in the results I have: **5% AER fixed for 12 months on up to £1,500**. You need to pay in **at least £1,000 a month** to qualify; after the first year, the rate drops to **1% AER variable**. That’s up to **£75 interest over a year** if you keep £1,500 in the account.\n\nFor interest on a **larger balance**, **LHV’s current account** is listed at **4% AER variable on balances up to £1 million**, with no minimum monthly pay-in. Its rate can change, and it has some account limitations, including no standing orders.\n\nOne distinction: **Santander Edge** is a current account with access to a *separate linked saver* paying **6% AER variable on up to £4,000** for a year, but the current account has a **£3 monthly fee**. So that may be more attractive if you’re happy to use a linked savings account rather than earn interest on the current-account balance itself.\n\nRates and terms can change, so check the provider’s current product terms before applying.",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+   "title": "FlexAccount current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts",
+   "title": "Open current account online"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/santander-edge-up-current-account",
+   "title": "Santander Edge Up current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf",
+   "title": "FlexDirect Product Terms"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/santander-edge-current-account",
+   "title": "Santander Edge current accounts"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf",
+   "title": "Interest rates & charges"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.santander.co.uk/assets/s3fs-public/AD_documents/Interest_rates_and_fees_for_current_accounts_BANK0501JAN26PUBCDT.pdf",
+   "title": "Interest rates and fees for current accounts"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare",
+   "title": "Compare our everyday bank accounts"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/high-interest-current-accounts/",
+   "title": "Best High-Interest Current Accounts In The UK 2026"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect-up-to-8-sep-26.pdf",
+   "title": "FlexDirect Product Terms"
+  },
+  {
+   "url": "https://goodmoneyguide.com/savings/interest-paying-savings-accounts/",
+   "title": "Highest Interest Paying Bank Accounts November 2026"
+  }
+ ],
+ "search_queries": [
+  "UK best interest current account November 2026 current account rates",
+  "UK current accounts interest on balances 2026 Nationwide FlexDirect Santander Edge Up",
+  "best paying UK current account interest current November 2026"
+ ],
+ "latency_s": 5.5,
+ "asked_at": "2026-11-21T17:40:46.053909+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

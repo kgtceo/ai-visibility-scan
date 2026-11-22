@@ -1,0 +1,178 @@
+{
+ "engine": "perplexity",
+ "question_id": "C3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://help.revolut.com/en-GB/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Currency exchange fees and limits | Revolut United Kingdom"
+  },
+  {
+   "url": "https://www.revolut.com/legal/personal-current-account-fees/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Personal Fees – All Plans (Current) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/atm-withdrawals/withdrawing-in-other-currencies/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Fees for cash withdrawals | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information/version-1-9",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://www.revolut.com/legal/standard-fees/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Personal Fees (Standard) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://help.revolut.com/help/inactive-faqs/why-did-the-atm-charge-a-fee-for-my-cash-withdrawal/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Cash withdrawal limits and fees | Revolut United Kingdom"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/getting-started-with-card-payments/can-i-pay-in-a-specific-currency/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Fees for card payments in a foreign currency"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  },
+  {
+   "url": "https://cdn.revolut.com/terms_and_conditions/pdf/notice_of_change_63b38090_1.0.0_1773685386_en.pdf",
+   "domain": "cdn.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "NOTICE OF CHANGE - cdn.revolut.com"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What fees do Monzo charge?"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/using-revolut-abroad/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Using Revolut abroad: your guide to travel spending"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Short answer: Monzo for most UK travellers"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut if you’ll exchange larger amounts or want more currency features."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo passes on Mastercard’s exchange rate with no extra fee.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "In the EEA Monzo offers unlimited fee-free withdrawals if it’s your main bank; otherwise the allowance is £400 per 30 days, then 3%.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA, Monzo’s fee-free cash allowance is generally lower.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "£200 outside EEA is lower than £400 in UK/EEA."
+   }
+  ]
+ },
+ "judge_error": null
+}

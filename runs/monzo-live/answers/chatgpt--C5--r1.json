@@ -1,0 +1,37 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C5",
+ "run": 1,
+ "text": "**I’d choose Nationwide FlexDirect as your main account if your salary and bills qualify for its rewards. I’d choose Monzo if you’d get more value from seeing what’s safe to spend after payday, or if you regularly use your debit card abroad.** Both accounts have no monthly fee. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect/?utm_source=openai))\n\n| What matters to you | Which I’d pick, and why |\n|---|---|\n| **Salary and household bills** | **Nationwide.** For the first 12 months, eligible customers who pay in **£1,500 a month** get **5% AER on up to £1,500**. Each month you can also earn **£5 for £300 in qualifying Direct Debits** and, separately, **£5 for £500 in qualifying debit-card spending**. You don’t need to hit both spending thresholds to earn one reward. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect/?utm_source=openai)) |\n| **Day-to-day budgeting** | **Monzo.** Salary Sorter lets you set aside bills and savings in separate Pots when you’re paid. If your main question is “how much can I spend before next payday?”, that’s a good reason to put your salary there. ([monzo.com](https://monzo.com/current-account?utm_source=openai)) |\n| **Cash or face-to-face help** | **Nationwide.** FlexDirect includes branch and telephone access. Free Monzo has 24/7 in-app chat, but paying in cash at a Post Office or PayPoint costs **£1 per deposit**. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/compare?query=2026&utm_source=openai)) |\n| **Travel and foreign-currency purchases** | **Monzo.** It adds no fee to overseas card purchases; FlexDirect charges **2.99%** on non-sterling card payments. That’s about **£15 on £500** of spending. ATM withdrawals have separate rules. ([monzo.com](https://monzo.com/features/travel?utm_source=openai)) |\n\n**If you’re happy to have two accounts:** I’d put salary and Direct Debits through Nationwide and keep free Monzo for travel. That preserves the Nationwide bills reward if you qualify; just don’t count on its separate card-spending reward if most purchases go through Monzo. Nationwide also advertises a **£175 switch offer** for eligible customers, but I’d treat that as a one-off bonus rather than the reason to pick your main account. ([nationwide.co.uk](https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4327-flexdirect-cashback-offer-terms.pdf?hash=B8A67D960A511D0F7944077FD56EA7F3&rev=6b68f2feaac241c3ba987a135b9631ff&utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect/?utm_source=openai",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare?query=2026&utm_source=openai",
+   "title": "Compare our bank accounts | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/features/travel?utm_source=openai",
+   "title": "Fee-free Debit & Credit Cards Made for Travel | Monzo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4327-flexdirect-cashback-offer-terms.pdf?hash=B8A67D960A511D0F7944077FD56EA7F3&rev=6b68f2feaac241c3ba987a135b9631ff&utm_source=openai",
+   "title": "FlexDirect Cashback Offer | Nationwide"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK free current account cash deposits fees overseas withdrawals main bank switching salary joint FSCS"
+ ],
+ "latency_s": 15.59,
+ "asked_at": "2026-11-21T16:58:48.985435+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,219 @@
+{
+ "engine": "grok",
+ "question_id": "T2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://signaltools.org/check-platform/monzo/",
+   "domain": "signaltools.org",
+   "source_type": "other",
+   "title": "https://signaltools.org/check-platform/monzo/"
+  },
+  {
+   "url": "https://research.contrary.com/report/monzo",
+   "domain": "research.contrary.com",
+   "source_type": "other",
+   "title": "https://research.contrary.com/report/monzo"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "https://generationmoney.co.uk/monzo-review/"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Monzo",
+   "domain": "en.wikipedia.org",
+   "source_type": "wikipedia",
+   "title": "https://en.wikipedia.org/wiki/Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
+  },
+  {
+   "url": "https://fintech.global/2025/12/22/monzo-secures-eu-banking-licence-to-launch-in-europe/",
+   "domain": "fintech.global",
+   "source_type": "other",
+   "title": "https://fintech.global/2025/12/22/monzo-secures-eu-banking-licence-to-launch-in-europe/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://www.banks.guide/monzo/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/monzo/"
+  },
+  {
+   "url": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html",
+   "domain": "mundoamerica.com",
+   "source_type": "other",
+   "title": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank/"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-lead-bank/us-who-is-lead-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-lead-bank/us-who-is-lead-bank"
+  },
+  {
+   "url": "https://www.pulsapi.com/services/monzo-bank",
+   "domain": "pulsapi.com",
+   "source_type": "other",
+   "title": "https://www.pulsapi.com/services/monzo-bank"
+  },
+  {
+   "url": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/",
+   "domain": "neobanque.ch",
+   "source_type": "other",
+   "title": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/investments/investments-FSCS"
+  },
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/banks/monzo"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/legal-stuff/deposit-protection-fscs"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/personal"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a real, fully licensed bank, not just an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is authorised by the PRA and regulated by both the PRA and the FCA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000 per person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo Bank Limited holds a full UK banking licence.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with Monzo being a UK bank authorised by the PRA."
+   },
+   {
+    "text": "Monzo's Firm Reference Number is 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the FRN."
+   },
+   {
+    "text": "Monzo received its full licence in April 2017 after an earlier restricted licence.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers licence dates."
+   },
+   {
+    "text": "Monzo has no branches and you manage everything in the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers branches."
+   },
+   {
+    "text": "Monzo offers a current account with a sort code and account number, salary, Direct Debits, standing orders and bank transfers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   }
+  ]
+ },
+ "judge_error": null
+}

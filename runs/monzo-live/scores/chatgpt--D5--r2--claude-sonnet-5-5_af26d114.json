@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Children’s Bank Account | FlexOne Account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "A Bank Account for 16-17 Year Olds | Teen Bank Accounts"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d choose Monzo for 16–17s instead if you’d rather do everything on your phone"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d pick Nationwide FlexOne with the Visa debit card as your first account at 16."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Its instant-access Savings Pot pays 2.80% AER variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the 2.80% AER variable Instant Access Savings rate."
+   },
+   {
+    "text": "You can apply with photo ID, your own UK mobile number and an email address.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers application requirements."
+   },
+   {
+    "text": "Monzo offers automatic round-ups of purchases into savings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by the facts."
+   },
+   {
+    "text": "Monzo has an account for 16–17s",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

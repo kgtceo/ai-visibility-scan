@@ -1,0 +1,129 @@
+{
+ "engine": "claude",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.fintechfutures.com/bankingtech/monzo-bank-accused-of-freezing-accounts-for-no-apparent-reason-",
+   "domain": "fintechfutures.com",
+   "source_type": "other",
+   "title": "Monzo bank accused of “freezing accounts for no apparent reason”"
+  },
+  {
+   "url": "https://www.vice.com/en/article/monzo-freezing-closing-accounts-complaints/",
+   "domain": "vice.com",
+   "source_type": "other",
+   "title": "Monzo Users Say Their Accounts Are Being Frozen without Warning"
+  },
+  {
+   "url": "https://www.reviews.io/company-reviews/store/monzo",
+   "domain": "reviews.io",
+   "source_type": "other",
+   "title": "Monzo Reviews - Read 240 Genuine Customer Reviews"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3431449.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-3431449"
+  },
+  {
+   "url": "https://jp.trustpilot.com/users/659851f78482530011b9bd2c",
+   "domain": "jp.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "jp.trustpilot.com"
+  },
+  {
+   "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/995344/Public_letter_to_Monzo_2021_.pdf",
+   "domain": "assets.publishing.service.gov.uk",
+   "source_type": "regulator_official",
+   "title": "Public letter to Monzo 2021"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "The biggest complaint by far is account freezes and closures"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has millions of UK customers",
+    "verdict": "supported",
+    "fact_id": "F1",
+    "note": "15.2 million customers is consistent with millions."
+   },
+   {
+    "text": "The FCA fined Monzo in 2025 over weaknesses in its financial-crime controls",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers fines."
+   },
+   {
+    "text": "In 2021 the CMA found that Monzo failed to send transaction histories to 143,437 former customers when they closed their accounts",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo offered £50 compensation in one Financial Ombudsman case",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo says freezes come from its fraud and financial-crime checks",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   }
+  ]
+ },
+ "judge_error": null
+}

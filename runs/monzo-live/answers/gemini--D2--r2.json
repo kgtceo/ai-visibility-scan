@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D2",
+ "run": 2,
+ "text": "The right app-based (digital) bank in the UK depends on what matters most to you—whether that is budgeting tools, overseas travel, cashback, or handling cash and cheques. \n\nThe top contenders in the UK are **Monzo**, **Starling Bank**, and **Chase UK** (with **Revolut** as a niche alternative).\n\n---\n\n### 1. Starling Bank — Best All-Rounder & Best for Overseas Travel\nIf you want a seamless replacement for a traditional high-street bank with zero hassle, Starling is typically the top pick.\n\n* **Pros:**\n  * **Fee-free abroad:** No fees on card spending abroad, and no daily/monthly limits or fees for overseas ATM cash withdrawals (unlike Monzo).\n  * **Cash & cheques:** You can deposit cash at any UK Post Office and pay in cheques digitally via the app by taking a photo.\n  * **FSCS Protected:** Fully licensed UK bank (your deposits are protected up to £85,000).\n  * **CASS Support:** Fully supports the Current Account Switch Service (7-day switch guarantee).\n  * **Joint Accounts:** Very easy to open joint accounts if you share finances.\n* **Cons:**\n  * App is clean and functional, but has fewer \"fun\" social/budgeting features than Monzo.\n\n---\n\n### 2. Monzo — Best for Budgeting & Social Spending\nMonzo is the most popular digital bank in the UK, especially among people who love detailed budgeting and sharing expenses with friends.\n\n* **Pros:**\n  * **Budgeting tools:** Excellent automatic spending categorization, \"Salary Sorter\", and \"Pots\" to ring-fence money for bills.\n  * **Social features:** Splitting bills, creating shared tabs, and sending money instantly to other Monzo users is faster and smoother than standard bank transfers.\n  * **FSCS Protected & CASS Support:** Full UK banking licence and supports the 7-day switch service.\n* **Cons:**\n  * **Travel limits:** Free card spending abroad, but free international cash withdrawals are capped at £200 every 30 days (a 3% fee applies after that).\n  * **Cash deposits:** Depositing cash requires visiting a PayPoint shop and costs £1 per deposit.\n\n---\n\n### 3. Chase UK (J.P. Morgan) — Best for Cashback & Everyday Perks\nChase entered the UK market aggressively and remains one of the best reward-driven digital accounts.\n\n* **Pros:**\n  * **Cashback:** 1% cashback on everyday debit card spending (up to £15/month for your first year, continuing if you meet light monthly deposit criteria).\n  * **Savings:** Typically offers very competitive interest rates on linked instant-access savings pots, plus a 5% AER round-up account on your spare change.\n  * **Fee-free abroad:** No fees for using your debit card or withdrawing cash abroad.\n  * **FSCS Protected:** Backed by J.P. Morgan, fully protected up",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 21.83,
+ "asked_at": "2026-11-21T17:46:07.590106+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

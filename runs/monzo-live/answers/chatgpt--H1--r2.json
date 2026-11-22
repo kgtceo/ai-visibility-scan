@@ -1,0 +1,37 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H1",
+ "run": 2,
+ "text": "**I’d stay on Monzo Free unless a paid plan replaces something you already buy.** Perks is the easiest to justify if you use its subscriptions or regularly go to Vue. Extra is mainly about budgeting convenience; Max is mainly an insurance decision. ([monzo.com](https://monzo.com/current-account/plans))\n\n| UK plan | Cost as of November 2026 | When I’d choose it |\n|---|---:|---|\n| **Extra** | **£3/month (£36/year)** | If you’d use virtual cards, custom spending categories or the ability to see multiple bank accounts in Monzo every week. If you only want to link **one** other account, Free already does that. ([monzo.com](https://monzo.com/current-account/plans)) |\n| **Perks** | **£9/month (£108/year)** | If the eligible annual Railcard, monthly Vue ticket, weekly Greggs treat, Uber One or YouTube Premium Lite replace at least £9 of typical monthly spending between them. It also includes Extra. ([monzo.com](https://monzo.com/help/monzo-max/monzo-plan-price-change)) |\n| **Max** | **£19/month (£228/year)** | If you already want Perks, the question is whether worldwide travel insurance, phone insurance and UK/Europe breakdown cover are worth **another £120/year**. If you don’t value Perks, compare standalone cover against the **full £228** instead. Family cover costs **£23/month (£276/year)**. ([monzo.com](https://monzo.com/current-account/max?utm_source=openai)) |\n\n**A quick Perks break-even test:** If you’d otherwise buy a **£35 annual Railcard**, that leaves **£73 a year**, or **£6.08 a month**, to recover. If you already go to Vue monthly and normally pay more than £6.08 per ticket, those two benefits alone cover the plan. Count the £35 you avoid paying for the Railcard, *not* the train-fare discounts you’d get either way. Equally, a Greggs coffee you’d never otherwise buy isn’t a cash saving. ([nationalrail.co.uk](https://www.nationalrail.co.uk/railcards/?utm_source=openai))\n\n**Before choosing Max**, check whether you already have breakdown or phone cover, and whether the travel policy covers your trips and medical circumstances. Max has a **three-month minimum term**. And on either Perks or Max, claiming the Railcard then cancelling early can trigger a fee. ([monzo.com](https://monzo.com/legal/max/terms-and-conditions?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-max/monzo-plan-price-change",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information about our plan price changes"
+  },
+  {
+   "url": "https://monzo.com/current-account/max?utm_source=openai",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://www.nationalrail.co.uk/railcards/?utm_source=openai",
+   "title": "National Rail Railcards | National Rail"
+  },
+  {
+   "url": "https://monzo.com/legal/max/terms-and-conditions?utm_source=openai",
+   "title": "Max Terms and Conditions"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK Extra Perks Max £7 £17 benefits railcard cinema 2026 monthly Greggs Uber one Monzo"
+ ],
+ "latency_s": 19.9,
+ "asked_at": "2026-11-21T16:59:43.754730+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

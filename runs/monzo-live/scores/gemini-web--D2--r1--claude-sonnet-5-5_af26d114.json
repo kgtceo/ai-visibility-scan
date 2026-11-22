@@ -1,0 +1,119 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is the best all-rounder for everyday spending and group expenses"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling Bank wins for fee-free travel and traditional banking perks"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Choose Revolut if you manage multiple currencies"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase UK is top for earning cashback on daily purchases"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo foreign card spending: free up to £200/month cash withdrawals (unlimited card spend)",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "No fee on card spending abroad; £200 per 30 days outside EEA matches F7."
+   },
+   {
+    "text": "Monzo FSCS protected up to £85,000",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person."
+   },
+   {
+    "text": "Monzo's free tier limits fee-free foreign ATM withdrawals to £200 every 30 days",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 every 30 days outside the EEA; EEA allowance is higher but the claim is about foreign non-EEA."
+   },
+   {
+    "text": "Monzo participates in the Current Account Switch Service (CASS)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers CASS."
+   },
+   {
+    "text": "Monzo Perks is a paid tier",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Perks is listed as a paid plan at £9 a month."
+   },
+   {
+    "text": "Monzo has features such as Shared Tabs, Monzo.me, Pots, bill splitting and salary sorter",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers features."
+   }
+  ]
+ },
+ "judge_error": null
+}

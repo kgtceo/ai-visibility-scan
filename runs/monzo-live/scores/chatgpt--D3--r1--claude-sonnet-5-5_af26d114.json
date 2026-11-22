@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Virtual cards: Spend directly from a Space - Starling Bank | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/bills-manager/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Bills Manager: All your bills in one place | Starling"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/account-support/what-are-starling-spaces/?utm_source=openai",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "What are Starling Spaces? - Starling Help"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d choose Monzo instead if payday is the bit you want to automate."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d pick Starling for budgeting and saving pots."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo also offers virtual cards, but on a paid plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover virtual cards or which plans include them."
+   },
+   {
+    "text": "Its free account’s Salary Sorter remembers how you want each pay packet divided between bills, savings and spending.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Salary Sorter is not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

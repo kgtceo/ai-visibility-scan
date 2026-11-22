@@ -1,0 +1,100 @@
+{
+ "engine": "gemini",
+ "question_id": "D3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo — Best Overall for Budgeting & Visual Management"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling Bank — Best Completely Free Experience"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "The top three contenders are Monzo, Starling Bank, and Chase UK."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's paid tiers are Monzo Extra / Perks / Max.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match."
+   },
+   {
+    "text": "Monzo connects to third-party banks in-app, allowing you to open easy-access or fixed-term savings pots that earn competitive market interest.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the Instant Access Savings rate, not third-party partners."
+   },
+   {
+    "text": "Monzo offers Salary Sorter, bill pots, and round-ups.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "Custom spending categories, Google Sheets export and virtual cards linked to pots are locked behind paid tiers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover feature gating."
+   }
+  ]
+ },
+ "judge_error": null
+}

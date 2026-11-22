@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D8",
+ "run": 2,
+ "text": "There's no single winner, but a few banks come out on top across most of the surveys.\n\n**Top performers**\n- **First Direct** is the best for phone and branch-free service. In MoneySavingExpert's July 2026 poll of 2,700 people, 90% rated First Direct's customer service \"great\". That was the top score. Which? says it's one of only two banks with the full five stars for customer service and telephone banking.\n- **Nationwide** is the best if you want a high-street presence. It scored 85% \"great\" in the MSE poll. Forbes also named it the UK's best bank. Which? lists First Direct and Nationwide as having the highest customer scores.\n- **Starling** is the best app-based bank. It scored 84% \"great\" in the MSE poll, though from a much smaller sample of 83 responses. It also ranked second in the CMA's independent service quality survey, published in August 2026. Which? notes its customer service rating is back up to four stars.\n\n**Mid-table:** Monzo (77% \"great\") and Chase (72%) did reasonably well in the MSE poll. Which? says Monzo fell short in one area, which was contacting customer services.\n\n**Weaker in these surveys:** Halifax (33%) and HSBC (32%) scored lowest in the MSE poll, and TSB (35%) was also near the bottom. Results vary by survey, though. Newsweek's rankings put Barclays and HSBC at the top of commercial banks. That list may weigh different things, and it's a year old.\n\n**Which to choose**\n- If you want phone support from a real person, choose First Direct.\n- If you want branches and good service, choose Nationwide.\n- If you're happy with an app, choose Starling.\n\nSwitching incentives change often, so check current offers before you move. Customer service ratings are also based on survey samples, so treat small differences as rough guides.",
+ "citations": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "Best banks and bank accounts in UK 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://uk.finance.yahoo.com/news/nationwide-named-uk-best-bank-144344522.html",
+   "title": "Nationwide named UK’s best bank"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "title": "Best UK banks for customer service August 2026: the CMA survey ..."
+  },
+  {
+   "url": "https://rankings.newsweek.com/uks-best-customer-service-2026/services-real-estate-banking",
+   "title": "Newsweek"
+  }
+ ],
+ "search_queries": [
+  "best UK bank customer service ranking 2026"
+ ],
+ "latency_s": 8.05,
+ "asked_at": "2026-11-21T16:46:22.396138+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

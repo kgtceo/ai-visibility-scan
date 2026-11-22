@@ -1,0 +1,50 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H1",
+ "run": 1,
+ "text": "Whether Monzo’s paid plans are worth it depends heavily on your lifestyle, habits, and whether you would actually pay for the included services separately.\n\nMonzo offers three paid tiers: **Extra** (£3/mo), **Perks** (£9/mo), and **Max** (£19/mo). Monzo’s **free account** already covers the essentials (pots, bill-splitting, instant notifications, and fee-free spending abroad).\n\n---\n\n### 1. Monzo Extra (£3/month = £36/year)\n* **What you get:** Power-user budgeting tools. Connect external bank accounts/credit cards into the Monzo app, live auto-export transactions to Google Sheets, custom spending categories, virtual cards, and enhanced credit score tracking.\n* **Is it worth it?**\n  * **Yes, if:** You are a budgeting enthusiast who heavily relies on spreadsheets or you frequently shop online and want virtual cards linked directly to specific spending pots.\n  * **No, if:** You just want basic budgeting. Standalone open-banking budgeting apps (like Snoop or free tiers of Emma) and rivals like Chase UK (which offers multiple sub-accounts with separate card details) provide similar features for free.\n\n---\n\n### 2. Monzo Perks (£9/month = £108/year)\n* **What you get:** Everything in *Extra*, plus lifestyle rewards:\n  * A **weekly Greggs treat** (hot drink, sausage roll, sweet treat, etc.)\n  * A **free annual National Railcard** (worth £30–£35)\n  * A boosted interest rate on Instant Access Savings\n  * 3 free cash deposits a year at PayPoints and higher international ATM limits\n* **Is it worth it?**\n  * **Yes, if:** You regularly buy train tickets and pass a Greggs. If you claim the Railcard (~£35/year) and pick up a Greggs treat even twice a month (~£40–£50/year in value), you recoup most of the annual fee.\n  * **No, if:** You don’t visit Greggs or take trains. **Do not buy Perks purely for the boosted savings rate**. Dedicated high-interest easy-access savings accounts elsewhere (from banks like Trading 212,",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhLM47cMHv2fUhXSpMiD6eYZLr-jg1WhOGmbDMi708VzCraM_H1dvI7qPlPpA-9QNJWJNVC0m8DfMWz5XBtGtTd27AooQj1t5jwB23uuI3uV132buAzBWRaAXJXqUjEHKAyHvs",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4KSdqb7O7n4R1yPaSN6Tn_iM8fWfdlHi9Vk1kHyl1mCsPSw3upHoiEu8Ep-BGM1Qj2m8GMoDttXokWMQDBJ_9TqV5HjBkqToJbnoOTgMricgMBXE2wXIBwcEB9w2_aFxInsg=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU3gLC8o_AeebSPqaZoKMm4RMuOzTVqwApxVkFhYinzOxjIC0btq2MoiWzsOPZ0YiaLZXEjXqbhJMBdgd2PDN3nMQQW0lM_0Fa1AcQJpXfuQ72zpNY-yPhA97_h7s4LRg9GIPSFBcUFvnuJDd277-iHhCOMlEvDuo=",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYfAqh-wEyiFlBZreNZTorShf_h7VYB4yo8jXf6DNS2LrfwscQMef5ebXSiNfgZNva8QuVP2T28O5VRLh6qWC0f8hdq7JruZH-lGU_szGqRGmwjSc5hCP--SLSNY=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqDZViTTpSvu-jLgpBmJHO3ZMSYt8JhRAgnN0fPzQC51RAVTxKpzEpB8EE4nvqBIPC0WAOhzp8ivdQQVAa8u1MSpRhH8WtEF_qMOvBfbd9sIzZDMU0SzgnC_yU4yjfgW0FSuH5SlLqLmLxu3dDQouj0w==",
+   "title": "delphina.money"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzkJzybQJW9SoHdaO029S6GZN16CfeuqzJFnF_gAaXPK624_d8M-3a_2DAj7aEkwUL72l88MS0xA0e0eoR4RJy57zy6IfflkCZKNHLpfBV0B9cMEc0MzWoDb7eaFzHFjdD09K2mnVj2AsmhpwRGopbzIWFt1s=",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrsUQAJrtlYOZAbPJJrpHLEsNLnF--7CiRdNjaIM0IUzSMXNG0Cib2w2wvsgSTVSSFfXfR9F1pteiwkLt3KorWgXHf4fNfd6eix4qu2_gw-tVdb15aC5pkqCVNyd5pxjzN-JrduSmxZ4bO-RlHvnHmMyuhijh6YI-ZygLt-ldMk0iCYIIlOnknfu8uf2yIFQ4OBcL7d-JJAE2tAgTVopByl-12q_8",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhqfr2gi8RgBsBZCWKfQ6vPzN3Hmxn07htDPI0thJASENLk6IVhiWcWKozq6Gu7mWya7_KfOH-gmQcbeHPVQw59z5hH-E7QLQ2GxQ1BaMtkvhi4PjD685IfJ6goRwqBwRx",
+   "title": "coolcuration.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo paid plans Extra Perks Max pricing features UK"
+ ],
+ "latency_s": 22.15,
+ "asked_at": "2026-11-21T17:55:31.923801+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

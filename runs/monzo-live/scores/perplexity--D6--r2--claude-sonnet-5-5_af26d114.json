@@ -1,0 +1,152 @@
+{
+ "engine": "perplexity",
+ "question_id": "D6",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.zopa.com/current-account/interest-rates-compared",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "Compare Current Account Interest Rates"
+  },
+  {
+   "url": "https://www.hsbc.co.uk/savings/products/regular-saver/",
+   "domain": "hsbc.co.uk",
+   "source_type": "other",
+   "title": "Regular Savings Account | Regular Saver"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Regular savings accounts 2026: Earn up to 8%"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Top Savings Accounts"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/october-2026s-savings-round-up-news/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "October 2026’s savings round-up & news - Be Clever With ..."
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-savings-round-up-news/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's savings round-up & news"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "How to choose a good value current account"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best savings account and bond rates 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-if-you-always-stay-in-credit-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best high-interest bank accounts 2026 - Which?"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Weekly Savings Roundup | Top UK accounts | November 2026"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/april-2026s-savings-round-up-news/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "April 2026's savings round-up & news - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/Savings-account-interest-rate-current-account",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "How much UK cash earns no interest? What Bank of ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for cash left in the current account: Nationwide FlexDirect pays 5% AER for the first 12 months on up to £1,500."
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

@@ -1,0 +1,180 @@
+{
+ "engine": "perplexity",
+ "question_id": "D1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.lloydsbank.com/help-guidance/everyday-banking/mobile-banking-app/rewards/terms-and-conditions.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Prize draws - Rewards"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "Best Current Accounts in 2026, Compared - BankingGeek"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best bank account switching deals November 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872.amp",
+   "domain": "dailyrecord.co.uk",
+   "source_type": "other",
+   "title": "Four banks offering up to £265 free cash to people opening or switching accounts"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/packaged-bank-accounts/?goal=CUR_BENEFITS",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "Best Packaged Bank Accounts - November 2026 | MoneySuperMarket"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/banking/zopa-biscuit-new-prize-draw/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Receive up to £10000 this Christmas with Zopa"
+  },
+  {
+   "url": "https://wise.com/gb/blog/banks-with-free-current-accounts",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "List of UK banks with free current accounts"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "How to choose a good value current account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo if budgeting tools, spending notifications and savings Pots matter most."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling for a simple, flexible daily account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is a strong pick based on the latest information available here"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 5,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect if you can meet its conditions and want its current cashback offer"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a good fit if budgeting tools, spending notifications and savings Pots matter most.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features are not covered by the facts list."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,447 @@
+{
+ "engine": "grok",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.trustpilot.com/review/web.monzo.com",
+   "domain": "trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://www.trustpilot.com/review/web.monzo.com"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1mdj3pv/disappointing_customer_service/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1mdj3pv/disappointing_customer_service/"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5129545.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.financial-ombudsman.org.uk/decision/DRN-5129545.pdf"
+  },
+  {
+   "url": "https://monzo.com/legal/complaints-data",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/complaints-data"
+  },
+  {
+   "url": "https://assets.publishing.service.gov.uk/media/674830b9a72d7eb7f348c0b5/CMA_letter_to_Monzo.pdf",
+   "domain": "assets.publishing.service.gov.uk",
+   "source_type": "regulator_official",
+   "title": "https://assets.publishing.service.gov.uk/media/674830b9a72d7eb7f348c0b5/CMA_letter_to_Monzo.pdf"
+  },
+  {
+   "url": "https://ie.trustpilot.com/reviews/68b6e352d63c0475562b11ec",
+   "domain": "ie.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://ie.trustpilot.com/reviews/68b6e352d63c0475562b11ec"
+  },
+  {
+   "url": "https://www.cityam.com/revolut-monzo-wise-the-uk-fintechs-slapped-with-the-most-complaints/",
+   "domain": "cityam.com",
+   "source_type": "news",
+   "title": "https://www.cityam.com/revolut-monzo-wise-the-uk-fintechs-slapped-with-the-most-complaints/"
+  },
+  {
+   "url": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4933382.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.financial-ombudsman.org.uk/decision/DRN-4933382.pdf"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1jm0385/monzo_premium_uk_phone_insurance_hell",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1jm0385/monzo_premium_uk_phone_insurance_hell"
+  },
+  {
+   "url": "https://www.cityam.com/revolut-barclays-and-monzo-top-fraud-complaints-ranking/",
+   "domain": "cityam.com",
+   "source_type": "news",
+   "title": "https://www.cityam.com/revolut-barclays-and-monzo-top-fraud-complaints-ranking/"
+  },
+  {
+   "url": "https://tech.eu/2024/01/15/monzo-starling-and-revolut-see-drop-in-account-closure-complaints/",
+   "domain": "tech.eu",
+   "source_type": "other",
+   "title": "https://tech.eu/2024/01/15/monzo-starling-and-revolut-see-drop-in-account-closure-complaints/"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5793071.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.financial-ombudsman.org.uk/decision/DRN-5793071.pdf"
+  },
+  {
+   "url": "https://es.trustpilot.com/review/www.monzo.com?languages=all",
+   "domain": "es.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://es.trustpilot.com/review/www.monzo.com?languages=all"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1dlv3yt/account_under_review/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1dlv3yt/account_under_review/"
+  },
+  {
+   "url": "https://inews.co.uk/inews-lifestyle/money/saving-and-banking/monzo-stole-money-online-bank-facebook-group-995493",
+   "domain": "inews.co.uk",
+   "source_type": "other",
+   "title": "https://inews.co.uk/inews-lifestyle/money/saving-and-banking/monzo-stole-money-online-bank-facebook-group-995493"
+  },
+  {
+   "url": "https://www.reddit.com/r/UKPersonalFinance/comments/1twsopa/monzo_closed_accounts_and_all_other_banks/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/UKPersonalFinance/comments/1twsopa/monzo_closed_accounts_and_all_other_banks/"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman"
+  },
+  {
+   "url": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf",
+   "domain": "fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf"
+  },
+  {
+   "url": "https://us.trustpilot.com/review/www.monzo.com?languages=all&sort=recency",
+   "domain": "us.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://us.trustpilot.com/review/www.monzo.com?languages=all&sort=recency"
+  },
+  {
+   "url": "https://uk.trustpilot.com/reviews/69e0e2c8a93a5340e4821c53",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/reviews/69e0e2c8a93a5340e4821c53"
+  },
+  {
+   "url": "https://www.business-live.co.uk/professional-services/banking-finance/5-uk-fintechs-most-customer-31607067",
+   "domain": "business-live.co.uk",
+   "source_type": "other",
+   "title": "https://www.business-live.co.uk/professional-services/banking-finance/5-uk-fintechs-most-customer-31607067"
+  },
+  {
+   "url": "https://uk.trustpilot.com/users/5fe0ee95254baf001a5282d4",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/users/5fe0ee95254baf001a5282d4"
+  },
+  {
+   "url": "https://dk.trustpilot.com/review/www.monzo.com?languages=all",
+   "domain": "dk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://dk.trustpilot.com/review/www.monzo.com?languages=all"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/revolut-still-the-worst-uk-firm-for-fraud-complaints-warns-which-axqr43W94wLn",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/news/article/revolut-still-the-worst-uk-firm-for-fraud-complaints-warns-which-axqr43W94wLn"
+  },
+  {
+   "url": "https://www.banks.guide/compare/complaints/monzo/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/complaints/monzo/"
+  },
+  {
+   "url": "https://www.trustpilot.com/review/www.monzo.com?languages=en&stars=1&stars=2",
+   "domain": "trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://www.trustpilot.com/review/www.monzo.com?languages=en&stars=1&stars=2"
+  },
+  {
+   "url": "https://www.thebanker.com/content/ac7de403-b50b-4776-8c4e-74cc45aa9bba",
+   "domain": "thebanker.com",
+   "source_type": "other",
+   "title": "https://www.thebanker.com/content/ac7de403-b50b-4776-8c4e-74cc45aa9bba"
+  },
+  {
+   "url": "https://smartmoneypeople.com/monzo-reviews/products",
+   "domain": "smartmoneypeople.com",
+   "source_type": "review_comparison",
+   "title": "https://smartmoneypeople.com/monzo-reviews/products"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/thousands-bank-customers-wrongly-denied-36692879",
+   "domain": "mirror.co.uk",
+   "source_type": "other",
+   "title": "https://www.mirror.co.uk/money/thousands-bank-customers-wrongly-denied-36692879"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5583404.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.financial-ombudsman.org.uk/decision/DRN-5583404.pdf"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/new/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/new/"
+  },
+  {
+   "url": "https://www.credit-connect.co.uk/news/consumer-lending/financial-services/revolut-and-monzo-lead-fraud-complaints-table/",
+   "domain": "credit-connect.co.uk",
+   "source_type": "other",
+   "title": "https://www.credit-connect.co.uk/news/consumer-lending/financial-services/revolut-and-monzo-lead-fraud-complaints-table/"
+  },
+  {
+   "url": "https://www.proconsumer.com/company/monzo-bank/",
+   "domain": "proconsumer.com",
+   "source_type": "other",
+   "title": "https://www.proconsumer.com/company/monzo-bank/"
+  },
+  {
+   "url": "https://www.bbb.org/us/ca/san-francisco/profile/banking-services/monzo-inc-1116-958833/complaints",
+   "domain": "bbb.org",
+   "source_type": "other",
+   "title": "https://www.bbb.org/us/ca/san-francisco/profile/banking-services/monzo-inc-1116-958833/complaints"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1jie03u/monzo_sided_with_a_failing_us_corporation_over/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1jie03u/monzo_sided_with_a_failing_us_corporation_over/"
+  },
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/monzo/",
+   "domain": "consumer-rights.org",
+   "source_type": "other",
+   "title": "https://www.consumer-rights.org/complaints/finance/monzo/"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2026/mar/07/monzo-customer-language-year-in-monzo-review",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "https://www.theguardian.com/money/2026/mar/07/monzo-customer-language-year-in-monzo-review"
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/www.monzo.com?languages=en&page=4&stars=1",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/review/www.monzo.com?languages=en&page=4&stars=1"
+  },
+  {
+   "url": "https://eaglestatus.io/services/monzo-bank",
+   "domain": "eaglestatus.io",
+   "source_type": "other",
+   "title": "https://eaglestatus.io/services/monzo-bank"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5890892.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.financial-ombudsman.org.uk/decision/DRN-5890892.pdf"
+  },
+  {
+   "url": "https://uk.trustpilot.com/reviews/643ef505863157c4479c8901",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/reviews/643ef505863157c4479c8901"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1hdighp/does_anyone_else_find_support_totally_useless/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1hdighp/does_anyone_else_find_support_totally_useless/"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1s9h1wn/psa_monzo_max_phone_insurance_avoid/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1s9h1wn/psa_monzo_max_phone_insurance_avoid/"
+  },
+  {
+   "url": "https://www.lovemoney.com/news/512785/revolut-barclays-monzo-other-banks-attracting-most-fraud-complaints-uk",
+   "domain": "lovemoney.com",
+   "source_type": "other",
+   "title": "https://www.lovemoney.com/news/512785/revolut-barclays-monzo-other-banks-attracting-most-fraud-complaints-uk"
+  },
+  {
+   "url": "https://www.lawplus.co.uk/bank-fraud/monzo-denied-refunds-to-thousands-of-scam-victims/",
+   "domain": "lawplus.co.uk",
+   "source_type": "other",
+   "title": "https://www.lawplus.co.uk/bank-fraud/monzo-denied-refunds-to-thousands-of-scam-victims/"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts"
+  },
+  {
+   "url": "https://www.easterneye.biz/monzo-rejected-complaints-data-suggests/",
+   "domain": "easterneye.biz",
+   "source_type": "other",
+   "title": "https://www.easterneye.biz/monzo-rejected-complaints-data-suggests/"
+  },
+  {
+   "url": "https://www.trustpilot.com/review/www.monzo.com",
+   "domain": "trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://www.trustpilot.com/review/www.monzo.com"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank"
+  },
+  {
+   "url": "https://www-dailymail-co-uk.zproxy.org/money/saving/article-15152589/Revolut-receives-fraud-complaints-bank-year-running.html?ico=livefeed",
+   "domain": "www-dailymail-co-uk.zproxy.org",
+   "source_type": "other",
+   "title": "https://www-dailymail-co-uk.zproxy.org/money/saving/article-15152589/Revolut-receives-fraud-complaints-bank-year-running.html?ico=livefeed"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1k0m32z/monzo_refusing_chargeback_despite_evidence/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1k0m32z/monzo_refusing_chargeback_despite_evidence/"
+  },
+  {
+   "url": "https://particle.news/story/ombudsman-finds-monzo-wrongly-denied-over-1000-fraud-refunds",
+   "domain": "particle.news",
+   "source_type": "other",
+   "title": "https://particle.news/story/ombudsman-finds-monzo-wrongly-denied-over-1000-fraud-refunds"
+  },
+  {
+   "url": "https://www.bbc.co.uk/news/articles/cqjqgxzz8gjo",
+   "domain": "bbc.co.uk",
+   "source_type": "news",
+   "title": "https://www.bbc.co.uk/news/articles/cqjqgxzz8gjo"
+  },
+  {
+   "url": "https://uk.trustpilot.com/reviews/6a7370e20430bef5b754fd18",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://uk.trustpilot.com/reviews/6a7370e20430bef5b754fd18"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1ny2xrp/poor_communication",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "https://www.reddit.com/r/monzo/comments/1ny2xrp/poor_communication"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is still popular overall — Trustpilot sits around 4.6/5 from roughly 75,000 reviews"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Trustpilot sits around 4.6/5 from roughly 75,000 reviews",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Trustpilot rating."
+   },
+   {
+    "text": "In July 2025 the FCA fined Monzo £21.1 million for weak financial-crime controls between 2018 and 2022",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Fines not covered by facts."
+   },
+   {
+    "text": "Financial Ombudsman disagreed with Monzo in about 34% of 3,372 fraud-related cases decided in 2025",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Which? found about 41% uphold rate on APP fraud complaints",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo's complaints data (1 Oct 2025–31 Mar 2026) shows 67,488 complaints opened, 2.39 per 1,000 accounts, about 24% upheld",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaint stats not in facts."
+   },
+   {
+    "text": "Paid plans (Plus/Premium/Max)",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts list Extra, Perks and Max; Plus/Premium naming is not covered, so not treated as a direct contradiction."
+   },
+   {
+    "text": "Monzo has millions of UK customers",
+    "verdict": "supported",
+    "fact_id": "F1",
+    "note": "Consistent with 15.2 million customers."
+   },
+   {
+    "text": "Phone support exists, but in-app chat is the main channel",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Support channels not covered."
+   }
+  ]
+ },
+ "judge_error": null
+}

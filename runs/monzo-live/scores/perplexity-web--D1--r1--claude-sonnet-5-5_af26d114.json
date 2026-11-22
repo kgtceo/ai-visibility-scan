@@ -1,0 +1,142 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "D1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? Discover the best banks and current accounts as rated both by UK customers and our experts. We help yo"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert Best current account offers: Get up to £300 to switch bank Martin Lewis reveals how to compare and switch bank to the best current accounts th"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes Best Current Accounts In The UK 2026 Best Current Accounts In The UK For 2026"
+  },
+  {
+   "url": "https://statrys.com/guides/uk/business-banking/best-banks-uk",
+   "domain": "statrys.com",
+   "source_type": "other",
+   "title": "statrys Best Banks in the UK: How Do They Compare? Discover the best banks in the UK for everyday current accounts, savings, student accounts, and business bank"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? - Which.co.uk Discover the best banks and current accounts as rated both by UK customers and our exper"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/best-current-accounts",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "becleverwithyourcash Best Current Accounts 2026 These are the top picks of the best current accounts in 2025, whether you're looking for more rewards, cashback,"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "finder Best banks and bank accounts UK: A list of top banks 2026 Discover and compare the best banks and bank accounts in the UK. Open the best current account"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-for-cashback-apHnX3k0M1Ui",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Best bank accounts for cashback 2026 - Which? We reveal the current accounts offering the most cashback and rewards on your energy bills, transport cos"
+  },
+  {
+   "url": "https://bankingrating.com/blog/best-banks-in-the-uk/",
+   "domain": "bankingrating.com",
+   "source_type": "other",
+   "title": "bankingrating Best Banks in the UK: Accounts, Fees, Features and What to Compare Compare the best banks in the UK by current-account fees, overdrafts, apps, bra"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is the best all-round pick if you want an easy-to-use app, spending notifications and fee-free spending abroad"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "If you'd rather earn cashback, consider Chase: it offers 2% on eligible everyday purchases"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers fee-free spending abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches no fee on card spending abroad."
+   },
+   {
+    "text": "Which? gives Monzo an 85% customer score",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers a Which? customer score."
+   },
+   {
+    "text": "Monzo has an easy-to-use app and spending notifications",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,47 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "D8",
+ "run": 1,
+ "text": "Starling Bank is the strongest all-round choice in the latest Which? results provided: it scored 86% overall and received five stars for online banking and its app. If you mainly want top marks for general customer service and phone support, Allied Irish Bank (GB) scored five stars in both.\nwhich.co",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "which.co"
+  },
+  {
+   "url": "https://www.choose.co.uk/money/guide/best-bank-customer-service/",
+   "title": "choose.co Which bank has the best customer service? Current accounts with the best customer service revealed. We use our bank accounts more than any other finan"
+  },
+  {
+   "url": "https://www.independent.co.uk/news/business/news/best-banks-uk-customer-service-first-direct-metro-nationwide-a8492496.html",
+   "title": "independent.co The best UK banks for customer service Banks must display the new rankings ‘prominently’ in branches and on their websites and apps"
+  },
+  {
+   "url": "https://inews.co.uk/news/consumer/banks-uk-best-worst-customer-service-rbs-nationwide-barclays-halifax-metro-bank-258859?ico=in-line_link",
+   "title": "inews.co These are the best - and worst - banks for customer service RBS, Nationwide, Barclays and 13 other British banks have been ranked according to the qual"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? Discover the best banks and current accounts as rated both by UK customers and our experts. We help yo"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/bank-accounts/best-and-worst-uk-banks-for-online-banking",
+   "title": "moneyweek Best and worst UK banks revealed We reveal the best UK banks – and the worst – when it comes to managing your money and good customer service. How doe"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "title": "bankcreditratings.co Best UK banks for customer service: the CMA survey, August 2026 Compare credit ratings across UK retail banks. Independent analysis of Fitc"
+  },
+  {
+   "url": "https://www.reddit.com/r/UKPersonalFinance/comments/4dwob7/which_uk_bank_provides_the_best_customerservice/",
+   "title": "reddit Which UK bank provides the best customer-service? Which UK bank provides the best customer-service? Which bank provides the best, friendliest service? I'"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 18.98,
+ "asked_at": "2026-11-21T13:09:08.460641+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

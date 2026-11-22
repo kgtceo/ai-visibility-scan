@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "S2",
+ "run": 1,
+ "text": "Yes. Monzo is designed to work as a UK main current account: you can have your salary paid in, set up Direct Debits and standing orders for bills, and use its budgeting tools to keep bill money separate from everyday spending.\nmonzo\n\nWhat it supports\n\nSalary: Ask your employer to pay into your Monzo account. If paid by Bacs, Monzo says it can make the money available one business day early.\nmonzo\n\nBills: You can set up Direct Debits and standing orders from Monzo, including from a dedicated Bills Pot.\nmonzo\n\nBudgeting: Salary Sorter automatically splits incoming salary into Pots for bills, spending, and savings; Monzo gives the example of dividing a £1,600 payment into rent, bills, savings, and spending money.\nmonzo\n\nSwitching: The Current Account Switch Service can move balances, Direct Debits, standing orders, and redirect incoming payments—including salary—to Monzo, and close your old account.\nmonzo\n\n“Main account” benefits\n\nMonzo treats an account as your main account if, for example, you receive at least £500 every 35 days and have an active Direct Debit, or receive certain DWP/Communities payments. This matters because some Monzo features or fee-free allowances depend on it being your main account.\nmoneytothemasses\n\nPractical setup\n\nOpen a Monzo personal current account.\n\nGive your employer Monzo’s account details, or use the full switch service.\n\nCreate a Bills Pot and move enough money into it on payday for rent, utilities, subscriptions, and other regular payments.\n\nPoint your Direct Debits and standing orders at that Bills Pot.\n\nKeep a separate spending balance or Pot so bills cannot be accidentally spent.\n\nThings to consider\n\nMonzo is app-based and has no traditional branch network, so it may be less convenient if you regularly pay in cash or cheques. A sensible approach is to use Monzo as your primary account if that suits you, while retaining a second account with a different provider as a backup for cash deposits, cheque payments, or access issues.\ncommunity.monzo\n\nFor most UK employees, using Monzo for salary and bills is entirely viable—provided you keep enough in the Bills Pot before each Direct Debit date and maintain a backup payment method.\nmonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "title": "monzo"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch/amp",
+   "title": "moneytothemasses"
+  },
+  {
+   "url": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763?page=2",
+   "title": "community.monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "monzo Open a Free Online Bank Account in Minutes with Monzo The award-winning bank account. Organise your life with Pots. Earn interest on instant access saving"
+  },
+  {
+   "url": "https://monzo.com/?language=english",
+   "title": "monzo Monzo | Open a Free Account Your salary sorted into Pots. Your spare change turned into savings. Your money, doing what it should with Monzo."
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/current-vs-savings-account",
+   "title": "monzo Current vs Savings Accounts: What's the Difference? Stuck on the differences between current vs savings accounts? Read our guide to learn more and find ou"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "title": "monzo Get Paid Early | Payday, the Monzo Way Get your salary paid into your Monzo account and choose to get it one business day early if you want to. Available"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "monzo See All Current Accounts From personal accounts and joint accounts, to accounts for your kids - we have something for the whole family. Choose the current"
+  },
+  {
+   "url": "https://monzo.com/business-banking",
+   "title": "monzo Open a Free Business Bank Account Online | Monzo Business An award-winning free business bank account that makes life easier for you, and your customers."
+  },
+  {
+   "url": "https://monzo.com/blog/2019/12/11/monzo-main-bank-account",
+   "title": "monzo monzo.com · blog · 2019/12/1198% of people who made Monzo their main bank would recommend ... We surveyed 4,000 people who’ve gone #FullMonzo. Here’s what"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.79,
+ "asked_at": "2026-11-21T13:29:20.646421+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

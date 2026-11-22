@@ -1,0 +1,160 @@
+{
+ "engine": "claude",
+ "question_id": "C2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Monzo vs Starling: Which Digital Bank Is Best in 2026?"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling (2026): Which Digital Bank Is The Best? - ..."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling Bank: which digital bank is better in 2026?"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Starling vs Monzo - which is the better app-only bank? - Money ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is usually the better pick if you want budgeting tools or more ways to borrow."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is usually the safer pick if you want a free, simple account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both are UK banks with FSCS protection (£120,000 per person).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo charges 3% on cash withdrawals abroad above its fee-free limits.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo's non-EEA ATM allowance is £200/month.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Neither bank charges for debit card spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo Max, from £19 a month, is a packaged account with insurance.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Price matches; insurance not covered by facts."
+   },
+   {
+    "text": "Monzo's overdraft charges 19% / 29% / 39% EAR (variable).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No overdraft fact."
+   },
+   {
+    "text": "Monzo offers personal loans and the Monzo Flex credit card as well as an overdraft.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's top savings rate is only available to customers on its two most expensive plans.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give the free plan rate of 2.80%."
+   },
+   {
+    "text": "Neither bank pays interest on the balance in its free current account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has bill splitting, connected accounts and a broader range of budgeting tools.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's business cash deposits cost £1.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,53 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D7",
+ "run": 1,
+ "text": "For most UK sole traders and small businesses, **Starling** is the best all-round choice. Which account suits you best depends on a few things, set out below. Fees and offers change often, so check each provider's site before you apply.\n\n**Best all-round free account: Starling**\n- Several of the comparison sites I found pick it as the best overall. Starling, Monzo Business Lite and Mettle have no monthly fee, and Tide has a free plan.\n- The sole trader account includes instant payment notifications, receipt capture and automatic expense categorisation.\n- One review also highlights its built-in Making Tax Digital (MTD) tool for Income Tax and the lack of transaction fees.\n- Cash deposits are its weak point. They go through the Post Office at 0.7% (£3 minimum).\n\n**Best if you want free accounting software: Mettle (by NatWest)**\n- Mettle account holders get FreeAgent free. It normally costs from £19 a month on a direct sole trader plan.\n- One source says you need to make at least one transaction a month to keep it.\n\n**Best for a nicer app and room to grow: Monzo Business**\n- Lite is free, Pro is £9 and Team starts at £25. MTD filing is included on the free Lite plan.\n- Cash deposits cost £1 each, capped at £3,000 a month for sole traders. That makes it a good fit if you take cash.\n- Accounting integrations need the Pro plan.\n\n**Best for a growing business: Tide**\n- It has a free plan, with paid plans from £12.49 a month. It connects to Xero, QuickBooks, Sage and FreeAgent.\n\n**Other free option: Zempler Business Go**\n- The free plan includes unlimited free GBP payments received, invoicing, receipt capture, MTD support and UK-based phone support.\n\n**If you want a high street bank (branches, cash, lending)**\n- NatWest gives new businesses two years of free everyday banking. Lloyds and HSBC also suit sole traders who want a high street bank.\n- Lloyds is free for 12 months, then £10 a month.\n- Barclays' start-up account is free for 12 months, then £8.50 a month. TSB's Business Plus is free for 30 months, then £5 a month.\n\n**If you do a lot of international payments**\n- Revolut Business is widely used by sole traders and freelancers who need stronger international payment features. Wise Business is another option for this.\n\n**Things to know**\n- Sole traders don't have to open a separate business account. Many personal accounts prohibit business use, though.\n- A separate account makes bookkeeping much easier. Most MTD-compatible software also requires one.\n- Check FSCS protection. One comparison lists Starling, Mettle and Monzo as FSCS protected.\n\n**Quick picks**\n- **Mostly online and digital:** Starling.\n- **Want free bookkeeping software:** Mettle.\n- **Take cash regularly:** Monzo, or a high street bank with branch access.\n- **Want branches or a lending relationship:** NatWest, Lloyds or Barclays.\n\nIf you tell me whether you handle cash, use accounting software, or are a sole trader or a limited company, I can narrow it down. Limited companies have different options.",
+ "citations": [
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "title": "Best Sole Trader Bank Accounts UK 2026: Free & Low Cost Picks"
+  },
+  {
+   "url": "https://wise.com/gb/blog/self-employed-business-account",
+   "title": "Best Self-Employed Business Accounts (UK - 2026) - Wise"
+  },
+  {
+   "url": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/",
+   "title": "Best Business Bank Accounts for Sole Traders in the UK (2026 ..."
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/best-business-bank-accounts-sole-traders",
+   "title": "Best business bank accounts for sole traders 2026"
+  },
+  {
+   "url": "https://soletraderguide.co.uk/blog/best-business-bank-accounts-uk-sole-traders-2026",
+   "title": "Best Business Bank Accounts for UK Sole Traders (2026)"
+  },
+  {
+   "url": "https://bookkeepertools.uk/best-business-bank-account-uk-sole-traders-2026/",
+   "title": "Best Business Bank Account for UK Sole Traders (2026)"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/",
+   "title": "Best business bank accounts for sole traders - Small Business UK"
+  },
+  {
+   "url": "https://www.taxtrends.co.uk/gb/best-business-bank-account-uk-2026/",
+   "title": "Best Business Bank Account UK 2026: Revolut Business vs Wise vs ..."
+  }
+ ],
+ "search_queries": [
+  "best business bank accounts UK sole traders 2026"
+ ],
+ "latency_s": 11.67,
+ "asked_at": "2026-11-21T16:45:54.755160+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,111 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "On Monzo's free UK plan, an Instant Access Savings Pot pays 2.80% AER (variable)"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "On Monzo's free UK plan, an Instant Access Savings Pot pays 2.80% AER (variable)",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "No minimum deposit and unlimited withdrawals on the Instant Access Savings Pot",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers deposit minimums or withdrawal limits."
+   },
+   {
+    "text": "Select Access pays 3.45% AER (variable) with a £500 minimum deposit and a third withdrawal lowers the rate",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Three-year fixed pays 5.25% AER with a £500 minimum deposit and interest paid at end of term",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Instant Access rates are 3.15% on Extra, 3.55% on Perks and 3.80% on Max, all variable",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list plan prices and the free plan rate only, not paid plan savings rates."
+   },
+   {
+    "text": "Monzo's equivalent Cash ISAs offer the same rates, with tax-free interest",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash ISAs not covered by the facts."
+   },
+   {
+    "text": "A regular budgeting Pot doesn't earn interest",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,46 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C3",
+ "run": 1,
+ "text": "**For most people, Monzo is the simpler choice for a European trip on a free account. Revolut is better if you'll pay for a plan or want to hold euros.** Fees change often, so check both apps before you go.\n\n**Card spending**\n- **Monzo:** Monzo charges £0 for foreign card payments, and there are no weekend markups. There's no monthly cap on spending.\n- **Revolut (free plan):** You can exchange up to £1,000 a month Monday to Friday with no extra fees, and there's a 1% fee on weekend exchanges. That weekend window runs from 5pm Friday to 6pm Sunday. A city break that includes a weekend will cost you something extra.\n- **Revolut paid plans:** Premium, Metal and Ultra don't have the weekend fee. They also have no fair-usage limit. Premium costs £7.99 a month.\n\n**Cash withdrawals**\n- **Allowances:** Both give roughly £200 a month free. Revolut's free plan also limits you to 5 withdrawals.\n- **Above the allowance:** Revolut is cheaper, at 2% compared with Monzo's 3%.\n- **Monzo in the EEA:** Some sources say Monzo allows unlimited free withdrawals in the EEA if it's your main bank. Others say the £200 limit applies everywhere. I'd check this in the Monzo app if you need cash.\n\n**Other differences**\n- **Multi-currency:** Revolut lets you hold and exchange multiple currencies in the app. Monzo is better for UK everyday banking, and Revolut for multi-currency balances.\n- **Card replacement:** If you lose your card, Monzo charges a flat £30 to ship outside the UK.\n- **Protection:** Both are UK-licensed with £120,000 FSCS protection.\n\n**Which to pick**\n- **A few trips a year, mostly paying by card:** Monzo. It's the cheapest option for three or fewer trips a year.\n- **Heavy weekend spending or lots of travel:** Revolut Premium or above, or just use Monzo.\n- **Large cash withdrawals:** Revolut, because of the lower fee above the free limit.\n\nThe best approach is to take both. Use Monzo as your main card, and keep Revolut as a backup in case a card is declined or lost.",
+ "citations": [
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "Monzo vs Revolut in 2026: Fees, Savings and Crypto"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/revolut-vs-monzo-which-is-best",
+   "title": "Revolut vs Monzo - which is best? - Money To The Masses"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/",
+   "title": "Standard plan"
+  },
+  {
+   "url": "https://wise.com/gb/blog/revolut-fees-uk",
+   "title": "Revolut fees in the UK: Detailed guide (Is it free?) - Wise"
+  },
+  {
+   "url": "https://mybankanswers.co.uk/articles/revolut-uk-fx-2026.html",
+   "title": "Revolut UK FX and transfer guide"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/compare/monzo-vs-revolut",
+   "title": "Monzo vs Revolut 2026: which is better for UK banking?"
+  },
+  {
+   "url": "https://www.dreambigtravelfarblog.com/blog/monzo-vs-revolut",
+   "title": "Monzo vs Revolut: Which Is Best For Travel In 2026? [Full Comparison]"
+  }
+ ],
+ "search_queries": [
+  "Monzo vs Revolut travel abroad fees 2026",
+  "Revolut free plan weekend FX fees limit UK"
+ ],
+ "latency_s": 10.99,
+ "asked_at": "2026-11-21T16:47:20.584550+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,159 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch/amp",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "moneytothemasses"
+  },
+  {
+   "url": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763?page=2",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Open a Free Online Bank Account in Minutes with Monzo The award-winning bank account. Organise your life with Pots. Earn interest on instant access saving"
+  },
+  {
+   "url": "https://monzo.com/?language=english",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Monzo | Open a Free Account Your salary sorted into Pots. Your spare change turned into savings. Your money, doing what it should with Monzo."
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/current-vs-savings-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Current vs Savings Accounts: What's the Difference? Stuck on the differences between current vs savings accounts? Read our guide to learn more and find ou"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Get Paid Early | Payday, the Monzo Way Get your salary paid into your Monzo account and choose to get it one business day early if you want to. Available"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo See All Current Accounts From personal accounts and joint accounts, to accounts for your kids - we have something for the whole family. Choose the current"
+  },
+  {
+   "url": "https://monzo.com/business-banking",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Open a Free Business Bank Account Online | Monzo Business An award-winning free business bank account that makes life easier for you, and your customers."
+  },
+  {
+   "url": "https://monzo.com/blog/2019/12/11/monzo-main-bank-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo monzo.com · blog · 2019/12/1198% of people who made Monzo their main bank would recommend ... We surveyed 4,000 people who’ve gone #FullMonzo. Here’s what"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "For most UK employees, using Monzo for salary and bills is entirely viable"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is designed to work as a UK main current account: salary can be paid in, Direct Debits and standing orders set up.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "If paid by Bacs, Monzo says it can make the money available one business day early.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo treats an account as your main account if you receive at least £500 every 35 days and have an active Direct Debit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F7 mentions main bank but not the criteria."
+   },
+   {
+    "text": "Monzo is app-based and has no traditional branch network.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Salary Sorter automatically splits incoming salary into Pots for bills, spending, and savings.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "The Current Account Switch Service can move balances, Direct Debits and standing orders to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

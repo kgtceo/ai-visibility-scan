@@ -1,0 +1,62 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C5",
+ "run": 1,
+ "text": "**Short answer:** Monzo is the better day-to-day app, especially if you travel. Nationwide is better if you want branches or the switch bonus. Many people use both, and that is often the best setup.\n\n## Nationwide FlexDirect\n\n- **Switch bonus:** Nationwide is offering £175 when you switch to one of its eligible current accounts using the CASS. You must complete a full switch within 28 days, move at least two active Direct Debits, and pay in £1,000 within 31 days. It's also only for people who haven't taken a Nationwide switch incentive since 2021.\n- **Interest:** 5% AER fixed for one year on balances up to £1,500, which needs £1,500 a month paid in. After 12 months the rate changes to 1% AER variable.\n- **Cashback:** Up to £120 in the first year, as £5 a month for direct debit spend and £5 a month for debit card spend.\n- **Branches:** The cheapest comparison source says Nationwide has 605 branches, kept open until at least the start of 2030.\n- **Overdraft:** £50 interest-free, then 39.9% a year compounded (variable).\n- **Abroad:** There's a 2.99% non-sterling fee on FlexAccount. One comparison site puts £1,000 of card spending abroad at £29.90 in fees. I only found that figure for FlexAccount and in a third-party comparison, so check Nationwide's own fee page for FlexDirect.\n\n## Monzo\n\n- **Budgeting:** It suits people who want pots, spending categories, instant notifications and app-first money management. Forum users also say transactions at building societies like Nationwide can show up hours or days later.\n- **Abroad:** There are no fees on spending, and EEA cash withdrawals are unlimited and free. Another comparison says ATM use is fee-free only within published caps, with a percentage fee after that.\n- **Cash deposits:** Via PayPoint or the Post Office, at £1 per deposit. There are no branches.\n- **Interest and cashback:** The free account pays nothing on the balance and has no cashback.\n- **Fees:** Paid plans cost up to £19 a month, but the free account is enough for most people.\n- **Overdraft:** 19%, 29% or 39% EAR (variable), depending on your credit score.\n\n## Which to choose\n\n- **Pick Nationwide** if you pay in £1,500 or more a month, want the £175 plus cashback and interest (up to £370 in the first year, according to Which?), or want branches or a route to Nationwide mortgages and savings.\n- **Pick Monzo** if you want the best app, budgeting tools and cheap spending abroad, and don't need branches.\n- **Use both:** Switch to Nationwide via CASS to collect the bonus and keep salary and Direct Debits there. Then use Monzo for spending, pots and travel. After the 12 months, the Nationwide interest drops to 1%, so review whether it's still worth being your main account.\n\nCheck the current terms before you act, as these offers change. Also, Nationwide excludes people switching from Virgin Money, which Nationwide now owns.\n\nIf you tell me your monthly income, whether you travel, and whether you use branches or cash, I can give a firmer recommendation.",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "title": "Best bank account switching deals November 2026 - Which?"
+  },
+  {
+   "url": "https://depositscout.com/banks/nationwide",
+   "title": "Nationwide Savings Rates 2026: Up to 6.50% AER"
+  },
+  {
+   "url": "https://compare100.com/nationwide-flexdirect-account/",
+   "title": "Nationwide FlexDirect Account"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-upgrades-popular-flexdirect-current-account-offering-gbp-295-of-value-in-first-year",
+   "title": "Nationwide upgrades popular FlexDirect current account"
+  },
+  {
+   "url": "https://stablecoininsider.org/metro-bank-alternatives/",
+   "title": "Metro Bank Alternatives (2026): 5 UK Current Accounts Compared"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/switch",
+   "title": "Switch your bank account"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/current-accounts-2026/",
+   "title": "UK current accounts compared: fees, branches, FSCS"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/guides/compare-uk-current-accounts",
+   "title": "Compare UK Current Accounts 2026"
+  },
+  {
+   "url": "https://forums.moneysavingexpert.com/discussion/6631472/nationwide-vs-monzo-starling",
+   "title": "Nationwide vs monzo/starling — MoneySavingExpert Forum"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-nationwide",
+   "title": "Monzo vs Nationwide: which current account is actually better?"
+  }
+ ],
+ "search_queries": [
+  "Monzo vs Nationwide current account comparison 2026",
+  "Nationwide FlexDirect switch offer interest rate November 2026"
+ ],
+ "latency_s": 13.42,
+ "asked_at": "2026-11-21T16:48:17.394439+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H4",
+ "run": 2,
+ "text": "**Yes, Monzo does offer arranged overdrafts** to eligible UK personal account holders (aged 18 and over). \n\nThe cost and details of their overdraft system:\n\n---\n\n### 1. Interest Rates\nMonzo does not charge flat daily or monthly account fees for having an overdraft. Instead, you only pay interest on the amount you borrow, calculated daily and billed monthly.\n\nThey operate on a tiered pricing system based on your credit score and financial circumstances:\n* **19% EAR** (variable)\n* **29% EAR** (variable)\n* **39% EAR** (variable) *(Representative rate)*\n\n*(EAR stands for Effective Annual Rate; the APR is identical because there are no separate overdraft maintenance fees.)*\n\n---\n\n### 2. Overdraft Limits\n* Monzo offers arranged overdraft limits of **up to £2,000**.\n* Your actual limit depends on affordability and your TransUnion credit file. You can set a lower limit within the app if you want to avoid borrowing too much.\n\n---\n\n### 3. Representative Cost Example\nBy UK regulatory standard:\n* If you borrow **£1,200 for 30 days** at the representative rate of **39% EAR**, it will cost approximately **£32.94**.\n* If you qualify for the lowest tier (19% EAR), borrowing £1,200 for 30 days would cost roughly **£17.00**.\n\n---\n\n### 4. Are there any hidden or penalty fees?\n* **No unarranged overdraft fees:** If you attempt a payment that exceeds your arranged overdraft limit, Monzo simply declines it for free (unless it is an unavoidable offline transaction, such as a Transport for London charge, but even then, they don't charge penalty fees).\n* **No set-up or cancellation fees:** You can adjust or turn off the overdraft via the app whenever your balance is at zero.\n\n---\n\n### How to check your rate:\nYou can check your eligibility and which rate tier (19%, 29%, or 39%) you would receive directly in the Monzo app under **Explore / Borrowing**. Checking this uses a \"soft\" credit search, so it will not affect your credit score until you formally accept the overdraft offer.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvNPorCxskM_Sf-4X3u3hXD39F6PGH0ZLwaEQCD6uXD8c45j8uyYewvR7MC8JJUp1EvwKFD1bwBqs-RpOo9SKNw5SmSfI8ZSLCIGz00Xl3k7id",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQ4QdLpgHZoO8kRlXAutiEObwcR6TQUGIqe-wcWuxJY8m7WocKZSWmvlzVxLnnYG0--Y6zvxi2w11kmnAuXf0ttJzwiYGSmXTKMwFbwJCDaiUy6-v6__NRO9rlz3_gmzqir5eT0LOwsB11M85yoajR9Ka984ZhLE3fXfZKw==",
+   "title": "ukbusinessbankaccounts.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqBJWQxHk3ZXD5U1A2ICUQg8Pj1fzNZJNgRursIW6ApDQdfuIdQSOeHMsmoSBI5snVVIeJFYOd2gAfCogiVRwhhlIYORHMAzgtPVNvvdlvaH1H8erzzgIzXMNO9sxJYXmomHpdjOO8d1lhJKoBqU6wARx8HcHR6U=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNykjEWk-zd74AaASRd19lMWa-dmTHZgKgGxj8vfJ9bvG8w9QZYUpHIGeQYTx4aaml5PvQNbRABWmtZqh-6XQcYsBsQGWqloq7yIYwbpjxy9xoETEODuhb9UN9sEYtGiGgzvER7MgrCtneb9legd0FLVbEwbMGcl7H_e2i71s5ufW_7hQgRchPILXXq81VH2HxuB_7V-niLNcs06Wd2ARFg-qzYCblzS5430U=",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYRXVcEUZliqwTzN11JhJJpTwV9e0-ESZPPtIFqUXaooC6xt2Hy-ABHEwarQtEhSKLXK2Pa4k0pmQImFdOZI96am9SP0Z9ZeYGpGKKZIpz8NCfZkWhfGEZd2BfQ==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMh4veLhBPoZbzlXb3ugG-OSpnaiLQipkQW4c1U2wWhfnTPtbxRNMuPm5IcRgvreDqFeheBaQVOEkYCqxNJDQSGl9Bp4GzmbcnLyDMUQjHFKualOEPulg6P2dhVJlaYwj2_cpB1S4bfF5m",
+   "title": "wise.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo overdraft cost interest rate UK"
+ ],
+ "latency_s": 15.95,
+ "asked_at": "2026-11-21T17:57:39.865703+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

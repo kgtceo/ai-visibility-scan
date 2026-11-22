@@ -1,0 +1,130 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-sole-traders/",
+   "domain": "accountingstack.co.uk",
+   "source_type": "other",
+   "title": "AccountingStack Best business bank accounts for sole traders UK 2026 “Monzo's fee information, version 1.16 dated 18 August 2026, lists Lite at £0, Pro at £9 a"
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/best-business-bank-accounts-sole-traders",
+   "domain": "businesscomparison.com",
+   "source_type": "other",
+   "title": "BusinessComparison Best Bank Accounts for Sole Traders 2026 - BusinessComparison “* FSCS protection: Since December 2025, the FSCS limit has increased to £120,0"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Forbes Best Sole Trader Bank Accounts In The UK 2026 - Forbes “ Credit available subject to status. Why We Picked It. The Virgin Money M business account has no"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Pick Monzo Business Pro (£9/month) if you want automated tax admin"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Pick Starling Bank if you want the best all-rounder"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Pro costs £9/month",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 covers personal plans (Perks £9); business Pro pricing is not covered."
+   },
+   {
+    "text": "Monzo Business Lite is £0",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business plan fees."
+   },
+   {
+    "text": "Monzo Business cash deposits cost a £1 flat fee via PayPoint / Post Office",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Monzo Business is FSCS protected up to £120k",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches FSCS limit of £120,000."
+   },
+   {
+    "text": "Monzo Business Pro unlocks automatic Tax Pots, integrated invoicing and live accounting software syncs",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by facts."
+   },
+   {
+    "text": "The £120,000 FSCS limit applies to combined balances across personal and business accounts at Monzo",
+    "verdict": "unverifiable",
+    "fact_id": "F5",
+    "note": "F5 gives the per-person limit but not combined-account treatment."
+   },
+   {
+    "text": "Monzo Business has free UK transfers",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered."
+   }
+  ]
+ },
+ "judge_error": null
+}

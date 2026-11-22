@@ -1,0 +1,166 @@
+{
+ "engine": "claude",
+ "question_id": "C3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "Monzo vs Revolut in 2026: Fees, Savings and Crypto"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/revolut-vs-monzo-which-is-best",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Revolut vs Monzo - which is best? - Money To The Masses"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Standard plan"
+  },
+  {
+   "url": "https://wise.com/gb/blog/revolut-fees-uk",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "Revolut fees in the UK: Detailed guide (Is it free?) - Wise"
+  },
+  {
+   "url": "https://mybankanswers.co.uk/articles/revolut-uk-fx-2026.html",
+   "domain": "mybankanswers.co.uk",
+   "source_type": "other",
+   "title": "Revolut UK FX and transfer guide"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/compare/monzo-vs-revolut",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Revolut 2026: which is better for UK banking?"
+  },
+  {
+   "url": "https://www.dreambigtravelfarblog.com/blog/monzo-vs-revolut",
+   "domain": "dreambigtravelfarblog.com",
+   "source_type": "other",
+   "title": "Monzo vs Revolut: Which Is Best For Travel In 2026? [Full Comparison]"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For most people, Monzo is the simpler choice for a European trip on a free account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut is better if you'll pay for a plan or want to hold euros."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo charges £0 for foreign card payments, and there are no weekend markups.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "No fee on card spending abroad."
+   },
+   {
+    "text": "There's no monthly cap on spending.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers spending caps."
+   },
+   {
+    "text": "Both give roughly £200 a month free cash withdrawals (Monzo).",
+    "verdict": "contradicted",
+    "fact_id": "F7",
+    "note": "Monzo gives £400 per 30 days in UK/EEA, £200 outside the EEA."
+   },
+   {
+    "text": "Monzo charges 3% above the withdrawal allowance.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "3% fee after the allowance."
+   },
+   {
+    "text": "Monzo allows unlimited free withdrawals in the EEA if it's your main bank.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Answer hedges but the claim matches the fact."
+   },
+   {
+    "text": "Others say the £200 limit applies everywhere in Monzo.",
+    "verdict": "contradicted",
+    "fact_id": "F7",
+    "note": "The limit is £400 in UK/EEA; £200 applies only outside the EEA."
+   },
+   {
+    "text": "If you lose your card, Monzo charges a flat £30 to ship outside the UK.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact on card replacement fees."
+   },
+   {
+    "text": "Monzo is UK-licensed with £120,000 FSCS protection.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches FSCS limit and UK authorisation."
+   },
+   {
+    "text": "Monzo is the cheapest option for three or fewer trips a year.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Comparative claim not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,46 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C1",
+ "run": 2,
+ "text": "**Starling is the best fit as a main UK account for most people.** Revolut and Chase work better as a second account alongside it.\n\n**Starling**\n- Reviewers consistently pick it as the best all-rounder. Starling is the most consistently recommended digital bank for use as a main current account.\n- Starling and Chase both offer 24/7 UK phone support to every customer, free tier included.\n- It's the better choice if you handle cash or cheques. Revolut and Chase don't accept cash at all.\n- It's good abroad: no ATM fees and no withdrawal limit.\n- Its weak points are that it offers no cashback or rewards, and its easy-access savings rate is the weakest of the three.\n\n**Revolut**\n- It's best if your money crosses borders. It has strong multi-currency accounts and cheap spending abroad, though the useful extras sit behind paid tiers.\n- The old worry about safety has largely gone. As of March 2026, Revolut Bank UK Ltd is fully licensed, regulated by the PRA and FCA. Eligible deposits are protected by the FSCS up to £120,000 per person.\n- Two caveats. First, existing accounts are being moved to the bank in stages, and FSCS cover applies once yours has moved. Second, balances in Savings are still provided by Revolut Ltd, not the bank.\n- On the free plan, ATM withdrawals abroad are free up to £200 a month, then 2%.\n\n**Chase UK**\n- It's best for savings and cashback. It suits disciplined spenders who want a competitive easy-access saver and occasional cashback offers, with the rate boosted for the first year.\n- It's backed by JPMorgan, but its product range is narrower than its rivals'.\n- It has no multi-currency accounts and no cash deposits.\n\n**My recommendation**\n- **Main account:** Starling. It's a straightforward bank account with good support, and it handles cash.\n- **Add Chase** if you want a better savings rate or cashback. Check the current rates first, because the sources I found disagree and the promotional rate is only for new customers.\n- **Add Revolut** if you travel often or hold foreign currency.\n- **Consider Revolut as your main account** if you want everything in one app and rarely deal with cash. That's a reasonable choice now it's a licensed bank.\n\nTwo things would change this advice: whether you need cash deposits, and whether you want to switch your salary and direct debits over (Starling and Chase both support the Current Account Switch Service). Tell me how you'd use the account and I can narrow it down.\n\nMost of the comparison sources are aggregator and blog sites, and their rates and perks date quickly. Check each bank's own site before you commit.",
+ "citations": [
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/online-banks-guide/",
+   "title": "Online and Digital Banks UK — Monzo, Starling, Revolut and Chase ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://liveyourlifeitsyours.com/articles/best-uk-travel-card-by-use-case",
+   "title": "Best UK Travel Debit Card 2026: Revolut vs Wise vs Starling vs ..."
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "title": "Is Revolut a fully licensed bank in the UK? Here’s what's changed ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/",
+   "title": "It's official — Revolut is now a bank in the UK"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/banking-guide-best-uk-digital-banks-2026-monzo-starling-revolut-and-chase",
+   "title": "Banking Guide: Best UK Digital Banks 2026 — Monzo, Starling, ..."
+  }
+ ],
+ "search_queries": [
+  "Starling vs Revolut vs Chase UK main account comparison",
+  "Revolut UK banking licence full launch FSCS 2026"
+ ],
+ "latency_s": 13.86,
+ "asked_at": "2026-11-21T16:46:49.364828+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

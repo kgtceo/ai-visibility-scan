@@ -1,0 +1,129 @@
+{
+ "engine": "gemini-web",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "MoneySuperMarket Monzo Bank Current Accounts - MoneySuperMarket “It offers a free current account, as well as paid account plans with extra features and benefit"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Double Payday | Get the Chance to Double Your Salary with Monzo “What is Monzo Double Payday? The best day of the month just got even better! We could dou"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Switch to Monzo “What's the Current Account Switch Service? The Current Account Switch Service is a not-for-profit organisation that lets people move quic"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can use Monzo as your main UK current account for your salary, Direct Debits, and everyday bills."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully regulated UK bank, with eligible deposits protected up to £120,000 by the FSCS.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Using Monzo as your main account unlocks higher/unlimited fee-free UK/EEA ATM withdrawals.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Unlimited if Monzo is main bank."
+   },
+   {
+    "text": "Monzo Perks plan includes free cash deposits, while the free tier charges a small fee for cash deposits.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list Perks at £9 a month but say nothing on cash deposit fees."
+   },
+   {
+    "text": "Early Payday: Monzo lets you claim your salary at 4:00 pm one working day early at no extra cost.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Double Payday Draw: salary between £300 and £20,000 entered into a monthly draw where 10 people have take-home pay matched up to £10,000.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers 24/7 chat/phone support and has no physical branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "A full CASS switch takes 7 working days and Monzo supports the Current Account Switch Service.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo historically relies on partner routing for incoming international SWIFT payments rather than a dedicated native IBAN.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

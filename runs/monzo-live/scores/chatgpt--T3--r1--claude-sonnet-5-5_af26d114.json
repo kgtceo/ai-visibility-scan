@@ -1,0 +1,117 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-6033900.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "DRN-6033900 "
+  },
+  {
+   "url": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman?utm_source=openai",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "Monzo wrongly denied refunds to thousands of fraud and scam victims | Monzo bank | The Guardian"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "negative",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "A recurring UK complaint about Monzo is what happens when something goes wrong"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "In one Financial Ombudsman case, a restriction affected a customer's account for four weeks, and Monzo acknowledged it had taken too long to restore full access.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this ombudsman case."
+   },
+   {
+    "text": "Of the Monzo fraud and scam complaints the Ombudsman resolved in 2025, it sided with the customer in about a third.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers ombudsman outcomes."
+   },
+   {
+    "text": "You can pay cash in at a Post Office or PayPoint, but a fee can apply.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not covered by the facts."
+   },
+   {
+    "text": "Monzo ranked first for overall service quality among personal current-account providers in Great Britain in the independent Ipsos survey published in August 2026.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ipsos ranking is not covered by the facts."
+   },
+   {
+    "text": "Monzo has an app-first model with no branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

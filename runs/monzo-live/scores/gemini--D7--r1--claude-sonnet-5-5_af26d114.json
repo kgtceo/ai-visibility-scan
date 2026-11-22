@@ -1,0 +1,106 @@
+{
+ "engine": "gemini",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo Business — Best for Built-in Budgeting & Tax Pots"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling Bank — Best Overall"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Wise Business / Revolut Business — Best for International Payments"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a full UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with Monzo being a UK authorised bank."
+   },
+   {
+    "text": "Monzo Business offers two tiers: Lite (Free) and Pro (£5/month)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover personal plans (Extra £3, Perks £9, Max from £19), not business tiers."
+   },
+   {
+    "text": "Pro tier includes automatic Tax Pots, integrated invoicing, and accounting software connections",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business features."
+   },
+   {
+    "text": "Cash deposits cost £1 at PayPoint locations; cheques can be posted for free",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business cash or cheque deposits."
+   },
+   {
+    "text": "Lite tier has fee-free UK bank transfers",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

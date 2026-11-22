@@ -1,0 +1,189 @@
+{
+ "engine": "perplexity",
+ "question_id": "H2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/account-and-profile/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/features/payments",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Payments | Pay and Get Paid Your Way"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information/version-1-9",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information/version-1-3",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://monzo.com/static/docs/monzo-terms-and-conditions-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "These terms and using your Monzo account"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What fees do Monzo charge?"
+  },
+  {
+   "url": "https://monzo.com/ecb-rates",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Exchange Rates"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/07/19/should-i-pay-in-local-currency-or-pounds-gbp-when-i-use-monzo-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "We'll now remind you to pay in local currency when you're ..."
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/using-monzo/help-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Using your Monzo card abroad"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo doesn’t charge a foreign-transaction fee. It converts at Mastercard’s exchange rate."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo doesn’t charge a foreign-transaction fee. It converts at Mastercard’s exchange rate.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "In the UK or EEA, withdrawals are unlimited and fee-free if Monzo is your main bank.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Otherwise, you get £400 fee-free per rolling 30 days in the UK/EEA, then a 3% fee.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the UK and EEA, the fee-free allowance is £200 per rolling 30 days for standard accounts, then 3%.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Unlimited fee-free UK/EEA withdrawals with an eligible paid plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover the free plan and main-bank condition."
+   },
+   {
+    "text": "Outside the UK and EEA the allowance is £400 for Plus and £600 for Premium, Perks or Max.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover paid-plan abroad allowances; Plus and Premium are not in the listed plans."
+   }
+  ]
+ },
+ "judge_error": null
+}

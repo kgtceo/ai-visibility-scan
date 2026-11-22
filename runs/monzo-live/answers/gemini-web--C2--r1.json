@@ -1,0 +1,31 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "C2",
+ "run": 1,
+ "text": "Starling is better if you want everything included for free, especially for travel cash, overdrafts, and depositing cash. Monzo is better if you want superior budgeting tools, social bill-splitting, or packaged bank perks (like phone/travel insurance and railcards on paid tiers).   \nAbel\n\nBoth are fully licensed UK banks with FSCS protection (up to £120,000 per person) and offer fee-free debit card spending abroad at the Mastercard exchange rate.\n\nSide-by-Side Comparison (Standard Free Accounts)\nFeature\tMonzo (Free Account)\tStarling (Personal Account)\nMonthly Fee\t£0 (Paid tiers: Extra £3, Perks £7, Max £17–£19/mo)\t£0 (No paid personal tiers)\nAbroad ATM Withdrawals\tUnlimited in EEA (if main account), £200/month outside EEA (3% fee after)\t£300/day free worldwide (no monthly cap)\nDepositing Cash\t£1 fee per deposit at Post Office or PayPoint\tFree at the Post Office (up to £1,000/year; 0.7% after)\nOverdrafts\tUp to £3,000 at 19%, 29%, or 39% EAR\tUp to £5,000 at 15%, 25%, or 35% EAR\nBudgeting & Pots\tPots with automatic Salary Sorter & bill-splitting\tSpaces with virtual cards (free) & spending insights\nSavings & Investing\tInstant Access Pots (~2.75% AER free, higher on paid plans), Cash ISAs, & built-in Investments\tEasy Saver (~2.50%–4.00% AER depending on bonus promos), Cash ISA, & 1-Year Fixed Bond\nCredit / Borrowing\tMonzo Flex (BNPL/credit card) & personal loans\tOverdrafts only (no credit card or personal loans)\nWhich One Should You Pick?\n\nChoose Starling if:\n\nYou travel frequently and use cash: The £300/day fee-free ATM limit worldwide beats Monzo's £200/month limit outside Europe without needing a paid subscription.   \nAbel\n\nYou hate paywalls: Features like virtual cards (great for subscriptions and free trials) are completely free on Starling, whereas Monzo locks them behind its £3/month Extra tier.   \nAbel\n\nYou handle physical cash or might use an overdraft: Post Office cash deposits are free (up to £1,000/yr), and overdraft rates are lower across the board.   \nForbes\n\nYou want a sole trader/business account: Starling's free business account is widely considered the strongest no-fee option in the UK.   \nCompare the Best UK Business Bank Accounts\n\nChoose Monzo if:\n\nYou want to automate your budgeting: Monzo's Salary Sorter automatically splits your payday money into dedicated Bills Pots, and its budgeting interface is the most intuitive on the market.   \nAbel\n\nYour friends use Monzo: Instant Monzo-to-Monzo payments, shared tabs, and bill splitting make group holidays and dinners effortless.   \nReferral Plug\n\nYou want bundled extras or credit: If you already pay for a Railcard, breakdown cover, travel insurance, or phone insurance, Monzo Perks or Max can easily pay for themselves—plus you get access to Monzo Flex and in-app investing.   \nAbel\n\nA common UK hack: Because both are free to open and don't require switching your main bank, many people use Monzo for day-to-day UK spending and budgeting, and keep a Starling card specifically for holidays and overseas cash withdrawals.   \nAbel\n\nWant to dive deeper into a specific use case?\nCompare Monzo's paid tiers (Extra, Perks, Max)\nCompare their joint accounts\nCompare their business accounts",
+ "citations": [
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "title": "Abel Monzo vs Starling: Which Digital Bank Is Best in 2026? - Abel “Starling suits people who want everything free with no upsell: no monthly plans, generous fr"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "title": "Forbes Monzo Vs Starling Bank: Compare Features & Benefits - Forbes “Only in linked easy access savings, interest paid at 2.50% AER (variable) | | Debit card |"
+  },
+  {
+   "url": "https://www.comparebusinessaccount.co.uk/guides/monzo-vs-starling-business-account-2026-full-comparison",
+   "title": "Compare the Best UK Business Bank Accounts Business Bank Account UK 2026 Monzo vs Starling “Choose Starling Business if: You prioritize a free core business acc"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "title": "Referral Plug Monzo vs Starling Bank: which digital bank is better in 2026? “The differences are more about style than substance: * Monzo feels more social and"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 42.76,
+ "asked_at": "2026-11-21T13:34:42.600238+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

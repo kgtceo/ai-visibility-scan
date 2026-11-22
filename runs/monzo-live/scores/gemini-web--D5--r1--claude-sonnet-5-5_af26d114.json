@@ -1,0 +1,112 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you're getting a part-time job and want easy budgeting: Go with Monzo or Starling."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Travel & top-rated customer service... Go with Monzo or Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you have savings to grow: Open Nationwide FlexOne so you can pair it with their 5% AER FlexOne Saver"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo for 16–17s offers ~2.75%–3% AER variable via linked Instant Access Saver",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Range contains 2.80% but refers to a teen account/linked saver, which the fact does not cover."
+   },
+   {
+    "text": "Monzo offers fee-free spending abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo has no foreign transaction fees when you go on holiday",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo has instant spending notifications, budgeting Pots, and Apple/Google Pay",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "Monzo has no monthly fees or overdrafts on the teen account",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover paid plans for standard accounts, not the 16-17 account."
+   },
+   {
+    "text": "Digital banks like Monzo often verify your address automatically without paperwork",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

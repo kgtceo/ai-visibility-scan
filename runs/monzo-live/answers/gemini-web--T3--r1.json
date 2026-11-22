@@ -1,0 +1,27 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "T3",
+ "run": 1,
+ "text": "While Monzo is widely praised in the UK for its budgeting tools and user-friendly app, customer complaints generally fall into a few recurring categories:\n\nSudden Account Freezes and Closures: This is the most vocal complaint on forums like Reddit and Trustpilot. Automated anti-money laundering (AML) systems can flag unusual activity (such as crypto transactions, large transfers, or frequent chargebacks), leading to frozen funds or 60-day closure notices. Because UK regulations prohibit banks from \"tipping off\" customers during investigations, Monzo refuses to explain why an account was flagged or closed, leaving users locked out without answers. (Note: Monzo was fined £21.1m by the FCA in July 2025 over past financial crime control failings, which led to stricter automated monitoring.)   \nReddit\n+ 1\n\nDeclining Customer Service: Long-time users frequently report that Monzo’s support has deteriorated as its user base has grown. Getting past in-app chatbots to a human agent can be difficult, wait times for complex queries can stretch into days, and issues often get passed between multiple agents without resolution.\n\nFraud and Scam Reimbursement Disputes: Victims of Authorised Push Payment (APP) scams and card fraud often complain that Monzo is overly strict when denying refunds. Financial Ombudsman Service (FOS) data has previously highlighted a relatively high overturn rate for Monzo’s fraud decisions compared to several traditional high-street banks.   \nConsumer Rights\n\nLack of Physical Branches and Cash Limits: Because Monzo is digital-only, resolving urgent or complex problems face-to-face isn't an option. Additionally, free-tier users face strict limits and fees for depositing cash (via PayPoint) and withdrawing cash abroad.   \nConsumer Rights\n\nFeature Paywalls and Overdraft Criteria: Some users feel that basic features—like custom budgeting categories, virtual cards, and higher savings interest rates—are increasingly locked behind paid tiers (Extra, Perks, Max). Others complain about opaque or seemingly random rejections when applying for an overdraft or Monzo Flex.   \nFinancial Ombudsman Service\n\nFor day-to-day spending and budgeting, most UK users have a smooth experience, which is why many keep Monzo as a secondary \"spending\" account while keeping their main salary and emergency savings with a traditional high-street bank.\n\nAre you thinking about opening an account with them, or trying to resolve an issue with an existing one?",
+ "citations": [
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1lsf2lw/never_thought_it_would_happen_to_me_but_here_i_am/",
+   "title": "Reddit Never thought it would happen to me but here I am - Account Closed. “ Poor service and badly thought out processes to me. The app is great, the features"
+  },
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/monzo/",
+   "title": "Consumer Rights How to Complain About Monzo | Consumer Rights “In July 2025 the FCA fined Monzo £21.1m for financial-crime control failings. Complaints go throu"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-6221672.pdf",
+   "title": "Financial Ombudsman Service Decision Reference DRN-6221672 - Financial Ombudsman Service “That money was awarded because Monzo knew about Mr C's vulnerabilities"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 37.47,
+ "asked_at": "2026-11-21T13:41:39.720018+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

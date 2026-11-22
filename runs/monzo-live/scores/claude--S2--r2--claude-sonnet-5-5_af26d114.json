@@ -1,0 +1,166 @@
+{
+ "engine": "claude",
+ "question_id": "S2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Monzo review 2026: Should you make the switch? - Money To The Masses"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-current-account-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "Monzo Current Account Review 2026 -- Fees, Features and Verdict"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Double Payday"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "Monzo Savings Pots Explained: Rates and FSCS 2026"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "Is Monzo Safe in 2026? FSCS, Fraud & Security Explained"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.2.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo current account terms and conditions v2.2"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, lots of people in the UK use Monzo as their main account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Many people hold a second account, such as a high-street bank or Starling"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "It's a UK bank authorised by the PRA and regulated by the PRA and FCA",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The FSCS limit rose from £85,000 to £120,000 on 1 December 2025.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "The £120,000 limit matches; the date and previous limit are not covered."
+   },
+   {
+    "text": "On a joint account it's £240,000.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account limit not in facts, though it follows from the per-person limit."
+   },
+   {
+    "text": "The basic account has no monthly fee and no minimum deposit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The facts list paid plans but do not say the free plan has no monthly fee or minimum deposit."
+   },
+   {
+    "text": "Fee-free withdrawals depend on meeting Monzo's criteria: at least £500 paid in over a rolling 35-day period plus an active direct debit.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "F7 gives allowances but not this criteria; it is not directly contradicted."
+   },
+   {
+    "text": "Monzo only supports making direct debit payments, not receiving them.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can pay direct debits and standing orders straight from a Regular pot.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can use the Current Account Switch Service to move everything over to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "There are no branches; everything is done through the app and online.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

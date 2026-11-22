@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C1",
+ "run": 1,
+ "text": "**Short answer: Starling is the safest all-round pick for a main UK account.** Choose **Chase** if cashback and savings are your priorities; choose **Revolut** if you’ll make frequent foreign-currency payments and want its extra app features.\n\n| | **Starling** | **Chase** | **Revolut** |\n|---|---|---|---|\n| **Best for** | Everyday banking and reliability | Cashback and saving | Travel, currencies and app features |\n| **Main-account strengths** | Straightforward current account, no monthly fee, fee-free spending and cash withdrawals abroad; overdrafts available if approved | No account fee; no-fee spending abroad; current cashback offer can be valuable if you meet its conditions | Broad currency and travel features; UK current-account deposits are now FSCS-protected once held with Revolut Bank |\n| **Main caveat** | No headline cashback; overdrafts are interest-bearing | Cashback is conditional and capped; check the current eligibility rules | Check which Revolut account and terms apply to you, particularly during the transition to its UK bank |\n\n### My take\n\n- **Starling** is the best default if you want one account for salary, bills, Direct Debits and day-to-day spending. It’s a full current account, has no monthly fee, and has a useful overdraft option—though rates vary by customer.\n- **Chase** could be better value if you regularly spend in its cashback categories. Its current offer advertises **2% cashback up to £20 a month**, but eligibility conditions apply. It’s also worth comparing its saver rate with alternatives before moving savings over.\n- **Revolut** is attractive if you often use multiple currencies or want its travel and budgeting tools. It is now a UK-licensed bank, and eligible deposits in a Revolut Bank UK account are FSCS-protected up to **£120,000**. Still, confirm your account has been moved to the bank and which terms govern it.\n\n**Bottom line:** If you want one choice without a special use case, I’d pick **Starling**. If you’ll reliably qualify for Chase’s cashback, **Chase** may pay you more. Either way, keeping a second account elsewhere as a backup is sensible.",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/current-account/service-information/",
+   "title": "Current account service information - Starling Bank"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-now-that-revolut-is-a-bank-in-the-uk-how-is-my-money-protected/",
+   "title": "Now that Revolut is a bank, how is my money protected?"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/",
+   "title": "Bank account with overdraft"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-what-will-happen-my-account-when-its-moved/",
+   "title": "What will happen to my account when it’s moved? | Revolut ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://www.revolut.com/en-GB/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "title": "www.revolut.com · en-GB · blogIs Revolut a fully licensed bank in the UK? Here’s what's ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-saver-account/",
+   "title": "Easy access savings account"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/",
+   "title": "What does the UK Bank Licence mean for my account?"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/",
+   "title": "Overdraft cost calculator"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-is-my-savings-account-fscs-protected/",
+   "title": "Is the money in my Savings account protected by the FSCS?"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-general-terms-may-2026.pdf",
+   "title": "starling-personal-account-general-terms-may-2026. ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/account/Fee-Information-Doc-GBP-PCA.pdf",
+   "title": "Fee Information Document"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/overdrafts/what-interest-is-charged-on-my-overdraft/",
+   "title": "What interest is charged on my overdraft? - Starling Help"
+  }
+ ],
+ "search_queries": [
+  "Starling Bank personal current account fees FSCS overdraft official",
+  "Revolut UK personal account FSCS banking licence current account official 2026",
+  "Chase UK current account fees cashback savings FSCS official 2026"
+ ],
+ "latency_s": 7.05,
+ "asked_at": "2026-11-21T17:41:22.147713+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

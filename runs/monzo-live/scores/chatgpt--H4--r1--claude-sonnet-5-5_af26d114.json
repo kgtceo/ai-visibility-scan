@@ -1,0 +1,99 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/overdrafts?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Overdrafts | Apply for an Arranged Overdraft with Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. Monzo offers arranged overdrafts of up to £2,000 on UK personal current accounts."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers arranged overdrafts of up to £2,000 on UK personal current accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft limits."
+   },
+   {
+    "text": "You must be 18 or over, and the limit you're offered depends on eligibility.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft eligibility."
+   },
+   {
+    "text": "You pay interest only on the amount you use, not on the full limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft interest calculation."
+   },
+   {
+    "text": "Monzo offers three variable effective annual rates: 19%, 29% or 39%, depending on credit score.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "At Monzo's representative rate of 39%, borrowing £1,200 for 30 days costs £32.94 in interest.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft cost examples."
+   }
+  ]
+ },
+ "judge_error": null
+}

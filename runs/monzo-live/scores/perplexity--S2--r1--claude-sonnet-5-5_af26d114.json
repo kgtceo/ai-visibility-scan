@@ -1,0 +1,177 @@
+{
+ "engine": "perplexity",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/accountlimits",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What are the spending limits for accounts?"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Get Paid Early | Payday, the Monzo Way"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/cash-deposit-limit",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Cash deposit limits"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/web-my-limits",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Understanding your limits"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/account-switching",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Your easy guide to switching your current account"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - How a full switch works"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.4.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Current account Terms and Conditions v2.4"
+  },
+  {
+   "url": "https://monzo.com/features/payments",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Payments | Pay and Get Paid Your Way"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Is Monzo safe? How we help protect your money"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Moving your salary to Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Otherwise, Monzo is a practical option for day-to-day banking."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's UK personal current account can be used to receive your salary and pay everyday bills, including Direct Debits and standing orders.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers salary or bill payment features."
+   },
+   {
+    "text": "A full switch usually takes seven working days and closes your old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "CASS switch details are not covered by the facts."
+   },
+   {
+    "text": "Cash deposits are limited: up to £750 per month, with a £1 fee per deposit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover cash withdrawals, not deposits."
+   },
+   {
+    "text": "Eligible Monzo deposits are protected by the FSCS up to £120,000 per person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

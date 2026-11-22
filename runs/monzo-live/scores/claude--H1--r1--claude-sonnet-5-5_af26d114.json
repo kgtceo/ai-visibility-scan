@@ -1,0 +1,147 @@
+{
+ "engine": "claude",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/",
+   "domain": "moneysavinganswers.com",
+   "source_type": "other",
+   "title": "Is Monzo Max worth it? What about Extra, and Monzo Perks?"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Are Monzo's Paid Plans Worth It? Extra, Perks, Max"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/monzo-max-review",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Monzo Max review: Is the account worth it? - Finder UK"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Max"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/monzo",
+   "domain": "getquids.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review UK: Is the Free Account Worth It, and Do the £3 to ..."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Is Monzo Max worth it? £19/month, Max vs Perks vs Extra (2026)"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Perks and Max can be, but only if you'd use the perks anyway."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Extra, Perks and Max cost £3, £9 and £19 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches the plan prices; Max is 'from £19'."
+   },
+   {
+    "text": "The price rose by £2 in August 2026. That rise applied to Perks and Max. Extra stayed at £3.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers a price rise."
+   },
+   {
+    "text": "Extra includes an extra 0.25 points of interest on savings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the free plan rate of 2.80%."
+   },
+   {
+    "text": "Perks includes a weekly Greggs treat, a monthly cinema ticket and an annual Railcard, which Monzo says are worth over £300 a year",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Perks contents not covered by facts."
+   },
+   {
+    "text": "Max adds worldwide travel insurance, phone insurance, and UK and Europe breakdown cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Max has a 3-month minimum and is for ages 18–69; adding family costs extra",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Free account already includes spending notifications, budgeting tools and savings pots",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

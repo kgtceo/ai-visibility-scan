@@ -1,0 +1,125 @@
+{
+ "engine": "gemini",
+ "question_id": "D1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM1aEor6xz-g-sSBwWundNuqoPh-Od6L3koWQmSq4f8igg_1ia0rtfxvqy8y2zlhTNysSEw5bqeSx9E_0zoGQtnOknN5-HFptuxDW2FLLE7BQfAUq8XAq_pI-W3i-6KvXBykUCy6JGd50i",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGspVl0sB1b4gm8F88g-xV6KepXx_277qUO5mZQA4mwNQ4oM0HGTFLNKZcgE37te38ydJHz2FAqVxi7QkNn1O1ZghzWYj3Vy6jazp1DYCZjGGvCMP0wmV92Am0=",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFj4x6_NyI6fuN82iYQ_hSBV8zP2NMPqGiY6edkjl-EcjlJIDze4YqnkUns2w7tNrz67AZ5raJDibL5eICk6bvSEl5WtoZZQX4Sp1EX5D1TPCTs7H9VycXdeuLUwcfp93rd4MYVN1lNwOYRgyDk1RrUT5x4w4D5PcUohPno3Do4NCl7A==",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_t_nf22U0V1X_p0kG4Jph-J7zT9O2UOyxCs-szDbrHXDnnRtjeUVMDoe0K-9JO3DcbFl1usQt0diTtcIrF9oejmC8ocrhhodT7H-76JtrYElFqk-ZQ9FSkK3uol-YRClcRbxtG8xhbOFG7I_V97k=",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo remains the gold standard."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best All-Rounder (No Fees & Great Overseas Perks): Starling Bank"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best for Cashback: Chase UK ... generally the top contender."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Fee-free card spending worldwide (with a limit on free foreign ATM cash withdrawals).",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "No fee on card spending abroad; ATM allowance limits per F7 also consistent."
+   },
+   {
+    "text": "Basic account pays no debit card cashback, though paid tiers (Extra, Perks) offer higher-end features and interest.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list the paid plans but not cashback or interest details."
+   },
+   {
+    "text": "Monzo offers Pots & Salary Sorter, Shared Tabs, instant notifications, automatic categorization and spending targets.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by facts."
+   },
+   {
+    "text": "Monzo caps foreign ATM withdrawals on its free tier.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free plan has £200 per 30 days allowance outside the EEA."
+   }
+  ]
+ },
+ "judge_error": null
+}

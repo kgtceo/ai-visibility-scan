@@ -1,0 +1,61 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C1",
+ "run": 2,
+ "text": "For a **main UK account** (where your salary lands and bills are paid), **Starling Bank** is the most reliable and complete choice. \n\nWhile Chase and Revolut have strong features, both have gaps that make them frustrating to use as your *sole* bank account. \n\nHere is how the three compare across key categories:\n\n---\n\n### Comparison Breakdown\n\n| Feature | Starling Bank | Chase UK | Revolut |\n| :--- | :--- | :--- | :--- |\n| **UK Banking Licence & FSCS** | Full UK Bank (FSCS covered) | Full UK Bank (J.P. Morgan, FSCS covered) | UK Bank Licence (FSCS rolling out) |\n| **Current Account Switch Service (CASS)** |  Yes | ❌ No | ❌ No |\n| **Paying in Cheques** |  Yes (in-app photo up to £1,000) | ❌ No | ❌ No |\n| **Cash Deposits** |  Post Office (Free up to £1,000/yr) | Limited (PayPoint) | Limited (PayPoint / fees apply) |\n| **Joint Accounts** |  Yes | ❌ No |  Yes |\n| **Overdraft Available** |  Yes (subject to status) | ❌ No | ❌ Very limited / rolling out |\n| **Everyday Perks / Cashback** | ❌ Modest |  **1% cashback** on debit spending (up to £15/mo) | Perks tied to paid monthly subscriptions |\n| **Spending Abroad** |  Fee-free (Mastercard rate, no weekend fee) |  Fee-free (Mastercard rate) |  Great weekday FX rates, but weekend markups & monthly limits on free plan |\n| **Desktop Web Access** |  Yes | ❌ App-only |  Yes |\n\n---\n\n### Detailed Pros and Cons\n\n#### 1. Starling Bank — **Best for a Main Account**\n* **Why it wins:** It functions like a modern, frictionless version of a traditional high-street bank. You get a full banking licence, joint accounts, overdrafts, and desktop web access (lifesaver if you lose your phone).\n* **Cash & Cheques:** If an employer or family member gives you a cheque, you can photograph and clear it in the app. If you need to deposit cash, you can do it over the counter at any UK Post Office.\n* **Customer Support:** Starling consistently scores at the top of independent UK customer satisfaction surveys and offers 24/7 UK-based support.\n* **Drawback:** It does not offer aggressive cashback on debit card spending.\n\n#### 2. Chase UK — **Best for Spending Perks & Savings**\n* **Why it’s great:** It offers 1% cashback on eligible debit card spending, a high-yield round-up savings account, and competitive linked savings.\n* **Why it struggles as a main account:**\n  * **No joint accounts:** If you manage finances with a partner, Chase cannot be your shared bills hub.\n  * **No cheques:** You cannot deposit a cheque.\n  * **No CASS:** You cannot use the automated Current Account Switch Service to",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElXTxeF3vh2CqJeKEGvTz1ykId5yxxeKl8pd0RIrBVd53RGbDrdw0LADZQRHWARapruLBe46o1Vyb2rorqi6Ci0MZeHb7LQ1B-PlvrgIJpTulZu76R0uLqRCArMJbc2bw=",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECQ9BuYsWW6yMhXtZ6mY7iA_l5MqbBQvi7tKvzLUbTWPgJi9clwObcb0qmeKwTaCxAQNiocpByGAb9_61Irftek9oJ05JU37hmito3zrLD5_Ux-Fqfs9G8TmuUzyLaeyW_g0Q4dEdYLVN2IHDqKm9o3iFeS39mHtdfqv-wOssFuGupzA==",
+   "title": "bankingexplained.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxpa-lArcJFX4hBWH9wISCveDfegeMze6s1ZWdm0Z58P48ud2lF0Qd5LwDUnRoB7lvkXGAqZjSN3dKrEshBpVYzzeWlbex0myG-mrEanUMF2rF5ZtAdFTkmnpLYi3fgXkDptKbMBej5N5H",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3Bo9SYTC0UjdupxWjF2pUkjETu3YuWqEuLoHml7a2p-bZQDuvXRE_-l454gsrP3pCR72oIoWjikAA1a5Z2gZ-Sca97n4pgShksufI2wGZg8OAwsTb4J3sjv1f2w=",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDP1TCG7CzwyYRILgLIv9wBFjKSFSgpYMtAEsbLVAba57SKUlQMRpSNWSUacoLO5MoUTwGRybkwAaCq8CKkjs6zluybvERrFaVX6YvEcvR2WRHJjacH-jataSr-K_2gRKT5SDGaWvcNtB69Avcf-5kdB-EerubsAz7S39IVo2xtJgcwN3Pmijdd8eHzQREUZarQ==",
+   "title": "fintechfutures.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0PXW81dBaaJBT3T8uewmyB0vXBvFv9eUguhW1aooPhuUg3nnM6R1Zf6si6Ja-_MhoSnoNhRww_UqBJBRbBSm1fXtMlEFlFRLaNwHF8zVOjwW4veMaQkX9W_m8S-04U6ReouZz86nUiAoc3-ILYEQx2Pa0AwGKknBXlvcmkSS7F2yziuPUORW_IaDt4tn38JlHzXMd3sri05DXww1dcoStOUjPABg=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMzFW568v4oak8Ck7S0EUrUyrznBU7_TXjnHBMrCnRDDQOJDuN5vWcTFm3igkiSsajq4enL1L3CmmG9P4KA-_opPGW4z6BpaQRHOnEfyFVaeAwWzqwEQtQDY0wjGzZGlmHPGGprGJZ01r89PYRECu71mdh-V943EYDWwYlJy5tqQCuILkS",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBptmc2mK1nFlAFOSwMRJCEAYrUOpHzG8AaOPzn-VQFKBYqpU1vvxyuGrpqEghr0dMWwvQsyIdHDpeE6mG2cIgelMkNbuccBOWFZAIis9UjtiDnmb141ZrVX4wcc3nGgnzPNNMCoSVFvxCso=",
+   "title": "starlingbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4j4DzOdOxPxSrRmMdNshLw0EmDmepY6J--A_NTAow7HD3HQfzBVpaK5i96Nn3GuzuV180fLsh1xG8aq0rVXaACCMuQVwO_6czFy6zRsrUXQKd_vQtYUm4EHpCaTrEvgjHqJzrC1OqNFNTSJO3XNSWg4XKIA_pPA==",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwej9eOkOymjMJ_v6oegioxcTGS9UbWT39T4spnqGLFF8ivG4vx24PHhXnGExdbZLlKhyczK_o6om5V9ODcss55VPdSnAlE4HRzNK898lNLlq3SCtrBqQKlgIP5C0mL66p4SiO-XW7gKyi",
+   "title": "chase.co.uk"
+  }
+ ],
+ "search_queries": [
+  "Revolut UK banking licence FSCS status",
+  "Chase UK joint accounts cheque deposits",
+  "Starling bank cash deposit Post Office personal",
+  "\"Chase UK\" deposit cheque OR check site:chase.co.uk"
+ ],
+ "latency_s": 34.78,
+ "asked_at": "2026-11-21T17:51:37.185795+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

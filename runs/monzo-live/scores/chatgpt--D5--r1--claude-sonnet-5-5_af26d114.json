@@ -1,0 +1,93 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/123-mini-current-account",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "123 Mini Current Account | Kids Bank Account | Santander UK"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "A Bank Account for 16-17 Year Olds | Teen Bank Accounts"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo 16–17 is a good free alternative."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo 16–17 is a good free alternative.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover the free plan but not the 16-17 account specifically."
+   },
+   {
+    "text": "You can apply in the app with photo ID, your own UK mobile number and an email address.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers application requirements."
+   },
+   {
+    "text": "Monzo offers Pots and bill splitting with friends.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   }
+  ]
+ },
+ "judge_error": null
+}

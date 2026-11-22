@@ -1,0 +1,159 @@
+{
+ "engine": "claude",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Monzo review 2026: Should you make the switch? - Money To The Masses"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "Monzo Savings Pots Explained: Rates and FSCS 2026"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-current-account-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "Monzo Current Account Review 2026 -- Fees, Features and Verdict"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Double Payday"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.2.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo current account terms and conditions v2.2"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can. Monzo is a fully authorised UK bank, and plenty of people use it as their main account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully authorised UK bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "It's authorised by the PRA and regulated by the PRA and FCA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "FSCS protection is £240,000 on a joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the per-person limit."
+   },
+   {
+    "text": "Fee-free withdrawals in the UK and EEA with no limit depend on Monzo's Fee Criteria: at least £500 paid in over a rolling 35-day period plus an active direct debit.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "F7 says unlimited if Monzo is your main bank, but the specific criteria are not covered, so this is not contradicted."
+   },
+   {
+    "text": "Scheduled standing orders and direct debits carry no charge.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Extra, Perks and Max are optional paid plans.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo is app-based with no branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's terms say it supports making direct debit payments, not receiving them.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can use the Current Account Switch Service to move everything to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

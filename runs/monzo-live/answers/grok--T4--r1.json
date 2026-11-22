@@ -1,0 +1,177 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "T4",
+ "run": 1,
+ "text": "Yes. Monzo does temporarily freeze, restrict, or lock accounts (and can close them in some cases). This is common among UK banks when they need to protect customers or meet legal duties.\n\n### Why it happens\nMonzo may restrict an account if it spots unusual activity that could be linked to fraud or other financial crime, if it thinks someone else may have access to the account, if there is a potential risk, or if law enforcement requires it. Reviews are part of checks to keep money safe and meet regulatory responsibilities. Being under review does not necessarily mean you have done anything wrong.\n\nThey cannot always explain the exact reason. Sharing too much detail can sometimes help criminals bypass checks or interfere with investigations (sometimes called “tipping off”). They say they will give as much information as they can.\n\n### What to expect\nCheck the Monzo app for the latest details on any restrictions and whether they need anything from you. What you can still do depends on the type of review:\n\n- You may still be able to receive some payments (such as salary or benefits), use unaffected accounts, or spend a limited amount on your card.\n- Bank transfers, moving money between accounts or Pots, and some card payments may be temporarily unavailable.\n\nMonzo says most reviews take a couple of hours and almost all are finished within two days, though some take longer. They work to complete them as quickly as they can and will message you in the app when there is an update or if they need information or documents. Replying promptly can help. You do not need to contact them just for status updates.\n\nThis is different from you freezing your own card in the app (for example if it is lost or stolen), which you can usually undo yourself.\n\n### How to get help (UK)\n1. **Check the app first** — Look for messages, restrictions, and any requests. Respond if they ask for information.\n2. **Contact support** (especially if you cannot cover essentials such as food or medication — tell them clearly so they can see whether they can help):\n   - In-app chat is the best route. Urgent issues (stolen card, inability to make an urgent payment, suspected fraud, or vulnerability) are handled 24 hours a day. You can ask to speak to an agent.\n   - Phone: **0800 088 4040** (free from the UK). From abroad: **+44 20 3872 0620**. Urgent queries are available 24/7; non-urgent ones are typically answered 7am–8pm.\n   - If you cannot access the app: email **help@monzo.com** or call the number above.\n3. **Extra support** — If health issues, money worries, accessibility needs, addiction, domestic or financial abuse, or another life event affect how you manage money, you can share details via “Share with us” in the app. A separate wellbeing team can offer support (they do not control the review outcome).\n\n### If you are unhappy with how it is handled\nMake a formal complaint by chatting in the app, calling **0800 088 4040**, emailing **complaints@monzo.com**, or writing to Complaints Team, Monzo, Broadwalk House, 5 Appold Street, London EC2A 2AG. They acknowledge complaints within three business days and aim to send a final response as soon as possible (generally between 15 days and 8 weeks).\n\nIf you are not satisfied with the final response, you can refer the complaint free of charge to the Financial Ombudsman Service within six months (financial-ombudsman.org.uk, or 0800 023 4567 / 0300 123 9123).\n\nEligible deposits with Monzo are protected by the Financial Services Compensation Scheme (FSCS) up to the usual limit (currently £85,000 per person in most cases). For the most current details, use the in-app help or monzo.com/help, as processes can be updated.",
+ "citations": [
+  {
+   "url": "https://www.advratings.com/uk/monzo-bank",
+   "title": "https://www.advratings.com/uk/monzo-bank"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "title": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account"
+  },
+  {
+   "url": "https://monzo.com/help/",
+   "title": "https://monzo.com/help/"
+  },
+  {
+   "url": "https://www.qredible.co.uk/frozen-bank-account-why-it-happens-and-what-you-can-do/",
+   "title": "https://www.qredible.co.uk/frozen-bank-account-why-it-happens-and-what-you-can-do/"
+  },
+  {
+   "url": "https://monzo.com/help/business-accounts/How-to-lock-and-unlock-an-expense-card",
+   "title": "https://monzo.com/help/business-accounts/How-to-lock-and-unlock-an-expense-card"
+  },
+  {
+   "url": "https://monzo.com/help/payments-troubleshooting/frozen-card-payment",
+   "title": "https://monzo.com/help/payments-troubleshooting/frozen-card-payment"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-extra-support/contact-support",
+   "title": "https://monzo.com/en-es/help/getting-extra-support/contact-support"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-freeze-my-account/104428",
+   "title": "https://community.monzo.com/t/monzo-freeze-my-account/104428"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts",
+   "title": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/mobile/price-information",
+   "title": "https://monzo.com/legal/mobile/price-information"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/your-account-is-under-review",
+   "title": "https://monzo.com/help/account-and-profile/your-account-is-under-review"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web/",
+   "title": "https://monzo.com/help/legal-stuff/make-complaint-web/"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-terms-and-conditions/version-1-4",
+   "title": "https://monzo.com/legal/business-account-terms-and-conditions/version-1-4"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account",
+   "title": "https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account"
+  },
+  {
+   "url": "https://customerservicenumber.co.uk/company/monzo",
+   "title": "https://customerservicenumber.co.uk/company/monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/files/joint-account/monzo-joint-account-terms-and-conditions-1.2.pdf",
+   "title": "https://monzo.com/legal/files/joint-account/monzo-joint-account-terms-and-conditions-1.2.pdf"
+  },
+  {
+   "url": "https://www.kaeltripton.com/how-to-close-monzo-account/",
+   "title": "https://www.kaeltripton.com/how-to-close-monzo-account/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-account-closure",
+   "title": "https://monzo.com/en-es/help/keeping-your-account-secure/help-account-closure"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/10/18/watchdog-response",
+   "title": "https://monzo.com/blog/2019/10/18/watchdog-response"
+  },
+  {
+   "url": "https://monzo.com/supporting-customers/going-to-prison",
+   "title": "https://monzo.com/supporting-customers/going-to-prison"
+  },
+  {
+   "url": "https://archive.plugin.org/article/monzo-blocked-my-account-why-it-happens-and-what-you-can-do",
+   "title": "https://archive.plugin.org/article/monzo-blocked-my-account-why-it-happens-and-what-you-can-do"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web",
+   "title": "https://monzo.com/help/legal-stuff/make-complaint-web"
+  },
+  {
+   "url": "https://pennyplan.co.uk/monzo-debt-help-advice/",
+   "title": "https://pennyplan.co.uk/monzo-debt-help-advice/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card",
+   "title": "https://monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts",
+   "title": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts"
+  },
+  {
+   "url": "https://monzo.com/help/app-help/connected-bank-accounts-monzo-enabled",
+   "title": "https://monzo.com/help/app-help/connected-bank-accounts-monzo-enabled"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions",
+   "title": "https://monzo.com/legal/joint-account-terms-and-conditions"
+  },
+  {
+   "url": "https://monzo.com/help/emergencies/report-fraud",
+   "title": "https://monzo.com/help/emergencies/report-fraud"
+  },
+  {
+   "url": "https://www.monzo.com/legal/terms-and-conditions/version-1-4",
+   "title": "https://www.monzo.com/legal/terms-and-conditions/version-1-4"
+  },
+  {
+   "url": "https://monzo.com/supporting-customers/third-party-access",
+   "title": "https://monzo.com/supporting-customers/third-party-access"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-locked-money",
+   "title": "https://monzo.com/en-es/help/keeping-your-account-secure/help-locked-money"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/monzo-explains-automatic-blocks-policy-37156292",
+   "title": "https://www.mirror.co.uk/money/monzo-explains-automatic-blocks-policy-37156292"
+  },
+  {
+   "url": "https://www.monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card",
+   "title": "https://www.monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "title": "https://monzo.com/faq"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "title": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account"
+  },
+  {
+   "url": "https://monzo.pissedconsumer.com/customer-service.html",
+   "title": "https://monzo.pissedconsumer.com/customer-service.html"
+  },
+  {
+   "url": "https://www.monzo.com/legal/terms-and-conditions/version-2-3",
+   "title": "https://www.monzo.com/legal/terms-and-conditions/version-2-3"
+  },
+  {
+   "url": "https://monzo.com/help/app-help/contacting-support",
+   "title": "https://monzo.com/help/app-help/contacting-support"
+  },
+  {
+   "url": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708",
+   "title": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708"
+  }
+ ],
+ "search_queries": [
+  "Monzo freeze accounts UK help",
+  "Monzo account frozen what to do UK",
+  "Monzo bank account freeze policy official",
+  "Monzo UK official help frozen account site:monzo.com",
+  "Monzo UK phone number support 0800"
+ ],
+ "latency_s": 34.4,
+ "asked_at": "2026-11-21T17:30:58.410281+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,111 @@
+{
+ "engine": "gemini-web",
+ "question_id": "H5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can open a joint account with Monzo in the UK"
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Compare Monzo joint accounts with Starling Bank"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Each person gets up to £85,000 in FSCS protection on their share of the balance, meaning up to £170,000 is protected in total on a joint account.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo's paid tiers (Extra, Perks, Max) apply to personal accounts",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match the paid plans listed."
+   },
+   {
+    "text": "You can open a joint account only if both have an existing individual Monzo personal account, are 18+, and are UK tax residents.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint account eligibility."
+   },
+   {
+    "text": "Both people get their own distinct white debit card, distinct from the hot coral personal card.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Card design not covered by facts."
+   },
+   {
+    "text": "Both account holders see all joint transactions in real time and receive instant push notifications.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "You can create Pots inside the joint account and set up Direct Debits from specific Pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Either person can withdraw the full balance or close the account without the other's permission, though Monzo will notify the other person.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

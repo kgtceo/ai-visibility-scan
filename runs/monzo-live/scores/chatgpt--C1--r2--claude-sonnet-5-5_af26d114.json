@@ -1,0 +1,94 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C1",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/current-account/?utm_source=openai",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/?utm_source=openai",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "I need help with cashback | Chase UK"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/best-online-bank-accounts-in-the-uk/?utm_source=openai",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Best Online Bank Accounts in the UK | Revolut United Kingdom"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d choose Starling as your main UK account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d choose Revolut if you regularly hold, exchange or send money in different currencies."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d choose Chase instead if you’re cashless and will earn the cashback without changing your habits."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

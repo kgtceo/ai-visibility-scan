@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C3",
+ "run": 1,
+ "text": "**I’d pick Monzo for most European trips**, assuming you’re comparing the free UK accounts. You can leave your money in pounds and pay by card at Mastercard’s exchange rate, with no Monzo fee, no monthly currency-exchange allowance to track and no weekend surcharge. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))\n\n**Revolut is the better fit if you want to buy euros ahead of time.** On Revolut Standard, you can exchange up to £1,000 per month on weekdays at Revolut’s rate without an extra fee. There’s a 1% fee on exchanges above that allowance and a 1% weekend exchange fee. The weekend fee is on *conversion*, not spending: if you’ve already bought enough euros on a weekday, paying in euros on Saturday won’t trigger it. ([help.revolut.com](https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai))\n\n**If you’ll need cash**, Monzo also has the edge in the European Economic Area (the EU plus Iceland, Liechtenstein and Norway). Its shared UK/EEA allowance is £400 every 30 days, or unlimited fee-free withdrawals if Monzo counts as your main bank. Outside the EEA, the free account allows £200 every 30 days. Revolut Standard allows £200 or five withdrawals per rolling month, whichever comes first. The ATM operator may charge its own fee. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))\n\nWith either card, if the terminal offers **“GBP or local currency?” choose local currency** so the merchant doesn’t set the exchange rate. ([monzo.com](https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai",
+   "title": "Standard plan | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK travelling abroad EEA ATM 400 Monzo Mastercard no fees exchange weekend"
+ ],
+ "latency_s": 13.87,
+ "asked_at": "2026-11-21T16:57:35.996714+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

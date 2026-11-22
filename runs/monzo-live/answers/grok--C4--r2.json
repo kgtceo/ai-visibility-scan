@@ -1,0 +1,233 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "C4",
+ "run": 2,
+ "text": "**For cashback, yes — Chase is generally better. For savings, it depends on whether you’re a new customer and how you save.**\n\nRates and offers change, so confirm in the apps. Both are FSCS-protected UK banks (app-only).\n\n### Cashback\n**Chase is the clearer winner** if you spend regularly on everyday categories and can meet the rules.\n\n- **Chase**: 2% cashback, capped at **£20 a month** (£240 a year max), on UK/Channel Islands spending in GBP on groceries, restaurants, cafes, takeaways, everyday transport, fuel and public EV charging. It applies automatically once you qualify (including Apple Pay / Google Pay). To earn it the following month you must keep **£1,000+ across Chase savers every day** of the month **and** make at least **15** payments (debit/credit card or Direct Debit). Not on overseas spend or other categories. Merchant category codes decide eligibility, so some purchases that look eligible may not qualify.  \n- **Monzo**: No flat category rate. Free-account cashback is **partner offers** (often roughly 2–10% at selected brands). You must opt in and **activate** each offer before spending; offers expire and may not match your habits. Paid plans (Extra £3, Perks £9, Max from £19 a month) add **Billsback** — a monthly random draw that pays back at least 1,000 eligible bills (up to £150 each). That is a lottery, not guaranteed cashback.\n\nIf you put £500–£1,000 a month through Chase on qualifying spend and meet the conditions, the cashback is predictable. Monzo only wins if specific activated offers fit you well, or if you value the Billsback lottery enough to pay for a plan.\n\n### Savings\n**Chase is stronger for many people in year one; Monzo is often better after that, especially if you can limit withdrawals or lock money away.**\n\n**Chase** (figures from its rates pages; some effective from 12 November 2026):\n- **Boosted easy-access saver** (new customers who open it in their first 31 days): **4.75% AER** variable, including a **2.25%** fixed boost for 12 months, up to £1 million. After the boost ends you drop to the standard rate. Offer can be withdrawn.\n- **Standard Chase Saver**: **2.50% AER** variable, easy access. Tied to the Bank of England base rate minus 1.50% (updates a few business days after base-rate changes).\n- **Regular Saver**: **6.50% AER** fixed for 12 months, up to **£300 a month**. Balance is moved out after 12 months; the account can continue at the then-current rate.\n- **Round-ups**: **5.00% AER** variable on spare change from card transactions only (you can’t pay in manually).\n\n**Monzo** (from its savings comparison page):\n- **Instant Access**: **2.80% AER** (free), **3.15%** (Extra), **3.55%** (Perks), **3.80%** (Max) — all variable, unlimited withdrawals.\n- **Select Access** (2 or fewer withdrawals a year, £500 minimum): **3.45% AER** on free/Extra, **3.70%** on Perks/Max.\n- **Fixed-rate pots**: up to **5.25% AER** fixed for 3 years (other terms available), £500 minimum, interest at maturity. Same rates across plans. Cash ISA versions exist at similar rates.\n- Paid plans also have a Savings Challenge at 5% AER; the free plan’s challenge pays 0%.\n\nOn a lump sum you can leave alone for a year, a new Chase customer’s 4.75% easy-access boost beats Monzo’s free instant-access rate and most paid-plan instant rates. After the boost, Chase’s 2.50% is slightly below Monzo’s free 2.80% and well below Select Access (3.45%+) if you rarely withdraw. Monzo’s fixed pots and Cash ISAs are useful if you can lock money or want tax-free interest. Chase’s 6.5% Regular Saver is strong for steady monthly saving up to £300, and its 5% round-up rate beats ordinary Monzo pot rates on spare change.\n\nNeither is usually the absolute top rate in the wider UK market for pure savings, so large balances are often better in a best-buy account elsewhere.\n\n### Practical take\n- Prioritise **predictable cashback** on groceries, fuel, transport and eating out, and you’re happy keeping £1,000 in a Chase saver and making 15+ payments: **Chase**.\n- Prioritise **ongoing easy-access rates**, limited-withdrawal pots, fixed terms or Cash ISAs after any intro offer ends: **Monzo** (or both).\n- A common setup is salary and budgeting in Monzo, with everyday category spend and a chunk of savings in Chase while the boost and cashback conditions suit you — then reassess when the 12-month boost ends.\n\nCheck current rates and terms in both apps before moving money; variable rates and cashback rules can change with notice.",
+ "citations": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/chase-saver-with-boosted-rate-five-terms-and-conditions/",
+   "title": "https://www.chase.co.uk/gb/en/legal/chase-saver-with-boosted-rate-five-terms-and-conditions/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://bankinggeek.com/en/chase-vs-monzo/",
+   "title": "https://bankinggeek.com/en/chase-vs-monzo/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/",
+   "title": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "title": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/?gad_source=1&gad_campaignid=11416259435",
+   "title": "https://www.chase.co.uk/gb/en/?gad_source=1&gad_campaignid=11416259435"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/why-mse-recommends-chase-over-monzo-for-cashback",
+   "title": "https://www.referralplug.co.uk/blog/why-mse-recommends-chase-over-monzo-for-cashback"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback",
+   "title": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-vs-chase",
+   "title": "https://coolcuration.com/monzo-vs-chase"
+  },
+  {
+   "url": "https://monzo.com/help/cashback/cashback-offers",
+   "title": "https://monzo.com/help/cashback/cashback-offers"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-billsback-review",
+   "title": "https://www.referralplug.co.uk/blog/monzo-billsback-review"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/boosted-saver/",
+   "title": "https://www.chase.co.uk/gb/en/boosted-saver/"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://smartmoneypeople.com/resources/article/monzo-vs-chase-which-is-better-in-the-battle-of-the-banks",
+   "title": "https://smartmoneypeople.com/resources/article/monzo-vs-chase-which-is-better-in-the-battle-of-the-banks"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/",
+   "title": "https://www.chase.co.uk/gb/en/"
+  },
+  {
+   "url": "https://www.mysidegig.co.uk/hacks/monzo-billsback",
+   "title": "https://www.mysidegig.co.uk/hacks/monzo-billsback"
+  },
+  {
+   "url": "https://cashcontrolly.com/uk/blog/monzo-starling-uk",
+   "title": "https://cashcontrolly.com/uk/blog/monzo-starling-uk"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-chase",
+   "title": "https://www.referralplug.co.uk/blog/monzo-vs-chase"
+  },
+  {
+   "url": "https://www.moneyhq.uk/savings/chase-saver-easy-access",
+   "title": "https://www.moneyhq.uk/savings/chase-saver-easy-access"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/monzo-vs-chase",
+   "title": "https://bankadvisor.co.uk/monzo-vs-chase"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-chase/",
+   "title": "https://bankinggeek.com/en/monzo-vs-chase/"
+  },
+  {
+   "url": "https://www.ibusinesstalk.co.uk/monzo-vs-chase/",
+   "title": "https://www.ibusinesstalk.co.uk/monzo-vs-chase/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/instant-access-savings",
+   "title": "https://depositscout.com/banks/monzo/instant-access-savings"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/chase-vs-monzo",
+   "title": "https://www.finder.com/uk/current-accounts/chase-vs-monzo"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-started/help-winter-cashback",
+   "title": "https://monzo.com/ie/help/getting-started/help-winter-cashback"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "title": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in"
+  },
+  {
+   "url": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/",
+   "title": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase",
+   "title": "https://depositscout.com/banks/chase"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp",
+   "title": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://tryabel.com/chase-vs-monzo/",
+   "title": "https://tryabel.com/chase-vs-monzo/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-boosted-rate-offers/",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-boosted-rate-offers/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "https://tryabel.com/monzo-paid-plans-worth-it/"
+  },
+  {
+   "url": "https://monzo.com/legal/billsback/terms-and-conditions",
+   "title": "https://monzo.com/legal/billsback/terms-and-conditions"
+  },
+  {
+   "url": "https://monzo.com/features/cashback",
+   "title": "https://monzo.com/features/cashback"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://monzo.com/help/cashback/what-is-cashback",
+   "title": "https://monzo.com/help/cashback/what-is-cashback"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted-1/",
+   "title": "https://www.chase.co.uk/gb/en/saver-boosted-1/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/opening-a-saver-account/",
+   "title": "https://www.chase.co.uk/gb/en/support/opening-a-saver-account/"
+  },
+  {
+   "url": "http://chase.co.uk/gb/en/saver-boosted-1/",
+   "title": "http://chase.co.uk/gb/en/saver-boosted-1/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/download-affiliates/",
+   "title": "https://www.chase.co.uk/gb/en/download-affiliates/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-extra/what-is-billsback",
+   "title": "https://monzo.com/help/monzo-extra/what-is-billsback"
+  },
+  {
+   "url": "https://hellobonus.co.uk/",
+   "title": "https://hellobonus.co.uk/"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access",
+   "title": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "title": "https://monzo.com/savings-isas/savings"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  }
+ ],
+ "search_queries": [
+  "Chase UK vs Monzo cashback savings comparison 2024 2025",
+  "Chase UK cashback rate savings interest current",
+  "Monzo cashback savings interest rate UK current",
+  "Monzo cashback offers Billsback how it works 2026",
+  "Chase UK boosted saver eligibility new customers 31 days site:chase.co.uk"
+ ],
+ "latency_s": 41.75,
+ "asked_at": "2026-11-21T17:20:45.076368+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,45 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "S1",
+ "run": 2,
+ "text": "There are two ways to do it, depending on whether you want to keep your old account open.\n\n## Option 1: Full switch with the Current Account Switch Service (CASS)\nThis is the easiest route. Monzo moves your money and payments (like Direct Debits and standing orders) and closes your old account for you. They also tell your employer to move your salary to Monzo.\n\n**Steps**\n1. Open a Monzo account and upgrade it if needed. Once the account is open, tap the '+' sign in the app and find 'Switch to Monzo'. The menu location has varied over time, so look around the app if you don't see it there.\n2. Have your details ready. You'll need the account number, sort code and bank card for the bank you're leaving.\n3. Check your address. Your old bank needs to have the same address details for you as Monzo does.\n4. Choose a switch date. The switch takes 7 working days, or you can pick a later date.\n\n**Protections**\n- Payments sent to your old account are automatically forwarded to your Monzo account.\n- The switch is covered by the CASS Guarantee, which includes a refund of any interest or charges caused by the switch.\n\n**Limits**\n- If your old bank isn't signed up to CASS, you can't use the service. Most major UK banks are signed up.\n- Your old account will be closed.\n\n## Option 2: Keep your old account open\nCASS doesn't cover this. A CASS switch closes your old account too. You have two ways to do it:\n\n- **Move things manually.** Give your employer your Monzo account number, sort code and name. Then contact each Direct Debit provider, ideally by logging into your online account and changing your billing details. Monzo will then send you a new Direct Debit notification.\n- **Use a partial switch, if it's still offered.** Monzo's older materials described this as moving specific Direct Debits and standing orders without closing the account. A community post says it didn't come with a guarantee, and some merchants were slow to act, so payments could fail. That post is old, so check whether the option still appears in the app.\n\n## Tips\n- Make sure your old account has enough money in it until the switch completes.\n- Don't cancel any Direct Debits yourself before or during a CASS switch. The service handles them.\n- Your transaction history doesn't transfer, so download your old statements first.\n- Joint accounts can be switched too. Both people need the account number and sort code, plus the last 5 digits of each person's old bank card.\n\nMonzo's own page at monzo.com/switch has the latest details. Which bank are you switching from, and do you want to keep it open? I can tailor the steps if you tell me.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service",
+   "title": "Switch to Monzo and Help us Test the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/02/07/joint-account-switching",
+   "title": "You can now switch your joint accounts to Monzo!"
+  },
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "title": "Switch Your Business Bank Account to Monzo Business"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "title": "Here's how to switch to Monzo without closing your old bank account"
+  },
+  {
+   "url": "https://community.monzo.com/t/switching-to-monzo-and-direct-debits/79457",
+   "title": "Switching to Monzo and Direct Debits - Financial Chat - Monzo ..."
+  }
+ ],
+ "search_queries": [
+  "Monzo switch current account Current Account Switch Service direct debits"
+ ],
+ "latency_s": 10.13,
+ "asked_at": "2026-11-21T16:51:36.749292+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

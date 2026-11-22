@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D2",
+ "run": 1,
+ "text": "There isn't one best app bank in the UK. It depends on what you use a bank for. The main choices are Monzo, Starling, Revolut and Chase.\n\n**Monzo: best for most people**\n- One roundup picks it as the best overall free account, with a strong budgeting app, the Mastercard exchange rate with no markup, and overdrafts, loans and a credit card all available.\n- It's also the one to pick if your friends use it, because bill-splitting works best when everyone is on the same app.\n- Cash deposits are possible but cost £1.\n\n**Starling: best as a full replacement for a high-street bank**\n- It's described as the best fee-free bank replacement, and the only one of the four that lets you pay in cash and cheques at the Post Office.\n- It has a £1,000 fee-free annual cash deposit limit, with a 0.7% charge after that.\n- It's a good fit if you're self-employed or handle cash. One comparison also lists 24/7 phone, chat and email support for Starling business accounts.\n\n**Revolut: best for travel and foreign currency**\n- It's best for spending and holding money abroad.\n- Phone support is mostly behind paid plans. On the free plan you're largely sent to in-app chat.\n- Check its deposit protection before putting a lot of money in it. Sources conflict on this. One says it has been a UK-licensed bank with £120,000 FSCS protection since March 2026. Another comparison lists it as not FSCS-protected. Confirm this on Revolut's own site.\n\n**Chase: best for savings and cashback**\n- It's best for an easy-access saver with occasional cashback.\n- It doesn't accept cash deposits.\n\n**How to choose**\n- If you want an everyday account with good budgeting, go with Monzo.\n- If you deal with cash or cheques, or want a single account to replace your old bank, go with Starling.\n- If you travel a lot or hold other currencies, add Revolut.\n- If you want a savings top-up, add Chase.\n\n**Before you switch**\n- Use the Current Account Switch Service (CASS) if you want your direct debits and salary moved automatically. Monzo and Starling both support it.\n- Savings rates and sign-up bonuses change often. Check the current ones before you pick.\n- It's common to keep two of these. For example, use Monzo or Starling as your main account and Revolut for travel.\n\nI can narrow this down if you tell me how you'd use the account. Useful details are whether it's for salary, travel, savings or business, and whether you handle cash.",
+ "citations": [
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://finance.yahoo.com/markets/currencies/articles/revolut-vs-monzo-vs-starling-130000407.html",
+   "title": "Revolut vs Monzo vs Starling vs Chase: which is the best online bank?"
+  },
+  {
+   "url": "https://anna.money/blog/guides/starling-vs-monzo-vs-revolut-business-account/",
+   "title": "Starling vs Monzo vs Revolut Business Account: 2026 Comparison"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/compare-digital-banks-uk-2026",
+   "title": "Compare Digital Banks UK 2026"
+  }
+ ],
+ "search_queries": [
+  "best app-based bank UK 2026 Monzo Starling Revolut comparison"
+ ],
+ "latency_s": 11.14,
+ "asked_at": "2026-11-21T16:44:11.977837+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,94 @@
+{
+ "engine": "gemini",
+ "question_id": "D3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is widely considered the gold standard for UK budgeting."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for a simple, completely free experience"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for cashback and multiple real account numbers"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "FSCS Protection: Yes (up to £85,00",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Answer gives a limit of £85,000 (truncated), but the fact says FSCS protection is up to £120,000 per person."
+   },
+   {
+    "text": "Monzo Pots can be used with Bill Pots, Salary Sorter, round-ups with multipliers on paid tiers, and locked dates",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "You can open Easy Access or Fixed Savings Pots inside the app, which earn competitive rates",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the 2.80% AER Instant Access rate, not a competitive characterisation or Fixed Savings."
+   }
+  ]
+ },
+ "judge_error": null
+}

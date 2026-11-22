@@ -1,0 +1,23 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "D3",
+ "run": 1,
+ "text": "For pure budgeting features and granular saving pots, Monzo is the top overall choice in the UK, followed closely by Starling Bank for everyday simplicity and Chase UK if you want higher interest rates and cashback alongside your pots.   \nera.app\n\nBank\tPot Name\tKey Budgeting & Pot Features\tInterest & Perks\tBest For\nMonzo\tPots\t\n\n• Pay direct debits & standing orders directly from a dedicated Bills Pot.\n\n\n\n\n• Salary Sorter automatically splits payday funds into pots.\n\n\n\n\n• Virtual cards linked to specific pots (on paid plans from £3/mo).\n\n\t\n\n• Up to 3.45%–3.65% AER on instant/limited-access pots (varies by tier).\n\n\n\n\n• Round-ups with optional 2x/5x/10x multipliers (paid plans).\n\n\tGranular automation and ring-fencing bills so you never accidentally spend rent money.\nStarling Bank\tSpaces\t\n\n• Pay bills directly from a Space using a dedicated virtual card (free).\n\n\n\n\n• Round-ups into a chosen Space.\n\n\n\n\n• Clean spending categorization without upsells.\n\n\t\n\n• No paid tiers—all budgeting and virtual card features are free.\n\n\n\n\n• Fee-free spending abroad.\n\n\tZero-fee simplicity and free virtual cards tied to specific budgets (e.g., groceries or travel).\nChase UK\tSaver & Spending Accounts\t\n\n• Open multiple separate current accounts (up to 20) with their own account numbers and toggle your debit card between them.\n\n\n\n\n• Round-ups go into a dedicated 5% AER account.\n\n\t\n\n• 4.75% AER boosted saver rate.\n\n\n\n\n• 1%–2% cashback on everyday debit card spending.\n\n\tMaximising returns—earning high interest and cashback while keeping spending separated.\nRevolut\tPockets\t\n\n• Auto-sort salary into Pockets.\n\n\n\n\n• Link external UK bank accounts to view all spending in one place (free).\n\n\t\n\n• ~3.15% AER on standard savings.\n\n\n\n\n• Strong multi-currency tools and bill splitting.\n\n\tMulti-bank tracking and frequent travellers.\nWhich one should you pick?\n\nChoose Monzo if you want the most comprehensive budgeting ecosystem. Its Salary Sorter and Bills Pots make zero-based budgeting effortless, though features like custom categories, external bank syncing, and virtual cards require Monzo Extra (£3/month).   \nMoney To The Masses\n\nChoose Starling if you refuse to pay a monthly fee. You get free virtual cards linked to specific Spaces (great for capping takeaway or shopping budgets) and full FSCS protection without constant prompts to upgrade.\n\nChoose Chase if you care more about interest and cashback than deep spending analytics. Because each pot is technically its own current account with a sort code and account number, you can set up direct debits from individual pots while earning higher interest on your savings.\n\n(Note: Monzo, Starling, and Chase are all fully licensed UK banks with £85,000 FSCS deposit protection; Revolut operates under specific UK banking/e-money transitional rules depending on account migration.)",
+ "citations": [
+  {
+   "url": "https://era.app/en-GB/articles/best-budgeting-apps-uk/",
+   "title": "era.app Best budgeting apps in the UK (2026) — Era “Pots let you set money aside for goals, and the spending summaries show where the month went. Paid plans add"
+  },
+  {
+   "url": "https://moneytothemasses.com/quick-savings/tips/the-best-budgeting-apps-in-the-uk-how-to-budget-without-trying",
+   "title": "Money To The Masses The best budgeting apps in the UK for 2026 - Money To The Masses “Can link bank accounts to see an overview of all your accounts in one plac"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 26.08,
+ "asked_at": "2026-11-21T13:30:38.922848+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

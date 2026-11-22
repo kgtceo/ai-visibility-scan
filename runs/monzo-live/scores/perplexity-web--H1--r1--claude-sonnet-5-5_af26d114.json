@@ -1,0 +1,201 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel Are Monzo's Paid Plans Worth It? Extra, Perks, Max Monzo plans cost £3, £9 or £19 a month. Perks needs £21,600 in savings to pay for itself on interest"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel Monzo Review: Is It Worth Making Monzo Your Main Bank? An honest Monzo review for 2026: current account, savings Pots, budgeting tools, the paid plans a"
+  },
+  {
+   "url": "https://www.thepennypincher.co.uk/post/post-monzo-review",
+   "domain": "thepennypincher.co.uk",
+   "source_type": "other",
+   "title": "thepennypincher.co Monzo Review 2026: A Really Useful Free Money Management App Monzo has become a really useful free money management app. Here's how I use it"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=3KjQEZGdPM8&pp=ugUHEgVlbi1HQg==",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube I Tested Every Monzo Card in the UK... Here's What I Found Is Monzo actually the best card to travel with, or just the one everyone happens to own? I pu"
+  },
+  {
+   "url": "https://ecommerce-platforms.com/banking/monzo-review",
+   "domain": "ecommerce-platforms.com",
+   "source_type": "other",
+   "title": "ecommerce-platforms Monzo Review: Does This Digital Bank Live Up to The Hype? If you're looking for an in-depth Monzo review you're in the right place. Click he"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes Monzo UK Bank Review: Pros & Cons Monzo is an app-based bank with a wide range of money management features on offer. We’ve rounded up what you need to k"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co Monzo changes its paid accounts - are the perks worth paying for? - Which? New perks include a Greggs weekly treat and a railcard"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=9VgIQu7oQ0c",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube Monzo Review 2026: Is it Worth it in 2026? Our comprehensive review of Monzo in 2026 - it's key features, the pros and cons, the plans and more! 🤑 Free"
+  },
+  {
+   "url": "https://www.unbiased.co.uk/discover/personal-finance/savings-investing/monzo-vs-revolut-which-is-best-for-you",
+   "domain": "unbiased.co.uk",
+   "source_type": "review_comparison",
+   "title": "unbiased Monzo vs Revolut: which is best for you? Discover the significant differences between Monzo and Revolut and find out which digital bank suits your fina"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For most UK users, the free Monzo account is already strong; Extra is the easiest small upgrade"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free plan includes 2.80% AER instant-access savings",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan rate."
+   },
+   {
+    "text": "Extra costs £3 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks costs £9 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Max is from £19 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "The free account includes FSCS protection for eligible deposits up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Perks includes a £600 monthly overseas ATM allowance",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only the free plan's withdrawal limits."
+   },
+   {
+    "text": "Extra gives 3.15% AER, Perks 3.55% AER and Max 3.80% AER instant-access savings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give the free plan rate."
+   },
+   {
+    "text": "Max family cover costs an extra £4",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo values Perks' partner benefits at over £300 a year",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Perks includes Railcard, Greggs, Vue, Uber One and YouTube Premium Lite",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Max includes worldwide travel insurance, phone insurance and UK/Europe breakdown cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's savings rates are variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Fact describes the rate as variable."
+   }
+  ]
+ },
+ "judge_error": null
+}

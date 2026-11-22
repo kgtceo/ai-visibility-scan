@@ -1,0 +1,129 @@
+{
+ "engine": "claude",
+ "question_id": "T2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Are My UK Savings Safe?"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services Compensation Scheme Information Sheet Version 2.0"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Are investment accounts protected?"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a real, fully licensed UK bank. It isn't just an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a real, fully licensed UK bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with UK authorisation by PRA and FCA regulation."
+   },
+   {
+    "text": "It's authorised by the Prudential Regulation Authority and regulated by the FCA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo has full FSCS protection; the FSCS cover is £120,000 per person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo doesn't share its licence with any other institution.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers licence sharing."
+   },
+   {
+    "text": "Money in Monzo investment accounts doesn't count towards the £120,000 deposit limit and has a separate protection limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has no physical branches; you can pay in cash at the Post Office or PayPoint.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "With a joint account, each holder is entitled to their own £120,000 protection.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only state per person limit."
+   }
+  ]
+ },
+ "judge_error": null
+}

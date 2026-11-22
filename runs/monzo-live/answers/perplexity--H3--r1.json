@@ -1,0 +1,79 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H3",
+ "run": 1,
+ "text": "Monzo’s rate depends on the type of savings pot and your plan. The rates shown on Monzo’s current pages are:\n\n- **Instant Access:** 2.80% AER on the free plan; 3.15% with Extra; 3.55% with Perks, Plus or Premium; and 3.80% with Max or Max Family. Variable, with instant withdrawals.\n- **Select Access:** 3.45% AER on a free plan, or 3.70% on eligible paid plans, provided you make no more than two withdrawals a year from that pot. More withdrawals reduce the rate temporarily.\n- **Fixed Rate:** up to 5.25% AER fixed for three years; other terms are available. £500 minimum, and access is restricted until maturity.\n\nRates can change, so check the rate shown in the Monzo app before opening a pot. Paid-plan rates may not be worth the subscription cost unless you also value the plan’s other benefits.\n\n[Monzo savings rates](https://monzo.com/savings-isas/savings) · [Monzo’s rate details](https://monzo.com/help/monzo-plus/paid-interest)",
+ "citations": [
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "title": "Compare Cash ISAs: Instant & Select Access | Monzo"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access-cash-isa",
+   "title": "Monzo Select Access Cash ISA"
+  },
+  {
+   "url": "https://monzo.com/?msclkid=88f6814e89e91c803058eb18c446d1ca",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "Instant Access Savings Account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-tomorrow/types-of-savings-accounts",
+   "title": "The Different Types of Savings Accounts: A Guide"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-3-years",
+   "title": "Monzo 3 Year Fixed Rate Savings Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-1-year",
+   "title": "Monzo 1 Year Fixed Rate Savings Review: 4.50% AER (Nov 2026)"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "title": "Best savings accounts 2026 - Which?"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-cash-isa-3-years",
+   "title": "Monzo 3 Year Fixed Rate Cash ISA Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "Monzo Review 2026"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK savings interest rates November 2026",
+  "Monzo savings rates easy access fixed term UK"
+ ],
+ "latency_s": 4.46,
+ "asked_at": "2026-11-21T17:42:46.802336+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

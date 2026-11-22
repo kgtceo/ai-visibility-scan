@@ -1,0 +1,444 @@
+{
+ "engine": "grok",
+ "question_id": "D1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://bankinggeek.com/en/best-bank-account-uk/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/best-bank-account-uk/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/best-banks"
+  },
+  {
+   "url": "https://iceburgwealth.com/digital-bank-uk/",
+   "domain": "iceburgwealth.com",
+   "source_type": "other",
+   "title": "https://iceburgwealth.com/digital-bank-uk/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC"
+  },
+  {
+   "url": "https://selectra.co.uk/money",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money"
+  },
+  {
+   "url": "https://www.finder.com/uk/better-current-accounts-m",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/better-current-accounts-m"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/"
+  },
+  {
+   "url": "https://static.chase.co.uk/documents/assets/gb/en/chase-20-amazon-gift-card-offer-1.0.0.pdf",
+   "domain": "static.chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://static.chase.co.uk/documents/assets/gb/en/chase-20-amazon-gift-card-offer-1.0.0.pdf"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/best-current-accounts-for-cashback",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/saving-for-your-future/best-current-accounts-for-cashback"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2024/nov/23/packaged-uk-current-accounts-banks-extras",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "https://www.theguardian.com/money/2024/nov/23/packaged-uk-current-accounts-banks-extras"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/banking/digital-banking/"
+  },
+  {
+   "url": "https://cashcontrolly.com/uk/blog/monzo-starling-uk",
+   "domain": "cashcontrolly.com",
+   "source_type": "other",
+   "title": "https://cashcontrolly.com/uk/blog/monzo-starling-uk"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-2023-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-2023-an4Fn8G6BTFK"
+  },
+  {
+   "url": "https://bankinggeek.com/en/best-current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/best-current-account/"
+  },
+  {
+   "url": "https://depositscout.com/guides/best-packaged-bank-accounts-in-the-uk",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/guides/best-packaged-bank-accounts-in-the-uk"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/choosing-a-current-account"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/chase"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/best-current-account-switch-monzo-first-direct-b2869030.html",
+   "domain": "independent.co.uk",
+   "source_type": "news",
+   "title": "https://www.independent.co.uk/money/best-current-account-switch-monzo-first-direct-b2869030.html"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872",
+   "domain": "dailyrecord.co.uk",
+   "source_type": "other",
+   "title": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872"
+  },
+  {
+   "url": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/",
+   "domain": "rottenwifi.com",
+   "source_type": "other",
+   "title": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/best-uk-current-accounts"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/chase",
+   "domain": "getquids.co.uk",
+   "source_type": "other",
+   "title": "https://getquids.co.uk/en/reviews/chase"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/best-packaged-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/banking/best-packaged-bank-accounts/"
+  },
+  {
+   "url": "https://stablecoininsider.org/tsb-vs-santander/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/tsb-vs-santander/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-basic-bank-accounts-anmbn1G3u081",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-basic-bank-accounts-anmbn1G3u081"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "domain": "insighthq.uk",
+   "source_type": "other",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/monzo-vs-starling",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "https://bankadvisor.co.uk/monzo-vs-starling"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-starling/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/bank-accounts/best-and-worst-uk-banks-for-online-banking",
+   "domain": "moneyweek.com",
+   "source_type": "other",
+   "title": "https://moneyweek.com/personal-finance/bank-accounts/best-and-worst-uk-banks-for-online-banking"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html",
+   "domain": "independent.co.uk",
+   "source_type": "news",
+   "title": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account/"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://www.nationalworld.com/money/which-recommended-current-account-providers-named-5409765",
+   "domain": "nationalworld.com",
+   "source_type": "other",
+   "title": "https://www.nationalworld.com/money/which-recommended-current-account-providers-named-5409765"
+  },
+  {
+   "url": "https://bankinggeek.com/en/chase-vs-monzo/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/chase-vs-monzo/"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "domain": "gilt-edge.uk",
+   "source_type": "other",
+   "title": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in"
+  },
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.itechguides.com/compare/starling-bank-vs-monzo/",
+   "domain": "itechguides.com",
+   "source_type": "other",
+   "title": "https://www.itechguides.com/compare/starling-bank-vs-monzo/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-an4Fn8G6BTFK"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best for budgeting and tracking spending: Monzo ... widely regarded as the strongest for hands-on control of day-to-day money."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best simple all-rounder: Starling ... frequently the top choice for a clean, reliable everyday account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best for rewards on everyday spending: Chase ... stands out if you want money back on normal spending."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "neutral",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide or First Direct if you want branch access or phone support. Both are Which? Recommended Providers."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The free account includes real-time spending notifications, automatic categories, Pots, salary sorting, round-ups, and bill tools.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by facts."
+   },
+   {
+    "text": "Monzo offers an overdraft (rates vary by credit score).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No overdraft fact."
+   },
+   {
+    "text": "Monzo offers fee-free card spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "ATM limits apply on the free plan; higher limits on paid plans.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free plan has withdrawal allowances; paid-plan limits not covered but consistent."
+   },
+   {
+    "text": "Monzo consistently ranks at or near the top in customer service surveys.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Only NPS fact exists."
+   },
+   {
+    "text": "Monzo is a Which? Recommended Provider.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "MoneySavingExpert calls Monzo the top pick for hands-on budgeting.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "All the major options above are fully authorised UK banks with FSCS protection (up to £120,000 per person per authorised firm).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Applies to Monzo."
+   }
+  ]
+ },
+ "judge_error": null
+}

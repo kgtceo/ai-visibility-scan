@@ -1,0 +1,111 @@
+{
+ "engine": "chatgpt",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Get Paid Early | Payday, the Monzo Way"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - How a full switch works"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo’s free UK personal current account can be your main account for both salary and bills."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's free UK personal current account can be your main account for salary and bills.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover use as a main account."
+   },
+   {
+    "text": "No paid plan is needed.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts list paid plans but do not say whether they are needed for main-account use."
+   },
+   {
+    "text": "You can pay bills by Direct Debit and set up standing orders for fixed payments such as rent.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Monzo's free Current Account Switch Service moves your balance, Direct Debits and standing orders, redirects incoming payments, and closes your old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Switching service is not covered by the facts."
+   },
+   {
+    "text": "The full switch takes seven working days.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Switch timing is not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

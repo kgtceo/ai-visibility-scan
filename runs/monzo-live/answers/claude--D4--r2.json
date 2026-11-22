@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D4",
+ "run": 2,
+ "text": "**Starling** is the best all-rounder for a UK debit card with no fees abroad. Check the current terms before you travel, because they change.\n\n**Debit cards**\n- **Starling:** Its debit card is fee-free for all purchases and cash withdrawals, unlike rival Monzo. Which? ranked Starling and First Direct top, with customer scores of 86% and 84%. It uses the Mastercard exchange rate. There's a daily ATM limit of about £300 but no monthly cap.\n- **First Direct:** It scrapped foreign transaction fees in June 2023. There are no fees for cash withdrawals outside the UK with the 1st Account. It's a good choice if you'd rather use a high-street bank.\n- **Chase UK:** It allows spending abroad with no foreign transaction fees and uses Mastercard's exchange rate with no mark-up. Cash withdrawals abroad are fee-free, up to set limits.\n- **Monzo:** Spending is fee-free, but cash withdrawals are fee-free in the EEA and up to £200 a month elsewhere (if you use Monzo as your main bank account). That makes it a bit weaker if you need cash.\n- **Revolut and Wise:** Both have free allowances, but Revolut's free plan allows £200 a month in ATM withdrawals with a 2% fee above that. Wise allows 2 withdrawals up to £200 a month. Spending is fine on both.\n\n**Other options**\n- **Trading 212 debit card:** It gives fee-free spending and ATM withdrawals overseas at the interbank rate. You first need to open its free Invest account, but you don't have to invest.\n- **Fee-free travel credit cards**, such as Halifax Clarity: Overseas spending is fee-free and interest-free if you repay in full each month. ATM withdrawals are fee-free but interest builds daily, so keep them to a minimum. A credit card also gives you stronger Section 75 protection if a purchase goes wrong.\n\n**Practical tips**\n- If a terminal offers to charge you in pounds instead of the local currency, decline. That is dynamic currency conversion, and it usually gives a worse rate.\n- Take a backup card from a second provider in case one is lost or blocked.\n- Use a debit card like Starling for cash, and a fee-free credit card for larger purchases.\n\nIf you tell me whether you mainly need cash or card spending, and where you're going, I can narrow it down.",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "Best debit cards to use abroad 2026 - Banking - Which.co.uk"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/travel-money/article/cheapest-way-to-spend-money-abroad-ag5Ir4c6j52o",
+   "title": "The cheapest way to spend money abroad - Which.co.uk"
+  },
+  {
+   "url": "https://www.yourmoney.com/household-bills/best-and-worst-travel-cards-for-summer-2026/",
+   "title": "Best and worst travel cards for summer 2026"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/debit-cards-low-foreign-transaction-fees",
+   "title": "Best UK debit cards with no foreign transaction fees"
+  },
+  {
+   "url": "https://www.yonder.com/blog/the-authoritative-guide-to-the-best-uk-debit-card-with-no-foreign-transaction-fees",
+   "title": "The authoritative guide to the Best UK Debit Card with no foreign ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "title": "Best Travel Credit & Debit Cards 2026 - Fees & Top Picks"
+  }
+ ],
+ "search_queries": [
+  "best travel debit card no foreign transaction fees UK 2026"
+ ],
+ "latency_s": 9.58,
+ "asked_at": "2026-11-21T16:45:00.784972+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

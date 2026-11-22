@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "T3",
+ "run": 1,
+ "text": "The complaints tend to cluster around a few things:\n\n- **Accounts or payments being frozen or reviewed.** Banks have to monitor for fraud and money laundering, but customers can be frustrated when legitimate money is held and they can’t get a clear explanation or timeline.\n- **Hard-to-reach support.** Because Monzo is app-first and has no branches, people can feel stuck in chat—especially when an urgent payment, account restriction or card issue needs sorting out.\n- **Fraud and scam decisions.** Some customers disagree with Monzo’s decision not to refund a scam or unauthorised payment. Ombudsman decisions show these disputes do reach independent review; one recent report found the Ombudsman disagreed with Monzo in about 34% of the fraud cases it decided in 2025. That figure applies to cases escalated to and decided by the Ombudsman, not to all Monzo customers or all claims.\n- **Refunds and disputes taking a long time.** Card-payment disputes can depend on evidence and the merchant’s response, and customers may find the process slow or unclear.\n- **App-only limitations and glitches.** Login problems, outages or a feature not working can be more disruptive when the app is also the main way to access the account and contact support.\n\nThere’s an important caveat: complaint sites and review pages over-represent people having a bad experience. Monzo’s own published complaints data for the six months to 31 March 2026 lists “product performance / features” as the main cause in its banking-and-credit-card category, and says about 24% of those complaints were upheld. That’s useful context, but it doesn’t tell you how likely an individual customer is to have a problem.\n\nIn short: people often like Monzo when everything works, but the digital-first model can feel unforgiving when money is held, a dispute drags on, or the app is the thing that’s gone wrong.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web",
+   "title": "Monzo Help - Making a complaint"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?BusinessName=Monzo&Business=Monzo&DateFrom=&DateTo=&Sort=relevance&SecurityID=11c74a4152b6f48e721e6dc621ed7615fe0a8059&Captcha=&Captcha_Timestamp=1642107624&Start=90",
+   "title": "Ombudsman decisions – Financial Ombudsman service"
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/www.monzo.com",
+   "title": "Monzo Reviews"
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/web.monzo.com",
+   "title": "uk.trustpilot.com · review · webWeb Monzo Reviews | Read Customer Service Reviews of web ..."
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?id=001b000002syvKiAAI",
+   "title": "MONZO BANK LIMITED"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://community.monzo.com/c/uk/customersupport/bugreports/38",
+   "title": "Bug Reports"
+  },
+  {
+   "url": "https://monzo.com/legal/complaints-data",
+   "title": "Complaints Data"
+  },
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/monzo/",
+   "title": "How to Complain About Monzo | Consumer Rights"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5381466.pdf",
+   "title": "Decision Reference DRN-5381466"
+  },
+  {
+   "url": "https://monzo.com/information-about-current-account-services",
+   "title": "Information about our Personal Current Account Services"
+  },
+  {
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/monzo-wrongly-rejected-refund-complaints-of-fraud-and-scam-victims",
+   "title": "Monzo wrongly rejected refund complaints of fraud and scam victims"
+  },
+  {
+   "url": "https://monzo.com/legal/privacy-notice/version-1-3",
+   "title": "Privacy Notice - Monzo"
+  },
+  {
+   "url": "https://monzo.com/static/docs/monzo-terms-and-conditions-1.7.pdf",
+   "title": "Monzo Terms and Conditions"
+  },
+  {
+   "url": "https://community.monzo.com/c/uk/customersupport/10?page=16",
+   "title": "Help - Monzo Community"
+  }
+ ],
+ "search_queries": [
+  "Monzo customer complaints common issues UK 2025 2026",
+  "Monzo complaints Financial Ombudsman Service UK",
+  "Monzo Trustpilot reviews complaints account frozen customer service UK"
+ ],
+ "latency_s": 7.34,
+ "asked_at": "2026-11-21T17:43:33.321872+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

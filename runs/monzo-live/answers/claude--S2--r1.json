@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "S2",
+ "run": 1,
+ "text": "Yes, you can. Monzo is a fully authorised UK bank, and plenty of people use it as their main account.\n\n**What works**\n- Monzo offers the usual current account services: receiving your salary, setting up direct debits and standing orders, withdrawing cash with a contactless Mastercard, and transferring money.\n- **Safety:** It's authorised by the PRA and regulated by the PRA and FCA, like Barclays, HSBC and NatWest. Eligible deposits are protected by the FSCS up to £120,000 (£240,000 on a joint account). That limit is per person per bank. It covers your current account, pots, savings pots and Cash ISA together.\n- **Bills:** You can pay direct debits and standing orders straight from a Regular pot. This is handy for keeping bill money separate. Scheduled standing orders and direct debits carry no charge.\n- **Switching:** You can use the Current Account Switch Service to close your main current account and move everything over. Monzo moves your money, direct debits and standing orders, redirects incoming payments including your salary, and closes your old account.\n\n**Things to check**\n- **Cash withdrawals:** Fee-free withdrawals in the UK and EEA with no limit depend on Monzo's \"Fee Criteria\". Broadly, that means at least £500 paid in over a rolling 35-day period plus an active direct debit. A normal salary and bills setup should meet this.\n- **Paying cash in:** I didn't check this in the results. Monzo is app-based with no branches, so confirm how you'd deposit cash or cheques if you need to.\n- **Receiving direct debits:** Monzo's terms say it supports making direct debit payments, not receiving them. This only matters if you collect direct debits as a business or landlord. Those terms are an older version, so check the current ones.\n- **Backup:** Keep a second account or card from another provider. Digital-only banks do have occasional app outages, and you'd want a fallback.\n- **Paid tiers:** The free account covers the basics. Extra, Perks and Max are optional paid plans, so you don't need them for salary and bills.\n\nIf you want a smooth move, switch with CASS rather than changing everything by hand. Then keep your old account open for a few weeks to catch any stray payments.",
+ "citations": [
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "title": "Monzo review 2026: Should you make the switch? - Money To The Masses"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "title": "Monzo Savings Pots Explained: Rates and FSCS 2026"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-current-account-review/",
+   "title": "Monzo Current Account Review 2026 -- Fees, Features and Verdict"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "title": "Double Payday"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.2.pdf",
+   "title": "Monzo current account terms and conditions v2.2"
+  }
+ ],
+ "search_queries": [
+  "Monzo main account salary direct debits FSCS 2026"
+ ],
+ "latency_s": 9.07,
+ "asked_at": "2026-11-21T16:51:45.834671+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

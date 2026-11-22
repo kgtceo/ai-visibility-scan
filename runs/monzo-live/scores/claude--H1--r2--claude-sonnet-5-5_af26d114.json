@@ -1,0 +1,153 @@
+{
+ "engine": "claude",
+ "question_id": "H1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Are Monzo's Paid Plans Worth It? Extra, Perks, Max"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-scaps-plus-and-premium-heres-what-its-offering-instead/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "Monzo replaces Plus and Premium: here's what it's offering instead ..."
+  },
+  {
+   "url": "https://www.ladbible.com/money/monzo-max-cost-benefits-list-668215-20260817",
+   "domain": "ladbible.com",
+   "source_type": "other",
+   "title": "Monzo Max £19-a-month cost explained as full list of benefits ..."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Is Monzo Max worth it? £19/month, Max vs Perks vs Extra (2026)"
+  },
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/",
+   "domain": "moneysavinganswers.com",
+   "source_type": "other",
+   "title": "Is Monzo Max worth it? What about Extra, and Monzo Perks?"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "negative",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "For most people, the free account or Perks is enough."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Extra is £3 a month, Perks is £9 and Max is £19.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches the listed plan prices (Max is 'from £19')."
+   },
+   {
+    "text": "Perks went up from £7 and Max from £17. Extra didn't change.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover previous prices."
+   },
+   {
+    "text": "Max has a 3-month minimum and is for ages 18-69.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Perks includes an annual Railcard, Uber One, a weekly Greggs treat and a monthly Vue cinema ticket.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Perk contents are not in the facts."
+   },
+   {
+    "text": "Monzo says the partner perks are worth over £300 a year.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Max has a 0.75-point savings rate uplift.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give the free plan rate of 2.80%."
+   },
+   {
+    "text": "Max buys worldwide multi-trip travel insurance, phone insurance and RAC cover.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Adding family costs an extra £4 a month.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "The free account gives you spending categories, pots and basic roundups.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

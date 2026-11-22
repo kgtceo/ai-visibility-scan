@@ -1,0 +1,173 @@
+{
+ "engine": "perplexity",
+ "question_id": "D2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best bank account switching deals November 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/switch?cmpid=ppc_p/1_s/1_id/3a1v7qnn5_psid/71700000106825312_st/nationwide-switch",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "£175 when you switch to Nationwide"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/products/bank-accounts/switch-offer/",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Bank Switch Offer - Get up to £200 when you switch to us"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/pdfs/bank/currentaccounts/switching/switch-offer-terms-and-conditions-nov-26.pdf",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "Microsoft Word - November 2026 £200 switch incentive terms and conditions FINAL.docx"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts/switch-and-save.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Switch and save"
+  },
+  {
+   "url": "https://www.walesonline.co.uk/news/cost-of-living/natwest-lloyds-bank-customers-could-34930359.amp",
+   "domain": "walesonline.co.uk",
+   "source_type": "other",
+   "title": "NatWest and Lloyds Bank customers could claim £400 before Christmas with simple ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/?referrer=gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlDq57X_j_WDQGijCGnAWmdLtEdr-v0w6nC8mA4Ws1WsFl84p_bBBREaAstDEALw_wcB&gref=EkUKPQoJCPC8kcgGEKABEiwARCdaUOrntf-P9YNAaKMIacBaZ0u0R2v6_TDqcLyYDhazVawWXzin9sEFERoCy0MQAvD_BwEYl8CPmAM",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current accounts"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872.amp",
+   "domain": "dailyrecord.co.uk",
+   "source_type": "other",
+   "title": "Four banks offering up to £265 free cash to people opening or switching accounts"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/banking/co-op-launches-new-switching-deal-before-christmas/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "The Co-op Bank Launches New £200 Switching Deal Ahead of Christmas"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/fscs-protection/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FSCS Protection"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/the-most-popular-bank-to-switch-to-and-what-to-know-before-moving-anjVc9B4tVuC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "The most popular bank to switch to – and what to know before ..."
+  },
+  {
+   "url": "https://www.somersetlive.co.uk/news/cost-of-living/lloyds-natwest-first-direct-customers-11243084",
+   "domain": "somersetlive.co.uk",
+   "source_type": "other",
+   "title": "NatWest, Lloyds, First Direct customers can get £200 before Xmas"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "Best Current Accounts in 2026, Compared - BankingGeek"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Choose Monzo instead if budgeting features, spending Pots and a polished money-management app matter most."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "My default recommendation is Starling if you want a straightforward, fee-free app bank for everyday use"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Choose Chase if you’ll make lots of eligible card purchases and value its cashback"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has budgeting features, spending Pots and a polished money-management app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

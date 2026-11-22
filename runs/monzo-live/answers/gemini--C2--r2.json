@@ -1,0 +1,26 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C2",
+ "run": 2,
+ "text": "Both **Monzo** and **Starling** are fully licensed UK banks protected by the Financial Services Compensation Scheme (FSCS up to £85,000), and both consistently outrank traditional high-street banks for customer satisfaction. \n\nHowever, they cater to slightly different types of users:\n\n---\n\n### Key Comparison\n\n| Feature | **Starling Bank** | **Monzo** |\n| :--- | :--- | :--- |\n| **Philosophy** | A free, traditional bank rebuilt for smartphones (clean, straightforward, completely fee-free). | A feature-packed tech and budgeting app (vibrant, social, with paid tiers for extras). |\n| **Spending Abroad** | **Mastercard rate, 0% fees.** | **Mastercard rate, 0% fees.** |\n| **ATM Withdrawals Abroad** | **Unlimited fee-free withdrawals** anywhere worldwide (subject to daily £300 limit). | Fee-free in the EEA; **capped at £200/30 days** outside the EEA on the free tier (3% fee thereafter). |\n| **Cash Deposits** | **Free at the Post Office** up to £1,000 per calendar year (0.7% fee thereafter). | **£1 fee per deposit** at PayPoint or the Post Office (free tier). |\n| **Cheque Deposits** | In-app photo scanning up to £1,000; free post for larger amounts. | In-app photo scanning (or postal service). |\n| **Budgeting Tools** | \"Spaces\" (separate sub-accounts). You can assign virtual debit cards to Spaces for bills. | **Best-in-class.** \"Pots\", automated Salary Sorter, instant spend breakdown, round-ups. |\n| **Social / Peer Payments** | Standard bank transfers; \"Nearby Payments\" to other Starling users. | **Unmatched.** Instant payments to contacts, shared tabs, and automatic bill splitting. |\n| **Web / Desktop Access** | **Full web banking portal** on desktop. | Very limited emergency web access (primarily mobile app only). |\n| **Account Tiers** | Strictly free (all core features included with no upsells). | Free tier, plus paid tiers (**Extra**, **Perks**, **Max**) offering insurance, credit tracker, higher ATM limits, etc. |\n\n---\n\n### Where Starling Wins\n* **Travel outside Europe:** Starling does not limit how much cash you can withdraw fee-free from ATMs abroad (subject to their daily £300 limit), whereas Monzo’s free tier charges 3% once you exceed £200 per rolling month outside the EEA.\n* **Cash & Cheque Handling:** Starling lets you deposit up to £1,000 in cash each year at any Post Office branch without a fee. Monzo charges £1 for every cash deposit on its standard free account.\n* **Desktop Access:** If you prefer doing finances or checking statements on a laptop/computer screen rather than exclusively on your phone, Starling has a full desktop browser portal.\n* **No Paywalled Features:** Starling gives you all of its features—including virtual cards and multi-space budgeting—for free.\n\n### Where Monzo Wins\n* **Budgeting & Day-to-Day Money Management:** Monzo’s app is more intuitive and versatile for keeping track of your monthly spend. The *Salary Sorter* automatically divides your pay into bills, savings, and spending money the moment it arrives.\n* **Social Features:** If your friends, flatmates, or partner use Monzo, managing shared costs is seamless. Splitting a restaurant bill or setting up a shared tab takes seconds.\n* **Bundled Perks (Paid Tiers):** If you want travel insurance, mobile phone insurance, breakdown cover, or a Greggs treat each week, Monzo’s paid tiers (Perks and Max) offer competitive packaged value.\n\n---\n\n### The Verdict\n\n* **Choose Starling if:** You want a completely free primary current account, you travel frequently outside Europe, you occasionally deposit cash/cheques, or you want desktop browser access alongside the mobile app.\n* **Choose Monzo if:** Your priority is daily budgeting, visualising spending habits, and easily splitting expenses with friends or flatmates who already use Monzo.\n\n*(Tip: Because both are free to open with no minimum pay-in requirements, many UK residents hold both—using Monzo for everyday spending and social splitting, and Starling for travel and banking utility.)*",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZEQozlg397Du_b0hHM6SNlUpk5kwkLH5t4TX7ewwEFwhGaTj2ZEI2500JCIU6M2zjeaVg1HFx-sLZ59fkcFO31VV12SCbw34KKVIwVymY3AME_aKBY-zRZZ504R9l_VF7GqSNsG7p3OEPO2-yMAW-KwTO_uxGGhXB",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYkwuNFXNfeMVZuo_pO8BQqoR4M_4qV77c9WidOZJNh4RBABPtn2HJlN9AG1yUgXLIULI0xxPU56BP51HuhStf6N5vBxaXu6_kdm7_qQDHhyZXr6aTGynsUrTnLDtDkz4GUBkGDP_Bg3sae09iLVo",
+   "title": "pocketwise.co.uk"
+  }
+ ],
+ "search_queries": [
+  "monzo post office cash deposit fee"
+ ],
+ "latency_s": 27.98,
+ "asked_at": "2026-11-21T17:52:33.342496+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H1",
+ "run": 2,
+ "text": "**Short answer:** Extra is only worth it if you’ll use its tools. Perks can be good value if you regularly use several of its benefits. Max is worth considering if its insurance replaces cover you’d otherwise buy. Otherwise, Monzo’s free account may be enough.\n\n| Plan | Price | Likely worth it if… |\n|---|---:|---|\n| **Extra** | **£3/month** | You’ll use features like connected accounts, virtual cards, advanced roundups or custom categories. These are convenience tools, not direct cash savings. |\n| **Perks** | **£9/month** | You’ll make real use of benefits such as the annual Railcard, Uber One, weekly Greggs treat, monthly Vue ticket or YouTube Premium Lite. Don’t count a benefit at its advertised value unless you’d actually pay for it. |\n| **Max** | **from £19/month** | Its travel, phone and breakdown insurance suits your needs and lets you cancel comparable policies. Check the policy limits and exclusions first. |\n\n**A couple of details matter:**\n\n- Perks includes higher rates on some Monzo savings pots, but the extra interest is only valuable on the balance you’d actually keep there. Rates are variable.\n- Max costs **£228 a year** at £19/month; adding family insurance takes it to **£23/month**. It’s for ages 18–69 and has a three-month minimum.\n- Insurance can have eligibility rules, excesses and exclusions. Check the current policy wording—especially for pre-existing medical conditions, trip length, phone eligibility and breakdown-cover requirements—before relying on it.\n\n**My rule of thumb:** Pick **Extra** for features, **Perks** if the perks you’ll use comfortably outweigh £108 a year, and **Max** only after comparing the insurance with what you already have. You can also try a plan for a few months and track which benefits you actually claim.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/perks",
+   "title": "Monzo Perks | Our Bank Account with Benefits for £9 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "title": "Monzo Extra | The Bank Account for Budgeting for £3 a Month"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-mobile/plans-and-pricing",
+   "title": "Monzo Mobile plans and pricing"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/basic-vs-packaged-current-accounts",
+   "title": "Differences Between Basic and Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-perks-what",
+   "title": "What benefits are included with Perks?"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information ..."
+  },
+  {
+   "url": "https://monzo.com/help/monzo-max/monzo-max-what",
+   "title": "Which benefits are included with Max?"
+  },
+  {
+   "url": "https://monzo.com/index.html",
+   "title": "Monzo – Online Banking Made Easy | Open An Account Online"
+  },
+  {
+   "url": "https://monzo.com/business-banking/plans-pricing",
+   "title": "Business Banking Plans | Explore Lite, Pro & Team - Monzo USA"
+  },
+  {
+   "url": "https://monzo.com/en-es/business-banking/plans-and-tariffs",
+   "title": "Online business account plans and pricing | Monzo Spain"
+  },
+  {
+   "url": "https://monzo.com/blog/make-monzo-more-you",
+   "title": "Introducing Plans | Make Monzo More You"
+  }
+ ],
+ "search_queries": [
+  "Monzo paid plans Extra Perks Max prices benefits UK 2026",
+  "Monzo current account plans Extra Perks Max insurance fees UK",
+  "Monzo plans comparison official"
+ ],
+ "latency_s": 6.42,
+ "asked_at": "2026-11-21T17:42:33.997224+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

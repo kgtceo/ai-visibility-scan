@@ -1,0 +1,124 @@
+{
+ "engine": "claude",
+ "question_id": "C1",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/online-banks-guide/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "Online and Digital Banks UK — Monzo, Starling, Revolut and Chase ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Is Revolut a fully licensed bank in the UK? Here’s what's changed ..."
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "It's official — Revolut is now a bank in the UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Chase UK Review: 2% Cashback Rules and Every Rate Checked"
+  },
+  {
+   "url": "https://bankingrating.com/blog/chase-uk-review-cashback-savings-rates-credit-card/",
+   "domain": "bankingrating.com",
+   "source_type": "other",
+   "title": "Chase UK Review 2026: Cashback"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "negative",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the best of the three as a main account for most people."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut is the better pick if you travel a lot or want one app for everything."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase works better as a second account that earns cashback."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

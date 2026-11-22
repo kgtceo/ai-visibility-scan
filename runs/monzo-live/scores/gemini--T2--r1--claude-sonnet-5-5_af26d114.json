@@ -1,0 +1,105 @@
+{
+ "engine": "gemini",
+ "question_id": "T2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is a real, fully licensed UK bank, not just an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Wise or Revolut's UK entity, which operate under Electronic Money Institution (EMI) rules and rely on \"safeguarding\" rather than FSCS protection."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo holds a full UK banking licence. It is authorised by the Prudential Regulation Authority (PRA) and regulated by both the FCA and the PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Your eligible deposits up to £85,000 are covered by the FSCS.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "It provides full UK current accounts with your own sort code and account number; you can receive salary, set up Direct Debits and standing orders, apply for overdrafts and loans, and earn interest on savings.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover these features in general."
+   },
+   {
+    "text": "Monzo is a digital-only bank with no branches, managed via its smartphone app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo launched in 2015, originally called Mondo, starting as a prepaid card while awaiting regulatory approval.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo was granted a full UK banking licence in April 2017.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

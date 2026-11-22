@@ -1,0 +1,117 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "On Monzo's free UK plan, an Instant Access Savings Pot pays 2.80% AER (variable)."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "On Monzo's free UK plan, an Instant Access Savings Pot pays 2.80% AER (variable).",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Extra costs £3/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks costs £9/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Max is from £19/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Instant Access rates are 3.15% on Extra, 3.55% on Perks and 3.80% on Max.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover the free plan rate."
+   },
+   {
+    "text": "Select Access pays 3.45% on Free, 3.45% on Extra, 3.70% on Perks and 3.70% on Max, with a £500 minimum deposit and two withdrawals per year.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Select Access."
+   },
+   {
+    "text": "Monzo offers 5.25% AER fixed for three years on all four plans, with a £500 minimum deposit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers fixed-term savings."
+   },
+   {
+    "text": "You can withdraw whenever you like from the Instant Access Savings Pot.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

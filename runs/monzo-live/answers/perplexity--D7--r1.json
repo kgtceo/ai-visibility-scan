@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D7",
+ "run": 1,
+ "text": "For most UK sole traders and small businesses, **Starling is my best all-round starting point**: no monthly fee, no fees on UK bank transfers, and accounting integrations. Cash deposits at the Post Office cost **0.7% (minimum £3)**, so it’s less attractive if you regularly bank cash. 〔Starling〕(https://www.starlingbank.com/business-account/)\n\nOther good fits:\n\n- **Mettle** — worth a look if you’re a sole trader or a small business with up to two owners and want simple free banking. It offers invoicing and, for eligible users, FreeAgent accounting. Check its eligibility and cash-deposit fees before applying. 〔Mettle overview〕(https://www.money.co.uk/business-bank-accounts/pm-1)\n- **Monzo Business Lite** — a good option if you prefer managing everything in an app; UK transfers are free, and cash deposits cost £1 each, subject to limits. 〔Comparison〕(https://www.businessexpert.co.uk/business-banking/best-business-accounts/)\n- **Tide** — useful if you want invoicing and business admin tools in one place, but check transaction limits: its free plan includes only a limited number of free transfers, then charges per transfer. 〔Tide pricing〕(https://www.tide.co/pricing/)\n- **A high-street bank** — consider HSBC, NatWest, Lloyds or Virgin Money if branch access or in-person cash handling matters more than having the simplest app-based account. Introductory offers and ongoing fees vary. 〔Comparison〕(https://www.moneysavingexpert.com/banking/business-bank-account/)\n\n**Quick rule of thumb:** mainly UK transfers and little cash → Starling; want app-based banking → Monzo; want built-in admin or accounting → compare Mettle and Tide; need branch services → check high-street options.\n\nSole traders aren’t generally required by law to have a separate business account, but banks’ personal-account terms may restrict business use. Limited companies should use a business account. Compare the current fees, eligibility, cash limits and deposit protection directly with the provider before deciding, as these can change.",
+ "citations": [
+  {
+   "url": "https://www.tide.co/business-current-account/compare-business-bank-accounts/",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.tide.co/pricing/",
+   "title": "Plans and pricing | Tide Business"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/",
+   "title": "Business bank account | No monthly fees | Starling"
+  },
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "title": "8 best sole trader bank accounts in the UK for 2026"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/small-business-bank-accounts/",
+   "title": "Small Business Bank Accounts - Perks for Self-employed & Startups"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/",
+   "title": "Business Bank Accounts - Apply Online, from £0 Per Month"
+  },
+  {
+   "url": "https://www.money.co.uk/business/bank-accounts/pm-1",
+   "title": "Top 10 Small Business Accounts - Latest Deals For April 2026"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/compare-tide-vs-mettle/",
+   "title": "Tide vs Mettle by NatWest Business Bank Accounts Comparison"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "title": "Best Sole Trader Bank Accounts In The UK 2026"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/",
+   "title": "Business Accounts - Current & Savings"
+  },
+  {
+   "url": "https://www.ofx.com/en-gb/blog/best-free-business-bank-accounts-uk/",
+   "title": "Best free business bank accounts in the UK: fees compared"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/best-business-bank-accounts/",
+   "title": "Best Business Bank Accounts in the UK (2026)"
+  },
+  {
+   "url": "https://www.worldfirst.com/uk/blog/global-business-tips/compare-business-bank-accounts/",
+   "title": "Compare 7 UK Business Bank Accounts in 2026"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/business-bank-account/",
+   "title": "Best business bank accounts UK compared"
+  }
+ ],
+ "search_queries": [
+  "best UK business bank account sole trader 2026 fees features",
+  "UK business bank account official pricing Starling Mettle Tide 2026",
+  "UK business current account small business comparison 2026"
+ ],
+ "latency_s": 7.3,
+ "asked_at": "2026-11-21T17:40:58.413360+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

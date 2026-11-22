@@ -1,0 +1,241 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D2",
+ "run": 1,
+ "text": "There isn’t one universal “best” app-based bank in the UK — it depends on how you use money. The consistent leaders are **Starling**, **Monzo**, and **Chase UK**, with **Revolut** strong for travel and multi-currency use. All of the main ones below are free on the standard account, app-first, and (for the fully authorised banks) covered by FSCS protection up to £120,000 per person per firm.\n\n### Quick recommendation\n| Priority | Best fit | Why |\n|---|---|---|\n| Everyday main account | **Starling** | Strong all-rounder: fee-free abroad (including ATMs), competitive overdraft, cash/cheque options, joint accounts, 24/7 UK support |\n| Budgeting tools | **Monzo** | Best pots, salary sorting, spending insights and controls; often tops customer-satisfaction surveys |\n| Cashback + savings boost | **Chase UK** | 2% cashback on everyday categories (with conditions) plus competitive linked savers |\n| Frequent travel / FX | **Revolut** (or Starling) | Multi-currency and exchange tools; free tier has limits |\n\nMoneySavingExpert currently rates **Starling** as the top all-rounder, **Monzo** for hands-on budgeting, and **Chase** for cashback and savings. Official CMA service-quality surveys have repeatedly put Monzo first (or near the top), with Chase and Starling close behind.\n\n### How they compare\n**Starling**  \n- No monthly fee and no paid tiers required for a full-featured account.  \n- No Starling fees on card spending or ATM withdrawals abroad (local ATM operators may still charge).  \n- Arranged overdraft at 15%, 25% or 35% EAR (representative 15%) — often cheaper than rivals.  \n- Cash deposits at the Post Office (free up to a yearly allowance, then a percentage fee); cheque deposits supported.  \n- Joint accounts, Spaces for separating money, and 24/7 UK-based support.  \n- Linked Easy Saver with a short-term bonus rate (rates change; check current terms).  \n- Supports the Current Account Switch Service (CASS).\n\n**Monzo**  \n- Excellent budgeting: pots, automatic categorisation, salary sorter, spending limits, and bill-splitting.  \n- Fee-free overseas card spending; free ATM withdrawals abroad are capped on the free plan (then a fee applies).  \n- Overdraft available (typically higher EAR bands than Starling).  \n- Cash deposits possible (usually for a small fee). Joint accounts available.  \n- Optional paid plans (from a few pounds a month) unlock extras such as higher savings rates or insurance.  \n- Frequently ranks at or near the top of independent customer-satisfaction tables. Supports CASS.\n\n**Chase UK** (part of JPMorgan)  \n- 2% cashback, capped at £20 a month, on groceries, restaurants/cafes/takeaways, everyday transport, fuel and public EV charging in the UK.  \n- To keep earning it you generally need 15+ qualifying payments (card or Direct Debit) and £1,000+ held in Chase savers every day of the previous month (new customers get a short grace period).  \n- Fee-free spending and withdrawals abroad. Competitive saver rates, often with a new-customer boost and a higher-rate regular saver (limited monthly deposits).  \n- No arranged overdraft and no joint accounts. Cash handling is more limited.  \n- Strong satisfaction scores. FSCS cover is shared with other JPMorgan entities, so check combined balances if that applies to you. Supports CASS for sole accounts.\n\n**Revolut**  \n- Best multi-currency wallet, exchange tools, and features for frequent travellers or people who send money abroad.  \n- Fully authorised as a UK bank (migration of older e-money accounts has been ongoing), so eligible deposits can have FSCS protection — confirm which entity holds your account.  \n- Free plan has fair-use limits on fee-free FX and ATM withdrawals, plus weekend mark-ups. Paid plans remove many of those limits and add perks.  \n- Useful extras (investing, bill-splitting with non-users, etc.), but customer service feedback is more mixed than Starling or Monzo.\n\n### Other options\n- **Zopa** — useful if you want cashback on bills or eating out, or interest-style features, plus solid savings pots. Fewer full current-account features (no overdraft, limited cash deposits).  \n- **Kroo** — pays interest on current-account balances and is fee-free abroad, but is not on the Current Account Switch Service.\n\n### Practical tips before you switch\n- You don’t have to move everything. Many people keep one account as their main (salary, bills, Direct Debits) and open a second purely for cashback, travel, or pots.  \n- Use the **Current Account Switch Service** where available (Starling, Monzo, Chase). It normally completes in seven working days and redirects payments.  \n- Opening these accounts usually involves only a soft credit check; applying for an overdraft triggers a hard check.  \n- None have branches. Cash and cheques are handled via the Post Office, PayPoint, or the post, and rules/fees differ.  \n- Rates, cashback rules, ATM limits and bonuses change often. Check the provider’s site or app for the latest terms before you apply.\n\n**For most people wanting a single main app-based account, Starling is the safest all-round pick right now, with Monzo very close if budgeting features matter more to you.** Chase is worth opening alongside either if you can meet the cashback conditions.  \n\nThis is general information, not personal financial advice. Compare current terms directly and consider your own need for an overdraft, joint account, cash deposits, or travel use.",
+ "citations": [
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-app-only-bank-in-the-uk/amp",
+   "title": "https://moneytothemasses.com/banking/the-best-app-only-bank-in-the-uk/amp"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://www.gov.uk/government/news/how-does-your-bank-rank-cma-releases-satisfaction-survey-ratings",
+   "title": "https://www.gov.uk/government/news/how-does-your-bank-rank-cma-releases-satisfaction-survey-ratings"
+  },
+  {
+   "url": "https://www.neobanksemea.com/guides/starling-bank-explained",
+   "title": "https://www.neobanksemea.com/guides/starling-bank-explained"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "title": "https://www.moneysavingexpert.com/banking/digital-banking/"
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/46882/monzo-beats-chase-nationwide-and-starling-in-uk-customer-satisfaction---yougov",
+   "title": "https://www.finextra.com/newsarticle/46882/monzo-beats-chase-nationwide-and-starling-in-uk-customer-satisfaction---yougov"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/",
+   "title": "https://pocketwise.co.uk/banking/chase/chase-uk-cashback-rules/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/",
+   "title": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk",
+   "title": "https://www.clearscore.com/learn/managing-money/best-bank-worst-bank-uk"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/compare/digital-banks",
+   "title": "https://bankadvisor.co.uk/compare/digital-banks"
+  },
+  {
+   "url": "https://www.statista.com/statistics/876127/current-account-customer-satisfaction-great-britain/",
+   "title": "https://www.statista.com/statistics/876127/current-account-customer-satisfaction-great-britain/"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/competition-and-markets-authority-northern-ireland-ipsos-britain-cooperative-bank-b2808412.html",
+   "title": "https://www.independent.co.uk/money/competition-and-markets-authority-northern-ireland-ipsos-britain-cooperative-bank-b2808412.html"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html",
+   "title": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html"
+  },
+  {
+   "url": "https://www.comparebanks.co.uk/banking/best-mobile-banking-apps/",
+   "title": "https://www.comparebanks.co.uk/banking/best-mobile-banking-apps/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/startup-banks/",
+   "title": "https://thefinancelowdown.co.uk/startup-banks/"
+  },
+  {
+   "url": "https://iceburgwealth.com/digital-bank-uk/",
+   "title": "https://iceburgwealth.com/digital-bank-uk/"
+  },
+  {
+   "url": "https://depositscout.com/banks/starling",
+   "title": "https://depositscout.com/banks/starling"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-fees/",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-fees/"
+  },
+  {
+   "url": "https://www.savethestudent.org/money/best-digital-app-banks.html?desktop=1",
+   "title": "https://www.savethestudent.org/money/best-digital-app-banks.html?desktop=1"
+  },
+  {
+   "url": "https://freenance.io/rankings/best-neobanks-uk-2026/",
+   "title": "https://freenance.io/rankings/best-neobanks-uk-2026/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://www.starlingbank.com/news/starling-launches-student-account/",
+   "title": "https://www.starlingbank.com/news/starling-launches-student-account/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback",
+   "title": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/",
+   "title": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/"
+  },
+  {
+   "url": "https://uk.finance.yahoo.com/news/revolut-vs-monzo-vs-starling-130000614.html",
+   "title": "https://uk.finance.yahoo.com/news/revolut-vs-monzo-vs-starling-130000614.html"
+  },
+  {
+   "url": "https://www.comparebyreview.com/app-based-banking/",
+   "title": "https://www.comparebyreview.com/app-based-banking/"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/",
+   "title": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank",
+   "title": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank"
+  },
+  {
+   "url": "https://www.ft.com/content/bd7d806c-5028-4a93-a04b-81c72af6bb95",
+   "title": "https://www.ft.com/content/bd7d806c-5028-4a93-a04b-81c72af6bb95"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "title": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/"
+  },
+  {
+   "url": "https://www.finder.com/uk/digital-banking/top-10-mobile-banking-apps",
+   "title": "https://www.finder.com/uk/digital-banking/top-10-mobile-banking-apps"
+  },
+  {
+   "url": "https://gbwise.co.uk/digital-banks-vs-high-street-banks-which-is-safer-better-for-you/",
+   "title": "https://gbwise.co.uk/digital-banks-vs-high-street-banks-which-is-safer-better-for-you/"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "title": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account"
+  },
+  {
+   "url": "https://www.comparebanks.co.uk/banking/best-online-banks/",
+   "title": "https://www.comparebanks.co.uk/banking/best-online-banks/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://bankinggeek.com/en/revolut-vs-monzo/",
+   "title": "https://bankinggeek.com/en/revolut-vs-monzo/"
+  },
+  {
+   "url": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2",
+   "title": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "title": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/",
+   "title": "https://www.starlingbank.com/savings/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/starling/",
+   "title": "https://thefinancelowdown.co.uk/starling/"
+  },
+  {
+   "url": "https://bankingrating.com/blog/top-10-online-banks-in-uk-best-digital-banking-options/",
+   "title": "https://bankingrating.com/blog/top-10-online-banks-in-uk-best-digital-banking-options/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/payments-transactions/payment-apps-comparison/",
+   "title": "https://pocketwise.co.uk/banking/payments-transactions/payment-apps-comparison/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-online-banks/",
+   "title": "https://www.forbes.com/advisor/uk/banking/best-online-banks/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/",
+   "title": "https://www.starlingbank.com/current-account/overdraft/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/",
+   "title": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "https://www.starlingbank.com/current-account/"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/05/chase-increases-cashback/",
+   "title": "https://www.moneysavingexpert.com/news/2026/05/chase-increases-cashback/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "title": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/"
+  },
+  {
+   "url": "https://stablecoininsider.org/metro-bank-alternatives/",
+   "title": "https://stablecoininsider.org/metro-bank-alternatives/"
+  }
+ ],
+ "search_queries": [
+  "best app-based banks UK 2024 2025 comparison",
+  "Monzo vs Starling vs Revolut vs Chase UK which is best",
+  "UK digital banks customer satisfaction ratings 2025",
+  "Starling Bank current features fees overdraft savings rate UK",
+  "Chase UK cashback rate requirements 2026"
+ ],
+ "latency_s": 23.18,
+ "asked_at": "2026-11-21T17:05:52.959304+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

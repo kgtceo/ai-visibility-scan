@@ -1,0 +1,400 @@
+{
+ "engine": "grok",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://statrys.com/reviews/starling-business-account",
+   "domain": "statrys.com",
+   "source_type": "other",
+   "title": "https://statrys.com/reviews/starling-business-account"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling-vs-revolut.html"
+  },
+  {
+   "url": "https://www.starlingbank.com/sole-trader-bank-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/sole-trader-bank-account/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/starling/starling-fees/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/starling/starling-fees/"
+  },
+  {
+   "url": "https://www.refer200.co.uk/tide-vs-starling-vs-monzo",
+   "domain": "refer200.co.uk",
+   "source_type": "other",
+   "title": "https://www.refer200.co.uk/tide-vs-starling-vs-monzo"
+  },
+  {
+   "url": "https://www.freeagent.com/mettle/",
+   "domain": "freeagent.com",
+   "source_type": "other",
+   "title": "https://www.freeagent.com/mettle/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling.html"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-business-for-freelancers",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/monzo-business-for-freelancers"
+  },
+  {
+   "url": "https://bankinggeek.com/en/business-account-sole-trader/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/business-account-sole-trader/"
+  },
+  {
+   "url": "https://www.freeagent.com/blog/product-spotlight-october-2026/",
+   "domain": "freeagent.com",
+   "source_type": "other",
+   "title": "https://www.freeagent.com/blog/product-spotlight-october-2026/"
+  },
+  {
+   "url": "http://www.moneysavingexpert.com/banking/small-business",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "http://www.moneysavingexpert.com/banking/small-business"
+  },
+  {
+   "url": "https://www.lilachbullock.com/is-freeagent-free/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/is-freeagent-free/"
+  },
+  {
+   "url": "https://www.mobiletransaction.org/best-bank-account-for-sole-traders-uk/",
+   "domain": "mobiletransaction.org",
+   "source_type": "other",
+   "title": "https://www.mobiletransaction.org/best-bank-account-for-sole-traders-uk/"
+  },
+  {
+   "url": "https://micahguru.com/guides/tide-vs-starling-business-account",
+   "domain": "micahguru.com",
+   "source_type": "other",
+   "title": "https://micahguru.com/guides/tide-vs-starling-business-account"
+  },
+  {
+   "url": "https://morningfold.co.uk/articles/best-uk-business-bank-account-2026/",
+   "domain": "morningfold.co.uk",
+   "source_type": "other",
+   "title": "https://morningfold.co.uk/articles/best-uk-business-bank-account-2026/"
+  },
+  {
+   "url": "https://thepaidhour.com/starling-business-account-review/",
+   "domain": "thepaidhour.com",
+   "source_type": "other",
+   "title": "https://thepaidhour.com/starling-business-account-review/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/starling-business-account-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/starling-business-account-review/"
+  },
+  {
+   "url": "https://tillradar.co.uk/starling-business-account-review/",
+   "domain": "tillradar.co.uk",
+   "source_type": "other",
+   "title": "https://tillradar.co.uk/starling-business-account-review/"
+  },
+  {
+   "url": "https://www.freeagent.com/pricing/free-accounting-software/",
+   "domain": "freeagent.com",
+   "source_type": "other",
+   "title": "https://www.freeagent.com/pricing/free-accounting-software/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/best-for-sole-traders.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/best-for-sole-traders.html"
+  },
+  {
+   "url": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/",
+   "domain": "smallbusiness.co.uk",
+   "source_type": "other",
+   "title": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/"
+  },
+  {
+   "url": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/",
+   "domain": "nomorejanuary.co.uk",
+   "source_type": "other",
+   "title": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/"
+  },
+  {
+   "url": "https://freedomisntfree.co.uk/compare/business-bank-accounts",
+   "domain": "freedomisntfree.co.uk",
+   "source_type": "other",
+   "title": "https://freedomisntfree.co.uk/compare/business-bank-accounts"
+  },
+  {
+   "url": "https://www.mettle.co.uk/features/freeagent/",
+   "domain": "mettle.co.uk",
+   "source_type": "other",
+   "title": "https://www.mettle.co.uk/features/freeagent/"
+  },
+  {
+   "url": "https://eternityaccountants.co.uk/freeagent-accounting-software/",
+   "domain": "eternityaccountants.co.uk",
+   "source_type": "other",
+   "title": "https://eternityaccountants.co.uk/freeagent-accounting-software/"
+  },
+  {
+   "url": "https://support.freeagent.com/hc/en-gb/articles/19653298292882-Set-up-a-Mettle-account",
+   "domain": "support.freeagent.com",
+   "source_type": "other",
+   "title": "https://support.freeagent.com/hc/en-gb/articles/19653298292882-Set-up-a-Mettle-account"
+  },
+  {
+   "url": "https://ukbusinessbankaccounts.co.uk/best-business-bank-accounts-uk",
+   "domain": "ukbusinessbankaccounts.co.uk",
+   "source_type": "other",
+   "title": "https://ukbusinessbankaccounts.co.uk/best-business-bank-accounts-uk"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/providers/starling.html",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/providers/starling.html"
+  },
+  {
+   "url": "https://www.paygradecareers.com/guides/business-bank-account-sole-trader/",
+   "domain": "paygradecareers.com",
+   "source_type": "other",
+   "title": "https://www.paygradecareers.com/guides/business-bank-account-sole-trader/"
+  },
+  {
+   "url": "https://www.quotehunt.co.uk/business-bank-accounts/starling",
+   "domain": "quotehunt.co.uk",
+   "source_type": "other",
+   "title": "https://www.quotehunt.co.uk/business-bank-accounts/starling"
+  },
+  {
+   "url": "https://investingintheweb.com/brokers/best-business-bank-accounts-uk/",
+   "domain": "investingintheweb.com",
+   "source_type": "other",
+   "title": "https://investingintheweb.com/brokers/best-business-bank-accounts-uk/"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "https://thebusinessbankingexpert.co.uk/"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "https://www.starlingbank.com/business-account/"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/best-for-freelancers/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "https://www.businessexpert.co.uk/business-banking/best-for-freelancers/"
+  },
+  {
+   "url": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-uk-2026/",
+   "domain": "accountingstack.co.uk",
+   "source_type": "other",
+   "title": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-uk-2026/"
+  },
+  {
+   "url": "https://support.freeagent.com/hc/en-gb/articles/19653298292882",
+   "domain": "support.freeagent.com",
+   "source_type": "other",
+   "title": "https://support.freeagent.com/hc/en-gb/articles/19653298292882"
+  },
+  {
+   "url": "https://www.mettle.co.uk/blog/mettles-guide-to-using-freeagent/",
+   "domain": "mettle.co.uk",
+   "source_type": "other",
+   "title": "https://www.mettle.co.uk/blog/mettles-guide-to-using-freeagent/"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/mettle-review/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "https://www.businessexpert.co.uk/business-banking/mettle-review/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/small-business",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/banking/small-business"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/accounts-for-sole-traders/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "https://www.businessexpert.co.uk/business-banking/accounts-for-sole-traders/"
+  },
+  {
+   "url": "https://soletradertoolkit.co.uk/business-banking-starling-bank",
+   "domain": "soletradertoolkit.co.uk",
+   "source_type": "other",
+   "title": "https://soletradertoolkit.co.uk/business-banking-starling-bank"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/tide-vs-starling/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "https://www.businessexpert.co.uk/business-banking/tide-vs-starling/"
+  },
+  {
+   "url": "https://www.ukcalc.uk/best-business-bank-account-sole-traders/",
+   "domain": "ukcalc.uk",
+   "source_type": "other",
+   "title": "https://www.ukcalc.uk/best-business-bank-account-sole-traders/"
+  },
+  {
+   "url": "https://www.kaeltripton.com/best-sole-trader-bank-accounts-uk/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/best-sole-trader-bank-accounts-uk/"
+  },
+  {
+   "url": "https://www.simplybusiness.co.uk/knowledge/banking/best-small-business-bank-account/",
+   "domain": "simplybusiness.co.uk",
+   "source_type": "other",
+   "title": "https://www.simplybusiness.co.uk/knowledge/banking/best-small-business-bank-account/"
+  },
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "domain": "capitalise.com",
+   "source_type": "other",
+   "title": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/"
+  },
+  {
+   "url": "https://www.nutsaboutmoney.com/banking/best-sole-trader-bank-account",
+   "domain": "nutsaboutmoney.com",
+   "source_type": "other",
+   "title": "https://www.nutsaboutmoney.com/banking/best-sole-trader-bank-account"
+  },
+  {
+   "url": "https://mikemcdonnell.co.uk/tide-vs-monzo-business-vs-starling",
+   "domain": "mikemcdonnell.co.uk",
+   "source_type": "other",
+   "title": "https://mikemcdonnell.co.uk/tide-vs-monzo-business-vs-starling"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-business-bank-account-review",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/monzo-business-bank-account-review"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best app / already use Monzo | Monzo Business Lite | Strong service ratings; free tier"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling is the strongest default"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite is free, with free UK transfers and FSCS protection.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "FSCS protection matches; the free business tier is not covered by the facts."
+   },
+   {
+    "text": "Monzo Business often ranks at or near the top of independent business banking service surveys, and the app is excellent.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover NPS but not business banking survey rankings."
+   },
+   {
+    "text": "Monzo cash deposits are £1 each at Post Office / PayPoint.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Accounting integrations and some tax features sit on the paid Pro plan (about £9 a month).",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 lists personal plans (Perks at £9), not the Business Pro plan, so this is a different plan the facts do not cover."
+   },
+   {
+    "text": "Mettle's cash deposits cost more than Monzo's.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover cash deposit costs."
+   }
+  ]
+ },
+ "judge_error": null
+}

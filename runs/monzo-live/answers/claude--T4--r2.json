@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T4",
+ "run": 2,
+ "text": "**Yes, Monzo does freeze accounts.** Most banks do. Monzo says it does this to keep your money safe, and all banks are legally required to block accounts sometimes. Freezes are usually triggered by fraud or security flags, such as an unusual payment. Monzo's terms also let it close accounts. Its terms say it reserves the right to close an account at any time, particularly if it believes fraud is taking place.\n\n**How long it lasts**\n- Monzo's help page says it can't give a specific timeline for a review. It also says it will unfreeze your account as soon as its checks are complete.\n- Some cases are quick. In 2019 Monzo told the BBC that if it finds activity isn't suspicious, a frozen account is typically reactivated in ten minutes. One community user said their account was reinstated within 2 hours after they sent the information Monzo asked for.\n- Others report much longer waits, including blocks of 48 hours or more.\n\n**How to get help**\n1. **Check the app first.** Monzo says it will contact you in the app if it needs further information. Reply promptly and give everything it asks for.\n2. **Use in-app chat.** Go to Help and search \"Contact us\". If you can't get into the app, you can email help@monzo.com. A community post from 2020 also listed a phone number, 0800 802 1281. That is old, so check it against Monzo's website.\n3. **If it's only a PIN block**, Monzo's process is different. Tap the Card button for the affected account and choose Reveal PIN, then follow the steps. You'll need your card and ID ready to take a video.\n4. **Keep records.** Other affected users recommend keeping screenshots of all correspondence with Monzo and contacting its complaints department.\n5. **Complain formally if it drags on.** Community users suggest doing this if you remain unhappy after a reasonable time, though an acknowledgement can take at least 4 business days. Under UK rules, you can usually take the complaint to the **Financial Ombudsman Service** (free) if Monzo hasn't resolved it within 8 weeks, or sooner if you get a final response you disagree with. This point comes from my general knowledge, not the search results.\n\n**Protect yourself**\n- Keep a second account elsewhere, such as a basic account, so wages and bills don't depend on one provider. Community members often advise this.\n- Tell bill providers if you're stuck. If you ever need emergency cash, a friend or your employer may be able to help.\n\n**If the account is closed rather than frozen:** Monzo often won't explain why. In that situation, community users say you will get your money back, though it can take a while. Funds held during a longer investigation can take weeks. The Financial Ombudsman is still an option if you think it was handled unfairly.\n\nIf you tell me whether it's a frozen account, a blocked card or PIN, or a closure, I can tailor the steps.",
+ "citations": [
+  {
+   "url": "https://community.monzo.com/t/monzo-have-blocked-my-account-for-no-reason-at-all/109263",
+   "title": "Monzo have blocked my account for no reason at all - Help - Monzo ..."
+  },
+  {
+   "url": "https://www.vice.com/en/article/monzo-freezing-closing-accounts-complaints/",
+   "title": "Monzo Users Say Their Accounts Are Being Frozen without Warning"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://community.monzo.com/t/my-account-has-been-blocked-for-over-19-hours/151426",
+   "title": "My account has been blocked for over 19 hours! - Help - Monzo ..."
+  },
+  {
+   "url": "https://monzo.com/help/emergencies/account-blocked",
+   "title": "Monzo Help - Unblocking your account"
+  }
+ ],
+ "search_queries": [
+  "Monzo account frozen or blocked what to do"
+ ],
+ "latency_s": 10.94,
+ "asked_at": "2026-11-21T16:51:17.190358+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

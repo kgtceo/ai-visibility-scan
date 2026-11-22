@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D6",
+ "run": 2,
+ "text": "**There isn't one best account. It depends on how much you'll hold.** Rates are from sources dated in the last few days, and they differ slightly between sites.\n\n**Highest headline rate: Nationwide FlexDirect**\n- It pays 5% AER on balances up to £1,500, but only for the first 12 months, so the maximum return is £75. The rate then drops to 1% AER.\n- You have to pay in at least £1,000 a month or the rate falls to 1.00%.\n\n**Better for larger balances**\n- **LHV Bank current account:** 3.75% AER on balances up to £1m.\n- **Kroo:** 3.00% AER on balances up to £500k. This includes a first-year bonus, and the rate then falls to 1% AER.\n- **Santander Edge Up:** 2.1% AER on balances up to £25,000, with a £5 monthly fee. It also offers 1% cashback.\n\n**Smaller or conditional rates**\n- Virgin Money M Plus pays 1.00% on balances up to £1,000.\n- Zopa's Biscuit account pays 1%, and its linked saver pays more.\n\n**Linked savers**\nSome banks offer a savings pot attached to the current account. Santander Edge's linked saver pays up to 6% AER on balances up to £4,000, and Monzo's Extra plans pay up to 5%. Chase offers 4.5% AER on a savings account linked to its current account. These often have caps or conditions, so check the terms.\n\n**A better option for most people**\nEven the best current account interest rates will struggle to match top savings returns. Which? lists top rates of 5% on easy access and 5.36% on fixed-rate accounts. Unless you want the convenience, a separate easy-access savings account will usually pay more on anything beyond a couple of thousand pounds.\n\nIf you tell me roughly how much you'd keep in the account, I can narrow this down.",
+ "citations": [
+  {
+   "url": "https://which.co.uk/money/savings-and-isas/savings-accounts/best-easy-access-savings-accounts",
+   "title": "Best savings account and bond rates 2026 - Which?"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "title": "Best UK bank accounts - November 2026 - Money To The Masses"
+  },
+  {
+   "url": "https://goodmoneyguide.com/savings/interest-paying-savings-accounts/",
+   "title": "Best High Interest-Paying Savings Current Accounts November 2026"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/current-accounts/",
+   "title": "Best UK Current Accounts 2026"
+  }
+ ],
+ "search_queries": [
+  "best interest paying current accounts UK November 2026"
+ ],
+ "latency_s": 9.64,
+ "asked_at": "2026-11-21T16:45:43.078556+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

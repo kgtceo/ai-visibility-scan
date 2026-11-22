@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "I’d pick Monzo’s free current account if you want an app-based bank for your salary, bills and everyday spending."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d choose Starling instead if you regularly take out cash outside the UK and European Economic Area."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You also get spending categories and alerts without paying a monthly fee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Free plan exists per facts, but spending categories and alerts are not covered."
+   },
+   {
+    "text": "Both banks let you pay by card abroad without charging a foreign transaction fee.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad."
+   },
+   {
+    "text": "Free Monzo charges 3% after the first £200 withdrawn in a rolling 30-day period outside the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches £200 every 30 days outside the EEA with a 3% fee after."
+   },
+   {
+    "text": "Salary Sorter lets you set aside money for rent and bills in separate Pots on payday.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Salary Sorter is not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,39 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C2",
+ "run": 1,
+ "text": "Both **Monzo** and **Starling** are full UK banks regulated by the PRA/FCA with FSCS protection (guarding your deposits up to £85,000). Neither has physical branches, but both are vastly better than traditional high-street banking apps.\n\nChoosing between them depends on what matters most: **Monzo** is superior for day-to-day budgeting and social features, while **Starling** is better for travel, everyday practicality (cash/cheques), and customer service.\n\n---\n\n### Quick Comparison\n\n| Feature | Monzo (Free Account) | Starling Bank |\n| :--- | :--- | :--- |\n| **Card spending abroad** | Free (Mastercard exchange rate) | Free (Mastercard exchange rate) |\n| **Overseas ATM withdrawals** | Free in the EEA; £200/month limit outside EEA (3% fee thereafter) | **Fee-free worldwide** (up to £300/day limit) |\n| **Cash deposits** | PayPoint (**£1 fee per deposit**, limit £300/time) | **Post Office** (Free up to £1,000/year, then 0.7%) |\n| **Cheque deposits** | In-app photo (up to £500; post for larger) | In-app photo (up to £1,000) |\n| **Web / Desktop access** | Emergency-only web portal | **Full online banking portal** via browser |\n| **Customer support** | In-app chat (phone line for emergencies) | **24/7 in-app chat & phone support** |\n| **Virtual cards** | Behind paid tiers (from £3/mo) | **Free** (link up to 5 to your Spaces) |\n| **Early payday** | **Yes** (claim BACS salary at 4 pm day before) | No (credits automatically on due date) |\n\n---\n\n### Where Monzo Wins\n\n1. **King of Budgeting & UI:** Monzo’s app is energetic, intuitive, and granular. You can categorize transactions automatically, set spending limits per category, and view upcoming recurring commitments clearly.\n2. **Social Banking:** If your friends, flatmates, or partner use Monzo, features like \"Shared Tabs,\" splitting bills, and instant peer-to-peer transfers are seamless.\n3. **Paid a Day Early:** If your employer pays by standard BACS, Monzo detects this and lets you withdraw your pay at 4:00 PM the working day before it is technically due.\n4. **Subscription Perks:** Monzo offers tiered paid plans (Extra, Perks, Max) if you want bundled travel/phone insurance, RAC breakdown cover, or packaged lifestyle perks.\n\n---\n\n### Where Starling Wins\n\n1. **Traveling Outside Europe:** While both offer fee-free card spending abroad, Starling does not penalise you for cash withdrawals outside Europe. Monzo imposes a £200 rolling limit before charging a 3% fee, whereas Starling lets you withdraw up to £300 daily worldwide without fees.\n2. **Better Practical Banking (Cash & Cheques):** \n   * Depositing cash with Starling is handled free at any **Post Office** counter (up to £1,000/year). Monzo uses **PayPoint** (corner shops) and charges you £1 each time",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnL1Y2lGBYFeA0gBe4fDR42bKrEkMFe-vsrWU2HpDbaDwxxBVlve44-NB1fUvoVW7s4aIwErYfp6k6wlUYQ0Av3p1GK1UX_PeCgMAYpUXsjlzDYbM0rXJTAG0QL-reSB6JAF6Vl6ZlodDeHz8HTB-Y-k=",
+   "title": "forbes.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2G7S4Aur3od0eN-DFvTmR7p41Dz90nSeqK0YJ0GLAkrr_yXrmp4Tlmp_LaVX1uKIoK78rBzTfS_zVHpc1DwczqjDmKeePOSqEi7TKLD-D581gL6uE8CwY1UbHdFW8R3LL-ohDmky2pdF3-mjaQ==",
+   "title": "studentmoneyuk.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9w40aZhq_e1WSvf4zTYHU7XMi3MsslddiKam1KU8MUxW21Z_S69hHxe5vZHCONUs7MGiyG3oqyjd_CBMkEODtHb4Ng3tameax8ARqaNzK1G_FHxNzOeRfPoR1zjRzu-3ucrHXmRy1dxqK8OuCTN8EcCuaI5AmVumVZa7VE5ldk9oMF1X2H0sfEPJcauOdzfjyjPw2s1j05VOpnrUCng==",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENtO0gy5a1LU3eXP7ZFr05Vygb5UGF0luUc5XJtJJM0Vn0u4fwK9ORpfH8QUlDwlAxtfTraA6fRFOfnlAAHhSXatDQtTJDRzg5xfk_Kkah1wF_L6dB67YKMiPw06bSzxFOttD2k61ZCdrQpcnqZNYRsSV9kj1DHQ==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3t5RVJySNsl2wv9VStk8thnMhqRbM7McfR7YFopS7eFWYfvXfTbCGKcMUcSKGu63URmpQQr7KryDN4TIS1O5a6SeAcnayDwBkBmr1ppsSa_eOy4Ck-yL-xBPjXGsU4ZF5",
+   "title": "youtube.com"
+  }
+ ],
+ "search_queries": [
+  "monzo cheque deposit in app",
+  "monzo vs starling 2024 2025"
+ ],
+ "latency_s": 28.16,
+ "asked_at": "2026-11-21T17:52:05.354810+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

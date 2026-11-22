@@ -1,0 +1,122 @@
+{
+ "engine": "gemini",
+ "question_id": "T1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is safe. It is a fully licensed and regulated UK bank"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Eligible deposits are automatically protected up to £85,000 per person.",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Joint accounts: protection limit doubles to £170,000 (£85,000 each).",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Based on £85,000 per person; the fact gives £120,000 per person."
+   },
+   {
+    "text": "Monzo Bank Limited is authorised by the PRA and regulated by both the FCA and the PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo is a fully licensed and regulated UK bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The FSCS aims to pay back protected money usually within 7 to 15 working days.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Financial Services Register number 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Fixed-term or notice savings pots are provided by partner banks such as OakNorth, Paragon, Charter Savings Bank.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo can instantly freeze and unfreeze the card via the app, with real-time notifications, and biometrics/PIN app access.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo adheres to the Contingent Reimbursement Model rules to refund APP fraud victims.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Investments funds are managed by BlackRock, and FSCS covers up to £85,000.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The £85,000 figure conflicts with F5's limit but this concerns investments, which the fact does not cover."
+   }
+  ]
+ },
+ "judge_error": null
+}

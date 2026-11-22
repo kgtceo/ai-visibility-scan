@@ -1,0 +1,51 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "T2",
+ "run": 1,
+ "text": "Yes — Monzo is a real UK bank, not merely an app or a prepaid-card service. It is Monzo Bank Limited, authorised by the Prudential Regulation Authority (PRA) and regulated by the PRA and Financial Conduct Authority (FCA); its Financial Services Register number is 730427.\nmonzo\n\nWhat that means for you\n\nYou can receive your salary, set up Direct Debits and standing orders, make bank transfers, and use a sort code and account number.\nmonzo\n\nEligible deposits are protected by the Financial Services Compensation Scheme (FSCS) up to £120,000 per person, subject to the usual eligibility rules.\nmonzo\n\nIt provides current accounts, savings products, business banking, and other banking services—not just a spending card.\napps.apple\n\nWhy it feels like “just an app”\n\nMonzo is an app-first bank: it has no traditional high-street branches, so signing up, viewing balances, freezing a card, and contacting support are mainly done in the app. But the account itself is a regulated UK bank account, and you also get a physical debit card for shops, online purchases, and cash machines.\ntechadvisor\n\nOne caveat\n\nThe FSCS limit is £120,000, not the more commonly cited £85,000 figure, because it reflects the current UK scheme limit. If you keep large balances, check the FSCS eligibility rules and consider spreading deposits across institutions if appropriate.\nmonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/faq",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "monzo"
+  },
+  {
+   "url": "https://apps.apple.com/es/app/monzo-bank-mobile-banking/id1052238659?l=en-GB",
+   "title": "apps.apple"
+  },
+  {
+   "url": "https://www.techadvisor.com/article/729009/what-is-monzo-bank.html",
+   "title": "techadvisor"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/06/14/monzo-most-asked-questions",
+   "title": "monzo Your 31 most-asked questions about Monzo, answered We took to Google to find out what Monzo-related questions you’ve been searching the internet for."
+  },
+  {
+   "url": "https://monzo.com/about",
+   "title": "monzo About Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
+   "title": "monzo We Are Now a Bank Today, we're excited to announce that we have hit another milestone on our journey. We are now officially a bank in the UK…"
+  },
+  {
+   "url": "https://apps.apple.com/us/app/monzo-bank-mobile-banking/id1052238659?l=ko&platform=ipad",
+   "title": "apps.apple ‎Monzo Bank - Mobile Banking 앱 - App Store - Apple App Store에서 Monzo Bank Limited의 Monzo Bank - Mobile Banking 앱을 다운로드하십시오. 스크린샷, 평가 및 리뷰, 사용자 팁 및 Mo"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 20.9,
+ "asked_at": "2026-11-21T13:24:18.106264+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

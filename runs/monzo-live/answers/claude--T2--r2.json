@@ -1,0 +1,33 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T2",
+ "run": 2,
+ "text": "Monzo is a real, fully licensed UK bank. It isn't just an app. The app is how you use it, but the bank sits behind it.\n\n- **Regulation:** Monzo is a fully regulated, UK-authorised bank, so it has full FSCS protection. It's authorised by the Prudential Regulation Authority and regulated by the FCA. This is from my own background knowledge, not the search results.\n- **Deposit protection:** As of 1 December 2025, the FSCS increased its cover to £120,000 per person. It was £85,000 before that. If Monzo failed, your eligible deposits would be covered up to that limit. The limit is per person, per firm. With a joint account, each holder is entitled to their own £120,000 protection.\n- **Own licence:** Monzo doesn't share its licence with any other institution. Your protection therefore doesn't overlap with another bank's.\n\n**Caveats**\n- Savings held with Monzo's partner providers, and investments, may be covered differently. For example, money in Monzo investment accounts doesn't count towards the £120,000 deposit limit. Those accounts have a separate protection limit.\n- Monzo has no physical branches. You manage everything through the app or online, and you can pay in cash at the Post Office or PayPoint.\n- If you hold more than £120,000, anything above the limit isn't protected. In that case, it can be a good idea to spread your money across different banks.\n\nThe FCA register and the Bank of England's PRA list both let you check a bank's authorisation yourself.",
+ "citations": [
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "title": "Are My UK Savings Safe?"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "title": "Financial Services Compensation Scheme Information Sheet Version 2.0"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "title": "Monzo Help - Are investment accounts protected?"
+  }
+ ],
+ "search_queries": [
+  "Monzo bank licence FSCS protection limit"
+ ],
+ "latency_s": 8.22,
+ "asked_at": "2026-11-21T16:50:29.991929+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

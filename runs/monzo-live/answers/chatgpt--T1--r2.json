@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T1",
+ "run": 2,
+ "text": "**Yes. If Monzo goes bust, the UK’s Financial Services Compensation Scheme (FSCS) protects up to £120,000 per person in eligible cash deposits held with Monzo Bank.** Monzo is a UK-authorised bank, so your deposits have the same protection as they would at a UK high-street bank. In most cases, the FSCS pays you back automatically within seven working days; you don’t need to make a claim. ([monzo.com](https://monzo.com/faq?utm_source=openai))\n\nThe key point is that the limit is **per person, not per account**. Add together your Monzo current account, regular Pots, savings held directly with Monzo, and your share of any joint account. A two-person joint account can have up to £240,000 protected in total, but each person’s share counts towards their own £120,000 limit. ([monzo.com](https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf?utm_source=openai))\n\nIf your total is above £120,000, you can keep the excess protected by holding it at another UK-authorised bank **with a separate banking licence**. There’s also an exception for certain temporary balances: for example, proceeds from selling your main home may be protected up to £1.4 million for six months. ([protected.fscs.org.uk](https://protected.fscs.org.uk/making-a-claim/customer-info/banking-licences/?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/faq?utm_source=openai",
+   "title": "Monzo - Frequently asked questions"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf?utm_source=openai",
+   "title": "Financial Services"
+  },
+  {
+   "url": "https://protected.fscs.org.uk/making-a-claim/customer-info/banking-licences/?utm_source=openai",
+   "title": "How do banking licences affect FSCS protection? | FSCS"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK FSCS £120,000 joint accounts pots investments e money Monzo goes bust"
+ ],
+ "latency_s": 10.12,
+ "asked_at": "2026-11-21T17:01:29.396709+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

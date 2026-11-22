@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "S1",
+ "run": 2,
+ "text": "You can use Monzo’s **Current Account Switch Service (CASS)**. It transfers your Direct Debits and standing orders, moves the remaining balance, redirects incoming payments such as salary, and closes your old account.\n\n1. **Open a Monzo current account** in the app.\n2. In the app, tap the **+** button and choose **“Switch to Monzo”**.\n3. Follow the prompts. You’ll need details for the account you’re switching from; choose a switch date at least **7 working days** ahead. It can’t be a weekend or bank holiday.\n4. Keep using your old account until the switch date. Avoid setting up new payments on it during the switching period, as they may not be transferred.\n5. Once the switch is complete, check your Direct Debits in Monzo and contact Monzo in the app if any are missing.\n\nBefore starting, make sure your address details match at both banks. Also check whether you have linked accounts or products—such as a joint account or certain savings or investment Pots—that Monzo says may need to be closed before switching. If you want to keep your old account open, check the options in the app: a full CASS switch closes it. \n\nSources: [Monzo’s switching guide](https://monzo.com/switch) · [Current Account Switch Service: personal switching process](https://www.currentaccountswitch.co.uk/the-switching-process-personal/)",
+ "citations": [
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/common-questions-business/",
+   "title": "Common questions"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what/",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/joint-account-switch",
+   "title": "Switching Your Joint Account"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what",
+   "title": "Monzo Help - How a full switch works"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/media/xi4fgpyo/cass_fullguidetoswitching_personal2.pdf",
+   "title": "Your full guide to switching - currentaccountswitch.co.uk"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/the-switching-process-business",
+   "title": "The switching process - Business"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/the-switching-process-personal/",
+   "title": "The switching process - Personal"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/account-switching",
+   "title": "Your easy guide to switching your current account"
+  },
+  {
+   "url": "https://monzo.com/features/pots",
+   "title": "Monzo Pots | Separate Your Money However You Like"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/what-is-a-current-account",
+   "title": "What is a Current Account? A Guide"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17",
+   "title": "A Bank Account for 16-17 Year Olds"
+  }
+ ],
+ "search_queries": [
+  "Monzo switch current account direct debits Current Account Switch Service",
+  "Current Account Switch Service how to switch direct debits 7 working days UK",
+  "Monzo current account switch checklist payments salary direct debits"
+ ],
+ "latency_s": 4.88,
+ "asked_at": "2026-11-21T17:44:03.043192+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

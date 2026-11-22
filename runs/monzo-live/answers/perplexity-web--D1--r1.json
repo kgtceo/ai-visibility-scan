@@ -1,0 +1,51 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "D1",
+ "run": 1,
+ "text": "For everyday spending, Monzo is the best all-round pick if you want an easy-to-use app, spending notifications and fee-free spending abroad; Which? gives it an 85% customer score. If you’d rather earn cashback, consider Chase: it offers 2% on eligible everyday purchases, but you must make 15+ card purchases monthly and keep at least £1,000 in Chase savings to qualify.\nwhich.co",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? Discover the best banks and current accounts as rated both by UK customers and our experts. We help yo"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "moneysavingexpert Best current account offers: Get up to £300 to switch bank Martin Lewis reveals how to compare and switch bank to the best current accounts th"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-current-accounts/",
+   "title": "forbes Best Current Accounts In The UK 2026 Best Current Accounts In The UK For 2026"
+  },
+  {
+   "url": "https://statrys.com/guides/uk/business-banking/best-banks-uk",
+   "title": "statrys Best Banks in the UK: How Do They Compare? Discover the best banks in the UK for everyday current accounts, savings, student accounts, and business bank"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? - Which.co.uk Discover the best banks and current accounts as rated both by UK customers and our exper"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/best-current-accounts",
+   "title": "becleverwithyourcash Best Current Accounts 2026 These are the top picks of the best current accounts in 2025, whether you're looking for more rewards, cashback,"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "title": "finder Best banks and bank accounts UK: A list of top banks 2026 Discover and compare the best banks and bank accounts in the UK. Open the best current account"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-for-cashback-apHnX3k0M1Ui",
+   "title": "which.co Best bank accounts for cashback 2026 - Which? We reveal the current accounts offering the most cashback and rewards on your energy bills, transport cos"
+  },
+  {
+   "url": "https://bankingrating.com/blog/best-banks-in-the-uk/",
+   "title": "bankingrating Best Banks in the UK: Accounts, Fees, Features and What to Compare Compare the best banks in the UK by current-account fees, overdrafts, apps, bra"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 25.13,
+ "asked_at": "2026-11-21T13:01:14.883467+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

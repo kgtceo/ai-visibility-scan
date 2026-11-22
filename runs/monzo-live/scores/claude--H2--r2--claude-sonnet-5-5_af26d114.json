@@ -1,0 +1,141 @@
+{
+ "engine": "claude",
+ "question_id": "H2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "You can pay anywhere in any currency with your Monzo card, fee-free."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can pay anywhere in any currency with your Monzo card, fee-free.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo passes Mastercard's exchange rate on to you with no extra charges.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "If Monzo is your main bank account, withdrawals are unlimited and fee-free in the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA you get £200 every 30 days, then a 3% fee.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "If Monzo isn't your main bank: £400 fee-free per 30 days in UK & EEA, then 3%.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo Plus gets unlimited fee-free in UK & EEA and £400 fee-free per 30 days outside EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover the Plus plan; it is not among the current paid plans listed."
+   },
+   {
+    "text": "Premium, Perks & Max get unlimited fee-free in UK & EEA and £600 fee-free per 30 days outside the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list the plans' prices but not their withdrawal allowances."
+   },
+   {
+    "text": "Some ATMs charge their own fee, which Monzo doesn't receive.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo defines main bank as having your salary paid into Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's own pages do not show a flat £2 fee per withdrawal.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover a £2 fee, though F7 describes a 3% fee after the allowance."
+   }
+  ]
+ },
+ "judge_error": null
+}

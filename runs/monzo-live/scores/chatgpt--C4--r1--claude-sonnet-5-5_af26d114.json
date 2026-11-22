@@ -1,0 +1,112 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Cashback Terms and Conditions | Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase Boost: 4.75% AER variable (4.65% gross) | Chase UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/regular-saver/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Regular Saver | Save monthly at a fixed rate | Chase UK"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo pays the better standard savings rate once Chase’s introductory boost ends."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d pick Chase for everyday spending and first-year easy-access savings."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free Monzo Instant Access pays 2.80% AER variable.",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Monzo's 2.80% beats Chase's standard 2.50%.",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "The Monzo rate matches; the Chase rate is not covered."
+   },
+   {
+    "text": "Monzo Select Access pays 3.45% AER variable if you deposit at least £500 and make no more than two withdrawals per year.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Select Access."
+   },
+   {
+    "text": "Monzo gives retailer-specific offers to activate in the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

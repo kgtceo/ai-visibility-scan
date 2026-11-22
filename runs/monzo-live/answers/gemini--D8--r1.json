@@ -1,0 +1,39 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D8",
+ "run": 1,
+ "text": "According to the independent **Competition and Markets Authority (CMA) / Ipsos personal banking surveys** and consumer champion **Which?**, the \"best\" bank for customer service depends on how you prefer to bank. \n\nFour institutions consistently outperform the rest across the UK:\n\n---\n\n### 1. Best Overall & Best App-Based: **Monzo** & **Starling Bank**\n* **Why they rank top:** In the official CMA service quality surveys, **Monzo** and **Starling** regularly take the #1 and #2 spots for overall personal banking service and mobile experience. \n* **Customer Service Style:** Primarily digital. You resolve issues via secure in-app chat, call lines, or quick automated workflows. Responses are typically prompt, and resolving everyday problems (like card freezes or payment disputes) requires minimal friction.\n* **Best if:** You manage your money entirely on your smartphone and don’t need physical branch access.\n\n---\n\n### 2. Best for 24/7 Telephone & Human Support: **First Direct**\n* **Why it ranks top:** First Direct (a division of HSBC, though operated separately) has topped independent consumer satisfaction tables for decades. It shares top-tier placement in CMA tables alongside Monzo and Starling.\n* **Customer Service Style:** They are renowned for their UK-based, 24/7 phone support. Instead of endless automated menus, your call is typically answered quickly by a real human who can resolve your issue without transferring you around.\n* **Best if:** You value being able to pick up the phone anytime day or night and talk directly to someone helpful. (You can also pay in cash/cheques at HSBC branches or Post Offices).\n\n---\n\n### 3. Best for High-Street Branches: **Nationwide Building Society**\n* **Why it ranks top:** If you need a physical branch to visit, Nationwide consistently outscores traditional high-street banks (Barclays, Lloyds, HSBC, NatWest) by a wide margin. It consistently ranks **#1 for branch service** in the CMA survey.\n* **Customer Service Style:** Nationwide operates as a mutual building society (owned by members, not shareholders). It has maintained a prominent \"Branch Promise\" to protect its branch network and offers friendly, face-to-face support.\n* **Best if:** You regularly handle physical cash, deposit cheques over the counter, or prefer sitting down face-to-face with an advisor.\n\n---\n\n### Who sits at the bottom?\nBy contrast, traditional big-name lenders frequently score below average in official satisfaction tables, with **Royal Bank of Scotland (RBS)** and **Virgin Money** routinely ranking near the bottom for overall customer service quality.\n\n### Summary Recommendation:\n* Prefer a **smartphone app**: Choose **Starling** or **Monzo**.\n* Prefer the **phone**: Choose **First Direct**.\n* Prefer a **local branch**: Choose **Nationwide**.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEyoRu66UUEhO8UYR-h8UgB8Wny9Vms-tdN5Gh_lVX_mfYGVTOSXJ6cFQUwo29ubCgBKaDf4MCh8SIY-7thpK9ZTXEDaMwQOXWOvqTTxodeBS2keoyUjRjbX_y8ypc7GjiUzecyU9eQyGY5Wfq_6whpMeUIHe9Du0Q",
+   "title": "clearscore.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1PTtK_xNSTANc5pcIicyZ2vqd4UHR0EeDoqBhkaFLs4cIGJawZKBkjjJ6s4YmDWiKMKsQ_DSarcm8iI_FLGBQTcgMH0ueRnQ8JUab1WaKFXzIvmNO1B4UzbvdiXb43vdY4jG0Ck5pb_fmravDlsMBM4YZqkhA8sbGLr2rTxBVsA==",
+   "title": "datagardener.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc4rKbfmye_WsUUh6slaWOgcgyHKltE8LPPJ7WJa_oM8YqAV0IxfNDEay3hxIguETrN13re9LB0g3pVNKm2DO2k-2QL5UgziFaM3p2S5LRajA0-Ly4gvnnn_8pUK0g",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNF2VzpsZ8q_KHjdv_1QCIz1Oxy4eoYlywqcT28JlVDv0W4XPp6tD2YK6dEXWGpWk8uISVkxfR25kgX4f0qmhtyGuYXVYAVW-dURlLdOWD1YkHmQFaxo0JmnSsSF5j_B7gst5zVEvcejZXOb5PLfbVX5g=",
+   "title": "lloydsbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2-r_DG2Axxb91cejjEat5WNZ2j3JLTYsQAeGe09hXYgdKNpgS3e8R09hLS3gLiZiXSFLTSkm3k-A7UhHZSzTTcSQ2jBJSgiMyRT4nQEnREEvT_jfXmReLcK0oTdcR_OxbQ-Ykh41RAVSEY8QjStU-nTpCxWtYzpNOqkUtgRqprux7rwB0CeaacpDyEvi40AFXpOcJ5GzfmncnhRJRVb-d1bVbrrcXbA==",
+   "title": "retailbankerinternational.com"
+  }
+ ],
+ "search_queries": [
+  "CMA personal current accounts satisfaction ipsos survey best bank",
+  "Which best bank customer service satisfaction UK"
+ ],
+ "latency_s": 17.0,
+ "asked_at": "2026-11-21T17:50:13.585086+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

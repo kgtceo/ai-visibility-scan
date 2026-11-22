@@ -1,0 +1,118 @@
+{
+ "engine": "chatgpt",
+ "question_id": "S1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/switch?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p2205-switching-guide.pdf?rev=2d10426b78fb44d39f7ab3a2346395f2&utm_source=openai",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Current Account Switch Service | Nationwide"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "A full switch to Monzo through the UK's Current Account Switch Service moves your existing Direct Debits automatically."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "([nationwide.co.uk](https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p2205-switching-guide.pdf"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "A full switch to Monzo through the Current Account Switch Service moves your existing Direct Debits automatically.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching."
+   },
+   {
+    "text": "The switch also moves your standing orders and remaining balance, redirects incoming payments, and closes your old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switch mechanics."
+   },
+   {
+    "text": "Start the switch in the Monzo app: Home → the three dots on your account → Switch to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App navigation not covered."
+   },
+   {
+    "text": "Choose a switch date at least 7 working days away.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "The Switch Guarantee covers charges or interest caused by a switching error.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,159 @@
+{
+ "engine": "perplexity",
+ "question_id": "D8",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.ipsos.com/sites/default/files/PCAGB_3rd_Party_Aug2026_v1.pdf_0.pdf",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality – Great Britain ... - Ipsos"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best banks and bank accounts in UK 2026 - Which?"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality – Great Britain"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/should-you-choose-a-bank-or-a-building-society-for-your-next-mortgage-aSnro7s6NVi0",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Should you choose a bank or a building society for your next ..."
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality"
+  },
+  {
+   "url": "https://www.handelsbanken.co.uk/en/satisfaction-survey",
+   "domain": "handelsbanken.co.uk",
+   "source_type": "other",
+   "title": "Satisfaction survey"
+  },
+  {
+   "url": "https://www.allica.bank/hubfs/pdf/RFIGlobal_UK_BankingandFinance_Awards_Booklet.pdf",
+   "domain": "allica.bank",
+   "source_type": "other",
+   "title": "Defining excellence in UK banking: Insights from the 2026 ..."
+  },
+  {
+   "url": "https://www.instituteofcustomerservice.com/research-insight/ukcsi/",
+   "domain": "instituteofcustomerservice.com",
+   "source_type": "other",
+   "title": "UK Customer Satisfaction Index (UKCSI)"
+  },
+  {
+   "url": "https://www.knutsfordguardian.co.uk/news/national/uk-today/26627375.worst-rated-uk-bank-branches-revealed-google-reviews/",
+   "domain": "knutsfordguardian.co.uk",
+   "source_type": "other",
+   "title": "The UK's lowest-rated bank has been revealed – with queues the biggest complaint"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best banks and bank accounts in UK 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/about/how-we-are-run/results-and-accounts/2025-2026/review-of-the-year-2026.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Review of the Year 2026"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/best-and-worst-banks-revealed",
+   "domain": "moneyweek.com",
+   "source_type": "other",
+   "title": "UK's best and worst banks for current accounts revealed"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "Best banks for customer satisfaction named - where does yours rank?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/big-banks-fail-to-keep-up-with-rates-from-lesser-known-savings-providers-aFg7j1T7dExO",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Big banks fail to keep up with rates from lesser-known savings ..."
+  },
+  {
+   "url": "https://www.statista.com/statistics/876127/current-account-customer-satisfaction-great-britain/",
+   "domain": "statista.com",
+   "source_type": "other",
+   "title": "Great Britain: bank account customer satisfaction 2026 | Statista"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best overall customer score: Starling Bank, at 86% in Which?’s latest survey"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Another good all-round option: Nationwide, also at 84%, with strong online service and branch access."
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C3",
+ "run": 2,
+ "text": "**For most UK travellers, I’d pick Monzo for a trip in Europe**—especially if you already use it as your main bank. Both work well for card spending, but Monzo’s foreign-currency card payments have no extra fee, while Revolut Standard has limits and timing rules to watch.\n\n| | **Monzo** | **Revolut Standard** |\n|---|---|---|\n| **Card purchases** | No Monzo fee; Mastercard’s exchange rate applies | No fee within the £1,000 monthly exchange allowance; 1% above it |\n| **Cash withdrawals in Europe** | If Monzo is your main bank: unlimited fee-free withdrawals in the EEA. Otherwise: £400 per rolling 30 days, then 3% | Fee-free up to £200 or 5 withdrawals per rolling month, whichever comes first; then 2% (minimum £1) |\n| **Things to watch** | The ATM itself may charge a fee | A 1% weekend exchange fee may apply on Standard, and the monthly allowance covers exchanges across currencies and other exchange activity |\n\n**Choose Revolut** if you already use it, mostly pay by card, and expect to stay within its monthly exchange allowance. **Choose Monzo** if you want a simpler option or might need cash—particularly if Monzo is your main account.\n\nEither way, when a card terminal or ATM asks whether to charge you in **pounds or the local currency, choose the local currency**. That usually avoids the retailer’s or ATM’s less favourable conversion rate.\n\nThese are the published terms in the search results; check each app’s current fee page before travelling, as plan terms can change.",
+ "citations": [
+  {
+   "url": "https://help.revolut.com/en-GB/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/",
+   "title": "Currency exchange fees and limits | Revolut United Kingdom"
+  },
+  {
+   "url": "https://www.revolut.com/legal/personal-current-account-fees/",
+   "title": "Personal Fees – All Plans (Current) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/atm-withdrawals/withdrawing-in-other-currencies/",
+   "title": "Fees for cash withdrawals | Revolut United Kingdom"
+  },
+  {
+   "url": "https://www.revolut.com/legal/standard-fees/",
+   "title": "Personal Fees (Standard) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/getting-started-with-card-payments/can-i-pay-in-a-specific-currency/",
+   "title": "Fees for card payments in a foreign currency"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  },
+  {
+   "url": "https://help.revolut.com/help/inactive-faqs/why-did-the-atm-charge-a-fee-for-my-cash-withdrawal/",
+   "title": "Cash withdrawal limits and fees | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://cdn.revolut.com/terms_and_conditions/pdf/personal_fees_standard_80e14d41_2.5.3_1689788021_en.pdf",
+   "title": "Personal Fees (Standard) - Revolut"
+  },
+  {
+   "url": "https://cdn.revolut.com/terms_and_conditions/pdf/personal_fees_all_plans_current_97857c8a_1.1.0_1791978580_en.pdf",
+   "title": "Personal Fees – All Plans (Current)"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK foreign currency card payments ATM fees Europe travel 2026",
+  "Revolut UK card foreign exchange fees ATM limits standard plan 2026",
+  "Monzo vs Revolut travel Europe UK comparison fees"
+ ],
+ "latency_s": 6.92,
+ "asked_at": "2026-11-21T17:41:54.513482+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

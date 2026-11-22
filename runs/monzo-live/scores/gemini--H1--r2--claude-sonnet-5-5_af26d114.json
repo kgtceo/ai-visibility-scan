@@ -1,0 +1,159 @@
+{
+ "engine": "gemini",
+ "question_id": "H1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwfDAaznIc7uNFBVmxZun5eUtiomEWUmkEDr2xQJ5MNrhUMw4n_HdOmhhaa7DEXLFZJqHMCDnxHvPRe6o4Zlf71Q0kiyyOa5uTK5r4UkdHMX8gWRpuC-Ju6DAA8pR1l3oiDlFlpOFJu85UlFj771DoFsZcg1TuPw==",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiOm_59uKyiDlfr1QXZfPmId9REhRm0vvt_WeKIbF3cFvs5OWKzihQnZRjpvsm7FOYqdKCALUQq9FwF-SsUlLDVO_XYzjlmxDmQLOoZ3h7gUjRVn-UU80KtEPhNRMcEfSARg==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuwVrGTrGJBKb6mXULJRWXmoA5UGuXS8FB-ZTeUh2H9uI35zsSZ3uODfqdPH3Zgn3foSFiXHAbpM9wHZt-mtNY4o0rRspS4TDdDKEzv0qKfVf1PMRGUoxyJHAr4FqXd0XX_x2euIYAEgv-Wluc1T29",
+   "domain": "delphina.money",
+   "source_type": "other",
+   "title": "delphina.money"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGniQXFwVMfq9uLLwWbYdvi_4gwFa4d3nBzx2Oak8Gh9RKmfiUhW1-fQtcsA6AeybdUFr9pCcZ-soJobeThLqM_HZJ-STpH1tkFxEmogFF24YetYPluEdVzgPfU8A==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr79tDYQrtwvjgr-WatanCJCrLry7O_ku47Zi9IPXG6fQrnI2Rphl7AVVX_ye3cK4QB2A7Bn4lNxAPcr1onOxtow22ga-_34pxQYWPh4TjZ7WK94kg3UDGGMQGh9SqDFOQGXJ4v3EedDGSskFy0l7OtuTPLQ==",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECY4pMBIS3Mo4BTjK00yR-su1bcUbV3_G_gek5wh9VCkMmUb0UdXVdOxSkvo_sYTWKGLcoGIJAuCLZszf3sC2EkYOvF-cP1Oa5ckMkjt6tZBp8-ue_T4fDq7nySMTEM6I=",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "coolcuration.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo’s free tier is already one of the best current accounts in the UK"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Extra costs £3/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Extra at £3 a month."
+   },
+   {
+    "text": "Monzo Perks costs £9/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Perks at £9 a month."
+   },
+   {
+    "text": "Monzo Max costs £19/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Facts say Max from £19 a month; the claim matches the starting price."
+   },
+   {
+    "text": "Monzo offers three paid tiers: Extra, Perks, and Max",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches the three current paid plans."
+   },
+   {
+    "text": "Monzo's free tier is already one of the best current accounts in the UK",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Opinion; no fact covers it."
+   },
+   {
+    "text": "Perks includes a free weekly Greggs treat and an annual National Railcard",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Perk details not covered by facts."
+   },
+   {
+    "text": "Perks includes boosted interest rates on savings pots",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only give the free plan savings rate."
+   },
+   {
+    "text": "Perks includes higher fee-free cash withdrawals abroad and 3 fee-free cash deposits per month via PayPoint",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only free plan withdrawal limits."
+   },
+   {
+    "text": "Max is £23/month with Family cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Family cover price not covered by facts."
+   },
+   {
+    "text": "Extra includes unlimited connected external accounts, virtual cards linked to Pots, auto-export to Google Sheets and enhanced credit insights",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Extra features not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

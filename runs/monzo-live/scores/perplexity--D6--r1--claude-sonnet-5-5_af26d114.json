@@ -1,0 +1,152 @@
+{
+ "engine": "perplexity",
+ "question_id": "D6",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexAccount current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Open current account online"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/santander-edge-up-current-account",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Santander Edge Up current account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect Product Terms"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/current-accounts/santander-edge-current-account",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Santander Edge current accounts"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Interest rates & charges"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.santander.co.uk/assets/s3fs-public/AD_documents/Interest_rates_and_fees_for_current_accounts_BANK0501JAN26PUBCDT.pdf",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Interest rates and fees for current accounts"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Compare our everyday bank accounts"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/high-interest-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best High-Interest Current Accounts In The UK 2026"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect-up-to-8-sep-26.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect Product Terms"
+  },
+  {
+   "url": "https://goodmoneyguide.com/savings/interest-paying-savings-accounts/",
+   "domain": "goodmoneyguide.com",
+   "source_type": "other",
+   "title": "Highest Interest Paying Bank Accounts November 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect appears to be the best deal in the results I have: 5% AER fixed for 12 months"
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

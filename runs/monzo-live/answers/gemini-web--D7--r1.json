@@ -1,0 +1,27 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "D7",
+ "run": 1,
+ "text": "The best bank account for a UK sole trader or small business depends heavily on how you handle payments, whether you need built-in accounting software for Making Tax Digital (MTD), and if you deposit physical cash.\n\nFor most digital-first businesses, Starling Bank and Mettle (by NatWest) are the strongest all-round choices because they charge zero monthly fees and include free UK bank transfers.   \nAccountingStack\n\nTop UK Business Bank Accounts Compared\nProvider\tBest For\tMonthly Fee\tUK Transfers\tCash Deposits\tFSCS Protected?\nStarling Bank\tBest overall (Sole Traders & Ltds)\t£0\tFree\t0.7% (£3 min) via Post Office\tYes (up to £120k)\nMettle (by NatWest)\tBest for free accounting software\t£0\tFree\t£2.75 flat fee at Post Office\tNo (e-money safeguarded)\nMonzo Business\tBest for tax pots & budgeting\t£0 (Lite) / £9 (Pro)\tFree\t£1 flat fee (PayPoint / Post Office)\tYes (up to £120k)\nTide\tFast sign-up & extra admin tools\t£0 (Lite) / £12.49+\t5 free/mo, then 20p\tVaries (PayPoint / Post Office)\tMixed (ClearBank is protected; e-money isn't)\nVirgin Money M Account\tHigh street backing with no fee\t£0\tFree\tBranch / Post Office fees apply\tYes (up to £120k)\nWise Business\tInternational clients & multi-currency\t£0 (£50 one-off setup for full details)\tLow/free domestic\tNot supported\tNo (e-money safeguarded)\nWhich One Should You Pick?\n\nPick Starling Bank if you want the best all-rounder: You get full UK banking protection (FSCS up to £120,000), free domestic transfers, separate \"Spaces\" to set aside tax money, and free feeds into Xero, QuickBooks, and FreeAgent. If you already hold a personal Starling account, you can manage both in the same app.   \nBusinessComparison\n\nPick Mettle if you want to save on accounting software: Backed by NatWest, Mettle includes FreeAgent (usually ~£19/month) completely free as long as you make at least one transaction a month. This is especially valuable for Making Tax Digital (MTD) quarterly submissions. (Note: Mettle operates under an e-money licence rather than a full banking licence, so funds are safeguarded rather than FSCS-protected.)   \nAccountingStack\n+ 2\n\nPick Monzo Business Pro (£9/month) if you want automated tax admin: While the free Lite tier covers basic banking, upgrading to Pro unlocks automatic Tax Pots (which automatically sweep a percentage of incoming payments into a separate pot for HMRC), integrated invoicing, and live accounting software syncs.   \nBusinessComparison\n\nPick Virgin Money M Account or NatWest if you want a traditional bank: Virgin Money offers permanent fee-free digital banking with 0.25% cashback on debit card spend and branch access. NatWest offers up to 24 months of free banking for startups/switchers plus free FreeAgent, though standard monthly and transaction fees kick in after the introductory period.   \nForbes\n+ 1\n\nPick Wise Business if you invoice in USD, EUR, or other currencies: High street and UK digital banks typically charge 1%–3% on foreign exchange. Wise gives you local bank details in multiple currencies and converts money at the mid-market exchange rate for a tiny transparent fee.   \nBusinessComparison\n\nTwo Quick Tips Before You Apply\n\nSole trader vs. Limited Company: If you are a sole trader, you aren't legally required to have a business account, though most personal banks prohibit using a personal account for business in their T&Cs. If you are a Limited Company, you must open a separate business account in the company's name.\n\nWatch out for FSCS limits: If you are a sole trader and hold both your personal and business accounts with the same bank (e.g., Starling or Monzo), the £120,000 FSCS protection limit applies to your combined balances across both accounts.   \nBusinessComparison\n\nTo help narrow this down, are you trading as a sole trader or a Limited Company, and do you expect to deposit much physical cash or handle foreign currencies?",
+ "citations": [
+  {
+   "url": "https://accountingstack.co.uk/sme-directors/best-business-bank-accounts-sole-traders/",
+   "title": "AccountingStack Best business bank accounts for sole traders UK 2026 “Monzo's fee information, version 1.16 dated 18 August 2026, lists Lite at £0, Pro at £9 a"
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/best-business-bank-accounts-sole-traders",
+   "title": "BusinessComparison Best Bank Accounts for Sole Traders 2026 - BusinessComparison “* FSCS protection: Since December 2025, the FSCS limit has increased to £120,0"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "title": "Forbes Best Sole Trader Bank Accounts In The UK 2026 - Forbes “ Credit available subject to status. Why We Picked It. The Virgin Money M business account has no"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 39.25,
+ "asked_at": "2026-11-21T13:32:36.982703+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

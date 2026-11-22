@@ -1,0 +1,123 @@
+{
+ "engine": "gemini-web",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1lsf2lw/never_thought_it_would_happen_to_me_but_here_i_am/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "Reddit Never thought it would happen to me but here I am - Account Closed. “ Poor service and badly thought out processes to me. The app is great, the features"
+  },
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/monzo/",
+   "domain": "consumer-rights.org",
+   "source_type": "other",
+   "title": "Consumer Rights How to Complain About Monzo | Consumer Rights “In July 2025 the FCA fined Monzo £21.1m for financial-crime control failings. Complaints go throu"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-6221672.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Financial Ombudsman Service Decision Reference DRN-6221672 - Financial Ombudsman Service “That money was awarded because Monzo knew about Mr C's vulnerabilities"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "negative",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "negative"
+    },
+    "evidence": "While Monzo is widely praised in the UK for its budgeting tools and user-friendly app, customer complaints generally fall into a few recurring categories"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo was fined £21.1m by the FCA in July 2025 over past financial crime control failings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers fines."
+   },
+   {
+    "text": "free-tier users face strict limits and fees for depositing cash (via PayPoint) and withdrawing cash abroad",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free plan has a £200 allowance outside the EEA, then a 3% fee; cash deposit limits are not covered."
+   },
+   {
+    "text": "Monzo's paid tiers are Extra, Perks and Max",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match."
+   },
+   {
+    "text": "higher savings interest rates are increasingly locked behind paid tiers",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the free-plan rate."
+   },
+   {
+    "text": "Monzo is digital-only with no physical branches",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Financial Ombudsman Service data has previously highlighted a relatively high overturn rate for Monzo's fraud decisions",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers FOS data."
+   },
+   {
+    "text": "Monzo issues 60-day closure notices and refuses to explain why accounts are flagged or closed",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

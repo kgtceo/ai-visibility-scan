@@ -1,0 +1,51 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "C1",
+ "run": 1,
+ "text": "**Starling is the best of the three as a main account for most people.** Revolut is the better pick if you travel a lot or want one app for everything. Chase works better as a second account that earns cashback.\n\n**Starling**\n- It's a full UK bank with FSCS protection, and sources often recommend it as a main account. Starling is the most consistently recommended digital bank for use as a main current account.\n- It's the only one of the three that handles cash and cheques. Revolut and Chase don't accept cash at all.\n- Overseas, ATM withdrawals abroad have no fee and no monthly cap.\n- It has no cashback, and its savings rates are modest. Its 2.5% easy-access rate is described as the weak link.\n- It's also GBP-only, so there's no native multi-currency holding.\n\n**Revolut**\n- The old objection was that it wasn't a proper bank. That has changed. As of March 2026, Revolut Bank UK Ltd is fully licensed in the UK and regulated by the PRA and FCA. Eligible deposits are protected by the FSCS up to £120,000 per person.\n- It's the best for multi-currency use, travel and having everything in one app. Its useful extras sit behind paid tiers, though.\n- On the free tier, ATM withdrawals abroad are free up to £200 a month, then cost 2%.\n- Its savings are not covered the same way. Savings balances are still provided by Revolut Ltd, not the bank entity, so check the FSCS position on those.\n- It's newly a bank, so some bank features are still rolling out. You may want to wait and see how well it handles lending and overdrafts.\n\n**Chase**\n- It's free and app-only, backed by J.P. Morgan. It pays 2% cashback up to £20 a month on groceries, dining, transport, fuel and EV charging.\n- There are conditions. You must make 15 card or Direct Debit payments and keep £1,000 in Chase savers every day of the previous month.\n- The current account pays no interest. Savings rates vary. The standard saver pays 2.25% AER, and the Boosted Saver pays 4.5% for 12 months for eligible new customers. The rates I found differ a little between sources, so check the Chase site for today's figures.\n- It has no cash deposits, no multi-currency and a narrower product range, so it's weaker as the only account.\n\n**Which to pick**\n- **Starling as your main account** if you want something simple and reliable that also handles cash, cheques and joint accounts.\n- **Revolut as your main account** if you travel often, hold other currencies, or want trading and budgeting in the same app.\n- **Chase alongside either** if you want the cashback and savings, and can meet the conditions without changing how you spend.\n\nA common setup is Starling for salary and bills, plus Chase for everyday spending. It's also worth keeping a second account whichever you choose, in case one app has an outage or freezes your account.\n\nIf you tell me whether you travel, deal with cash, or want a joint account, I can narrow it down.",
+ "citations": [
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/online-banks-guide/",
+   "title": "Online and Digital Banks UK — Monzo, Starling, Revolut and Chase ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "title": "Is Revolut a fully licensed bank in the UK? Here’s what's changed ..."
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/",
+   "title": "It's official — Revolut is now a bank in the UK"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "title": "Chase UK Review: 2% Cashback Rules and Every Rate Checked"
+  },
+  {
+   "url": "https://bankingrating.com/blog/chase-uk-review-cashback-savings-rates-credit-card/",
+   "title": "Chase UK Review 2026: Cashback"
+  }
+ ],
+ "search_queries": [
+  "Starling vs Revolut vs Chase UK main account comparison",
+  "Revolut UK bank licence full launch FSCS 2026",
+  "Chase UK cashback savings rate current account 2026"
+ ],
+ "latency_s": 13.11,
+ "asked_at": "2026-11-21T16:46:35.504487+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D3",
+ "run": 1,
+ "text": "When it comes to budgeting and saving pots in the UK, the app-based digital banks are vastly superior to traditional high-street banks. \n\nThe top three contenders are **Monzo**, **Starling Bank**, and **Chase UK**. Which one is \"best\" depends on whether you value automated budgeting, free utility (like paying bills from pots), or earning the best interest rate.\n\n---\n\n### 1. Monzo — *Best Overall for Budgeting & Visual Management*\nMonzo essentially pioneered the concept of \"Pots\" and still offers the most comprehensive budgeting experience.\n\n* **Pots Features:**\n  * **Salary Sorter:** As soon as you get paid, a prompt lets you drag-and-drop portions of your salary into different pots (e.g., rent, groceries, holiday savings) and leave only your discretionary spending in your main balance.\n  * **Bill Pots:** You can schedule Direct Debits and standing orders to come straight out of a specific pot, preventing you from accidentally spending bill money.\n  * **Savings Interest:** Monzo connects to third-party banks in-app, allowing you to open easy-access or fixed-term savings pots that earn competitive market interest.\n  * **Round-ups:** Rounds your spare change to the nearest pound and sends it into a pot automatically.\n* **Budgeting Tools:** Excellent real-time spending breakdowns, notifications the second you spend, and monthly target budgets by category.\n* **The Catch:** Some of the most powerful features—such as custom spending categories, auto-exporting to Google Sheets, and virtual cards linked directly to pots—are locked behind their paid tiers (*Monzo Extra* / *Perks* / *Max*).\n\n---\n\n### 2. Starling Bank — *Best Completely Free Experience*\nStarling calls its pots **\"Spaces\"**, and unlike Monzo, almost all of its advanced features are **100% free** without any monthly subscription.\n\n* **Spaces Features:**\n  * **Bills Manager:** Direct Debits and standing orders can be assigned directly to a Space, so your bill money is separated from your day-to-day spending.\n  * **Virtual Cards Linked to Spaces (Free):** You can create virtual cards (Apple/Google Pay or online) and tie them directly to a specific Space. For instance, you could have a \"Groceries\" space and tap with that virtual card so the money only comes from that space.\n  * **Round-up Multiplier:** Rounds up purchases with optional 2x, 5x, or 10x multipliers to boost your savings faster.\n* **Budgeting Tools:** The \"Spending\" tab automatically categorises your spending and gives clear pie charts and month-on-month trend comparisons.\n* **The Catch:** It doesn't have an automated \"Salary Sorter\" like Monzo (you have to set up scheduled transfers into Spaces manually), and its savings interest rates are generally a bit lower than dedicated savings accounts.",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 22.55,
+ "asked_at": "2026-11-21T17:46:30.132629+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

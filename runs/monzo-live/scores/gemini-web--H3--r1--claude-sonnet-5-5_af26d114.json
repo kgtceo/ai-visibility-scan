@@ -1,0 +1,141 @@
+{
+ "engine": "gemini-web",
+ "question_id": "H3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "DepositScout Monzo Savings Rates 2026: Up to 5.25% AER - Banks - DepositScout “£434VariableMin £1. 5.00% AER. Learn More Visit. Table_title: Easy Access Table_c"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Abel Monzo Savings Pot Interest Rates: 2.75% to 4.70% by Plan | Abel “There is no minimum deposit, you can withdraw at any moment, and you can hold up to £1,000"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "The Finance Lowdown Monzo Review: Plans, Savings Rates & Catches (2026) | FLD “Table_title: Fees and savings rates by plan Table_content: | Plan | Monthly fee |"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo UK savings interest rates range from 2.80% to 5.25% AER depending on the type of savings pot you choose"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Free: 2.80% AER",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan Instant Access rate."
+   },
+   {
+    "text": "Monzo Extra (£3/month)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra price matches."
+   },
+   {
+    "text": "Monzo Perks (£9/month)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Perks price matches."
+   },
+   {
+    "text": "Monzo Max (£19/month)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Max from £19 a month; matches."
+   },
+   {
+    "text": "Monzo Extra: 3.15% AER; Perks: 3.55% AER; Max: 3.80% AER on Instant Access",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover the free plan rate."
+   },
+   {
+    "text": "Select Access rates of 3.45% (Free & Extra) and 3.70% (Perks & Max), £500 minimum deposit",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Select Access."
+   },
+   {
+    "text": "Fixed rates: 1-year 4.70%, 2-year 5.10%, 3-year 5.25% AER",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers fixed rates."
+   },
+   {
+    "text": "1p Saving Challenge pot earns 5.00% AER",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Regular Pots and current account balances pay 0% interest",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Instant Access interest is paid monthly with unlimited instant withdrawals and no minimum deposit",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,303 @@
+{
+ "engine": "grok",
+ "question_id": "T4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/legal-stuff/make-complaint-web"
+  },
+  {
+   "url": "https://monzo.com/help/payments-troubleshooting/frozen-card-payment",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-troubleshooting/frozen-card-payment"
+  },
+  {
+   "url": "https://www.monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/help/monzo-for-under-16s/under-16s-freeze-replace-card"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/10/18/watchdog-response",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/10/18/watchdog-response"
+  },
+  {
+   "url": "https://community.monzo.com/t/blocked-monzo-account/171981",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/blocked-monzo-account/171981"
+  },
+  {
+   "url": "https://www.moneyhelper.org.uk/en/blog/everyday-money/frozen-bank-account-what-to-do",
+   "domain": "moneyhelper.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.moneyhelper.org.uk/en/blog/everyday-money/frozen-bank-account-what-to-do"
+  },
+  {
+   "url": "https://monzo.com/supporting-customers/third-party-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/supporting-customers/third-party-access"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-freeze-my-account/104428",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/monzo-freeze-my-account/104428"
+  },
+  {
+   "url": "https://community.monzo.com/t/account-blocked-after-transfer-of-savings-to-monzo/194896",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/account-blocked-after-transfer-of-savings-to-monzo/194896"
+  },
+  {
+   "url": "https://customerservicenumber.co.uk/company/monzo",
+   "domain": "customerservicenumber.co.uk",
+   "source_type": "other",
+   "title": "https://customerservicenumber.co.uk/company/monzo"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-general-info/us-contacting-customer-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-general-info/us-contacting-customer-support"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/faq"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/your-account-is-under-review",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/account-and-profile/your-account-is-under-review"
+  },
+  {
+   "url": "https://www.monzo.com/legal/terms-and-conditions/version-2-0",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/terms-and-conditions/version-2-0"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-complaint",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/getting-extra-support/help-complaint"
+  },
+  {
+   "url": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/account-closed-and-funds-frozen/171708"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/legal-stuff/make-complaint-web/"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-extra-support/contact-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/getting-extra-support/contact-support"
+  },
+  {
+   "url": "https://monzo.pissedconsumer.com/customer-service.html",
+   "domain": "monzo.pissedconsumer.com",
+   "source_type": "other",
+   "title": "https://monzo.pissedconsumer.com/customer-service.html"
+  },
+  {
+   "url": "https://pennyplan.co.uk/monzo-debt-help-advice/",
+   "domain": "pennyplan.co.uk",
+   "source_type": "other",
+   "title": "https://pennyplan.co.uk/monzo-debt-help-advice/"
+  },
+  {
+   "url": "https://www.consumer-rights.org/complaints/finance/monzo/",
+   "domain": "consumer-rights.org",
+   "source_type": "other",
+   "title": "https://www.consumer-rights.org/complaints/finance/monzo/"
+  },
+  {
+   "url": "https://monzo.com/help/app-help/contacting-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/app-help/contacting-support"
+  },
+  {
+   "url": "https://monzo.com/ie/help/under-16s-accounts-teen/u16-declined-payments",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/under-16s-accounts-teen/u16-declined-payments"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-account-letters",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-account-letters"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-account-closure",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/keeping-your-account-secure/help-account-closure"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-mobile/monzo-mobile-complaints",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-mobile/monzo-mobile-complaints"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-card-pin/account-blocked",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-card-pin/account-blocked"
+  },
+  {
+   "url": "https://monzo.com/ie/help/closing-or-leaving-monzo/help-money-closed",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/closing-or-leaving-monzo/help-money-closed"
+  },
+  {
+   "url": "https://www.banks.guide/compare/complaints/monzo/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/complaints/monzo/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts"
+  },
+  {
+   "url": "https://www.cityam.com/revolut-barclays-and-monzo-top-fraud-complaints-ranking/",
+   "domain": "cityam.com",
+   "source_type": "news",
+   "title": "https://www.cityam.com/revolut-barclays-and-monzo-top-fraud-complaints-ranking/"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Contact support in the app — this is the main route. Chat is available 24/7 for urgent issues"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo can temporarily restrict or freeze an account to protect customers and meet legal duties around fraud and financial crime.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account restrictions."
+   },
+   {
+    "text": "Monzo says most reviews take a couple of hours and almost all are done within two days.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Review times not in facts."
+   },
+   {
+    "text": "Chat is available 24/7 for urgent issues; non-urgent support is generally 7am–8pm.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Support hours not in facts."
+   },
+   {
+    "text": "Call Monzo free on 0800 088 4040 (from abroad +44 20 3872 0620) or email help@monzo.com.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Contact details not in facts."
+   },
+   {
+    "text": "Complaints can be made by emailing complaints@monzo.com or writing to Broadwalk House, 5 Appold Street, London EC2A 2AG; Monzo aims to acknowledge within 3 business days and respond within 15 days to 8 weeks.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaints process not in facts."
+   },
+   {
+    "text": "A wellbeing team reachable via 'Share with us' is separate from the review team and cannot change the review outcome.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

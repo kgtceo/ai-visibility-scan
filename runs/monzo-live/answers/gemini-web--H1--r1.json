@@ -1,0 +1,39 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "H1",
+ "run": 1,
+ "text": "Monzo’s paid plans (Extra, Perks, and Max) are only worth it if you naturally use the bundled subscriptions or insurances you would otherwise pay for out of pocket. Following Monzo's August 2026 price increases, the savings interest boosts alone require large balances to break even—especially when top UK easy-access accounts outside Monzo often pay higher rates.   \nReferral Plug\n+ 1\n\nPlan Breakdown & Costs\nFeature\tFree (£0/mo)\tExtra (£3/mo)\tPerks (£9/mo)\tMax (£19/mo)\nAnnual Cost\t£0\t£36\t£108\t£228 (£276 w/ Family)\nInstant Access Savings\t2.80% AER\t3.15% AER\t3.55% AER\t3.80% AER\nSelect Access Savings\t3.45% AER\t3.45% AER\t3.70% AER\t3.70% AER\nMoney Tools\t1 virtual card, 1 external bank\t5 virtual cards, unlimited banks, custom categories, Google Sheets sync\tEverything in Extra\tEverything in Perks\nLifestyle Perks\tNone\tNone (entry to Billsback draw)\tAnnual Railcard, weekly Greggs, monthly Vue ticket, Uber One, YouTube Premium Lite\tEverything in Perks\nInsurances\tNone\tNone\tNone\tWorldwide travel & phone insurance + RAC UK/Europe breakdown\nMinimum Term\tNone\tNone\tNone\t3 months\nVerdict by Tier\n\nMonzo Extra (£3/month — £36/year): Worth it for power budgeters. If you rely on multiple virtual cards linked to Pots to ring-fence subscriptions, want live Google Sheets exports, or track multiple bank accounts in one place, £3/month is a modest fee. However, if you just want the 0.35% Instant Access rate boost, you need roughly £10,300 saved in Monzo just to break even on the £36 fee.   \nDelphina Money\n+ 2\n\nMonzo Perks (£9/month — £108/year): Worth it only if you already use at least two of the lifestyle perks. Following the price jump from £7 to £9/month, Monzo added YouTube Premium Lite (worth £7.99/month) alongside the annual Railcard (£35/year value), Uber One (£49.99/year value), monthly Vue cinema ticket, and weekly Greggs treat. Using the Railcard plus YouTube Premium Lite or a regular Greggs/Vue habit easily clears the £108 annual cost. Relying purely on the savings rate bump requires over £14,000–£21,000 in Instant Access savings to break even.   \nDelphina Money\n+ 2\n\nMonzo Max (£19/month — £228/year): Worth it for frequent travellers who want bundled cover. The £10/month step up from Perks (£120/year extra) buys Zurich worldwide travel insurance, Assurant phone insurance, and RAC UK/European breakdown cover. Buying standalone annual worldwide travel insurance, gadget cover, and European breakdown cover separately typically costs £150–£250+ per year, making Max competitive—especially if you add family cover for £4/month extra. Just watch for the 3-month minimum term and check policy exclusions (like pre-existing medical conditions or gadget excess fees) before cancelling existing policies.   \nDelphina Money\n+ 3\n\nThe Bottom Line\n\nStick with Monzo Free (which already includes fee-free card spending abroad, 1 virtual card, and 3.45% AER on Select Access savings) unless you specifically want multiple virtual cards (Extra) or will actively redeem the Railcard, YouTube/Uber subscriptions, and travel insurance (Perks / Max). Also check competitors like Nationwide FlexPlus (£18/month for worldwide family travel, phone, and breakdown cover) if insurance is your main goal.   \nMoneySuperMarket",
+ "citations": [
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "title": "Referral Plug Is Monzo Max worth it? £19/month, Max vs Perks vs Extra (2026) “Which plan should you choose? Most people: stay on Free. The core app is identical"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "Abel Are Monzo's Paid Plans Worth It? Extra, Perks, Max - Abel “Yes. All rates are variable. Max Family adds a family member to the Max insurance cover for £4 a"
+  },
+  {
+   "url": "https://delphina.money/comparison/delphina-vs-monzo/pricing",
+   "title": "Delphina Money Monzo plans 2026: Free, Extra, Perks and Max compared “Monzo plans compared: what each tier costs and includes. Monzo has four UK personal plans."
+  },
+  {
+   "url": "https://coolcuration.com/monzo-perks-price-increase",
+   "title": "CoolCuration Monzo Perks Price Increase 2026: Every New Plan Price “Two pounds a month, one new streaming perk, and a deadline in October. Monzo is putting Perk"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Monzo Max | Get More Life for Your Money | from £19 a Month “Partner perks worth over £300 a year. including YouTube Premium Lite membership, a weekly Gre"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "title": "MoneySuperMarket Monzo Bank Current Accounts - MoneySuperMarket “It offers a free current account, as well as paid account plans with extra features and benefit"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 37.34,
+ "asked_at": "2026-11-21T13:37:38.552150+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

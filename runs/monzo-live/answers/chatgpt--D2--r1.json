@@ -1,0 +1,26 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D2",
+ "run": 1,
+ "text": "**I’d pick Monzo’s free current account** if you want an app-based bank for your salary, bills and everyday spending. Its most useful feature is Salary Sorter: on payday, you can set aside money for rent and bills in separate Pots, so it’s clear what’s left to spend. You also get spending categories and alerts without paying a monthly fee. ([monzo.com](https://monzo.com/current-account?utm_source=openai))\n\n**I’d choose Starling instead if you regularly take out cash outside the UK and European Economic Area.** Both banks let you pay by card abroad without charging a foreign transaction fee. The difference is at the cash machine: free Monzo charges 3% after the first £200 withdrawn in a rolling 30-day period outside the EEA. Starling charges no withdrawal fee of its own, up to its £300 daily limit, though the ATM operator may charge. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))\n\n**I’d try the app before moving your salary.** Open the account, use it for a week of normal spending, then decide. If you like it, the Current Account Switch Service moves your balance, Direct Debits and standing orders in seven working days and closes your old account. You’ll need to update subscriptions charged to your old *card* yourself. ([monzo.com](https://monzo.com/current-account?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK free current account pots budgeting cash deposits travel fees UK switching CASS",
+  "site:starlingbank.com personal cash deposits £1000 free post office calendar year"
+ ],
+ "latency_s": 13.98,
+ "asked_at": "2026-11-21T16:52:45.126098+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

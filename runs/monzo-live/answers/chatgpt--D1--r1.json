@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D1",
+ "run": 1,
+ "text": "**I’d pick the Chase UK current account for everyday debit-card spending if you can comfortably keep £1,000 in Chase savings and make 15 payments a month.** There’s no monthly account fee, and you get **2% cashback** on eligible UK spending, including groceries, cafés, restaurants, takeaways, everyday transport, fuel and public EV charging. Spend £500 a month in those categories and you’d earn **£10 back**; at £1,000 you’d hit the **£20 monthly cap**. Other shopping doesn’t earn cashback. ([which.co.uk](https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-bank-accounts-for-cashback-apHnX3k0M1Ui?utm_source=openai))\n\n**The catch:** New customers get cashback for the rest of the month they join and the whole of the next month. After that, eligibility depends on the **previous calendar month**: you must have kept at least £1,000 across your Chase saver accounts **every day** and made at least 15 payments by Chase card or Direct Debit. Money in the current account doesn’t count towards the £1,000. ([chase.co.uk](https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/?utm_source=openai))\n\n**If you’d rather not track those conditions, I’d pick Starling instead.** It has no monthly fee, and you can set bill money aside in a separate “Space” and pay bills directly from it. That makes it easy to see what’s actually left to spend. ([starlingbank.com](https://www.starlingbank.com/current-account/))",
+ "citations": [
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-bank-accounts-for-cashback-apHnX3k0M1Ui?utm_source=openai",
+   "title": "Best bank accounts for cashback 2026 - Which?"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/?utm_source=openai",
+   "title": "Cashback Terms and Conditions | Chase UK"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account | Starling"
+  }
+ ],
+ "search_queries": [
+  "best UK current account for everyday spending cashback November 2026 Chase Santander Edge NatWest debit card cashback UK everyday spending Chase official 1%",
+  "site:chase.co.uk cashback joined two months 15 payments 2% cashback terms chase 2026"
+ ],
+ "latency_s": 18.34,
+ "asked_at": "2026-11-21T16:52:14.425827+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

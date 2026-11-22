@@ -1,0 +1,177 @@
+{
+ "engine": "perplexity",
+ "question_id": "S1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/common-questions-business/",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "Common questions"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/joint-account-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switching Your Joint Account"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - How a full switch works"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/media/xi4fgpyo/cass_fullguidetoswitching_personal2.pdf",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "Your full guide to switching - currentaccountswitch.co.uk"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/the-switching-process-business",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "The switching process - Business"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/the-switching-process-personal/",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "The switching process - Personal"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/account-switching",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Your easy guide to switching your current account"
+  },
+  {
+   "url": "https://monzo.com/features/pots",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Pots | Separate Your Money However You Like"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/what-is-a-current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What is a Current Account? A Guide"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "A Bank Account for 16-17 Year Olds"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "You can use Monzo’s Current Account Switch Service (CASS). It transfers your Direct Debits and standing orders"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo supports the Current Account Switch Service (CASS), which transfers Direct Debits and standing orders, moves the remaining balance, redirects incoming payments and closes the old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching."
+   },
+   {
+    "text": "In the Monzo app, tap the + button and choose 'Switch to Monzo'.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App steps not covered by facts."
+   },
+   {
+    "text": "Choose a switch date at least 7 working days ahead; it can't be a weekend or bank holiday.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Linked accounts or products such as a joint account or certain savings or investment Pots may need to be closed before switching.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

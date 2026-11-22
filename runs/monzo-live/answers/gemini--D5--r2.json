@@ -1,0 +1,51 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D5",
+ "run": 2,
+ "text": "At age 16 in the UK, you cross an important financial milestone: **you can open a proper current account independently** without needing parental permission or linked parental accounts. You’ll receive a full debit card, and because you're under 18, banks won’t allow you to go into an unarranged overdraft, meaning you can't accidentally run up debt.\n\nThe best first bank accounts for a 16-year-old generally fall into two categories depending on your preferences:\n\n---\n\n### 1. Best Digital / App-Based Accounts (Top Picks for Everyday Spending)\n\nApp-based banks offer the best user experience, budgeting tools, and are the easiest to set up independently from your phone.\n\n#### **Starling Bank (Teen Account, ages 16–17)**\n* **Why it’s great:** Consistently rated the UK’s top bank for customer satisfaction by *Which?*. The account transitions into a regular adult account when you turn 18.\n* **Key Features:**\n  * **Fee-free abroad:** Perfect for school trips or holidays; no extra transaction fees or exchange rate markups when using your card overseas.\n  * **Spaces:** Separate savings pots where you can stash money away with automatic round-ups.\n  * **Zero fees:** Completely free with no monthly subscription.\n  * Apple Pay, Google Pay, and instant spending notifications.\n\n#### **Monzo (16–17 Account)**\n* **Why it’s great:** Extremely popular among teens and students, making it the easiest way to split bills, send money, or get paid back by friends.\n* **Key Features:**\n  * **Budgeting tools:** Built-in \"Pots\" to manage money, categorise spending, and set limits.\n  * Access to interest-earning savings pots.\n  * Instant notifications whenever money enters or leaves your account.\n  * Fee-free spending abroad (at Mastercard’s exchange rate).\n\n---\n\n### 2. Best High-Street & Savings-Focused Accounts\n\nIf you need a branch you can walk into to deposit cash/cheques, or you want high interest on your savings, traditional building societies and banks are best.\n\n#### **Nationwide FlexOne (ages 11–17)**\n* **Why it’s great:** Often considered the best high-street option because of its linked savings perks.\n* **Key Features:**\n  * **FlexOne Saver:** Gives you access to a dedicated savings account with a competitive interest rate.\n  * **Branch network:** You can walk into any Nationwide branch for help or to deposit cash.\n  * Fee-free spending abroad (Nationwide does not charge foreign transaction fees on FlexOne).\n  * Account stays open until you turn 23 before moving to an adult account.\n\n#### **NatWest Adapt (ages 11–17)**\n* **Why it’s great:** A reliable classic high-street bank with one of the best mobile apps among traditional providers.\n* **Key Features:**\n  * Can be opened online independently at 16 with ID.\n  * Pays a small amount of interest on your current account balance.\n  * Great security features, including the ability to generate a cash-withdrawal code from the app if you lose your card.\n\n#### **Santander 1|2|3 Mini (ages 13–17)**\n* **Why it’s great:** Earns interest on everyday balances (often tiered up to £2,000), making it a solid option if you keep your wages or allowance in your main spending balance.\n\n---\n\n### Summary Recommendation\n\n* **Go with Starling or Monzo** if you want seamless mobile banking, instant spend tracking, easy transfers with friends, and fee-free travel abroad.\n* **Go with Nationwide FlexOne** if you want to grow your savings quickly (via their linked savings account) or prefer having high-street branches to visit.\n\n---\n\n### What You’ll Need to Apply:\nAt 16, you can usually apply online or via the app in 10–15 minutes. You will need:\n1. **Proof of ID:** A valid UK Passport or Provisional Driving Licence.\n2. **Proof of address:** A bank statement, letter from your school/college, or HMRC letter (if you work) [1.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Mv0Uv2NnYuVTCemBGwTWRi1i8B7jubv82jRnaVqRiajEos4zgRJzMvpCNiYl1zOgh4O2i3iGkDj4Kf5sO1EbBpvLr5knOOhBqpXzRs4DwSKnTDbvAesCQWGnuY657giUcZ6__d3suzmK1bZRZMPSf3CgiCMlcL8rkKZkUubDR4jmE3rxDshrUpt_Ncat7Z9A3A==",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDXuHQeASJ4iK480wbkwvjVA4brlOdV10QkN4Lfm1N2zjvky66w5vqS0Q9j0QLNU9Tb6vcg8GtREG9hMeQuxh38J3VH6CqaB9iMercJkK3b2jRHorbuzQP8L0BSr0tCsCaLQ_pnq7Bw5EbEiqfoqjJ7u-tAteCoemXkUWvLukAwgKDwXrQ17Me0h8HmpTL-JP24NJK8Ew-V4=",
+   "title": "co-operativebank.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGxMye1zyhdOhicZkirWVF9kJUPoLfBaGrHilN3zLL7sxDvjgsmqiqkf0NKPAMkFjBfXXqLdWMfROu4eJk80BN9oV3LidCFhfrSow9GQjLVsr70ibtn-zL5PEGkkmDDsDiwzIsst9KSoVNfmbl1Iy0i4S6hY9YucOwoWUAxx0=",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73umhPYxDvJlxjCVzcd3q8Zp--7KEM6RC4TLh2WMI3e2raLqesPyVcG5r-dqrkBHwaAIiS2WimsQJbrNWbL13PmUF21X5hu3HIti6hzSDCsz3iyNYe4qbwQWwjRcEVRfFCSsq7waZm0p9VWiDxDVcBhGZ",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZqwYw5zuABDe6Xo_A3GE6q7wJm-_4AuD1rvGEA7RYcO9jCYeAUp5PTMAbNZGhve2vQNSylMd3U2heIiHePtWf611Tu0aZTLNFN526gtd31EBVDw7Mw7JP__1Zv17REioiTuckbF2LyGe2AKe_67aAqOEyfbC5AuNjBtlDvQ==",
+   "title": "starlingbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEoMk-PV2O6zsIsld87JjGSLmvh_xOflpvIyIS_Eehe9AYNsgqNKtvP_-XhPi-UIZTfzVanyI1LwSmUswXTK0NX5m_hndVdeYe7ulLZ0H5-fL-sNpTrn7H_4NCdOgvuSbcvX3evuRVtR1s",
+   "title": "nationwide.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ5ilJlj2ur1MCVt0CsCqE_eGKu1vaWHi9LkWpnGLObDGvordKR6zPxDLYqRNwZCntif1lEQYgvxud9LBQarkCdDJ0p7HF2cpGqXN3IY2YowGj6PhTiTXSGuE5uv4BWzq4KS2mc8rtQ7AWAmqwo7WsDFfKs70QftSLcdluDJ67bxJxmAnhhfp5GTQOUtk=",
+   "title": "natwest.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAW6FaVabwPHz1jNxBHYxPN0p7vrpG4nrk77I_lpDCZAPijwGzDJavUZQrjmHLmtDhlTC8Rl4NiVhIDKgOT6HRuicGQaYT5QHkYHuQfYqk8rLZtHgyDRdQbv-UzPLZ2fi6RhRes7x89g==",
+   "title": "wise.com"
+  }
+ ],
+ "search_queries": [
+  "best teen bank accounts UK Monzo Starling Nationwide Santander",
+  "best bank account for 16 year old UK"
+ ],
+ "latency_s": 26.79,
+ "asked_at": "2026-11-21T17:48:25.199625+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

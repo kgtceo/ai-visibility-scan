@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "H3",
+ "run": 1,
+ "text": "Monzo’s standard Instant Access Savings Pot currently pays 2.80% AER (variable) on the free plan. If you pay for a Monzo plan, the rate rises to 3.15%–3.80% AER, depending on the plan.\nmonzo\n\nInstant Access rates\nMonzo plan\tInstant Access Savings rate\tNotes\nFree\t2.80% AER (variable)\tUp to £1,000,000; paid monthly. \nmonzo\n\nExtra\t3.15% AER (variable)\tPaid plan. \nmonzo\n\nPlus, Premium or Perks\t3.55% AER (variable)\tIncludes Personal, Joint and Cash ISA instant-access pots. \nmonzo\n\nMax / Max Family\t3.80% AER (variable)\tHighest instant-access rate. \nmonzo\n\nInterest is calculated daily and paid into the pot on the 1st of each month.\nmonzo\n\nOther Monzo savings options\n\nSelect Access Savings: 3.45% AER (variable) on the free plan, or 3.70% AER with Perks, Plus, Premium, Max or Max Family. It requires a £500 minimum deposit and allows no more than two withdrawals per year per pot; a third withdrawal reduces the rate until that pot’s anniversary.\nmonzo\n\nFixed Rate Savings: up to 5.25% AER fixed for a 3-year term, with interest paid at maturity; other terms are available.\nmonzo\n\nCash ISAs: Instant Access Cash ISA pays the same instant-access rates as above, while Select Access Cash ISA pays up to 3.70% AER; ISA interest is not subject to income tax.\nmonzo\n\nImportant caveat\n\nThe variable rates can change, and the paid-plan rates should be weighed against the subscription cost—Extra is £3/month, Perks £9/month, and Max from £19/month. For a normal saver, the free Instant Access rate is 2.80% AER; the best simple rate without locking money away is 3.70% AER via Select Access on an eligible paid plan.\nmonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "monzo"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "monzo Compare ISAs & Savings Accounts | Monzo From house deposits to rainy day funds, we’ve got a space for your goals. Compare Instant Access Pots and Instant"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work",
+   "title": "monzo How does interest work for Savings Pots? The home for everything you need to know about using Monzo."
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "monzo Open a Free Online Bank Account in Minutes with Monzo The award-winning bank account. Organise your life with Pots. Earn interest on instant access saving"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "title": "monzo Compare Our Best Savings Accounts and Pots Explore our Savings Accounts. Whatever your goals, there are lots of ways to go about growing your money in Mon"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access-cash-isa",
+   "title": "monzo Monzo Select Access Cash ISA Our Select Access Cash ISA offers a boosted interest rate with the flexibility of an easy access account. Grow your money in-"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "title": "monzo Compare Cash ISAs: Instant & Select Access | Monzo Compare Monzo Cash ISAs and find a home for your money. Choose Instant Access or a boosted Select Acces"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/savings-summary",
+   "title": "monzo Monzo Premium Savings Summary Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://monzo.com/legal/plus/savings-summary",
+   "title": "monzo Monzo Plus Savings Summary Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "monzo Monzo Plans | Our Take on Packaged Bank Accounts After a packaged bank account? Our plans offer different benefits, from worldwide travel insurance to UK"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.42,
+ "asked_at": "2026-11-21T13:19:16.881941+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

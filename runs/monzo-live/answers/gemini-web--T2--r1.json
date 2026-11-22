@@ -1,0 +1,35 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "T2",
+ "run": 1,
+ "text": "Yes — Monzo is a real, fully regulated UK bank. Although it started out in 2015 as a prepaid card and spending app, it received its full UK banking licence in April 2017.   \nMonzo\n+ 1\n\nMonzo holds the same regulatory status and protections as traditional high street banks like Barclays, Lloyds, or HSBC:\n\nFull Regulation: Monzo Bank Limited is authorised by the Prudential Regulation Authority (PRA) and regulated by both the Financial Conduct Authority (FCA) and the PRA (Firm Reference Number: 730427).   \nUK Finance Blog\nUK Finance Blog\nIs Monzo Safe in 2026? FSCS, Fraud & Security Explained\n“Monzo Bank Limited is regulated by the FCA and PRA and authorised by the PRA. Its Financial Services Register number is 730427. Can I Safely Have My Salary Paid...”\n\nFSCS Protection: Eligible deposits held with Monzo are protected by the Financial Services Compensation Scheme (FSCS) up to £120,000 per person (£240,000 for joint accounts). Because Monzo holds its own standalone banking licence and does not share it with another brand, you get the full £120,000 protection limit independently of any other banks you use. (Note: This differs from some fintech competitors like Wise or Revolut's standard UK e-money accounts, which use \"safeguarding\" rather than direct FSCS bank deposit protection.)   \nUK Finance Blog\n+ 2\n\nFull Banking Features: You get a standard UK sort code and 8-digit account number, Direct Debits, standing orders, BACS/Faster Payments, and access to traditional credit products like arranged overdrafts, personal loans, and credit-like instalment features (Monzo Flex).   \nDigital Bank Networks\n\nThe main practical difference between Monzo and a traditional bank is simply that Monzo is digital-first and has no physical branches. Everything—including customer support—is managed through the app (or a basic emergency web portal), and if you ever need to deposit physical cash, you do so at a PayPoint or Post Office for a small fee (or free within monthly allowances on certain paid plans).",
+ "citations": [
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "Monzo Is Monzo Safe? How We Help Protect Your Money and Savings “ Yes, Monzo is a fully regulated UK bank. This means we're authorised by the Prudential Regulat"
+  },
+  {
+   "url": "https://www.digitalbanknetworks.com/partners/monzo",
+   "title": "Digital Bank Networks Monzo Review 2026 – Best UK Digital Bank? Fees & Features “Monzo also offers overdrafts, personal loans, and a Business account for sole t"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "title": "UK Finance Blog Is Monzo Safe in 2026? FSCS, Fraud & Security Explained “Monzo is a fully authorised UK bank and eligible deposits receive FSCS protection. Some"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "title": "Moneyfacts FSCS explained: Are my UK savings safe? - Moneyfacts “For example: * Is Monzo FSCS protected? Monzo is a fully regulated, UK-authorised bank so it ha"
+  },
+  {
+   "url": "https://www.fscs.org.uk/check/check-your-money-is-protected/",
+   "title": "Financial Services Compensation Scheme FSCS bank and savings protection checker “Can't find your firm? If you can't find your provider using the protection chec"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 37.59,
+ "asked_at": "2026-11-21T13:41:02.221711+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

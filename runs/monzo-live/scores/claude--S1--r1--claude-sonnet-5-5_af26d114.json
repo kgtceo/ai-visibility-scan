@@ -1,0 +1,129 @@
+{
+ "engine": "claude",
+ "question_id": "S1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo and Help us Test the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Here's how to switch to Monzo without closing your old bank account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "You can do this with the Current Account Switch Service (CASS). It's free, and Monzo is signed up to it."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is signed up to the Current Account Switch Service (CASS).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers CASS participation."
+   },
+   {
+    "text": "The CASS switch is free.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover switching fees."
+   },
+   {
+    "text": "Tap the \"+\" sign in the app and find \"Switch to Monzo\".",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App navigation is not covered by the facts."
+   },
+   {
+    "text": "The switch takes 7 working days, or you can choose a later date.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Switch timing is not covered by the facts."
+   },
+   {
+    "text": "Monzo used to offer a partial switch for keeping the old account open.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Transaction history doesn't transfer to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,142 @@
+{
+ "engine": "gemini-web",
+ "question_id": "H4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Apply for an Arranged Overdraft with Monzo “Monzo Overdrafts. Arranged overdrafts are a safety net for unplanned surprises. They're designed for short ter"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-for-overdrafts-aHIVs6t8cJBu",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Which.co.uk Best bank accounts for overdrafts 2026 - Which? - Which.co.uk “ Monzo. Monzo charges 19%, 29% or 39% EAR on overdrafts up to £3,000, depending on yo"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Overdrafts with Monzo - Monzo Help “You can increase, decrease, or switch off your overdraft at any time in the app. * Fees and interest. Using your overd"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Getting a personal overdraft - Monzo Help “ We determine eligibility based on our own data, and information from the credit reference agencies, TransUnion"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo offers arranged overdrafts in the UK for eligible personal current account holders aged 18 and over."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "compared to some UK competitors (like Starling or First Direct, which offer lower rates or small interest-free buffers)"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers arranged overdrafts in the UK for eligible personal current account holders aged 18 and over.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft availability."
+   },
+   {
+    "text": "Rates: 19%, 29%, or 39% EAR (variable). Most customers are offered the representative rate of 39% EAR.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "Limits: Up to £2,000 (or up to £3,000 for select customers).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft limits."
+   },
+   {
+    "text": "There are no extra setup fees, late fees, or charges for declined payments if you hit your limit.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft fees."
+   },
+   {
+    "text": "If you borrow £1,200 for 30 days at 39.0% EAR (variable), it will cost you £32.94 in interest.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the representative example."
+   },
+   {
+    "text": "Monzo checks eligibility using account data and credit reference agencies (TransUnion, Experian, and Equifax); checking in the app uses a soft search.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "You can switch your overdraft on, adjust your limit, or cancel it anytime in the Monzo app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo will normally decline transactions past your limit for free, and won't charge extra fees for offline payments causing an unarranged overdraft.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

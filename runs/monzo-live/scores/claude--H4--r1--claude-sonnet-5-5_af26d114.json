@@ -1,0 +1,135 @@
+{
+ "engine": "claude",
+ "question_id": "H4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Overdrafts with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Overdraft Interest"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Overdrafts"
+  },
+  {
+   "url": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.2.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "About overdrafts at Monzo Version 1.2 General information"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo offers overdrafts on personal accounts in the UK if you're eligible."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers overdrafts on personal accounts in the UK if you're eligible, and you apply in the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft availability."
+   },
+   {
+    "text": "The EAR depends on your credit score and will be 19%, 29% or 39%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Overdraft rates are not covered by the facts."
+   },
+   {
+    "text": "An arranged overdraft of £1,200 used for 30 days at 39.0% EAR/APR would cost £32.94.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Unarranged overdraft charges on your current account are capped at £15.50 a month.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo charges 39% EAR (variable) if you have no arranged overdraft and your balance goes below zero.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Interest comes out of your account on the first of every month.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo says it doesn't charge hidden or late fees.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "If you use your overdraft but add no money for over 60 days, Monzo might ask you to make a payment.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   }
+  ]
+ },
+ "judge_error": null
+}

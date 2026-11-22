@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C5",
+ "run": 2,
+ "text": "**I’d pick Nationwide FlexDirect as your main account if your salary and bills naturally qualify for its rewards. I’d pick Monzo if you want one account that makes budgeting easier or you regularly pay by card abroad.** Neither has a monthly fee. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\n**Where Nationwide wins:** For the first 12 months, eligible FlexDirect customers who pay in at least **£1,500 a month** can earn **£5 a month** for paying £300 in qualifying Direct Debits, and **another £5** for spending £500 on the debit card. Those rewards are independent: if you put most purchases on a credit card, your bills can still earn you £60 over the year. You also get **5% AER on up to £1,500** for the first year. After that, the cashback ends and the rate drops to 1% AER variable. Nationwide also advertises a separate **£175 eligible full-switch bonus**, but a full switch closes your old account. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))\n\n**Where Monzo wins:** Its Salary Sorter can set aside bills and savings into separate Pots on payday, so you can see what’s actually left to spend. For travel, Monzo passes on Mastercard’s exchange rate without adding a fee on card purchases. The main practical downside is cash: on the free account, each deposit at a Post Office or PayPoint costs **£1**. If you prefer face-to-face help, Nationwide is the better fit. ([monzo.com](https://monzo.com/current-account?utm_source=openai))\n\n**My deciding test:** Look at last month’s statement. If £1,500 came in and £300 went out by Direct Debit, I’d use **Nationwide for salary and bills**, with Monzo as an optional travel card. If you miss those thresholds and would use Pots every payday, I’d make **Monzo** the main account rather than change your spending to chase cashback. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexdirect))",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  }
+ ],
+ "search_queries": [
+  "site:nationwide.co.uk FlexDirect FlexAccount foreign transaction fee in credit interest cashback pay in cash branches switch offer current account Nationwide November 2026"
+ ],
+ "latency_s": 16.49,
+ "asked_at": "2026-11-21T16:59:05.479400+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

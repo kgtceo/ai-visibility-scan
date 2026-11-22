@@ -1,0 +1,375 @@
+{
+ "engine": "grok",
+ "question_id": "T1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.fazzaco.com/newsdetail/uk-fscs-confirms-247m-levy-for-202627-signals-360m-for-202728-417103",
+   "domain": "fazzaco.com",
+   "source_type": "other",
+   "title": "https://www.fazzaco.com/newsdetail/uk-fscs-confirms-247m-levy-for-202627-signals-360m-for-202728-417103"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231",
+   "domain": "find-and-update.company-information.service.gov.uk",
+   "source_type": "regulator_official",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231"
+  },
+  {
+   "url": "https://www.fscs.org.uk/media/press/2025/nov/fscs-welcomes-higher-deposit-protection-limit-of-120000--giving-people-confidence-their-money-is-protected/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/media/press/2025/nov/fscs-welcomes-higher-deposit-protection-limit-of-120000--giving-people-confidence-their-money-is-protected/"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/legal-stuff/deposit-protection-fscs"
+  },
+  {
+   "url": "https://monzo.com/annual-report/2026/Monzo-MBL-Pillar-3-2026.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/annual-report/2026/Monzo-MBL-Pillar-3-2026.pdf"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money"
+  },
+  {
+   "url": "https://monzo.com/legal/pensions/fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/pensions/fscs-information"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/investments/investments-FSCS"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme"
+  },
+  {
+   "url": "https://qa-financial.com/when-qa-breaks-down-inside-monzos-21m-compliance-nightmare/",
+   "domain": "qa-financial.com",
+   "source_type": "other",
+   "title": "https://qa-financial.com/when-qa-breaks-down-inside-monzos-21m-compliance-nightmare/"
+  },
+  {
+   "url": "https://opendatalei.com/lei/213800PLUYXGZ8LU7T61",
+   "domain": "opendatalei.com",
+   "source_type": "other",
+   "title": "https://opendatalei.com/lei/213800PLUYXGZ8LU7T61"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/is-monzo-safe/"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information/version-1-3",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fscs-information/version-1-3"
+  },
+  {
+   "url": "https://personalmoney.co.uk/consumer-protection/uk-subsidiaries-of-overseas-banks/",
+   "domain": "personalmoney.co.uk",
+   "source_type": "other",
+   "title": "https://personalmoney.co.uk/consumer-protection/uk-subsidiaries-of-overseas-banks/"
+  },
+  {
+   "url": "https://signaltools.org/check-platform/monzo/",
+   "domain": "signaltools.org",
+   "source_type": "other",
+   "title": "https://signaltools.org/check-platform/monzo/"
+  },
+  {
+   "url": "https://monzo.com/annual-report/2025/monzo-pillar-3-2025.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/annual-report/2025/monzo-pillar-3-2025.pdf"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank",
+   "domain": "theguardian.com",
+   "source_type": "news",
+   "title": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/savings/uk-banking-groups/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "https://www.moneysupermarket.com/savings/uk-banking-groups/"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf"
+  },
+  {
+   "url": "https://whito.co.uk/business-banking/business-bank-account-fscs-protection-uk/",
+   "domain": "whito.co.uk",
+   "source_type": "other",
+   "title": "https://whito.co.uk/business-banking/business-bank-account-fscs-protection-uk/"
+  },
+  {
+   "url": "https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a",
+   "domain": "ft.com",
+   "source_type": "news",
+   "title": "https://www.ft.com/content/1487940f-03ed-40b9-a19e-da1b657ff37a"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/"
+  },
+  {
+   "url": "https://www.legalentityidentifier.co.uk/leicert/213800PLUYXGZ8LU7T61/",
+   "domain": "legalentityidentifier.co.uk",
+   "source_type": "other",
+   "title": "https://www.legalentityidentifier.co.uk/leicert/213800PLUYXGZ8LU7T61/"
+  },
+  {
+   "url": "https://www.pulsapi.com/services/monzo-bank",
+   "domain": "pulsapi.com",
+   "source_type": "other",
+   "title": "https://www.pulsapi.com/services/monzo-bank"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement"
+  },
+  {
+   "url": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf",
+   "domain": "fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fca.org.uk/publication/final-notices/monzo-bank-limited.pdf"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-today/understanding-fscs-protection"
+  },
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://firmwatcher.com/enforcement/monzo-bank-fine-2025-07-07",
+   "domain": "firmwatcher.com",
+   "source_type": "other",
+   "title": "https://firmwatcher.com/enforcement/monzo-bank-fine-2025-07-07"
+  },
+  {
+   "url": "https://open.endole.co.uk/insight/company/09446231-monzo-bank-limited?__cf_chl_rt_tk=hWAnTKIA4BOn2gwAFVgVXfdTOd_nZcKccFkPni74e1Y-1795198684-1.0.1.1-N0m.ksFiN40tVFkyM.fqkqnHqG86iSaZXDQYRn2rOI8",
+   "domain": "open.endole.co.uk",
+   "source_type": "other",
+   "title": "https://open.endole.co.uk/insight/company/09446231-monzo-bank-limited?__cf_chl_rt_tk=hWAnTKIA4BOn2gwAFVgVXfdTOd_nZcKccFkPni74e1Y-1795198684-1.0.1.1-N0m.ksFiN40tVFkyM.fqkqnHqG86iSaZXDQYRn2rOI8"
+  },
+  {
+   "url": "https://monzo.com/security/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/security/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231/persons-with-significant-control",
+   "domain": "find-and-update.company-information.service.gov.uk",
+   "source_type": "regulator_official",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231/persons-with-significant-control"
+  },
+  {
+   "url": "https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/compensation-if-your-bank-or-building-society-goes-bust",
+   "domain": "moneyhelper.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/compensation-if-your-bank-or-building-society-goes-bust"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/bank/monzo-bank-ltd",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "https://bankcreditratings.co.uk/bank/monzo-bank-ltd"
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm",
+   "domain": "register.fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december"
+  },
+  {
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446231/filing-history",
+   "domain": "find-and-update.company-information.service.gov.uk",
+   "source_type": "regulator_official",
+   "title": "https://find-and-update.company-information.service.gov.uk/company/09446231/filing-history"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "https://moneyfactscompare.co.uk/savings-accounts/guides/fscs-explained-are-my-uk-savings-protected/"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "domain": "savesterling.co.uk",
+   "source_type": "other",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://www.lovemoney.com/news/15729/who-owns-your-bank-or-building-society",
+   "domain": "lovemoney.com",
+   "source_type": "other",
+   "title": "https://www.lovemoney.com/news/15729/who-owns-your-bank-or-building-society"
+  },
+  {
+   "url": "https://consumer-credit.org/banking-savings/fscs-protection/",
+   "domain": "consumer-credit.org",
+   "source_type": "other",
+   "title": "https://consumer-credit.org/banking-savings/fscs-protection/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/banks-building-societies-credit-unions/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/banks-building-societies-credit-unions/"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. Monzo is a fully authorised UK bank, and eligible deposits are protected by the Financial Services Compensation Scheme"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully authorised UK bank, and eligible deposits are protected by the FSCS.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo Bank Limited is authorised by the PRA and regulated by the FCA and PRA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are covered by the FSCS up to £120,000 per eligible person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Its Firm Reference Number is 730427, and it has been authorised since August 2016.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers FRN or authorisation date."
+   },
+   {
+    "text": "In July 2025 the FCA fined Monzo about £21.1 million for weak financial-crime controls.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo has its own banking licence and does not share it with other well-known brands.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo has in-app security tools.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

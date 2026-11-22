@@ -1,0 +1,99 @@
+{
+ "engine": "chatgpt",
+ "question_id": "T2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/authorisations/which-firms-does-the-pra-regulate?utm_source=openai",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "Which firms does the PRA regulate? | Bank of England – the UK's central bank"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Deposit protection (FSCS)"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a licensed UK bank, and the app is how you manage your account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a licensed UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with Monzo being a UK bank authorised by the PRA."
+   },
+   {
+    "text": "The Bank of England lists it as Monzo Bank Limited, firm reference 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not give the firm reference number or the Bank of England listing."
+   },
+   {
+    "text": "FSCS would protect your eligible deposits up to £120,000 per person across your accounts with Monzo Bank Limited, not per account.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches the £120,000 per person FSCS protection."
+   },
+   {
+    "text": "The app is how you manage your account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover how the account is managed."
+   }
+  ]
+ },
+ "judge_error": null
+}

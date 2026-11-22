@@ -1,0 +1,147 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-max/monzo-plan-price-change",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information about our plan price changes"
+  },
+  {
+   "url": "https://monzo.com/current-account/max?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://www.nationalrail.co.uk/railcards/?utm_source=openai",
+   "domain": "nationalrail.co.uk",
+   "source_type": "other",
+   "title": "National Rail Railcards | National Rail"
+  },
+  {
+   "url": "https://monzo.com/legal/max/terms-and-conditions?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Max Terms and Conditions"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d stay on Monzo Free unless a paid plan replaces something you already buy."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Extra costs £3/month (£36/year)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Extra at £3 a month."
+   },
+   {
+    "text": "Perks costs £9/month (£108/year)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Perks at £9 a month."
+   },
+   {
+    "text": "Max costs £19/month (£228/year)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Max is from £19 a month; £19 is consistent."
+   },
+   {
+    "text": "Family Max cover costs £23/month (£276/year)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Family pricing is not covered by the facts."
+   },
+   {
+    "text": "Max has a three-month minimum term",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Perks includes Extra, plus an annual Railcard, monthly Vue ticket, weekly Greggs treat, Uber One or YouTube Premium Lite",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plan benefits are not covered by the facts."
+   },
+   {
+    "text": "Max includes worldwide travel insurance, phone insurance and UK/Europe breakdown cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Free plan lets you link one other account; Extra allows multiple bank accounts to be seen in Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Claiming the Railcard then cancelling early can trigger a fee",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

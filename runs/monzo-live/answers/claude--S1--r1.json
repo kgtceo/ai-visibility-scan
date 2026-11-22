@@ -1,0 +1,37 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "S1",
+ "run": 1,
+ "text": "You can do this with the Current Account Switch Service (CASS). It's free, and Monzo is signed up to it.\n\n## Option 1: Full switch through CASS (recommended)\nMonzo moves your money and payments, such as Direct Debits and standing orders, and closes your old account for you. They also tell your employer to move your salary to Monzo. Payments sent to your old account are forwarded to Monzo.\n\n**Steps:**\n1. **Open a Monzo account** and finish the setup in the app.\n2. **Start the switch.** Tap the \"+\" sign in the app and find \"Switch to Monzo\". The menu location can vary by app version and platform.\n3. **Gather your old account details.** You'll need the account number, sort code and bank card for the bank you're leaving.\n4. **Check your address.** Your old bank must have the same address details for you as Monzo does before you start.\n5. **Pick a switch date.** The switch takes 7 working days, or you can choose a later date.\n\nThe switch is backed by the Current Account Switch Guarantee. Under it, your outgoing payments (like Direct Debits and standing orders) and incoming payments (like your salary) are moved for you.\n\n## Option 2: Keep your old account open\nA full CASS switch closes the old account. If you want to keep it, you have to move things yourself. Monzo's blog says to tell your employer your Monzo account number, sort code and name. You should also change the bank details on each Direct Debit by contacting the provider. The easiest way is usually to log in to your online account with the provider and change your billing details.\n\nMonzo used to offer a partial switch for this. I couldn't confirm that it's still available, and some of the sources I found are old. If you don't see the option in the app, assume you'll need to do it manually.\n\n## Tips\n- Check that your old bank is part of CASS. Most major UK banks are.\n- Leave enough money in the old account to cover the switch period.\n- Check your payments after the switch. The guarantee covers any problems with payments.\n- Transaction history doesn't transfer, so download your old statements first. Monzo's business page says this, and it's likely the same for personal accounts.\n\nFor the current steps and eligibility, check Monzo's help pages at monzo.com/switch.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service",
+   "title": "Switch to Monzo and Help us Test the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "title": "Here's how to switch to Monzo without closing your old bank account"
+  }
+ ],
+ "search_queries": [
+  "Monzo switch current account Current Account Switch Service direct debits"
+ ],
+ "latency_s": 9.43,
+ "asked_at": "2026-11-21T16:51:26.620095+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

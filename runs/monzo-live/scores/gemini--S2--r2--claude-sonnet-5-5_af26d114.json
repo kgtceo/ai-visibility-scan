@@ -1,0 +1,110 @@
+{
+ "engine": "gemini",
+ "question_id": "S2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, absolutely. Monzo is a fully licensed UK bank, and millions of people use it as their sole or primary bank account"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully licensed UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with UK bank authorised by the PRA and regulated by FCA/PRA."
+   },
+   {
+    "text": "Monzo is regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority (PRA).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected up to £85,000 under the Financial Services Compensation Scheme (FSCS).",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Millions of people use it as their sole or primary bank account for their salary, bills, and everyday spending.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give customer numbers (15.2m) but not how many use it as a main account."
+   },
+   {
+    "text": "Monzo can spot the incoming Bacs payment and lets you claim your salary at 4:00 PM on the working day before it is due.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo is part of the Current Account Switch Service (CASS) and switches are completed within 7 working days.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Cash deposits at PayPoint cost typically £1 per deposit unless on higher-tier plans.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Customer support and account management are handled entirely through the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

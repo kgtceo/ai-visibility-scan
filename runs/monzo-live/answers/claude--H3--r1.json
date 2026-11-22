@@ -1,0 +1,33 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H3",
+ "run": 1,
+ "text": "Monzo's savings rates depend on which Monzo plan you have. These figures come from Monzo's own pages. Some of those pages are a few months old, so check the app for today's rates.\n\n**Instant Access Savings Pot (variable rate)**\n- Free plan: 2.80% AER. Extra: 3.15%. Perks, Plus and Premium: 3.55%. Max and Max Family: 3.80%.\n- The higher rates apply on balances up to £1,000,000.\n- Interest is paid on the 1st of the month.\n- You get instant withdrawals, no minimum deposit and up to 20 different Savings Pots.\n\n**Other options**\n- **Cash ISA Pot:** Instant Access Cash ISA rates match the Instant Access Savings rates for each plan, for example 2.80% AER (variable) on the free plan.\n- **Select Access Savings Pot:** 3.45% AER (variable) on lower plans. Perks and Max customers get 3.70%. This pot needs a £500 minimum to open.\n- **Fixed Rate Savings Pot:** 5.25% AER (fixed) for a 3-year term, with other terms also available. That is a fixed rate, so your money is tied up for the term.\n\nVariable rates can change at any time. The paid plans also cost a monthly fee, so a higher rate only pays off if you have enough savings to cover it. If you tell me roughly how much you plan to save, I can work out whether upgrading would be worthwhile.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, ..."
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "Instant Access Savings Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts"
+  },
+  {
+   "url": "https://www.finder.com/uk/savings-accounts/monzo-savings-accounts",
+   "title": "Monzo savings review: Rates up to 5.15%"
+  }
+ ],
+ "search_queries": [
+  "Monzo savings interest rate Instant Access Pot"
+ ],
+ "latency_s": 6.84,
+ "asked_at": "2026-11-21T16:49:14.520408+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,826 @@
+engine,question_id,run,question,answer_text,judge_stance,judge_evidence,human_stance
+chatgpt,D5,2,Best first bank account for a 16 year old in the UK?,"**I’d pick Nationwide FlexOne with the Visa debit card** as your first account at 16. There’s no monthly fee, you can have wages paid straight in, and you can use the app for everyday banking or visit a branch if you need help. When you apply, choose the **debit card**, not the cash card: the debit card works in shops and online as well as at cash machines. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexone))
+
+What makes it stand out is the savings option. The current account pays **2% AER variable on up to £1,000**. Once it’s open, you can also open a separate **FlexOne Saver**, which pays **5% AER variable on up to £5,000**, with unlimited withdrawals. I’d keep spending money in the current account and move anything you’re saving into the Saver. ([nationwide.co.uk](https://www.nationwide.co.uk/current-accounts/flexone))
+
+**I’d choose Monzo for 16–17s instead** if you’d rather do everything on your phone and like the idea of automatically rounding up purchases into savings. You can apply with photo ID, your own UK mobile number and an email address. Its instant-access Savings Pot pays **2.80% AER variable**, so Nationwide is my pick if saving is the priority. ([monzo.com](https://monzo.com/current-account/16-17))",recommended,I’d choose Monzo for 16–17s instead if you’d rather do everything on your phone,ok
+claude,D4,1,Which UK bank card is best for spending abroad with no fees?,"**Starling is the best all-round pick for fee-free spending abroad.** Which? says its debit card is fee-free for all purchases and cash withdrawals, unlike rival Monzo. It uses the Mastercard rate with no added commission. Starling's ATM limits are generous: up to 6 withdrawals and £300 per day.
+
+**Other good options**
+- **First Direct** and **Chase**: Which? customer scores put Starling and First Direct top, at 86% and 84%. Chase came next at 82%. First Direct and Chase both use Mastercard's exchange rate with no mark-up. Chase allows fee-free cash withdrawals overseas, up to set limits. Chase also gives 1% cashback on purchases, including those abroad. That 1% comes from a 2025 source, so check that it still applies.
+- **Monzo**: Foreign purchases have no transaction fee, but watch for charges on withdrawals. Cash withdrawals are fee-free in the EEA, and up to £200 a month elsewhere, if Monzo is your main account.
+- **Revolut and Wise**: Both are fine for spending, but their free ATM allowances are tighter. Revolut allows £200 or 5 withdrawals a month, and Wise allows £200 across up to 2 withdrawals.
+- **Credit card option**: MoneySavingExpert notes that with a fee-free travel credit card, overseas spending is fee-free and interest-free if you repay in full each month. It also gives stronger Section 75 protection. ATM withdrawals are fee-free too, but interest builds daily, so keep them to a minimum. Halifax Clarity is a long-running example, but check the current terms.
+
+**Tips**
+- If a machine or shop offers to charge you in pounds, decline. Always pay in the local currency, because the ""dynamic currency conversion"" rate is usually poor.
+- Take a backup card from a different provider in case one is lost, blocked or declined.
+- Fees and limits change often, so check the provider's current terms before you travel.
+
+If you tell me where you're going and whether you'll need much cash, I can narrow this down.",mentioned,"Foreign purchases have no transaction fee, but watch for charges on withdrawals.",ok
+gemini,D5,2,Best first bank account for a 16 year old in the UK?,"At age 16 in the UK, you cross an important financial milestone: **you can open a proper current account independently** without needing parental permission or linked parental accounts. You’ll receive a full debit card, and because you're under 18, banks won’t allow you to go into an unarranged overdraft, meaning you can't accidentally run up debt.
+
+The best first bank accounts for a 16-year-old generally fall into two categories depending on your preferences:
+
+---
+
+### 1. Best Digital / App-Based Accounts (Top Picks for Everyday Spending)
+
+App-based banks offer the best user experience, budgeting tools, and are the easiest to set up independently from your phone.
+
+#### **Starling Bank (Teen Account, ages 16–17)**
+* **Why it’s great:** Consistently rated the UK’s top bank for customer satisfaction by *Which?*. The account transitions into a regular adult account when you turn 18.
+* **Key Features:**
+  * **Fee-free abroad:** Perfect for school trips or holidays; no extra transaction fees or exchange rate markups when using your card overseas.
+  * **Spaces:** Separate savings pots where you can stash money away with automatic round-ups.
+  * **Zero fees:** Completely free with no monthly subscription.
+  * Apple Pay, Google Pay, and instant spending notifications.
+
+#### **Monzo (16–17 Account)**
+* **Why it’s great:** Extremely popular among teens and students, making it the easiest way to split bills, send money, or get paid back by friends.
+* **Key Features:**
+  * **Budgeting tools:** Built-in ""Pots"" to manage money, categorise spending, and set limits.
+  * Access to interest-earning savings pots.
+  * Instant notifications whenever money enters or leaves your account.
+  * Fee-free spending abroad (at Mastercard’s exchange rate).
+
+---
+
+### 2. Best High-Street & Savings-Focused Accounts
+
+If you need a branch you can walk into to deposit cash/cheques, or you want high interest on your savings, traditional building societies and banks are best.
+
+#### **Nationwide FlexOne (ages 11–17)**
+* **Why it’s great:** Often considered the best high-street option because of its linked savings perks.
+* **Key Features:**
+  * **FlexOne Saver:** Gives you access to a dedicated savings account with a competitive interest rate.
+  * **Branch network:** You can walk into any Nationwide branch for help or to deposit cash.
+  * Fee-free spending abroad (Nationwide does not charge foreign transaction fees on FlexOne).
+  * Account stays open until you turn 23 before moving to an adult account.
+
+#### **NatWest Adapt (ages 11–17)**
+* **Why it’s great:** A reliable classic high-street bank with one of the best mobile apps among traditional providers.
+* **Key Features:**
+  * Can be opened online independently at 16 with ID.
+  * Pays a small amount of interest on your current account balance.
+  * Great security features, including the ability to generate a cash-withdrawal code from the app if you lose your card.
+
+#### **Santander 1|2|3 Mini (ages 13–17)**
+* **Why it’s great:** Earns interest on everyday balances (often tiered up to £2,000), making it a solid option if you keep your wages or allowance in your main spending balance.
+
+---
+
+### Summary Recommendation
+
+* **Go with Starling or Monzo** if you want seamless mobile banking, instant spend tracking, easy transfers with friends, and fee-free travel abroad.
+* **Go with Nationwide FlexOne** if you want to grow your savings quickly (via their linked savings account) or prefer having high-street branches to visit.
+
+---
+
+### What You’ll Need to Apply:
+At 16, you can usually apply online or via the app in 10–15 minutes. You will need:
+1. **Proof of ID:** A valid UK Passport or Provisional Driving Licence.
+2. **Proof of address:** A bank statement, letter from your school/college, or HMRC letter (if you work) [1.",recommended,"Go with Starling or Monzo if you want seamless mobile banking, instant spend tracking, easy transfers with friends",ok
+gemini-web,D7,1,Best bank account for a sole trader or small business in the UK?,"The best bank account for a UK sole trader or small business depends heavily on how you handle payments, whether you need built-in accounting software for Making Tax Digital (MTD), and if you deposit physical cash.
+
+For most digital-first businesses, Starling Bank and Mettle (by NatWest) are the strongest all-round choices because they charge zero monthly fees and include free UK bank transfers.   
+AccountingStack
+
+Top UK Business Bank Accounts Compared
+Provider	Best For	Monthly Fee	UK Transfers	Cash Deposits	FSCS Protected?
+Starling Bank	Best overall (Sole Traders & Ltds)	£0	Free	0.7% (£3 min) via Post Office	Yes (up to £120k)
+Mettle (by NatWest)	Best for free accounting software	£0	Free	£2.75 flat fee at Post Office	No (e-money safeguarded)
+Monzo Business	Best for tax pots & budgeting	£0 (Lite) / £9 (Pro)	Free	£1 flat fee (PayPoint / Post Office)	Yes (up to £120k)
+Tide	Fast sign-up & extra admin tools	£0 (Lite) / £12.49+	5 free/mo, then 20p	Varies (PayPoint / Post Office)	Mixed (ClearBank is protected; e-money isn't)
+Virgin Money M Account	High street backing with no fee	£0	Free	Branch / Post Office fees apply	Yes (up to £120k)
+Wise Business	International clients & multi-currency	£0 (£50 one-off setup for full details)	Low/free domestic	Not supported	No (e-money safeguarded)
+Which One Should You Pick?
+
+Pick Starling Bank if you want the best all-rounder: You get full UK banking protection (FSCS up to £120,000), free domestic transfers, separate ""Spaces"" to set aside tax money, and free feeds into Xero, QuickBooks, and FreeAgent. If you already hold a personal Starling account, you can manage both in the same app.   
+BusinessComparison
+
+Pick Mettle if you want to save on accounting software: Backed by NatWest, Mettle includes FreeAgent (usually ~£19/month) completely free as long as you make at least one transaction a month. This is especially valuable for Making Tax Digital (MTD) quarterly submissions. (Note: Mettle operates under an e-money licence rather than a full banking licence, so funds are safeguarded rather than FSCS-protected.)   
+AccountingStack
++ 2
+
+Pick Monzo Business Pro (£9/month) if you want automated tax admin: While the free Lite tier covers basic banking, upgrading to Pro unlocks automatic Tax Pots (which automatically sweep a percentage of incoming payments into a separate pot for HMRC), integrated invoicing, and live accounting software syncs.   
+BusinessComparison
+
+Pick Virgin Money M Account or NatWest if you want a traditional bank: Virgin Money offers permanent fee-free digital banking with 0.25% cashback on debit card spend and branch access. NatWest offers up to 24 months of free banking for startups/switchers plus free FreeAgent, though standard monthly and transaction fees kick in after the introductory period.   
+Forbes
++ 1
+
+Pick Wise Business if you invoice in USD, EUR, or other currencies: High street and UK digital banks typically charge 1%–3% on foreign exchange. Wise gives you local bank details in multiple currencies and converts money at the mid-market exchange rate for a tiny transparent fee.   
+BusinessComparison
+
+Two Quick Tips Before You Apply
+
+Sole trader vs. Limited Company: If you are a sole trader, you aren't legally required to have a business account, though most personal banks prohibit using a personal account for business in their T&Cs. If you are a Limited Company, you must open a separate business account in the company's name.
+
+Watch out for FSCS limits: If you are a sole trader and hold both your personal and business accounts with the same bank (e.g., Starling or Monzo), the £120,000 FSCS protection limit applies to your combined balances across both accounts.   
+BusinessComparison
+
+To help narrow this down, are you trading as a sole trader or a Limited Company, and do you expect to deposit much physical cash or handle foreign currencies?",recommended,Pick Monzo Business Pro (£9/month) if you want automated tax admin,ok
+grok,D3,2,Best UK bank for budgeting and saving pots?,"**Monzo is the strongest choice for most people who want budgeting tools and savings pots in a UK bank.**
+
+MoneySavingExpert lists it as the top app-based account specifically for hands-on budgeting. Multiple independent comparisons reach the same conclusion: its pots and payday tools are more developed than the alternatives.
+
+### Why Monzo stands out
+- **Pots**: Create up to 20 separate spaces inside your account (rent, bills, groceries, holiday, emergency fund, etc.). You can name them, add images, hide them, or lock them so you’re less tempted to spend the money.
+- **Bills pots**: Direct Debits and standing orders can be paid straight from a dedicated pot, so bill money stays ring-fenced.
+- **Salary Sorter**: When your salary (or any payment over £100) lands, you can split it across pots and your main balance in one go. It remembers your preferences for next time.
+- **Other tools**: Automatic spending categories and insights, spending targets, round-ups into a pot, a bills calendar, and the option to get paid a day early (BACS).
+- **Interest-earning savings pots**: Separate from regular budgeting pots. Instant-access, limited-access, and fixed-rate options are available (rates vary by plan and change often). Cash ISA versions exist too.
+- Free current account covers the core pots and tools. Paid plans (Extra from £3/month, then higher tiers) add extras such as virtual cards linked to pots (so you can spend only what’s in that pot), custom categories, and higher savings rates.
+
+Eligible deposits are FSCS-protected (currently up to £120,000 per person).
+
+### Close alternative: Starling
+Starling is excellent and often preferred as a pure all-rounder (MSE’s top all-rounder pick). Its **Spaces** work similarly to pots. Standout free features include:
+- Virtual debit cards linked to Spaces (spend only the money you’ve set aside — Monzo locks the equivalent behind a paid plan).
+- Bills Manager (pay Direct Debits and standing orders from a Space).
+- Round-ups, spending insights, and newer AI tools.
+- Strong fee-free overseas spending and ATM terms, plus well-regarded 24/7 UK support.
+
+It lacks a direct equivalent of Monzo’s Salary Sorter, so the budgeting automation feels a step less hands-on for many users. Savings rates (via its Easy Saver, which can contain multiple Spaces) are competitive but include time-limited bonuses that drop after a few months — always check the current rate.
+
+### Quick comparison
+| Priority | Better pick | Why |
+|----------|-------------|-----|
+| Budgeting depth & payday sorting | **Monzo** | Salary Sorter + richer pot tools |
+| Free virtual cards on pots/spaces | **Starling** | Included at no extra cost |
+| Travel / ATM withdrawals | **Starling** | Generally more generous free limits |
+| Cashback on everyday spend | Chase | Strong cashback, but weaker pot system |
+| Highest possible savings rate | Separate easy-access account | In-app rates are convenient but rarely market-leading long-term |
+
+### Practical tips
+- You don’t have to fully switch. Many people keep a traditional bank for salary/mortgage and use Monzo (or Starling) as the day-to-day spending and pots account.
+- Interest rates change frequently — confirm the latest figures in the app or on the bank’s site before relying on them. For large balances, a top easy-access or regular saver elsewhere often pays more; the value of these banks is the integration with budgeting.
+- Both are app-only (no branches). Cash deposits are possible but can involve fees or limits (e.g. Monzo charges £1 per cash deposit at PayPoint/Post Office).
+- Open both if you want and test them — applications are quick and usually soft-search only unless you apply for an overdraft.
+
+Check Monzo and Starling’s sites (or MoneySavingExpert’s digital banking guide) for the latest rates, fees, and eligibility, as these move.",recommended,Monzo is the strongest choice for most people who want budgeting tools and savings pots in a UK bank.,ok
+perplexity,D5,2,Best first bank account for a 16 year old in the UK?,"**My default pick: Nationwide FlexOne**—especially if you might travel or want to save as well as spend. It has a contactless debit card, no monthly fee or overdraft, fee-free overseas spending and cash withdrawals, and you can open it yourself at 16. Its linked FlexOne Saver may also be useful; check the current rate and terms when you apply.
+
+Other good choices:
+
+- **Starling Teen account** — a strong choice if you want an app-first account. It’s for 16- and 17-year-olds, with a debit card and app; it becomes a standard Starling account at 18.
+- **Barclays Young Person’s account** — good if you want app features and options such as Direct Debits and mobile-wallet payments. No monthly fee or overdraft.
+- **NatWest Adapt** — a straightforward fee-free account that pays some interest. At 16, you can apply yourself with suitable ID; there’s no overdraft.
+- **Monzo 16–17 account** — worth considering if you already like Monzo’s app. It has age-related restrictions on some services.
+
+**In short:** I’d start by comparing Nationwide and Starling. Choose Nationwide for overseas use and a linked saver; choose Starling if a slick app is your priority. Check each bank’s latest eligibility, interest rates, and ID requirements before applying, as these can change. If you tell me what matters most—such as cash withdrawals, travel, saving, or an app—I can narrow it down.",mentioned,Monzo 16–17 account — worth considering if you already like Monzo's app.,ok
+perplexity-web,D3,1,Best UK bank for budgeting and saving pots?,"Monzo is the strongest overall pick for a UK current account that combines budgeting with saving pots: it offers spending categories, real-time notifications, round-ups, pot locking, and pots that can be used to pay bills. Starling is the best close alternative if you prefer a simpler, free account with useful pots/spaces and bill budgeting.
+becleverwithyourcash
+
+Best options
+Bank	Best for	Budgeting and pots	Watch-outs
+Monzo	Best all-round budgeting + pots	Pots, round-ups, spending categories, bill pots, pot locking, transaction notifications	Some premium features require a paid tier; easy-access pot rates can change
+Starling	Simple, free everyday budgeting	Spaces/pots, spending insights, ability to set money aside for bills	Fewer advanced budgeting extras than Monzo
+Monzo + separate savings account	Best if interest matters	Use Monzo for budgeting, then move longer-term savings to a competitive easy-access saver or ISA	Adds a little admin
+Traditional bank with pots	If you want a high-street bank	RBS/NatWest offer pots, but RBS says its pots do not earn interest	Usually less sophisticated budgeting than Monzo/Starling
+
+Monzo’s app lets you categorise spending, receive transaction alerts, round up purchases into a pot, lock a pot for a chosen period, and assign a pot to cover regular bills—making it particularly good for a “pay yourself first” budget. Starling and Monzo both let you segregate money into separate pots and assign one to pay bills directly.
+becleverwithyourcash
+
+My recommendation
+
+Choose Monzo if you want one app to run your whole monthly budget: salary, bills pot, spending categories, round-ups, and separate goals.
+
+Choose Starling if you want a clean, free account and do not need Monzo’s more advanced budgeting features.
+
+Keep the bulk of savings elsewhere if you are saving for months or years: a pot is primarily an organising tool, and some banks’ pots pay no interest. RBS, for example, explicitly says its pots do not earn interest.
+rbs.co
+
+A practical setup would be: Monzo for everyday spending and a bills pot; then move money you will not need soon into the best easy-access savings account or Cash ISA you can find. Monzo also provides access to partner savings products, but compare the current rate and FSCS protection before committing.
+moneyzine
+
+Important checks
+
+Confirm whether the account and any pot/savings feature are free, and whether a paid plan is worthwhile for you.
+
+Check FSCS eligibility: for Monzo and Starling, eligible deposits are protected up to £85,000 per person, per banking licence.
+
+Do not treat a budgeting pot as a substitute for a proper emergency fund or a competitive savings account.
+
+Interest rates and promotional offers change frequently, so verify the live rate before opening an account.
+which.co",recommended,Monzo is the strongest overall pick for a UK current account that combines budgeting with saving pots,ok
+chatgpt,D3,1,Best UK bank for budgeting and saving pots?,"**I’d pick Starling for budgeting and saving pots.** Its main advantage is that you can *spend directly from a pot* using a free virtual debit card. Monzo also offers virtual cards, but on a paid plan. ([starlingbank.com](https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai))
+
+Here’s how I’d use Starling’s pots, which it calls **Spaces**:
+
+- **Bills:** Put rent and utilities in a Regular Space and have standing orders and Direct Debits come out of it. That keeps next month’s rent out of the balance you see as available to spend. ([starlingbank.com](https://www.starlingbank.com/features/bills-manager/?utm_source=openai))
+- **Groceries:** Give this Space its own virtual card and use it at the till from your phone. The shop comes out of your grocery budget, not your main balance. ([starlingbank.com](https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai))
+- **Holiday or emergency fund:** Use a Space in the **Easy Saver** rather than a Regular Space, so the money earns interest. You can set a target and automate contributions. ([help.starlingbank.com](https://help.starlingbank.com/personal/topics/account-support/what-are-starling-spaces/?utm_source=openai))
+
+**I’d choose Monzo instead if payday is the bit you want to automate.** Its free account’s **Salary Sorter** remembers how you want each pay packet divided between bills, savings and spending. That’s a better fit if you’d rather use one everyday card and just know what’s left to spend. ([monzo.com](https://monzo.com/salary-sorter?utm_source=openai))",recommended,I’d choose Monzo instead if payday is the bit you want to automate.,ok
+claude,D1,1,What's the best bank account in the UK for everyday spending?,"No single account is best for everyone, but a few come up repeatedly in current roundups. Which one suits you depends on what you want from it.
+
+**Best all-rounder: Starling**
+- Finder names Starling the best all-rounder and best for overseas spending. It ranks first in Finder's list with a score of 9.8/10.
+- One roundup lists interest on balances, no foreign transaction fees and a strong app.
+- Be Clever With Your Cash also picks it as best for everyday banking and app use.
+
+**Best for cashback: Chase**
+- Chase pays 1% cashback on debit card spending, up to £15 a month, with no monthly fee.
+- Check the current terms, because cashback offers often change. Some sites describe the cashback as time-limited.
+
+**Best if you pay lots of bills: Santander Edge**
+- It gives 1% cashback on bills and selected spending, with a £3 monthly fee.
+- It only pays off if you spend enough to cover the fee.
+
+**Other options**
+- **Monzo:** Finder rates it best for extra features. Selectra rates it best for budgeting and salary advance.
+- **First Direct:** It is consistently rated number one for customer service.
+- **HSBC Advance:** It pays a £500 switching bonus in November 2026, which Selectra calls the highest cash bonus on the market. That is worth a look if you're happy to switch. Switching bonuses usually come with conditions, such as paying in a minimum amount.
+
+**My suggestion**
+- For simple everyday spending, **Starling** is the safest pick.
+- Open **Chase** alongside it if you want cashback. Many people use two accounts, one for bills and one for spending.
+- If you'd rather have a branch network, Finder names Nationwide FlexAccount best on the high street.
+
+Rates, fees and bonuses change often, and some of these sites earn commission from referrals. Check the provider's own page before applying. If you tell me your priorities, such as cashback, travel, interest, branches or switching bonuses, I can narrow it down.",mentioned,Monzo: Finder rates it best for extra features. Selectra rates it best for budgeting and salary advance.,ok
+gemini,D8,2,Which UK bank has the best customer service?,"According to the **Competition and Markets Authority (CMA)** independent service quality survey (conducted by Ipsos), alongside regular polling by **Which?** and **MoneySavingExpert**, the UK banks with the best customer service fall into three distinct leaders depending on how you prefer to bank:
+
+---
+
+### 1. Best Overall & Best App-Based: **Monzo** and **Starling Bank**
+* **CMA Ranking:** 1st (Monzo) and 2nd (Starling).
+* **Why they win:** Both digital-only challenger banks consistently lead UK customer satisfaction surveys. Their customer support is primarily delivered via fast in-app chat with 24/7 access. The app interfaces are modern, dispute handling is straightforward, and response times are generally very fast compared to traditional high-street banks.
+* **Caveat:** Neither has physical branches. If you need to pay in large amounts of cash regularly or want to sit down across a desk from an adviser, they may not suit your needs.
+
+---
+
+### 2. Best for Telephone Support: **First Direct**
+* **CMA Ranking:** Consistently in the top 3.
+* **Why they win:** First Direct (a division of HSBC) has held a legendary reputation for customer service for decades. Their standout feature is **24/7 UK-based telephone banking**, where real human operators typically answer within a few rings without complicated automated phone menus. 
+* **Perks:** Because they are part of HSBC, customers can use HSBC branches and cash machines to deposit cheques and cash.
+
+---
+
+### 3. Best for In-Person / High-Street Branches: **Nationwide Building Society**
+* **CMA Ranking:** Ranked **#1 for branch service**.
+* **Why they win:** Nationwide is technically a building society (owned by members, not shareholders), and it has made a public ""Branch Promise"" to maintain high-street presence across the country. If having access to a helpful person at a physical branch counter matters most to you, Nationwide ranks significantly higher than high-street competitors like Barclays, Lloyds, Santander, or HSBC.
+
+---
+
+### At the Other End of the Spectrum
+By contrast, the banks that regularly rank near the bottom of the CMA surveys for personal current account service quality are **Virgin Money**, **Royal Bank of Scotland (RBS)**, and **TSB**.
+
+### Summary Recommendation
+* Choose **Monzo** or **Starling** if you want seamless mobile banking and app-based chat.
+* Choose **First Direct** if you want to pick up the phone and speak to a helpful human immediately.
+* Choose **Nationwide** if you prefer having a local branch you can walk into.",recommended,Choose Monzo or Starling if you want seamless mobile banking and app-based chat.,ok
+gemini-web,D3,1,Best UK bank for budgeting and saving pots?,"For pure budgeting features and granular saving pots, Monzo is the top overall choice in the UK, followed closely by Starling Bank for everyday simplicity and Chase UK if you want higher interest rates and cashback alongside your pots.   
+era.app
+
+Bank	Pot Name	Key Budgeting & Pot Features	Interest & Perks	Best For
+Monzo	Pots	
+
+• Pay direct debits & standing orders directly from a dedicated Bills Pot.
+
+
+
+
+• Salary Sorter automatically splits payday funds into pots.
+
+
+
+
+• Virtual cards linked to specific pots (on paid plans from £3/mo).
+
+	
+
+• Up to 3.45%–3.65% AER on instant/limited-access pots (varies by tier).
+
+
+
+
+• Round-ups with optional 2x/5x/10x multipliers (paid plans).
+
+	Granular automation and ring-fencing bills so you never accidentally spend rent money.
+Starling Bank	Spaces	
+
+• Pay bills directly from a Space using a dedicated virtual card (free).
+
+
+
+
+• Round-ups into a chosen Space.
+
+
+
+
+• Clean spending categorization without upsells.
+
+	
+
+• No paid tiers—all budgeting and virtual card features are free.
+
+
+
+
+• Fee-free spending abroad.
+
+	Zero-fee simplicity and free virtual cards tied to specific budgets (e.g., groceries or travel).
+Chase UK	Saver & Spending Accounts	
+
+• Open multiple separate current accounts (up to 20) with their own account numbers and toggle your debit card between them.
+
+
+
+
+• Round-ups go into a dedicated 5% AER account.
+
+	
+
+• 4.75% AER boosted saver rate.
+
+
+
+
+• 1%–2% cashback on everyday debit card spending.
+
+	Maximising returns—earning high interest and cashback while keeping spending separated.
+Revolut	Pockets	
+
+• Auto-sort salary into Pockets.
+
+
+
+
+• Link external UK bank accounts to view all spending in one place (free).
+
+	
+
+• ~3.15% AER on standard savings.
+
+
+
+
+• Strong multi-currency tools and bill splitting.
+
+	Multi-bank tracking and frequent travellers.
+Which one should you pick?
+
+Choose Monzo if you want the most comprehensive budgeting ecosystem. Its Salary Sorter and Bills Pots make zero-based budgeting effortless, though features like custom categories, external bank syncing, and virtual cards require Monzo Extra (£3/month).   
+Money To The Masses
+
+Choose Starling if you refuse to pay a monthly fee. You get free virtual cards linked to specific Spaces (great for capping takeaway or shopping budgets) and full FSCS protection without constant prompts to upgrade.
+
+Choose Chase if you care more about interest and cashback than deep spending analytics. Because each pot is technically its own current account with a sort code and account number, you can set up direct debits from individual pots while earning higher interest on your savings.
+
+(Note: Monzo, Starling, and Chase are all fully licensed UK banks with £85,000 FSCS deposit protection; Revolut operates under specific UK banking/e-money transitional rules depending on account migration.)",recommended,Monzo is the top overall choice in the UK,ok
+grok,D1,2,What's the best bank account in the UK for everyday spending?,"There isn’t one universal “best” UK current account for everyday spending — it depends on whether you prioritise cashback, budgeting tools, or simplicity — but the strongest options right now are free app-based accounts from Chase, Monzo, and Starling.
+
+### Best for rewards on everyday spending: Chase
+Chase (part of JPMorgan) stands out if you want money back on normal spending. It pays **2% cashback** on eligible UK debit (and credit) card spending in categories such as groceries, restaurants, cafes, takeaways, everyday transport, fuel, and public EV charging, capped at **£20 a month** (so up to £240 a year). 
+
+To qualify each month you generally need at least 15 payments (card or Direct Debit) and £1,000+ held across Chase saver accounts every day of the previous month (new customers get a short grace period). The account itself is free, with fee-free card spending and ATM withdrawals abroad (limits apply), plus competitive linked savers (including a boosted rate for new customers and a 6.5% regular saver). It has no overdraft. MoneySavingExpert highlights it for cashback and savings, and Which? names it a Recommended Provider.
+
+### Best for budgeting and tracking spending: Monzo
+Monzo is widely regarded as the strongest for hands-on control of day-to-day money. The free account includes real-time spending notifications, automatic categories, Pots (to ring-fence money), salary sorting, round-ups, and bill tools. It also offers an overdraft (rates vary by credit score) and fee-free card spending abroad (ATM limits apply on the free plan; higher limits on paid plans). 
+
+It consistently ranks at or near the top in customer service surveys and is a Which? Recommended Provider. MoneySavingExpert calls it the top pick for hands-on budgeting.
+
+### Best simple all-rounder: Starling
+Starling is frequently the top choice for a clean, reliable everyday account. It has no monthly fee and no paid tiers, excellent app features (including Spaces for separating money), relatively competitive overdraft rates, and truly fee-free card spending plus unlimited fee-free ATM withdrawals abroad. Customer scores are consistently among the highest — Which? has recommended it for years (recently scoring around 86%), and it ranks near the top of independent service-quality surveys. MoneySavingExpert lists it as a top all-rounder.
+
+### Other solid options
+- **Nationwide** or **First Direct** if you want branch access or phone support. Both are Which? Recommended Providers. Nationwide has a strong branch network and sometimes useful rewards or interest features; First Direct is long praised for customer service and offers an interest-free overdraft buffer.
+- **Zopa Biscuit** can suit people who want cashback focused on bills or eating out (or interest on the balance), but it’s more of a complementary account for many.
+
+### Practical tips
+Most people do best with a free digital account as their main spending card (or as a second account alongside a high-street bank for salary and bills). You can open these without switching your existing account. All the major options above are fully authorised UK banks with FSCS protection (up to £120,000 per person per authorised firm).
+
+Rates, cashback rules, and eligibility change, so check the latest details directly with the provider or on MoneySavingExpert and Which? before applying. A soft credit check is usually involved for the basic accounts.",recommended,Best for budgeting and tracking spending: Monzo ... widely regarded as the strongest for hands-on control of day-to-day money.,ok
+perplexity,D4,2,Which UK bank card is best for spending abroad with no fees?,"**Starling’s free current account debit card is probably the best all-round pick** if you want no bank fees for both purchases and cash withdrawals abroad. It uses Mastercard’s exchange rate, has no monthly account fee, and Starling says it doesn’t add overseas transaction or ATM-withdrawal fees. Cash withdrawals are subject to a £300-a-day equivalent limit; the ATM operator may still charge its own fee.
+
+Other good options:
+
+- **Chase:** no fees for overseas card spending or cash withdrawals, but withdrawals abroad have a £1,500 monthly limit.
+- **First Direct:** no fees on foreign purchases or cash withdrawals; its overseas ATM limit is £500 per day.
+- **Monzo:** no foreign transaction fee on purchases, but free cash withdrawals are limited—on the free plan, £200 every 30 days outside the EEA, then a 3% fee.
+
+**Bottom line:** Choose Starling if you want the simplest fee-free option for spending and cash. At card terminals and ATMs, choose to pay or withdraw in the **local currency**, not pounds; that usually avoids the merchant’s or ATM’s less favourable conversion rate. The provider may have changed its terms, so check the current limits before travelling.",mentioned,"Monzo: no foreign transaction fee on purchases, but free cash withdrawals are limited",ok
+perplexity-web,D1,1,What's the best bank account in the UK for everyday spending?,"For everyday spending, Monzo is the best all-round pick if you want an easy-to-use app, spending notifications and fee-free spending abroad; Which? gives it an 85% customer score. If you’d rather earn cashback, consider Chase: it offers 2% on eligible everyday purchases, but you must make 15+ card purchases monthly and keep at least £1,000 in Chase savings to qualify.
+which.co",recommended,"Monzo is the best all-round pick if you want an easy-to-use app, spending notifications and fee-free spending abroad",ok
+chatgpt,D7,1,Best bank account for a sole trader or small business in the UK?,"**If you’re a UK sole trader and most customers pay by bank transfer, I’d choose Starling’s Sole Trader account.** There’s no monthly fee, you can create and send invoices for free, and you can set money aside for tax. It also connects to Xero, QuickBooks and FreeAgent without a bank integration fee. The main drawback is cash: Post Office deposits cost **0.7%, with a £3 minimum per deposit**, and sole traders can deposit at most **£20,000 per calendar year**. ([starlingbank.com](https://www.starlingbank.com/sole-trader-bank-account/))
+
+I’d change that recommendation in three situations:
+
+| If this describes your business | I’d choose | Why |
+|---|---|---|
+| You’re starting out and want branch access or your accountant uses FreeAgent | **NatWest Start-up** | For eligible businesses trading less than a year with turnover under £1m, everyday banking is free for two years. FreeAgent stays free while you keep the account, but standard transaction charges apply after year two. ([natwest.com](https://www.natwest.com/business/bank-accounts/startup-bank-account.html?intcam=HP-B-P3-DEF-Default&utm_source=openai)) |
+| You’re a sole trader or run a one-person limited company and just need a basic account | **Monzo Business Lite** | No monthly fee and free UK bank transfers. I’d start with Lite rather than pay **£9/month for Pro**, unless you specifically want features such as automatically setting aside tax or invoicing from Monzo. ([monzo.com](https://monzo.com/business-banking/plans-pricing)) |
+| You have employees who need to spend company money | **Monzo Business Team** | From **£25/month**, it offers employee expense cards with spending limits and bulk payments for salaries or suppliers. Those are concrete reasons to pay for an account rather than use a free one. ([monzo.com](https://monzo.com/business-banking/plans-pricing)) |
+
+One UK distinction: a **sole trader** doesn’t legally need a business account, though some personal accounts prohibit business use. A **limited company** must keep its banking separate from the directors’ personal banking. ([business.gov.uk](https://www.business.gov.uk/support/accounting-tax-cashflow/getting-a-business-bank-account/?utm_source=openai))
+
+If you regularly take cash, **how much you deposit and how often** matters more than the monthly fee: at Starling, paying in £100 four times costs £12, versus £3 for one £400 deposit. If you tell me whether you’re a sole trader or Ltd, how customers usually pay, and whether you already use accounting software, I can narrow this to one account. ([help.starlingbank.com](https://help.starlingbank.com/business/topics/cash-and-cheques/can-i-deposit-cash-into-my-account/?utm_source=openai))",recommended,Monzo Business Lite | No monthly fee and free UK bank transfers. I'd start with Lite rather than pay £9/month for Pro,ok
+claude,D1,2,What's the best bank account in the UK for everyday spending?,"There isn't one best account for everyone, but a few come out on top in the November 2026 roundups.
+
+**Best all-rounder for everyday spending: Starling**
+- Finder ranks it first, with a score of 9.8/10. It calls it the best all-rounder and best for overseas spending.
+- It has interest on balances, no foreign transaction fees, and a strong app.
+- It has no monthly fee.
+
+**Best for cashback: Chase**
+- It pays 1% cashback on debit card spending (up to £15/month), with no monthly fee.
+- It's a good pick if you want to be paid for ordinary spending without a fee. Reviewers do note it has no switching bonus.
+
+**Best if you pay lots of bills: Santander Edge**
+- It pays 1% cashback on bills and selected spending, for a £3/month fee.
+- Be Clever With Your Cash rates it the best account for bills and for savings interest.
+
+**Other options**
+- **Monzo** is good for budgeting and extra features. Finder ranks it second, at 9.3/10.
+- **First Direct** is rated best for customer service. It has no monthly fee and often a switching bonus.
+- **HSBC Advance** has a big switching offer. Selectra says it pays £500 in November 2026, the highest cash bonus on the market. Check the eligibility conditions first.
+
+**My suggestion**
+- For simple, low-fuss daily use, choose **Starling**.
+- If you want cashback, add **Chase** alongside it.
+- If you're happy to switch your main account for a one-off payout, look at the current switching bonuses.
+
+Most people can have more than one account. A common setup is a main account for salary and bills, plus a second one for spending or cashback.
+
+Rates, fees and bonuses change often, so check the provider's own page before applying. Tell me what matters most to you, such as cashback, travelling abroad, branches or overdraft rates, and I can narrow it down.",mentioned,"Monzo is good for budgeting and extra features. Finder ranks it second, at 9.3/10.",ok
+gemini,D4,1,Which UK bank card is best for spending abroad with no fees?,"The ""best"" card depends on whether you prefer a **debit card** (no credit check, spend your own money) or a **credit card** (added protection under Section 75 for large purchases). 
+
+Here are the top UK cards for spending abroad with zero foreign transaction fees:
+
+---
+
+### 1. Best Debit Card Overall (with Cashback): **Chase Bank**
+* **Exchange rate:** Mastercard (near-perfect interbank rate, no markup).
+* **Spending fee:** 0%.
+* **ATM withdrawals abroad:** Free up to £500/day (subject to a £1,500 monthly limit on overseas cash withdrawals).
+* **Perk:** You get **1% cashback** on debit card spending abroad (capped at £15/month), effectively giving you a discount on your travel spending.
+* **Drawback:** Requires a smartphone app account; overseas ATM withdrawals have a monthly cap.
+
+---
+
+### 2. Best Debit Card for Cash Withdrawals: **Starling Bank**
+* **Exchange rate:** Mastercard (no markup).
+* **Spending fee:** 0%.
+* **ATM withdrawals abroad:** Free with **no monthly limit** (daily limit of £300/day, up to 6 withdrawals daily).
+* **Perk:** Unlike Monzo or Chase, Starling does not place a tight monthly cap on foreign cash withdrawals. It is one of the most reliable and transparent travel cards available.
+* **Drawback:** No cashback on spending.
+
+---
+
+### 3. Best Credit Card (Protection + Cashback): **Barclaycard Rewards**
+* **Exchange rate:** Visa (no markup).
+* **Spending fee:** 0%.
+* **Cash withdrawals abroad:** Fee-free, and unlike almost all other credit cards, **no interest is charged on ATM withdrawals abroad provided you pay your balance off in full by the due date**.
+* **Perks:** 
+  * **Section 75 protection:** If you buy flights, hotels, or rental cars over £100, your purchase is legally protected if the company goes bust.
+  * **0.25% cashback** on all everyday spending.
+* **Drawback:** Requires a credit check and approval; you must set up a direct debit to clear the balance in full each month to avoid interest.
+
+---
+
+### Other Notable Mentions
+* **Halifax Clarity (Credit Card):** Long-time popular travel credit card with 0% FX fees on Mastercard rates. However, it charges interest on cash withdrawals from the day they are made, making Barclaycard Rewards slightly better.
+* **First Direct (Debit Card):** If you already bank with them or prefer a traditional high-street brand, their standard 1st Account debit card has 0% fees on spending and ATM withdrawals abroad worldwide.
+* **Monzo / Revolut:** Both are fee-free for card spending. However, Monzo charges fees on non-EEA ATM withdrawals over £200/month, and standard Revolut accounts charge weekend exchange rate markups and have a £200/month ATM cap.
+
+---
+
+### Key Tips for Spending Abroad
+1. **Always pay in the local currency:** If a card machine or ATM asks whether you want to be charged in **GBP or the local currency (EUR, USD, etc.)**, **always choose the local currency**. Choosing GBP lets the merchant's machine convert the money via ""Dynamic Currency Conversion,"" which often carries a hidden 5% to 10% rip-off markup.
+2. **Watch out for local ATM operator fees:** Even if your UK bank doesn’t charge you to take out cash, the local foreign ATM owner might charge its own flat fee. Look for ATMs run by major local banks rather than standalone machines (like Euronet).",mentioned,"Monzo / Revolut: Both are fee-free for card spending. However, Monzo charges fees on non-EEA ATM withdrawals over £200/month",ok
+gemini-web,D2,1,Which app-based bank should I switch to in the UK?,"The best UK app-based bank depends on whether you want a full-featured daily account, automated budgeting, or maximum cashback and interest. Monzo is the best all-rounder for everyday spending and group expenses, Starling Bank wins for fee-free travel and traditional banking perks (like cheque imaging), and Chase UK is top for earning cashback on daily purchases.
+
+Top UK App-Based Banks Compared
+Bank	Best For	Key Everyday Perks	Foreign Card Spending	FSCS Protected?
+Monzo	Social spending & budgeting	Instant notifications, bill splitting, ""Pots"" for organizing money, salary sorter	Free up to £200/month cash withdrawals (unlimited card spend)	Yes (up to £85,000)
+Starling Bank	Travel & full current account features	Fee-free global ATM withdrawals, Spaces (saving goals), in-app cheque deposits, Post Office cash deposits	Unlimited free card spend and ATM withdrawals	Yes (up to £85,000)
+Chase UK	Cashback & high-interest saving	1% cashback on everyday debit card spending (subject to monthly eligibility rules), round-up account, multiple virtual account numbers	Unlimited free card spend and Chase/JPMorgan ATMs abroad	Yes (up to £85,000)
+Revolut	Multi-currency & investing	Hold and exchange 30+ currencies at interbank rates, disposable virtual cards, built-in crypto/stock trading	Free up to £1,000/month exchange (Mon–Fri) on Standard plan	Yes (received UK banking licence; verify account transition status)
+Which One Fits Your Needs?
+
+Choose Monzo if you share expenses: Features like Shared Tabs and Monzo.me (letting friends pay you back via a simple link without needing the app) make it the easiest option for splitting rent, dinners, or group trips. Note that its free tier limits fee-free foreign ATM withdrawals to £200 every 30 days.
+
+Choose Starling if you travel often or still handle cash/cheques: Unlike most digital banks, Starling allows you to scan cheques directly in the app and deposit cash at any UK Post Office. It also offers unlimited fee-free ATM withdrawals abroad, making it superior to Monzo for heavy cash travelers.
+
+Choose Chase UK if you want your current account to pay you: If you want to earn money back on groceries, fuel, and everyday bills without using a credit card, Chase’s debit card cashback and separate high-interest saver accounts provide the strongest financial return. Note that it does not support physical cheque or cash deposits.
+
+Choose Revolut if you manage multiple currencies: While less suited as a primary UK salary account compared to Starling or Monzo, Revolut is unmatched if you frequently send money internationally, hold foreign currencies, or want disposable single-use virtual cards for safer online shopping.
+
+How to Switch Easily
+
+If you choose Monzo, Starling, or Chase, they all participate in the Current Account Switch Service (CASS). Once you open an account in the app, you can trigger a switch that automatically moves your balance, Direct Debits, and standing orders over from your old bank within 7 working days, closing your old account in the process. (Note: Revolut does not currently participate in CASS, meaning you would need to move Direct Debits manually).
+
+To narrow down the best option for you:
+Compare paid tiers like Monzo Perks and Revolut Plus
+See which UK app banks offer accounts for under-18s
+Check current UK switching bonuses",recommended,Monzo is the best all-rounder for everyday spending and group expenses,ok
+grok,D5,1,Best first bank account for a 16 year old in the UK?,"**Monzo for 16–17s is one of the strongest first accounts for most 16-year-olds in the UK**, with Starling and Nationwide as excellent alternatives depending on what matters most to you.
+
+All the main options are free, come with a debit card, have no arranged overdraft (safer while you’re learning), and are FSCS-protected (up to £120,000). At 16 you can usually open them yourself.
+
+### Top pick for most people: Monzo (16–17s)
+- Open completely on your own in the app (photo ID, your own UK mobile number, and email).
+- Excellent app with real-time notifications, spending insights, bill-splitting, and Pots for budgeting.
+- Instant Access Savings Pot pays **2.80% AER** (variable), paid monthly, with instant access.
+- Age-restricted spending (e.g. gambling) is blocked.
+- Fee-free card spending abroad (they pass on the Mastercard rate).
+- Automatically becomes a full Monzo current account at 18.
+- Which? recommended provider with high customer scores.
+
+It’s designed for independence and building good habits without fees or debt traps.
+
+### Strong app alternative: Starling Teen Account
+- Also free and open independently in the app (passport or similar ID + proof of address).
+- Often scores highest for customer satisfaction (Which? around 86%).
+- Strong app features: instant notifications, Spending Insights, and Spaces to organise money.
+- Blocks age-restricted merchants and converts to a normal Starling account at 18.
+- Current account balance itself currently pays **0% interest** (check if separate savings options are available to you).
+
+Great if pure app quality and support matter more than interest.
+
+### Best for interest + branches: Nationwide FlexOne
+- Free current account paying **2% AER** on balances up to £1,000.
+- Linked FlexOne Saver pays **5.00% AER** (variable) on up to £5,000 — one of the better rates available to teens.
+- App, online, phone, and branches.
+- Fee-free overseas card use.
+- You can keep the account until age 23.
+- Which? customer score around 84%.
+
+Choose this if you have money to save or prefer the option of walking into a branch.
+
+### Other options worth a look
+- **TSB Under 19s**: **2.50% AER** (variable) on balances up to £2,500 (paid monthly). Driving-related discounts appear later.
+- **NatWest Adapt**: Around 1.60% interest; sometimes has sign-up offers (e.g. gift cards). Can often be opened independently at 16–17.
+
+### Quick advice
+- Want the easiest modern start and useful tools? Go **Monzo**.
+- Want the highest customer ratings and a clean app? **Starling**.
+- Want the best interest on savings or branch access? **Nationwide FlexOne + Saver**.
+
+You’ll typically need photo ID (passport is simplest for the app banks) and proof of address. Rates are variable and change, so double-check the bank’s site before applying. At 18 these accounts usually convert smoothly, and if you go to university you can later look at student accounts (which often include interest-free overdrafts).",recommended,Top pick for most people: Monzo (16–17s),ok
+perplexity,D3,2,Best UK bank for budgeting and saving pots?,"**For most people, Monzo is the best all-round choice for budgeting and savings pots.** Its regular Pots are useful for separating bills and spending money, while Savings Pots earn interest. You can automate saving with recurring transfers and round-ups, and set bills to come from a Pot. Some extras, such as custom categories, are on paid plans.
+
+**Choose Starling if you prefer a straightforward setup.** Its Spaces help you organise money for bills or goals, and virtual cards linked to a Space can help you stick to a spending limit. Check whether the specific Space or saver account you choose earns interest; don’t assume all money set aside does.
+
+**Choose Chase if your priority is savings accounts and round-ups.** Its savings pots are separate saver accounts, and it can round up spending into a savings account. It may be less suited than Monzo if you want detailed day-to-day budgeting.
+
+**My quick take:** Monzo for budgeting plus pots; Starling for simple envelopes and spending control; Chase for a savings-focused setup. Compare the current interest rate, withdrawal rules, and any account fees before moving savings—rates and terms change. Also check FSCS protection and remember the limit applies across eligible deposits you hold with the same banking group.",recommended,Monzo is the best all-round choice for budgeting and savings pots.,ok
+chatgpt,D8,2,Which UK bank has the best customer service?,"**I’d pick First Direct for a personal current account if what matters most is being able to speak to someone when something goes wrong.** You can call a UK-based adviser 24/7, and First Direct earned five out of five stars for both customer service and telephone banking in the 2026 Which? survey. ([firstdirect.com](https://www.firstdirect.com/ways-to-bank/?utm_source=openai))
+
+Two alternatives stand out, depending on how you bank:
+
+- **Monzo for overall service.** In the August 2026 Ipsos survey, Monzo ranked first in both Great Britain and Northern Ireland: 79% and 82% of its customers, respectively, were very or extremely likely to recommend it. That measures the whole banking experience, not just how well support handles a problem. ([uk.virginmoney.com](https://uk.virginmoney.com/current-accounts/service-quality-indicators/?utm_source=openai))
+- **Nationwide for face-to-face help.** It ranked first for branch service in Great Britain: 83% of customers surveyed would recommend its branches, compared with 71% for runner-up Halifax. ([uk.virginmoney.com](https://uk.virginmoney.com/current-accounts/service-quality-indicators/))",recommended,"Monzo for overall service. In the August 2026 Ipsos survey, Monzo ranked first in both Great Britain and Northern Ireland",ok
+claude,D8,2,Which UK bank has the best customer service?,"There's no single winner, but a few banks come out on top across most of the surveys.
+
+**Top performers**
+- **First Direct** is the best for phone and branch-free service. In MoneySavingExpert's July 2026 poll of 2,700 people, 90% rated First Direct's customer service ""great"". That was the top score. Which? says it's one of only two banks with the full five stars for customer service and telephone banking.
+- **Nationwide** is the best if you want a high-street presence. It scored 85% ""great"" in the MSE poll. Forbes also named it the UK's best bank. Which? lists First Direct and Nationwide as having the highest customer scores.
+- **Starling** is the best app-based bank. It scored 84% ""great"" in the MSE poll, though from a much smaller sample of 83 responses. It also ranked second in the CMA's independent service quality survey, published in August 2026. Which? notes its customer service rating is back up to four stars.
+
+**Mid-table:** Monzo (77% ""great"") and Chase (72%) did reasonably well in the MSE poll. Which? says Monzo fell short in one area, which was contacting customer services.
+
+**Weaker in these surveys:** Halifax (33%) and HSBC (32%) scored lowest in the MSE poll, and TSB (35%) was also near the bottom. Results vary by survey, though. Newsweek's rankings put Barclays and HSBC at the top of commercial banks. That list may weigh different things, and it's a year old.
+
+**Which to choose**
+- If you want phone support from a real person, choose First Direct.
+- If you want branches and good service, choose Nationwide.
+- If you're happy with an app, choose Starling.
+
+Switching incentives change often, so check current offers before you move. Customer service ratings are also based on survey samples, so treat small differences as rough guides.",mentioned,"Mid-table: Monzo (77% ""great"") and Chase (72%) did reasonably well in the MSE poll.",ok
+gemini,D1,1,What's the best bank account in the UK for everyday spending?,"The ""best"" bank account for everyday spending depends on whether you want **cashback rewards**, **budgeting tools**, or **fee-free travel spending**. 
+
+The top options in the UK break down by category:
+
+---
+
+### 1. Best for Cashback & Everyday Perks: **Chase UK**
+If your priority is earning money back on your daily purchases, Chase is generally the top choice for debit card spending.
+* **The Perks:** 
+  * Cashback on everyday card spending (groceries, dining, transport, fuel).
+  * Linked easy-access saver with competitive interest.
+  * 5% AER ""Round-up"" account (rounds up your purchases to the nearest pound and pays 5% on the spare change).
+  * **Fee-free overseas spending and cash withdrawals** using the Mastercard exchange rate.
+* **Cost:** £0/month.
+* **Catch:** Criteria apply to keep qualifying for cashback after introductory periods (such as a minimum monthly deposit).
+
+---
+
+### 2. Best for Budgeting & Digital Experience: **Monzo** or **Starling Bank**
+If you want granular control over your daily allowance and clean, intuitive apps, the challenger banks remain unmatched.
+
+* **Monzo:**
+  * **Why it’s great:** Instant push notifications, custom spending categories, and ""Pots"" to separate spending money from bill money. You can also pay directly from a pot.
+  * **Spending abroad:** Zero fees on card spending worldwide; free foreign ATM withdrawals up to a rolling limit.
+  * **Cost:** Free standard account (paid tiers available for extra perks).
+
+* **Starling Bank:**
+  * **Why it’s great:** Consistently wins customer satisfaction awards. Has a cleaner, less clutter-heavy app than Monzo, with ""Spaces"" for saving and 24/7 UK customer support.
+  * **Spending abroad:** Truly unlimited fee-free card payments and ATM withdrawals overseas.
+  * **Cost:** Free.
+
+---
+
+### 3. Best for Combined Bills + Daily Spend: **Santander Edge**
+If you want to use the same account for groceries, commuting, and household utility bills.
+* **The Perks:** 
+  * **1% cashback** (up to £10/month) on essential spending (supermarkets, fuel, train fares).
+  * **1% cashback** (up to £10/month) on household bills (council tax, gas, electricity, broadband).
+  * Access to the linked **Santander Edge Saver**, which pays a top-tier interest rate.
+* **Cost:** £3/month fee.
+* **Catch:** To make a profit, you need to earn more than the £3 fee in cashback, and you must deposit at least £500/month and maintain two direct debits.
+
+---
+
+### 4. Best Traditional Account & Service: **First Direct (1st Account)**
+If you prefer a traditional banking setup with a human on the end of the phone:
+* **The Perks:** Rated #1 for UK customer service for years. Includes a £250 interest-free overdraft buffer and access to a high-yield regular savings account.
+* **Spending abroad:** Debit card spending and withdrawals abroad are fee-free.
+* **Cost:** £0/month.
+* **Switching bonus:** Often pays a cash bonus to switch via the Current Account Switch Service (CASS).
+
+---
+
+### Which one should you pick?
+
+* **Choose Chase** if you want automatic cashback on your daily coffees, lunches, and supermarket shops without paying an account fee.
+* **Choose Starling or Monzo** if you struggle to budget and want visual pots and instant spending breakdowns.
+* **The ""Two-Account"" Strategy:** Many people keep their salary and direct debits with a traditional bank (e.g., First Direct, Nationwide, or Santander) and set up a standing order every payday sending their weekly spending money to **Chase** or **Monzo**. This protects your bill money while maximizing rewards and budgeting tools.",recommended,Best for Budgeting & Digital Experience: Monzo or Starling Bank,ok
+gemini-web,D4,1,Which UK bank card is best for spending abroad with no fees?,"For fee-free spending abroad from the UK, Starling Bank and Chase are the best overall debit cards, while Lloyds Ultra and Barclaycard Rewards are the top credit cards. The best choice depends on whether you prefer debit (no credit checks, instant budgeting) or credit (Section 75 protection on big bookings).   
+Money Saving Expert
++ 1
+
+Top UK Fee-Free Travel Cards Compared
+Card	Type	Foreign Spending Fee	Overseas ATM Withdrawals	Key Perks & Catch
+Starling Bank	Debit	0% (Mastercard rate)	Fee-free (up to £300/day, max 6/day)	Best all-rounder: No monthly ATM cap, great app, no credit check.
+Chase UK	Debit	0% (Mastercard rate)	Fee-free (up to £500/day, £1,500/month)	Best for rewards: 1% cashback on everyday spending in year 1 (capped/subject to terms).
+First Direct 1st Account	Debit	0% (Mastercard rate)	Fee-free (up to £500/day)	Best traditional bank: Often offers a lucrative switching bonus and top customer service.
+Lloyds Ultra	Credit	0% (Visa rate)	Fee-free, but daily interest applies	Best credit card: 1% cashback worldwide in year 1 (0.25% after) + Section 75 protection.
+Barclaycard Rewards	Credit	0% (Visa rate)	Fee-free & interest-free (if paid in full)	Best credit card for cash: 0.25% cashback; rare credit card with no cash advance interest.
+Monzo (Free)	Debit	0% (Mastercard rate)	Free in EEA; £200/30 days outside EEA (3% after)	Great for splitting group bills and budgeting, but restrictive for cash outside Europe.
+Which One Should You Pick?
+
+For everyday spending & cash withdrawals: Go with Starling Bank. Unlike Monzo or Revolut, Starling doesn't restrict your free monthly ATM withdrawals or add weekend exchange rate markups. Chase is an equally strong alternative if you want cashback and don't need more than £1,500/month in foreign cash.   
+Yonder
++ 1
+
+For hotels, flights, and car hire: Use a fee-free credit card like Lloyds Ultra or Barclaycard Rewards. Paying by credit card gives you Section 75 protection on purchases between £100 and £30,000 if a company goes bust or something goes wrong—and car rental desks strongly prefer credit cards for security deposits. (Always set up a Direct Debit to pay the balance in full each month to avoid high APR interest.)   
+Money Saving Expert
++ 1
+
+If you don't want a new bank account: Trading 212 (free Invest account, no investing required) offers a Mastercard debit card with 0% fees and the pure interbank exchange rate, though free ATM withdrawals are capped at £400/month.
+
+Golden Rule When Paying Abroad
+
+Always choose to pay in the local currency (e.g., Euros, Dollars) on card machines and ATMs. If you select GBP (£), the merchant or ATM uses Dynamic Currency Conversion (DCC) and applies their own terrible exchange rate, wiping out your card's fee-free benefit.
+
+Are you planning a specific trip where you'll need lots of cash, or mostly paying by card?",mentioned,"Great for splitting group bills and budgeting, but restrictive for cash outside Europe.",ok
+grok,D8,1,Which UK bank has the best customer service?,"**Monzo currently ranks highest overall in the main official survey, with Starling, first direct, and Nationwide close behind.** “Best” depends on whether you prioritise app experience, phone support, or branches.
+
+### Latest official rankings (CMA/Ipsos survey)
+The Competition and Markets Authority requires large banks to publish independent Ipsos survey results on how likely their own customers are to recommend them. The most recent results (published August 2026, covering July 2025–June 2026; ~17,000 personal current account customers in Great Britain) show:
+
+| Rank | Bank                  | Would recommend (overall) |
+|------|-----------------------|---------------------------|
+| 1    | Monzo                | 79%                       |
+| 2    | Starling Bank        | 76%                       |
+| 3=   | first direct         | 75%                       |
+| 3=   | Nationwide           | 75%                       |
+| 5    | Chase                | 68%                       |
+
+Traditional high-street banks generally score lower (e.g. Royal Bank of Scotland at the bottom on 48%). Monzo also led online/mobile banking (85%) and overdraft services. Nationwide led branch services (83%). Digital banks (Monzo, Starling, Chase, first direct) have no branch network. 
+
+These figures are the share of customers saying they were “extremely” or “very” likely to recommend the provider.
+
+### Other surveys
+- **Which?** customer scores (recent data) have often put **Starling** at or near the top (around 86%), with Monzo and first direct close behind (around 85% and 84%). first direct frequently receives the highest marks specifically for overall customer service and telephone banking (full five stars in recent assessments), reflecting its long-standing focus on 24/7 human phone support.
+- Other reviews and satisfaction awards also regularly highlight the digital banks and first direct for service quality, while noting that experiences vary.
+
+### What this means in practice
+- **App-first / overall recommendation**: Monzo or Starling tend to lead.
+- **Speaking to a person on the phone**: first direct has the strongest long-term reputation.
+- **Branches**: Nationwide usually ranks highest among those that have them.
+
+Customer service rankings shift slightly between surveys and over time, and they don’t cover fees, interest rates, features, or eligibility. Switching via the Current Account Switch Service is generally straightforward if you want to try a higher-rated provider. Check the latest published CMA results on bank websites or the Ipsos site, as they update every six months.",recommended,Monzo currently ranks highest overall in the main official survey,ok
+perplexity,D3,1,Best UK bank for budgeting and saving pots?,"**Best all-rounder: Monzo**, if you want one app for day-to-day budgeting *and* savings goals. Its budgeting tools and separate Pots make it easy to organise bills and goals; eligible savings Pots earn interest too. The rates shown in the information I found are variable: **2.80% AER on the free plan** for instant access, with higher rates on paid plans. Check the current rate and whether a paid plan is worthwhile before signing up.
+
+**Best if you prefer straightforward budgeting “Spaces”: Starling.** It’s a good option for separating money into named Spaces, but ordinary current-account Spaces don’t earn interest. Starling’s separate Easy Saver does pay interest, though its advertised rate can include a time-limited bonus—check what it falls to afterwards.
+
+**My quick take:** try **Monzo free** first if budgeting is the priority; consider **Starling** if you like its simpler setup. For savings, compare the current easy-access rates separately rather than assuming the bank with the nicest pots has the best return. Rates change, and savings accounts are distinct from budgeting pots.",recommended,"Best all-rounder: Monzo, if you want one app for day-to-day budgeting and savings goals.",ok
+chatgpt,D2,1,Which app-based bank should I switch to in the UK?,"**I’d pick Monzo’s free current account** if you want an app-based bank for your salary, bills and everyday spending. Its most useful feature is Salary Sorter: on payday, you can set aside money for rent and bills in separate Pots, so it’s clear what’s left to spend. You also get spending categories and alerts without paying a monthly fee. ([monzo.com](https://monzo.com/current-account?utm_source=openai))
+
+**I’d choose Starling instead if you regularly take out cash outside the UK and European Economic Area.** Both banks let you pay by card abroad without charging a foreign transaction fee. The difference is at the cash machine: free Monzo charges 3% after the first £200 withdrawn in a rolling 30-day period outside the EEA. Starling charges no withdrawal fee of its own, up to its £300 daily limit, though the ATM operator may charge. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?utm_source=openai))
+
+**I’d try the app before moving your salary.** Open the account, use it for a week of normal spending, then decide. If you like it, the Current Account Switch Service moves your balance, Direct Debits and standing orders in seven working days and closes your old account. You’ll need to update subscriptions charged to your old *card* yourself. ([monzo.com](https://monzo.com/current-account?utm_source=openai))",recommended,"I’d pick Monzo’s free current account if you want an app-based bank for your salary, bills and everyday spending.",ok
+claude,D7,1,Best bank account for a sole trader or small business in the UK?,"For most UK sole traders and small businesses, **Starling** is the best all-round choice. Which account suits you best depends on a few things, set out below. Fees and offers change often, so check each provider's site before you apply.
+
+**Best all-round free account: Starling**
+- Several of the comparison sites I found pick it as the best overall. Starling, Monzo Business Lite and Mettle have no monthly fee, and Tide has a free plan.
+- The sole trader account includes instant payment notifications, receipt capture and automatic expense categorisation.
+- One review also highlights its built-in Making Tax Digital (MTD) tool for Income Tax and the lack of transaction fees.
+- Cash deposits are its weak point. They go through the Post Office at 0.7% (£3 minimum).
+
+**Best if you want free accounting software: Mettle (by NatWest)**
+- Mettle account holders get FreeAgent free. It normally costs from £19 a month on a direct sole trader plan.
+- One source says you need to make at least one transaction a month to keep it.
+
+**Best for a nicer app and room to grow: Monzo Business**
+- Lite is free, Pro is £9 and Team starts at £25. MTD filing is included on the free Lite plan.
+- Cash deposits cost £1 each, capped at £3,000 a month for sole traders. That makes it a good fit if you take cash.
+- Accounting integrations need the Pro plan.
+
+**Best for a growing business: Tide**
+- It has a free plan, with paid plans from £12.49 a month. It connects to Xero, QuickBooks, Sage and FreeAgent.
+
+**Other free option: Zempler Business Go**
+- The free plan includes unlimited free GBP payments received, invoicing, receipt capture, MTD support and UK-based phone support.
+
+**If you want a high street bank (branches, cash, lending)**
+- NatWest gives new businesses two years of free everyday banking. Lloyds and HSBC also suit sole traders who want a high street bank.
+- Lloyds is free for 12 months, then £10 a month.
+- Barclays' start-up account is free for 12 months, then £8.50 a month. TSB's Business Plus is free for 30 months, then £5 a month.
+
+**If you do a lot of international payments**
+- Revolut Business is widely used by sole traders and freelancers who need stronger international payment features. Wise Business is another option for this.
+
+**Things to know**
+- Sole traders don't have to open a separate business account. Many personal accounts prohibit business use, though.
+- A separate account makes bookkeeping much easier. Most MTD-compatible software also requires one.
+- Check FSCS protection. One comparison lists Starling, Mettle and Monzo as FSCS protected.
+
+**Quick picks**
+- **Mostly online and digital:** Starling.
+- **Want free bookkeeping software:** Mettle.
+- **Take cash regularly:** Monzo, or a high street bank with branch access.
+- **Want branches or a lending relationship:** NatWest, Lloyds or Barclays.
+
+If you tell me whether you handle cash, use accounting software, or are a sole trader or a limited company, I can narrow it down. Limited companies have different options.",recommended,Best for a nicer app and room to grow: Monzo Business,ok
+gemini,D2,2,Which app-based bank should I switch to in the UK?,"The right app-based (digital) bank in the UK depends on what matters most to you—whether that is budgeting tools, overseas travel, cashback, or handling cash and cheques. 
+
+The top contenders in the UK are **Monzo**, **Starling Bank**, and **Chase UK** (with **Revolut** as a niche alternative).
+
+---
+
+### 1. Starling Bank — Best All-Rounder & Best for Overseas Travel
+If you want a seamless replacement for a traditional high-street bank with zero hassle, Starling is typically the top pick.
+
+* **Pros:**
+  * **Fee-free abroad:** No fees on card spending abroad, and no daily/monthly limits or fees for overseas ATM cash withdrawals (unlike Monzo).
+  * **Cash & cheques:** You can deposit cash at any UK Post Office and pay in cheques digitally via the app by taking a photo.
+  * **FSCS Protected:** Fully licensed UK bank (your deposits are protected up to £85,000).
+  * **CASS Support:** Fully supports the Current Account Switch Service (7-day switch guarantee).
+  * **Joint Accounts:** Very easy to open joint accounts if you share finances.
+* **Cons:**
+  * App is clean and functional, but has fewer ""fun"" social/budgeting features than Monzo.
+
+---
+
+### 2. Monzo — Best for Budgeting & Social Spending
+Monzo is the most popular digital bank in the UK, especially among people who love detailed budgeting and sharing expenses with friends.
+
+* **Pros:**
+  * **Budgeting tools:** Excellent automatic spending categorization, ""Salary Sorter"", and ""Pots"" to ring-fence money for bills.
+  * **Social features:** Splitting bills, creating shared tabs, and sending money instantly to other Monzo users is faster and smoother than standard bank transfers.
+  * **FSCS Protected & CASS Support:** Full UK banking licence and supports the 7-day switch service.
+* **Cons:**
+  * **Travel limits:** Free card spending abroad, but free international cash withdrawals are capped at £200 every 30 days (a 3% fee applies after that).
+  * **Cash deposits:** Depositing cash requires visiting a PayPoint shop and costs £1 per deposit.
+
+---
+
+### 3. Chase UK (J.P. Morgan) — Best for Cashback & Everyday Perks
+Chase entered the UK market aggressively and remains one of the best reward-driven digital accounts.
+
+* **Pros:**
+  * **Cashback:** 1% cashback on everyday debit card spending (up to £15/month for your first year, continuing if you meet light monthly deposit criteria).
+  * **Savings:** Typically offers very competitive interest rates on linked instant-access savings pots, plus a 5% AER round-up account on your spare change.
+  * **Fee-free abroad:** No fees for using your debit card or withdrawing cash abroad.
+  * **FSCS Protected:** Backed by J.P. Morgan, fully protected up",recommended,Monzo — Best for Budgeting & Social Spending,ok
+gemini-web,D5,1,Best first bank account for a 16 year old in the UK?,"At 16 in the UK, you no longer need a parent to open or co-sign a bank account—you can apply independently for a dedicated teen current account. None of these accounts charge monthly fees or offer overdrafts, so you cannot accidentally go into debt.
+
+The best choice depends on whether you want a slick mobile app, high interest on your savings, or a free cash bonus for opening:
+
+Bank & Account	Best For	Interest & Perks	Key Features
+Monzo for 16–17s	Best all-round app & budgeting	~2.75%–3% AER variable via linked Instant Access Saver	Instant spending notifications, budgeting ""Pots"", fee-free spending abroad, and Apple/Google Pay.
+Starling Bank Teen Account	Travel & top-rated customer service	0% on current account	Highest customer satisfaction scores, ""Spaces"" to ring-fence money, fee-free overseas card use/ATM withdrawals, and Apple/Google Pay.
+Nationwide FlexOne	High-interest saving + branches	2% AER on current account + access to 5% AER FlexOne Saver (up to £5,000)	Great if you want to deposit cash at a physical branch alongside a solid app, plus fee-free spending abroad.
+Santander 1|2|3 Mini	Free cash bonus & middle-balance interest	£50 bonus (when depositing £50 within 31 days) + 3% AER on balances between £1,500 and £2,000	Strong short-term cash incentive and branch access, though the app is more basic than Monzo or Starling.
+NatWest Adapt	Small voucher perk	£20 gift card on opening + 1.60% AER interest	Solid app with bill-splitting tools, Apple/Google Pay, and easy branch access.
+Which one should you pick?
+
+If you're getting a part-time job and want easy budgeting: Go with Monzo or Starling. Both let you separate money for bills/goals from your everyday spending card in seconds, and neither charges foreign transaction fees when you go on holiday.
+
+If you have savings to grow: Open Nationwide FlexOne so you can pair it with their 5% AER FlexOne Saver, or grab Santander if you want an immediate £50 boost. (You are also allowed to hold more than one account—for instance, using Monzo for daily spending and Nationwide for savings.)
+
+What you'll need to apply
+
+Most of these let you apply directly on your phone in about 10 minutes. You will need:
+
+Valid photo ID (a UK passport or provisional driving licence).
+
+Proof of address (such as a recent bank/building society letter, NHS letter, or college enrolment letter—though digital banks like Monzo and Starling often verify your address automatically without paperwork).
+
+Are you mostly looking for an everyday spending card for a part-time job, or somewhere to build up savings?",recommended,If you're getting a part-time job and want easy budgeting: Go with Monzo or Starling.,ok

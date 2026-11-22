@@ -1,0 +1,178 @@
+{
+ "engine": "perplexity",
+ "question_id": "D7",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.lloydsbank.com/business/landing-pages/bca/start-and-grow.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Start and grow"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/compare-business-bank-accounts/",
+   "domain": "tide.co",
+   "source_type": "other",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/startup-small-businesses.html?WT.ac=Lloyds-business--hub_page-starting_your_business-cta-open_a_business_bank_account",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Business Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Small Business Bank Account | Lloyds UK"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/sole-traders.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Sole Trader Bank Account"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/?ref=EMBER",
+   "domain": "tide.co",
+   "source_type": "other",
+   "title": "www.tide.co · business-current-accountBusiness Bank Account | Apply Online | Tide Business"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/compare-business-bank-accounts/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/startup-small-businesses.html?WT.ac=lloyds-business-resource_centre-starting_a_business-illustration-get_a_business_account",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Business Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html?WT.ac=lloyds-business-bca-startup_hub-other_accounts-FOM-see_more_accounts",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Business Bank Account"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts.html?WT.ac=lloyds-business-bca-startup_hub-other_accounts_product_banner-FOM-see_more_accounts",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Current Accounts for Businesses & Organisations"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "domain": "zemplerbank.com",
+   "source_type": "other",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/business-bank-account/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best business bank accounts UK compared"
+  },
+  {
+   "url": "https://www.barclays.co.uk/business-banking/",
+   "domain": "barclays.co.uk",
+   "source_type": "other",
+   "title": "Business banking"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-small-business-bank-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Small Business Bank Accounts UK 2026 - Forbes"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Business Bank Accounts - Apply Online, from £0 Per Month"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo Business Lite | You want a straightforward app-based account and don't need accounting-software integrations on the free plan."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "My quick pick: Starling for a simple, free everyday business account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite has no monthly fee on its free plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover personal plans, not Monzo Business."
+   },
+   {
+    "text": "Monzo Business Lite cash deposits cost £1.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business cash deposit fees."
+   },
+   {
+    "text": "Monzo Business Lite doesn't offer accounting-software integrations on the free plan; the paid plan adds features.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

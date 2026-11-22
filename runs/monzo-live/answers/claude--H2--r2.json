@@ -1,0 +1,29 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H2",
+ "run": 2,
+ "text": "**Spending abroad:** No. You can pay anywhere in any currency with your Monzo card, fee-free. Monzo passes Mastercard's exchange rate on to you with no extra charges.\n\n**Cash withdrawals:** These are free up to a limit, and the limit depends on your account. If Monzo is your main bank account, withdrawals are unlimited and fee-free in the EEA. Anywhere else you get £200 every 30 days, then a 3% fee.\n\nMonzo's help page gives this breakdown for UK customers (it's an older page, so check the app for current figures):\n\n| Account | UK & EEA | Outside EEA |\n|---|---|---|\n| Monzo isn't your main bank | £400 fee-free per 30 days, then 3% | £200 fee-free per 30 days, then 3% |\n| Monzo is your main bank | Unlimited fee-free | £200 fee-free per 30 days, then 3% |\n| Monzo Plus | Unlimited fee-free | £400 fee-free per 30 days, then 3% |\n| Premium, Perks & Max | Unlimited fee-free | £600 fee-free per 30 days, then 3% |\n\nSource: Monzo Help\n\n- **ATM operators:** Some ATMs charge their own fee, which Monzo doesn't receive. Use a free machine when you can.\n- **Local currency:** If you use an ATM abroad, it can be worth withdrawing in the local currency to avoid additional conversion fees. If the ATM offers to charge you in pounds, decline.\n- **\"Main bank\" status:** Monzo defines this as having your salary paid into Monzo.\n\nOne result claimed a flat £2 fee per withdrawal. That doesn't match Monzo's own pages, so I wouldn't rely on it. Monzo's Irish pages show different euro-based rules, but those apply to Irish accounts, not yours.\n\nYour exact allowance is shown in the Monzo app, so check it before you travel.",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  }
+ ],
+ "search_queries": [
+  "Monzo fees spending and withdrawing cash abroad"
+ ],
+ "latency_s": 7.43,
+ "asked_at": "2026-11-21T16:49:07.678181+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

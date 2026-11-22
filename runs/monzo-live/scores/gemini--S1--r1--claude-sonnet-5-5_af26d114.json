@@ -1,0 +1,111 @@
+{
+ "engine": "gemini",
+ "question_id": "S1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8EMjEQCyXxEOZ2BxOE4sUBfrnA9nPwUuIFHwtdDMF533tIBDrQWoHtC4uYCQ1_MZsEqeStScaxRTRkwNF3TzhxC4zl8bt-biHPQ5Emuo=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEplT95zVtQ0l0jWyqHOrg0GzKmULGH68FCacbL0mYIjKOracxVqoH7B5u5N594RcqI254lZdtvNYsHuw5_vehKbZ4YG1k0eO5l45YiKhMuzYQgr3vE3BznJD0sNZXhH9fQsXgzZE9a",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhGXMCcP_1754T89FG7y0KfBD6j6GKAdmmOV9zXb3q6yCGxI38wuuPn4C20hSlxMVf_uBcKsJLilQPsgaS004cgWdgKMEGqf_Dp77quaFTYKtEXC7YCu6fiCpD3Tkdh5evsGXh_XJatHco",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "you can switch your current account to Monzo using the Current Account Switch Service (CASS)"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is fully integrated with CASS, so all Direct Debits and standing orders are moved over automatically",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers CASS participation or switching."
+   },
+   {
+    "text": "In the Monzo app, tap the three dots on your account card on the Home tab and select Switch to Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App navigation steps are not covered by the facts."
+   },
+   {
+    "text": "The switch date must be a working day, typically at least 7 working days away",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Incoming payments to the old account details are redirected to Monzo for at least 3 years",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "CASS does not transfer Continuous Payment Authorities; card details must be updated manually once the new Monzo debit card arrives",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T1",
+ "run": 1,
+ "text": "**Yes. If Monzo Bank fails, the UK’s Financial Services Compensation Scheme (FSCS) protects up to £120,000 per person in eligible cash deposits held with Monzo.** Monzo is a licensed UK bank, so its customers get the same deposit protection as customers of a UK high-street bank. In most cases, the FSCS pays you back automatically within seven working days; you don’t need to make a claim. ([monzo.com](https://monzo.com/faq?utm_source=openai))\n\nThe key is that the limit is **per person, not per account**. Add together your Monzo current account, regular Pots, savings held by Monzo itself and your share of any joint account. If that total is £120,000 or less, your eligible cash is fully covered. Two joint holders can have up to £240,000 covered between them, provided neither exceeds their individual limit. ([monzo.com](https://monzo.com/help/budgeting-overdrafts-savings/instant-access-savings-pots-web?utm_source=openai))\n\nIf you keep **more than £120,000** at Monzo long term, you can protect the excess by moving it to a bank with a separate banking licence. For a temporary balance from a qualifying event, such as selling your main home, the FSCS can cover up to £1.4 million for six months. ([protected.fscs.org.uk](https://protected.fscs.org.uk/check/check-your-money-is-protected/?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/faq?utm_source=openai",
+   "title": "Monzo - Frequently asked questions"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/instant-access-savings-pots-web?utm_source=openai",
+   "title": "Monzo Help - What are Instant Access Savings Pots?"
+  },
+  {
+   "url": "https://protected.fscs.org.uk/check/check-your-money-is-protected/?utm_source=openai",
+   "title": "Bank & savings protection checker | Check your money is protected | FSCS"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK FSCS Monzo November 2026 120000 savings pots joint account investments"
+ ],
+ "latency_s": 10.49,
+ "asked_at": "2026-11-21T17:01:19.278250+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

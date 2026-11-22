@@ -1,0 +1,47 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H2",
+ "run": 2,
+ "text": "**Spending abroad with your card is completely free, but cash withdrawals have certain limits before fees apply.**\n\n---\n\n### 1. Spending Abroad (Card Payments)\n* **Fee:** **£0** (completely free).\n* **Exchange Rate:** Monzo passes on the standard **Mastercard exchange rate** directly without adding any foreign transaction fees or hidden markups. \n* There is no spending cap on fee-free card payments.\n\n---\n\n### 2. Withdrawing Cash Abroad (ATMs)\nMonzo does not charge a fee up to a certain allowance. Once you exceed that allowance, a **3% fee** is charged on any additional amount. The allowances depend on where you travel and what type of Monzo account you have:\n\n#### **In the European Economic Area (EEA)**\n* **If Monzo is your main bank account** (or you have a paid plan like Perks/Max): **Unlimited fee-free cash withdrawals**.\n* **If Monzo is not your main bank:** You can withdraw up to **£400 fee-free every rolling 30 days** (3% fee thereafter).\n\n*(Monzo usually classifies your account as your \"main bank\" if you pay in at least £500 every 35 days and have at least one active direct debit, or receive regular salary/benefits into it).*\n\n#### **Outside the EEA (Rest of the World)**\n* **Standard (Free) Account:** Up to **£200 fee-free every rolling 30 days**, then a **3% fee** applies.\n* **Monzo Plus:** Up to **£400 fee-free** every rolling 30 days, then 3%.\n* **Monzo Perks, Max, or Premium:** Up to **£600 fee-free** every rolling 30 days, then 3%.\n\n---\n\n### Things to Keep in Mind:\n* **The 30-day allowance is rolling:** It resets exactly 30 days after each individual withdrawal—not at the calendar month's end. You can check your remaining allowance at any time in the Monzo app under your account limits.\n* **Always pay/withdraw in the local currency:** If a card machine or ATM asks whether you want to be charged in GBP or the local currency (e.g., EUR, USD), **always select the local currency**. Choosing GBP triggers \"Dynamic Currency Conversion\" (DCC), where the local ATM/merchant sets their own poor exchange rate.\n* **Third-party ATM fees:** Monzo’s fee-free allowance covers *Monzo's* charges, but some foreign ATM operators charge their own fee to use their machines.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1adnf0CO68HLSHsuR6c9KD6XHZ1kvh3FtOKLrhAKPkVKCvg4COCnsGtMEBoTRUeZIcR2S1YEUHx-hCjIP-5s7HfIr8b6byTyx_sJ7hsujgfRMiBPQh85CiPEYZpu4n6R601bAKwPhhLE=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPDf5PbtVICjq7DLXa9FQQUcaUS3eNXBxz8hQ1e98axr1TSQ_HxQDdhvf5XrGhJ0gWjfhM1z4e-XkZ2acAv0QVj4_x961RL3PT71uXpv_eVvfop_WfuA==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNB9vYzlkUwBdcpHAB2QJ8JKDzRY6TLJpC-_KUIRiKi3i75AxUaS0Rkne79ktjOtQehzTea4Ozu8htr2lgCVGIiDxsWvKBHjfo7g-QlxJj1iyw3-l6d2cXDr8-_1P9HWFbGI_2Apma3dz4Be-iYPpmHoMgs3rB",
+   "title": "outboundlynx.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ahVIcgzJzoDfX2-RSu0ERejQwHY6DYV5rxFoVQACZ8eJXa1SUEtiMf_zM1LtK4sXW-zh8DazvIGmYts6JFzNjh78NbZGd7_FUjzsQfx076ZGYpYVkMnHh5OhFcfB_PWnRMjzl7uYN4VX3IwWeDujMEjcxjOjlsKx",
+   "title": "travelmint.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPOIZ2bPGnoPU0tHvfTxY_vlkn-J-83ddeHQkS-LvjmyILuYltykBizbGNdb4oA_OyXkSWLlouRwQuKv7GurMPCSzOoJm_OC_bGqEgulwPnp08Ea7XpCpnpGdJyxtDGKdd-t8q",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpwhDUwxdg6aC-Wuz0XkT4u1t5aCU_iNDz2VNSD_Jsh9eB9H-HhRf1ZYuAS8yZkIyz5iA31REEuoSMJTmgP7TYnOVDN4kqe2HuDrT2XI6GW3PZvP6hJ88oXxpRZShN4pg=",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJW9pDHp4vCm9MPz3CndZ2cwRS1wSa78TM_pf4AktScMTVbVUC5BXCXcJSWdzDW73yR0Z7Q7EQ3m3h2v9i8YQiiIKrjUsaDTtyplxaE0V3DUVIEEMRU0yV4ipLj71NgAbbVDLvVJRt7NfKeeP9",
+   "title": "outboundlynx.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo fees travelling abroad cash withdrawal limits UK",
+  "Monzo fees spending abroad cash withdrawal UK"
+ ],
+ "latency_s": 19.39,
+ "asked_at": "2026-11-21T17:56:33.707536+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

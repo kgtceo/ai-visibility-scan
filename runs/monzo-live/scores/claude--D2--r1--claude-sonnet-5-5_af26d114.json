@@ -1,0 +1,144 @@
+{
+ "engine": "claude",
+ "question_id": "D2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://finance.yahoo.com/markets/currencies/articles/revolut-vs-monzo-vs-starling-130000407.html",
+   "domain": "finance.yahoo.com",
+   "source_type": "other",
+   "title": "Revolut vs Monzo vs Starling vs Chase: which is the best online bank?"
+  },
+  {
+   "url": "https://anna.money/blog/guides/starling-vs-monzo-vs-revolut-business-account/",
+   "domain": "anna.money",
+   "source_type": "other",
+   "title": "Starling vs Monzo vs Revolut Business Account: 2026 Comparison"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/compare-digital-banks-uk-2026",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "Compare Digital Banks UK 2026"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo: best for most people"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling: best as a full replacement for a high-street bank"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut: best for travel and foreign currency"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase: best for savings and cashback"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers the Mastercard exchange rate with no markup",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches passing on the Mastercard rate with no extra charges."
+   },
+   {
+    "text": "Cash deposits are possible but cost £1",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Monzo has a strong budgeting app, with overdrafts, loans and a credit card available",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover these features."
+   },
+   {
+    "text": "Monzo supports the Current Account Switch Service",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Bill-splitting works best when everyone is on the same app",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "T4",
+ "run": 2,
+ "text": "Yes. Monzo can temporarily freeze or restrict an account while it reviews activity, verifies identity, or meets legal and regulatory obligations. You might be unable to use some or all of your money or make and receive payments during the review. Monzo may not be able to explain the reason or give a specific timeline while checks are ongoing.\n\n**If it happens:**\n1. Check the Monzo app for messages and requests, and reply promptly with the information or documents requested. Use only the app or contact routes listed on Monzo’s official website.\n2. If you can’t access the app, use Monzo’s official help page for frozen or locked accounts: [Monzo Help](https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account).\n3. If the restriction is causing urgent hardship, tell Monzo clearly what you can’t pay for and ask what support is available. Keep records of messages, dates, and any costs or missed payments.\n4. If you’re unhappy with how Monzo handled it, make a formal complaint through Monzo. If you’re not satisfied with its final response—or it hasn’t responded within the applicable timeframe—you may be able to take the complaint to the [Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/).\n\nDon’t share passwords, PINs, or one-time passcodes with anyone claiming they can unfreeze the account.",
+ "citations": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5804281.pdf",
+   "title": "[PDF] Decision Reference DRN-5804281 - Financial Ombudsman Service"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5687602.pdf",
+   "title": "DRN-5687602 The complaint Mr G complains Monzo Bank ..."
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5559257.pdf",
+   "title": "Decision Reference DRN-5559257"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3764100.pdf",
+   "title": "Decision Reference DRN-3764100"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5379725.pdf",
+   "title": "Decision Reference DRN-5379725"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4845058.pdf",
+   "title": "Decision Reference DRN-4845058"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4396027.pdf",
+   "title": "Decision Reference DRN-4396027"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2063005.pdf",
+   "title": "Decision Reference DRN-2063005"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3431449.pdf",
+   "title": "Decision Reference DRN-3431449"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4524410.pdf",
+   "title": "Decision Reference DRN-4524410"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4933382.pdf",
+   "title": "Decision Reference DRN-4933382"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5407663.pdf",
+   "title": "Decision Reference DRN-5407663"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4982704.pdf",
+   "title": "Decision Reference DRN-4982704"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?BusinessName=Monzo&Business=Monzo&DateFrom=&DateTo=&Sort=relevance&SecurityID=11c74a4152b6f48e721e6dc621ed7615fe0a8059&Captcha=&Captcha_Timestamp=1642107624&Start=100",
+   "title": "Ombudsman decisions – Financial Ombudsman service"
+  }
+ ],
+ "search_queries": [
+  "Monzo account frozen restricted account help UK official",
+  "Monzo frozen account appeal official help",
+  "Monzo complaints Financial Ombudsman account frozen UK"
+ ],
+ "latency_s": 6.16,
+ "asked_at": "2026-11-21T17:43:53.240120+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,243 @@
+{
+ "engine": "grok",
+ "question_id": "H3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://monzo.com/en-es/savings/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/savings/instant-access"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/fixed-rate"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/select-access"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/personal"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "https://coolcuration.com/monzo-savings-pots-explained"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-savings-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-savings-account/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/select-access-savings",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/select-access-savings"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/instant-access-savings",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/instant-access-savings"
+  },
+  {
+   "url": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes"
+  },
+  {
+   "url": "https://community.monzo.com/t/earn-interest-on-your-savings-jars-with-monzo/166572",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/earn-interest-on-your-savings-jars-with-monzo/166572"
+  },
+  {
+   "url": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/",
+   "domain": "westminsterpimliconews.co.uk",
+   "source_type": "other",
+   "title": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/cash-isas"
+  },
+  {
+   "url": "https://monzo.com/savings/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings/instant-access"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Eligible deposits are FSCS-protected up to £120,000 per person."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Plans are Free, Extra £3/month, Perks £9/month, or Max from £19/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Instant Access Savings rate on Free plan is 2.80% AER",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are FSCS-protected up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Instant Access rates: Extra 3.15%, Perks 3.55%, Max 3.80%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover the free plan rate."
+   },
+   {
+    "text": "Select Access pays 3.45% on Free/Extra and 3.70% on Perks/Max with 2 or fewer withdrawals, £500 minimum",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Fixed rate pots pay 4.70% (1 year), 5.10% (2 years), 5.25% (3 years)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Under-16s savings pay 2.80% AER variable",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Savings Challenge pays 0% on Free and 5% AER on Extra, Perks and Max",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo does not pay interest on the main current-account balance",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

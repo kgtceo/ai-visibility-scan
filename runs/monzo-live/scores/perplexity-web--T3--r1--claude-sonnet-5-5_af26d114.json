@@ -1,0 +1,141 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://community.monzo.com/t/why-im-leaving-monzo/169446",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Why I'm leaving Monzo - Feedback & Ideas I’ve been thinking about switching to a different bank for a while and I finally did it yesterday. I wa"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1ehacw1/is_monzo_really_that_bad/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit Is monzo really that bad? Is monzo really that bad?"
+  },
+  {
+   "url": "https://community.monzo.com/t/unacceptable-customer-service-deteriorations/181826",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Unacceptable customer service deteriorations - Feedback & Ideas Dear Monzo, As a long-standing customer since your prepaid card days, with a cus"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/14aoy4l/any_downsides/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit Any downsides? Are there any downsides to Monzo? Anything thats made you think about leaving? Its just really going to be a day to day spending account."
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? - Monzo Community Monzo is doing some really exciting and interesting things, some of which we’v"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1hzppvi/terrible_customer_service_ruining_the_company/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit Terrible customer service ruining the company Terrible customer service ruining the company"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2271440.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "financial-ombudsman.org Decision Reference DRN-2271440 raised a number of complaints. Miss B complained that Monzo had failed to secure her account effectively."
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536?page=2",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? - Page 2 Absolutely correct. Some more new than others, though."
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-in-the-media/51194?page=279",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Monzo in the Media - Page 279 Monzo wouldn’t drop the UK like Revolut is doing - it’s not a d0dgy 🇷🇺 business. 😉 But if I were the shareholde"
+  },
+  {
+   "url": "https://community.monzo.com/t/just-what-is-the-biggest-complaint-about-monzo/27536?page=5",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Just what is the biggest complaint about Monzo? 🤔 I’ll have to have another look at Starling. Last time I looked (August) it was an absolute sh"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "negative",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "The main complaints seem to be slow or hard-to-reach customer support... account freezes or closures that leave customers frustrated"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "The main complaints seem to be slow or hard-to-reach customer support, sometimes described as automated or impersonal",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers customer support complaints."
+   },
+   {
+    "text": "account freezes or closures that leave customers frustrated",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezes or closures."
+   },
+   {
+    "text": "Some users also dislike products that feel unfinished or missing features",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers product completeness."
+   }
+  ]
+ },
+ "judge_error": null
+}

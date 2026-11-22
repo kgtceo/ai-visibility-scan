@@ -1,0 +1,27 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "S2",
+ "run": 1,
+ "text": "Yes, you can use Monzo as your main UK current account for your salary, Direct Debits, and everyday bills. Monzo is a fully regulated UK bank, meaning your eligible deposits are protected up to £120,000 by the Financial Services Compensation Scheme (FSCS), and it connects directly to standard UK payment networks (Faster Payments and Bacs).   \nMoneySuperMarket\n+ 1\n\nKey Features for Salary & Bills\n\nEarly Payday: If your employer pays you via Bacs, Monzo lets you claim your salary at 4:00 pm one working day early at no extra cost.\n\nBills Pots & Salary Sorter: You can set up dedicated \"Pots\" for rent, mortgage, and utilities, and assign specific Direct Debits or standing orders to be paid straight from those Pots. When your salary arrives, the Salary Sorter lets you split your pay between spending, bills, and savings in a couple of taps.   \nMoneySuperMarket\n\nDirect Debit Alerts: Monzo notifies you the working day before a Direct Debit is due to leave your account, warning you if your balance or Bills Pot is too low to cover it.\n\nDouble Payday Draw: Customers who get their salary paid into Monzo (between £300 and £20,000) are automatically entered into a monthly draw where 10 people have their take-home pay matched (up to £10,000).   \nMonzo\n\nUnlimited UK ATM Withdrawals: Using Monzo as your main account unlocks higher/unlimited fee-free UK/EEA ATM withdrawals compared to using it purely as a secondary spending card.\n\nThings to Keep in Mind Before Switching\n\nNo Physical Branches: Everything is handled in-app or via 24/7 chat/phone support. If you regularly deposit physical cash or cheques, you have to use PayPoint or the Post Office (on the free tier, cash deposits incur a small fee, whereas paid plans like Monzo Perks include free deposits).\n\nInternational IBAN Transfers: While standard UK sort code and account number transfers work seamlessly, Monzo historically relies on partner routing for incoming international SWIFT payments rather than a dedicated native IBAN—worth checking if you receive wages from an overseas employer.\n\nHow to Move Over\n\nYou can either give your employer your Monzo sort code and account number directly and manually update your bills, or use the Current Account Switch Service (CASS) inside the Monzo app. A full CASS switch takes 7 working days, automatically moves your balance, Direct Debits, and standing orders, redirects your salary, and closes your old account under the Switch Guarantee.   \nMonzo\n+ 1",
+ "citations": [
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "title": "MoneySuperMarket Monzo Bank Current Accounts - MoneySuperMarket “It offers a free current account, as well as paid account plans with extra features and benefit"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "title": "Monzo Double Payday | Get the Chance to Double Your Salary with Monzo “What is Monzo Double Payday? The best day of the month just got even better! We could dou"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "title": "Monzo Switch to Monzo “What's the Current Account Switch Service? The Current Account Switch Service is a not-for-profit organisation that lets people move quic"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 32.92,
+ "asked_at": "2026-11-21T13:44:40.629537+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

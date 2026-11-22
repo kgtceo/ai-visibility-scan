@@ -1,0 +1,177 @@
+{
+ "engine": "perplexity",
+ "question_id": "T3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://uk.trustpilot.com/review/www.monzo.com",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "Monzo Reviews"
+  },
+  {
+   "url": "https://monzo.com/help/app-help/contacting-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Contacting support"
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/web.monzo.com",
+   "domain": "uk.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "uk.trustpilot.com · review · webWeb Monzo Reviews | Read Customer Service Reviews of web ..."
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?BusinessName=Monzo&Business=Monzo&DateFrom=&DateTo=&Sort=relevance&SecurityID=11c74a4152b6f48e721e6dc621ed7615fe0a8059&Captcha=&Captcha_Timestamp=1642107624&Start=30",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Ombudsman decisions"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5237079.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "DRN-5237079 The complaint Miss T complains Monzo ..."
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/legal/complaints-data",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Complaints Data"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5499343.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5499343"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Making a complaint"
+  },
+  {
+   "url": "https://monzo.com/legal/mobile/complaints-code-of-practice/version-1-0",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Code of Practice on Complaint Handling & Dispute Resolution"
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?id=001b000002syvKiAAI",
+   "domain": "register.fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "MONZO BANK LIMITED"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5632934.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-5632934"
+  },
+  {
+   "url": "https://monzo.com/help",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How can we help you today?"
+  },
+  {
+   "url": "https://www.reviews.io/company-reviews/store/monzo",
+   "domain": "reviews.io",
+   "source_type": "other",
+   "title": "Read 240 Genuine Customer Reviews | monzo.com"
+  },
+  {
+   "url": "https://monzo.com/information-about-current-account-services",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Information about our Personal Current Account Services"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "negative",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Support that feels slow or hard to reach. Monzo is app-first, so people can get frustrated"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is app-first",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not describe the app-first model."
+   },
+   {
+    "text": "Monzo publishes complaint figures",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers complaint publication."
+   },
+   {
+    "text": "The Financial Ombudsman publishes individual decisions involving Monzo",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Accounts or payments can be frozen or reviewed while Monzo checks activity",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

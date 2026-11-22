@@ -1,0 +1,141 @@
+{
+ "engine": "claude",
+ "question_id": "S1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo and Help us Test the Current Account Switch Service"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/02/07/joint-account-switching",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "You can now switch your joint accounts to Monzo!"
+  },
+  {
+   "url": "https://monzo.com/business-banking/business-switch",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch Your Business Bank Account to Monzo Business"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Here's how to switch to Monzo without closing your old bank account"
+  },
+  {
+   "url": "https://community.monzo.com/t/switching-to-monzo-and-direct-debits/79457",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switching to Monzo and Direct Debits - Financial Chat - Monzo ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "This is the easiest route. Monzo moves your money and payments (like Direct Debits and standing orders)"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo moves your money and payments (like Direct Debits and standing orders) and closes your old account for you.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Switching process not covered by facts."
+   },
+   {
+    "text": "The switch takes 7 working days, or you can pick a later date.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact on switch timing."
+   },
+   {
+    "text": "The switch is covered by the CASS Guarantee, which includes a refund of any interest or charges caused by the switch.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact on CASS guarantee."
+   },
+   {
+    "text": "Monzo's switch option is found by tapping the '+' sign in the app and choosing 'Switch to Monzo'.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App navigation not covered."
+   },
+   {
+    "text": "Monzo will send you a new Direct Debit notification after you change billing details.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Joint accounts can be switched too; both people need account number, sort code and last 5 digits of each old bank card.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

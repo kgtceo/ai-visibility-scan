@@ -1,0 +1,111 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "H3",
+ "run": 2,
+ "text": "Monzo’s UK savings rates (AER) depend on the pot type and, for variable pots, which plan you’re on. Rates below are from Monzo’s site and can change.\n\n### Instant Access Savings Pot / Instant Access Cash ISA\nVariable rate, interest paid monthly, no minimum deposit, instant withdrawals:\n\n| Plan | Rate |\n|------|------|\n| Free | **2.80%** |\n| Extra (£3/month) | **3.15%** |\n| Perks (£9/month) | **3.55%** |\n| Max (from £19/month) | **3.80%** |\n\n### Select Access Savings Pot / Select Access Cash ISA\nHigher variable rate if you make **2 or fewer withdrawals a year**. £500 minimum. Interest paid monthly. More withdrawals drop the rate until the pot’s anniversary:\n\n| Plan | Rate (≤2 withdrawals) | Lower rate (>2 withdrawals) |\n|------|------------------------|-----------------------------|\n| Free / Extra | **3.45%** | **2.65%** (free); check app for Extra |\n| Perks / Max | **3.70%** | **3.10%** |\n\n### Fixed Rate Savings Pot / Fixed Rate Cash ISA\nSame rates on every plan. £500 minimum. Interest paid at maturity. Early closure means you forfeit some interest (your deposit isn’t at risk):\n\n- **1 year:** 4.70% AER (fixed)\n- **2 years:** 5.10% AER (fixed)\n- **3 years:** 5.25% AER (fixed)\n\n### Other\n- **Under-16s savings:** 2.80% AER (variable)\n- **Savings Challenge** (1p challenge): 0% on the free plan; **5%** AER (variable) on paid plans\n\nCash ISA versions pay the same rates as the non-ISA pots, but interest is tax-free and counts toward your annual ISA allowance (£20,000). Eligible deposits are FSCS-protected up to £120,000 per person.\n\nCheck the latest figures in the Monzo app or on [monzo.com/savings-isas](https://monzo.com/savings-isas), as variable rates move.",
+ "citations": [
+  {
+   "url": "https://brumdaily.uk/business/finance-banking/monzo-cuts-interest-rates-on-savings-pots.html",
+   "title": "https://brumdaily.uk/business/finance-banking/monzo-cuts-interest-rates-on-savings-pots.html"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "title": "https://monzo.com/savings-isas/fixed-rate"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access",
+   "title": "https://monzo.com/savings-isas/select-access"
+  },
+  {
+   "url": "https://monzo.com/en-es/savings/instant-access",
+   "title": "https://monzo.com/en-es/savings/instant-access"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "title": "https://coolcuration.com/monzo-savings-pots-explained"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9",
+   "title": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "https://monzo.com/current-account/plans"
+  },
+  {
+   "url": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/",
+   "title": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-savings-account/",
+   "title": "https://bankinggeek.com/en/monzo-savings-account/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes",
+   "title": "https://monzo.com/en-es/help/monzo-for-business/help-savings-rate-changes"
+  },
+  {
+   "url": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/",
+   "title": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-savings-pots-review/",
+   "title": "https://bankinggeek.com/en/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/instant-access-savings",
+   "title": "https://depositscout.com/banks/monzo/instant-access-savings"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isa",
+   "title": "https://monzo.com/savings-isas/cash-isa"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "title": "https://monzo.com/savings-isas/cash-isas"
+  },
+  {
+   "url": "https://monzo.com/savings/instant-access",
+   "title": "https://monzo.com/savings/instant-access"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work"
+  },
+  {
+   "url": "https://community.monzo.com/t/interest-rates-within-monzo/176782",
+   "title": "https://community.monzo.com/t/interest-rates-within-monzo/176782"
+  }
+ ],
+ "search_queries": [
+  "Monzo savings interest rates UK",
+  "Monzo Instant Access Savings rate current",
+  "Monzo savings pots interest rate 2024 OR 2025"
+ ],
+ "latency_s": 18.32,
+ "asked_at": "2026-11-21T17:25:50.602018+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

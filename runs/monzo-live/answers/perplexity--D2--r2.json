@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D2",
+ "run": 2,
+ "text": "**My default recommendation: Starling** if you want a straightforward, fee-free app-based bank for everyday use. It’s a fully licensed UK bank, and eligible deposits are covered by the FSCS. **Monzo** is a strong alternative if you prefer its budgeting tools, pots and app experience.\n\nA quick guide:\n\n- **Starling:** good all-rounder; simple day-to-day banking and spending abroad.\n- **Monzo:** particularly handy for budgeting, shared spending and managing money in pots. Some features require a paid plan.\n- **Revolut:** useful if you regularly exchange currencies or want extra travel features, but check which legal entity holds your account and whether it has FSCS protection before moving your main savings.\n\nIf you’re switching mainly for a bonus, compare the offer against the account’s ongoing features and conditions. Current deals can change quickly; the search results available here list offers from several banks, but not all are app-only.\n\nYou don’t have to move your whole banking life at once: you can open a new account and try it first, or use the Current Account Switch Service if you want your payments and balance transferred and the old account closed. Avoid keeping more than the FSCS limit in eligible deposits under a single banking licence.",
+ "citations": [
+  {
+   "url": "https://www.co-operativebank.co.uk/pdfs/bank/currentaccounts/switching/switch-offer-terms-and-conditions-nov-26.pdf",
+   "title": "Microsoft Word - November 2026 £200 switch incentive terms and conditions FINAL.docx"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts/switch-and-save.html",
+   "title": "Switch and save"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/products/bank-accounts/switch-offer/",
+   "title": "Bank Switch Offer - Get up to £200 when you switch to us"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "title": "Best bank account switching deals November 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872.amp",
+   "title": "Four banks offering up to £265 free cash to people opening or switching accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/business/business-accounts/switch-your-business-account.html?WT.ac=lloyds-business-bca-hub_page-switching_accordion-FOM-switching_accounts",
+   "title": "Switch to Lloyds"
+  },
+  {
+   "url": "https://www.moneyhq.uk/data/bank-switching-offers",
+   "title": "Bank Switching Offers Tracker: Bonuses Up to £500 | MoneyHQ"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/banking/co-op-launches-new-switching-deal-before-christmas/",
+   "title": "The Co-op Bank Launches New £200 Switching Deal Ahead of Christmas"
+  },
+  {
+   "url": "https://www.getsurrey.co.uk/news/cost-of-living/natwest-lloyds-bank-customers-could-34930359",
+   "title": "UK bank customers could claim £ ..."
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/the-most-popular-bank-to-switch-to-and-what-to-know-before-moving-anjVc9B4tVuC",
+   "title": "The most popular bank to switch to – and what to know before ..."
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.somersetlive.co.uk/news/cost-of-living/lloyds-natwest-first-direct-customers-11243084",
+   "title": "NatWest, Lloyds, First Direct customers can get £200 before Xmas"
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/which-business-accounts-fscs-protected",
+   "title": "Which Business Accounts Are FSCS-Protected?"
+  },
+  {
+   "url": "https://www.closesavings.co.uk/personal/news/fscs-protection-explained-what-savers-need-to-know-in-2026",
+   "title": "FSCS protection explained: what savers need to know in 2026"
+  }
+ ],
+ "search_queries": [
+  "best UK app based bank accounts 2026 Starling Monzo Revolut switch",
+  "UK current account switching offers November 2026 bank",
+  "FCA FSCS protection UK digital banks Monzo Starling Revolut"
+ ],
+ "latency_s": 6.13,
+ "asked_at": "2026-11-21T17:40:07.939533+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

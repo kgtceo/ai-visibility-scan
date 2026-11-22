@@ -1,0 +1,107 @@
+{
+ "engine": "gemini-web",
+ "question_id": "C1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Money Saving Expert Best online & digital bank accounts – MSE - Money Saving Expert “Top-pick current accounts. Top all-rounder. Starling* Cheap overdraft & 24-"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "DepositScout Best Free UK Bank 2026: Revolut vs Monzo vs Starling - DepositScout “It's the closest thing to a complete bank in one free app, and it tops custome"
+  },
+  {
+   "url": "https://generationmoney.co.uk/revolut-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Generation Money Revolut vs Starling: Which Bank Is Better in 2026? - Generation Money “Starling is our pick for a personal current account 🎉 It's a fully lice"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/startup-banks/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "The Finance Lowdown Free app bank accounts compared: Zopa, Monzo, Starling, Chase “ Zopa: no joint CA, not CASS (manual). Chase: no joint CA, CASS sole only. St"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "See how Monzo compares to these three"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the best all-round main UK current account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut works best as a secondary travel or multi-currency account rather than a primary UK bank"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is the stronger choice if you want to maximize cashback and savings on everyday spending"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

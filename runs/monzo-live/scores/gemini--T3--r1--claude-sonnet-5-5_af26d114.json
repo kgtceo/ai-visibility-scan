@@ -1,0 +1,110 @@
+{
+ "engine": "gemini",
+ "question_id": "T3",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "negative",
+     "customer_service": "negative",
+     "safety_and_trust": "negative",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "it attracts several recurring complaints"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free foreign ATM withdrawals are capped (typically £200 or £400 every 30 days depending on the tier, with a 3% fee thereafter)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches £400 in UK/EEA and £200 outside EEA on the free plan, with a 3% fee after the allowance."
+   },
+   {
+    "text": "Subscription tiers such as Extra, Perks, and Max",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match."
+   },
+   {
+    "text": "Monzo user base grew past 9–10 million",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give 15.2m customers and 10.4m monthly active customers, but not when the base passed 9–10 million."
+   },
+   {
+    "text": "Deposits cost £1 per transaction on the free tier, with limits such as a maximum of £300 in one go and £1,000 every 180 days",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposits."
+   },
+   {
+    "text": "Monzo charges tiered overdraft rates of 19%, 29%, or 39% EAR depending on your credit score",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "Monzo operates a phone line primarily reserved for urgent fraud and lost/stolen cards",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers phone support."
+   },
+   {
+    "text": "Monzo has no physical branches and relies on the PayPoint network",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers branches or PayPoint."
+   },
+   {
+    "text": "Monzo introduced in-app cheque imaging for small cheques, with larger cheques sent by post to a Freepost address",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cheques."
+   }
+  ]
+ },
+ "judge_error": null
+}

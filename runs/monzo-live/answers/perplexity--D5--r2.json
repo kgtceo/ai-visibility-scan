@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D5",
+ "run": 2,
+ "text": "**My default pick: Nationwide FlexOne**—especially if you might travel or want to save as well as spend. It has a contactless debit card, no monthly fee or overdraft, fee-free overseas spending and cash withdrawals, and you can open it yourself at 16. Its linked FlexOne Saver may also be useful; check the current rate and terms when you apply.\n\nOther good choices:\n\n- **Starling Teen account** — a strong choice if you want an app-first account. It’s for 16- and 17-year-olds, with a debit card and app; it becomes a standard Starling account at 18.\n- **Barclays Young Person’s account** — good if you want app features and options such as Direct Debits and mobile-wallet payments. No monthly fee or overdraft.\n- **NatWest Adapt** — a straightforward fee-free account that pays some interest. At 16, you can apply yourself with suitable ID; there’s no overdraft.\n- **Monzo 16–17 account** — worth considering if you already like Monzo’s app. It has age-related restrictions on some services.\n\n**In short:** I’d start by comparing Nationwide and Starling. Choose Nationwide for overseas use and a linked saver; choose Starling if a slick app is your priority. Check each bank’s latest eligibility, interest rates, and ID requirements before applying, as these can change. If you tell me what matters most—such as cash withdrawals, travel, saving, or an app—I can narrow it down.",
+ "citations": [
+  {
+   "url": "https://www.moneysavingexpert.com/savings/child-savings-tax-free/",
+   "title": "Top children's savings accounts: 5% interest"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/cards-for-under-18s/",
+   "title": "Top prepaid cards and bank accounts for under 18s - MSE"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.rbs.co.uk/content/natwest_com/en_uk/personal/current-accounts/childrens-accounts.html",
+   "title": "Kids' and Teen Accounts | NatWest - Royal Bank of Scotland"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts/revolve_account.html",
+   "title": "Kids Bank Account | Royal Bank of Scotland - RBS"
+  },
+  {
+   "url": "https://www.rbs.co.uk/current-accounts/childrens-accounts.html",
+   "title": "Kids' and Teen Accounts"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-for-grandchildren/",
+   "title": "How to save for your grandchildren: the best accounts & need-to-knows"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts/teen-bank-account-adapt.checkParam.html",
+   "title": "Adapt Teen Bank Account | Under 18 Bank Account | NatWest"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/childrens-bank-account/",
+   "title": "Children's Bank Account for Under 18s | Barclays"
+  },
+  {
+   "url": "https://www.ulsterbank.co.uk/current-accounts/childrens-accounts/teen-bank-account-adapt.html",
+   "title": "Teen Bank Account | Teenage Debit Card"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts/kids-and-teens.html",
+   "title": "Current accounts for kids and teens"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/bank-account-for-teenagers/",
+   "title": "Teen Bank Account"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts/debit-card-under-18s.html",
+   "title": "Child and teen bank accounts with a card"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  }
+ ],
+ "search_queries": [
+  "best bank account 16 year old UK 2026 current account official",
+  "UK teen bank account age 16 fees overdraft official banks",
+  "MoneySavingExpert best children's bank accounts 16 year old UK"
+ ],
+ "latency_s": 5.19,
+ "asked_at": "2026-11-21T17:40:40.549317+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

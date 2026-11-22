@@ -1,0 +1,129 @@
+{
+ "engine": "chatgpt",
+ "question_id": "H2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Card spending: no Monzo fee. ... Monzo uses Mastercard’s exchange rate without adding a markup."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo uses Mastercard’s exchange rate without adding a markup on card spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo charges 3% on the amount above your fee-free cash withdrawal allowance.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Free account, not main bank: £400 fee-free in UK and EEA and £200 outside the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Free account where Monzo is your main bank: unlimited fee-free in UK and EEA, £200 outside the EEA.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Allowances apply over a rolling 30-day period.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Extra plan has unlimited fee-free UK and EEA withdrawals and £200 outside the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover paid plan withdrawal allowances."
+   },
+   {
+    "text": "Plus plan has unlimited fee-free UK and EEA withdrawals and £400 outside the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plus plan is not in the facts, which list Extra, Perks and Max."
+   },
+   {
+    "text": "Premium, Perks or Max have unlimited fee-free UK and EEA withdrawals and £600 outside the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give no withdrawal allowances for these plans."
+   },
+   {
+    "text": "The ATM operator may charge its own fee even within your allowance.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can check your allowance by tapping the three dots on your account in the Monzo app and selecting Fees and allowances.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

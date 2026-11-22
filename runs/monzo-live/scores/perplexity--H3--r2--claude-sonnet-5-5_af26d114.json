@@ -1,0 +1,195 @@
+{
+ "engine": "perplexity",
+ "question_id": "H3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.zopa.com/savings/easy-access-savings",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "Easy Access Savings"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://www.zopa.com/savings",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "Smart Saver"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "Weekly Savings Roundup | Top UK accounts | November 2026"
+  },
+  {
+   "url": "https://www.lloydsbank.com/savings/instant-access.html",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "Instant access savings accounts and ISAs | Lloyds"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-3-years",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo 3 Year Fixed Rate Savings Review: 5.25% AER (Nov 2026) | DepositScout"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-1-year",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo 1 Year Fixed Rate Savings Review: 4.50% AER (Nov 2026)"
+  },
+  {
+   "url": "https://www.fairerfinance.com/ratings/product-ratings/easy-access-savings",
+   "domain": "fairerfinance.com",
+   "source_type": "other",
+   "title": "Easy access savings accounts • Fairer Finance"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/variable-rates-rise-but-inflation-poses-risk/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "UK Inflation Threatens Returns Despite Rise in Variable Savings Rates"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "For Monzo's instant-access savings, the rate depends on your plan: Free: 2.80% AER variable"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free plan instant-access savings: 2.80% AER variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan rate."
+   },
+   {
+    "text": "Extra (£3/month) pays 3.15% on instant-access savings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F8 supports the £3 price of Extra, but no fact covers the 3.15% rate."
+   },
+   {
+    "text": "Perks, Plus or Premium pay 3.55%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers paid-plan savings rates."
+   },
+   {
+    "text": "Max or Max Family pay 3.80%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this rate."
+   },
+   {
+    "text": "Interest is paid monthly",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers payment frequency."
+   },
+   {
+    "text": "Select Access pays 3.45% on Free or 3.70% on eligible paid plans, requires a £500 minimum, and the rate falls with more than two withdrawals a year",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Select Access."
+   },
+   {
+    "text": "Fixed-term accounts have different rates",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers fixed-term accounts."
+   }
+  ]
+ },
+ "judge_error": null
+}

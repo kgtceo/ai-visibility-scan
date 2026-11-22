@@ -1,0 +1,172 @@
+{
+ "engine": "gemini-web",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Referral Plug Is Monzo Max worth it? £19/month, Max vs Perks vs Extra (2026) “Which plan should you choose? Most people: stay on Free. The core app is identical"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Abel Are Monzo's Paid Plans Worth It? Extra, Perks, Max - Abel “Yes. All rates are variable. Max Family adds a family member to the Max insurance cover for £4 a"
+  },
+  {
+   "url": "https://delphina.money/comparison/delphina-vs-monzo/pricing",
+   "domain": "delphina.money",
+   "source_type": "other",
+   "title": "Delphina Money Monzo plans 2026: Free, Extra, Perks and Max compared “Monzo plans compared: what each tier costs and includes. Monzo has four UK personal plans."
+  },
+  {
+   "url": "https://coolcuration.com/monzo-perks-price-increase",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "CoolCuration Monzo Perks Price Increase 2026: Every New Plan Price “Two pounds a month, one new streaming perk, and a deadline in October. Monzo is putting Perk"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Monzo Max | Get More Life for Your Money | from £19 a Month “Partner perks worth over £300 a year. including YouTube Premium Lite membership, a weekly Gre"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "MoneySuperMarket Monzo Bank Current Accounts - MoneySuperMarket “It offers a free current account, as well as paid account plans with extra features and benefit"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Stick with Monzo Free (which already includes fee-free card spending abroad, 1 virtual card, and 3.45% AER on Select Access savings)"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "check competitors like Nationwide FlexPlus (£18/month for worldwide family travel, phone, and breakdown cover)"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Extra costs £3/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks costs £9/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Max costs £19/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Fact says from £19."
+   },
+   {
+    "text": "Free plan Instant Access Savings rate is 2.80% AER",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Monzo Free includes fee-free card spending abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Extra Instant Access Savings 3.15% AER, Perks 3.55%, Max 3.80%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Paid plan rates not covered by facts."
+   },
+   {
+    "text": "Select Access Savings pays 3.45% AER on the free plan",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo made August 2026 price increases; Perks rose from £7 to £9",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Max has a 3-month minimum term and family cover costs £4/month extra",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Perks includes Railcard, Greggs, Vue ticket, Uber One and YouTube Premium Lite; Max includes Zurich travel insurance, Assurant phone insurance and RAC cover",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Free plan includes 1 virtual card and 1 external bank connection",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C5",
+ "run": 2,
+ "text": "**Short version:** choose **Monzo** if you mostly bank by app and value spending tools and travel convenience. Choose **Nationwide** if having branches and in-person help matters, or you want access to its wider range of current-account options. Both are fee-free for a basic account and eligible deposits are FSCS-protected up to **£120,000 per person**.\n\n| | **Monzo** | **Nationwide FlexAccount** |\n|---|---|---|\n| **Everyday banking** | App-first: spending notifications, budgeting and account controls are central to the experience. | App and online banking, plus access to **600+ branches**. |\n| **Cash and cheques** | Cash deposits at PayPoint or Post Office cost **£1 each**; cheques can be paid in through the app. | Better if you want branch access for banking in person. Check Nationwide’s current terms for the specific way you plan to pay in cash or cheques. |\n| **Travel** | Card payments abroad are free; cash-withdrawal limits and fees depend on your account use and plan. | Overseas card use can incur charges, according to its account information. |\n| **Interest and rewards** | The basic account isn’t mainly a high-interest current account; savings options are separate. | FlexAccount is the straightforward everyday option. Nationwide also offers other accounts, including FlexDirect, with interest or cashback subject to conditions. |\n| **Overdraft** | Available to eligible customers; the rate offered depends on your circumstances. | FlexAccount’s published rate is **39.9% variable** on balances above the first £50. Avoid treating either overdraft as cheap borrowing. |\n| **Support style** | Primarily in-app support; no branch network. | Branches can be a real advantage if you want face-to-face service. |\n\n**My take:** If you’re happy doing everything on your phone and rarely deposit cash, I’d lean **Monzo** as the main account. If branch access is important—or you sometimes need to sort something out face to face—I’d lean **Nationwide**.\n\nOne detail worth checking before switching: whether you qualify for a Nationwide account with better interest or cashback, and its pay-in requirements. Offers and rates change, so compare the current terms rather than choosing FlexAccount solely for perks available on a different Nationwide account. You can also keep one as a backup while moving your salary and bills over.",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+   "title": "FlexAccount current account"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts",
+   "title": "Open current account online"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf.",
+   "title": "[PDF] Current accounts interest rates and charges | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare",
+   "title": "Compare our everyday bank accounts"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information/version-1-3",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  }
+ ],
+ "search_queries": [
+  "Monzo current account fees protections cash deposits FSCS 2026 UK",
+  "Nationwide FlexAccount current account fees branches cash deposits 2026",
+  "Monzo Nationwide current account comparison UK 2026 overdraft savings account"
+ ],
+ "latency_s": 7.08,
+ "asked_at": "2026-11-21T17:42:21.496528+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

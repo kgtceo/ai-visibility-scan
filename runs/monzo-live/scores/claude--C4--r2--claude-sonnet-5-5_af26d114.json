@@ -1,0 +1,160 @@
+{
+ "engine": "claude",
+ "question_id": "C4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/chase-bank-account-overview/",
+   "domain": "moneysavinganswers.com",
+   "source_type": "other",
+   "title": "Chase UK Review: What’s Good, What’s Changed and What’s Not?"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "Chase UK Review: Cashback, Saver Rates & Catches (2026)"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Chase UK Review: 2% Cashback Rules and Every Rate Checked"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Our savings rates"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase/chase-saver",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Chase UK Chase Saver Review: 4.75% AER (Nov 2026)"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, ..."
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "Best UK bank accounts - November 2026 - Money To The Masses"
+  },
+  {
+   "url": "https://monzo.com/learn/money-tomorrow/save-gbp667-95-a-year-with-the-1p-saving-challenge",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo's 1p Saving Challenge: Save £667.95 in 2026"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Monzo Savings Rates 2026: Up to 5.25% AER"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo: you want fixed-rate bonds, a Cash ISA, or an all-in-one app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase UK is better for cashback."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo's Instant Access rate runs from 2.80% AER on the free plan to 3.80% on Max.",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Free-plan 2.80% matches; the Max rate is not covered by the facts."
+   },
+   {
+    "text": "I didn't find a standard everyday cashback on Monzo's current account; Monzo only offers occasional targeted partner offers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers Monzo cashback."
+   },
+   {
+    "text": "Monzo's equivalent regular saver is its 2026 Saving Challenge paying 5% AER (variable) only on paid plans Extra, Perks or Max.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts list the paid plan names but not this product."
+   },
+   {
+    "text": "Monzo's fixed-rate pots are 5.25% AER for 3 years, 5.10% for 2 years and 4.70% for 1 year.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact on fixed-rate pots."
+   },
+   {
+    "text": "Monzo offers a Cash ISA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo's paid plans are Extra, Perks or Max.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match."
+   }
+  ]
+ },
+ "judge_error": null
+}

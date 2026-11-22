@@ -1,0 +1,111 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "H2",
+ "run": 2,
+ "text": "**No Monzo fee on card spending abroad; cash withdrawals are fee-free only up to plan- and location-based limits, then 3%.**\n\n### Spending (card payments)\nMonzo does not charge a foreign transaction fee on debit card payments in other currencies. It passes on Mastercard’s exchange rate with no markup. This applies whether you’re in the European Economic Area (EEA) or further afield. You don’t need to tell Monzo before you travel.\n\n### Cash withdrawals\nFee-free allowances depend on where you are, whether Monzo counts as your main bank, and your plan. Anything over the allowance is charged at **3%**. Allowances run on a **rolling 30-day** basis (not a calendar month) and are shared across personal and joint accounts.\n\nFrom Monzo’s help pages:\n\n| Situation | UK & EEA | Outside the EEA |\n|---|---|---|\n| Free account, **not** main bank | £400 fee-free every 30 days, then 3% | £200 fee-free every 30 days, then 3% |\n| Free account, **main bank** | Unlimited fee-free | £200 fee-free every 30 days, then 3% |\n| Monzo Plus | Unlimited fee-free | £400 fee-free every 30 days, then 3% |\n| Premium, Perks & Max | Unlimited fee-free | £600 fee-free every 30 days, then 3% |\n\nThe EEA is the EU countries plus Iceland, Liechtenstein and Norway. Monzo treats you as a “main bank” customer on a free account if, for example, at least £500 has been paid in over a rolling 35-day period with an active Direct Debit, or you’ve received certain benefits or a student loan payment (details are in the app and on Monzo’s site). Paid plans such as Extra are generally treated more like main-bank customers for UK/EEA withdrawals; check your specific plan.\n\n### Other points\n- Some ATMs charge their own fee (Monzo doesn’t receive this). Prefer fee-free machines.\n- When a terminal or ATM offers a choice, **choose the local currency**, not pounds. Paying in pounds uses dynamic currency conversion, which is usually worse.\n- Your daily ATM withdrawal limit (often £400) is separate from these fee-free allowances.\n- You can see your remaining allowance in the app under **Fees and allowances**.\n\nFees can change, and paid-plan details vary, so confirm the latest figures in the Monzo app or on [monzo.com/help/travelling/understanding-fees](https://monzo.com/help/travelling/understanding-fees) and the fee information page before you travel.",
+ "citations": [
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "https://monzo.com/features/travel"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "https://monzo.com/help/travelling/understanding-fees"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/monzo/",
+   "title": "https://www.currencyexpert.com/reviews/monzo/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/debit-cards/monzo-debit-card",
+   "title": "https://depositscout.com/banks/monzo/debit-cards/monzo-debit-card"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/",
+   "title": "https://www.ukfinanceblog.co.uk/monzo-cash-withdrawal-limit/"
+  },
+  {
+   "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+   "title": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm"
+  },
+  {
+   "url": "https://www.monzo.com/legal/fee-information",
+   "title": "https://www.monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://transferfees.io/monzo-international-transfer-fee-calculator/",
+   "title": "https://transferfees.io/monzo-international-transfer-fee-calculator/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-fees",
+   "title": "https://monzo.com/ie/help/using-monzo/help-fees"
+  },
+  {
+   "url": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad",
+   "title": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad"
+  },
+  {
+   "url": "https://www.bitdegree.org/money-transfer/monzo-review",
+   "title": "https://www.bitdegree.org/money-transfer/monzo-review"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-monzo-card/us-using-your-monzo-card-outside-the-us",
+   "title": "https://monzo.com/us/help/us-monzo-card/us-using-your-monzo-card-outside-the-us"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-card-abroad",
+   "title": "https://monzo.com/ie/help/using-monzo/help-card-abroad"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "https://monzo.com/learn/money-abroad/most-asked-travel-questions"
+  },
+  {
+   "url": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2",
+   "title": "https://community.monzo.com/t/eu-atm-withdraw-monzo-my-main-account/158651?page=2"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/",
+   "title": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/reasons-travel-is-better-with-monzo",
+   "title": "https://monzo.com/help/travelling/reasons-travel-is-better-with-monzo"
+  },
+  {
+   "url": "https://www.ibusinesstalk.co.uk/can-you-use-monzo-abroad/",
+   "title": "https://www.ibusinesstalk.co.uk/can-you-use-monzo-abroad/"
+  }
+ ],
+ "search_queries": [
+  "Monzo fees spending withdrawing cash abroad UK",
+  "Monzo foreign transaction fees ATM withdrawal limits 2024",
+  "site:monzo.com fees abroad spending cash withdrawal"
+ ],
+ "latency_s": 20.65,
+ "asked_at": "2026-11-21T17:25:10.228093+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

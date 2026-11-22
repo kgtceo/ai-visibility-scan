@@ -1,0 +1,147 @@
+{
+ "engine": "claude",
+ "question_id": "T4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://community.monzo.com/t/monzo-have-blocked-my-account-for-no-reason-at-all/109263",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo have blocked my account for no reason at all - Help - Monzo ..."
+  },
+  {
+   "url": "https://www.vice.com/en/article/monzo-freezing-closing-accounts-complaints/",
+   "domain": "vice.com",
+   "source_type": "other",
+   "title": "Monzo Users Say Their Accounts Are Being Frozen without Warning"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://community.monzo.com/t/my-account-has-been-blocked-for-over-19-hours/151426",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "My account has been blocked for over 19 hours! - Help - Monzo ..."
+  },
+  {
+   "url": "https://monzo.com/help/emergencies/account-blocked",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Unblocking your account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does freeze accounts. Most banks do. Monzo says it does this to keep your money safe"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does freeze accounts, usually triggered by fraud or security flags.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezes."
+   },
+   {
+    "text": "Monzo's terms say it reserves the right to close an account at any time, particularly if it believes fraud is taking place.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Terms not covered by facts."
+   },
+   {
+    "text": "In 2019 Monzo told the BBC that a frozen account is typically reactivated in ten minutes if activity isn't suspicious.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can email help@monzo.com if you can't get into the app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "A phone number, 0800 802 1281, was listed in a 2020 community post.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "For a PIN block, tap the Card button, choose Reveal PIN, and have your card and ID ready to take a video.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's help page says it can't give a specific timeline for a review and will unfreeze the account once checks are complete.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo will contact you in the app if it needs further information.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "If Monzo hasn't resolved a complaint within 8 weeks you can usually take it to the Financial Ombudsman Service.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "General UK rules, not a Monzo fact."
+   }
+  ]
+ },
+ "judge_error": null
+}

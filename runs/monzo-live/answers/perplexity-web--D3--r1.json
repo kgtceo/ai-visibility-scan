@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "D3",
+ "run": 1,
+ "text": "Monzo is the strongest overall pick for a UK current account that combines budgeting with saving pots: it offers spending categories, real-time notifications, round-ups, pot locking, and pots that can be used to pay bills. Starling is the best close alternative if you prefer a simpler, free account with useful pots/spaces and bill budgeting.\nbecleverwithyourcash\n\nBest options\nBank\tBest for\tBudgeting and pots\tWatch-outs\nMonzo\tBest all-round budgeting + pots\tPots, round-ups, spending categories, bill pots, pot locking, transaction notifications\tSome premium features require a paid tier; easy-access pot rates can change\nStarling\tSimple, free everyday budgeting\tSpaces/pots, spending insights, ability to set money aside for bills\tFewer advanced budgeting extras than Monzo\nMonzo + separate savings account\tBest if interest matters\tUse Monzo for budgeting, then move longer-term savings to a competitive easy-access saver or ISA\tAdds a little admin\nTraditional bank with pots\tIf you want a high-street bank\tRBS/NatWest offer pots, but RBS says its pots do not earn interest\tUsually less sophisticated budgeting than Monzo/Starling\n\nMonzo’s app lets you categorise spending, receive transaction alerts, round up purchases into a pot, lock a pot for a chosen period, and assign a pot to cover regular bills—making it particularly good for a “pay yourself first” budget. Starling and Monzo both let you segregate money into separate pots and assign one to pay bills directly.\nbecleverwithyourcash\n\nMy recommendation\n\nChoose Monzo if you want one app to run your whole monthly budget: salary, bills pot, spending categories, round-ups, and separate goals.\n\nChoose Starling if you want a clean, free account and do not need Monzo’s more advanced budgeting features.\n\nKeep the bulk of savings elsewhere if you are saving for months or years: a pot is primarily an organising tool, and some banks’ pots pay no interest. RBS, for example, explicitly says its pots do not earn interest.\nrbs.co\n\nA practical setup would be: Monzo for everyday spending and a bills pot; then move money you will not need soon into the best easy-access savings account or Cash ISA you can find. Monzo also provides access to partner savings products, but compare the current rate and FSCS protection before committing.\nmoneyzine\n\nImportant checks\n\nConfirm whether the account and any pot/savings feature are free, and whether a paid plan is worthwhile for you.\n\nCheck FSCS eligibility: for Monzo and Starling, eligible deposits are protected up to £85,000 per person, per banking licence.\n\nDo not treat a budgeting pot as a substitute for a proper emergency fund or a competitive savings account.\n\nInterest rates and promotional offers change frequently, so verify the live rate before opening an account.\nwhich.co",
+ "citations": [
+  {
+   "url": "https://www.rbs.co.uk/life-moments/managing-your-money/pots.html",
+   "title": "rbs.co"
+  },
+  {
+   "url": "https://moneyzine.com/uk/banking/best-savings-accounts/",
+   "title": "moneyzine"
+  },
+  {
+   "url": "https://www.boringmoney.co.uk/learn/articles/budgeting-apps-reviewed/",
+   "title": "boringmoney.co Which budgeting and saving app is best? Monzo vs Plum vs Emma vs Chip ... Monzo, Plum, Chip, Emma and Snoop compared for 2026: fees, interest rat"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-online-banks/",
+   "title": "forbes Best Online Digital Bank Accounts UK 2026 Best Online Bank Accounts In The UK For 2026"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/best-current-accounts/",
+   "title": "becleverwithyourcash Best Current Accounts 2026 - Be Clever With Your Cash These are the top picks of the best current accounts in 2025, whether you're looking"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "title": "which.co Best savings accounts 2026 - Which? Discover the top instant-access, fixed and regular savings rates on the market, plus the best banks and building so"
+  },
+  {
+   "url": "https://wise.com/gb/blog/banks-in-the-uk",
+   "title": "wise Best banks in the UK for 2026: Top picks and how to choose Compare the best UK banks for 2026, including HSBC, Barclays, Lloyds, NatWest, Nationwide and mo"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "title": "which.co Best banks and bank accounts in UK 2026 - Which? Discover the best banks and current accounts as rated both by UK customers and our experts. We help yo"
+  },
+  {
+   "url": "https://www.chroniclelive.co.uk/news/cost-of-living/nationwide-lloyds-barclays-savings-account-34611499",
+   "title": "chroniclelive.co Lloyds, Barclays, Nationwide and other account users given update You can access similar services with a variety of bank account providers"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "title": "finder Best banks and bank accounts UK: A list of top banks 2026 Discover and compare the best banks and bank accounts in the UK. Open the best current account"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 24.11,
+ "asked_at": "2026-11-21T13:03:48.800183+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

@@ -1,0 +1,79 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H2",
+ "run": 1,
+ "text": "**Card spending:** Monzo doesn’t charge a foreign-transaction fee. It converts at Mastercard’s exchange rate.\n\n**Cash withdrawals:** Fee-free amounts depend on where you are and your account:\n\n- **In the UK or EEA** (EU countries, Iceland, Liechtenstein and Norway): withdrawals are unlimited and fee-free if Monzo is your main bank or you have an eligible paid plan. Otherwise, you get **£400 fee-free per rolling 30 days**, then a **3% fee**.\n- **Outside the UK and EEA:** the fee-free allowance is **£200 per rolling 30 days** for standard accounts, **£400** for Plus, and **£600** for Premium, Perks or Max. After that, Monzo charges **3%**.\n\nAn ATM may also charge its own fee. If it asks whether to charge you in pounds or the local currency, choose **local currency** to avoid the ATM’s conversion rate. ([Monzo’s fee guide](https://monzo.com/help/account-and-profile/understanding-fees))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/account-and-profile/understanding-fees",
+   "title": "Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/features/payments",
+   "title": "Payments | Pay and Get Paid Your Way"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information/version-1-9",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information/version-1-3",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://monzo.com/static/docs/monzo-terms-and-conditions-2.0.pdf",
+   "title": "These terms and using your Monzo account"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "title": "What fees do Monzo charge?"
+  },
+  {
+   "url": "https://monzo.com/ecb-rates",
+   "title": "Monzo Exchange Rates"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/07/19/should-i-pay-in-local-currency-or-pounds-gbp-when-i-use-monzo-abroad",
+   "title": "We'll now remind you to pay in local currency when you're ..."
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/using-monzo/help-card-abroad",
+   "title": "Monzo Help - Using your Monzo card abroad"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK spending abroad fees cash withdrawals official",
+  "Monzo cash withdrawal abroad limits plans fees 2026"
+ ],
+ "latency_s": 4.33,
+ "asked_at": "2026-11-21T17:42:38.328554+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

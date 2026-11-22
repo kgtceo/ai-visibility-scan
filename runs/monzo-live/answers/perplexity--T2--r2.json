@@ -1,0 +1,79 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "T2",
+ "run": 2,
+ "text": "Monzo is a **real UK bank**, not just an app. Monzo Bank Limited is authorised by the Prudential Regulation Authority and regulated by the PRA and Financial Conduct Authority. The app is simply how you access and manage your account.\n\nEligible deposits are protected by the FSCS up to **£120,000 per person, per banking licence**. That limit applies across your eligible Monzo deposits combined, not separately to each account. You can check Monzo’s status on the FCA Financial Services Register using firm reference number **730427**.",
+ "citations": [
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "title": "Monzo Help - Deposit protection (FSCS)"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  },
+  {
+   "url": "https://monzo.com/legal/pensions/fscs-information",
+   "title": "How your investments and pensions are protected - Monzomonzo.com › legal › pensions › fscs-information"
+  },
+  {
+   "url": "https://monzo.com/security",
+   "title": "Industry-first security | Stay safe with Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information/version-1-3",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "Is Monzo safe? How we help protect your money"
+  },
+  {
+   "url": "https://web.monzo.com/",
+   "title": "Monzo – Online Banking"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/about",
+   "title": "About"
+  },
+  {
+   "url": "https://ico.org.uk/ESDWebPages/Entry/ZA108184",
+   "title": "Monzo Bank Limited"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/brexit-general-query",
+   "title": "How Brexit will impact Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
+   "title": "We Are Now a Bank"
+  },
+  {
+   "url": "https://monzo.com/index.html",
+   "title": "Monzo – Online Banking Made Easy | Open An Account Online"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK bank authorised deposit protection FSCS official",
+  "Monzo Bank Limited UK banking licence official"
+ ],
+ "latency_s": 3.48,
+ "asked_at": "2026-11-21T17:43:25.981442+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

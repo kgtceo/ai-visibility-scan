@@ -1,0 +1,120 @@
+{
+ "engine": "gemini-web",
+ "question_id": "D4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Money Saving Expert Best Travel Credit & Debit Cards 2026 - Fees & Top Picks “Top travel cards – Which is the winner? * Overall top pick. Lloyds Ultra pays 1% c"
+  },
+  {
+   "url": "https://www.yonder.com/blog/the-authoritative-guide-to-the-best-uk-debit-card-with-no-foreign-transaction-fees",
+   "domain": "yonder.com",
+   "source_type": "other",
+   "title": "Yonder The authoritative guide to the Best UK Debit Card with no foreign “* ProviderFree ATM AllowanceExcess FeeYonder (Debit)£200/monthNo FX feeStarlingNo mont"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "Wise Best UK debit cards with no foreign transaction fee - Wise “6 * Chase card. The Chase card can be used abroad wherever Mastercard is accepted. Chase's curr"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Great for splitting group bills and budgeting, but restrictive for cash outside Europe."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For everyday spending & cash withdrawals: Go with Starling Bank."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Unlike Monzo or Revolut, Starling doesn't restrict your free monthly ATM withdrawals"
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is an equally strong alternative if you want cashback"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo (Free) has 0% foreign spending fee at the Mastercard rate",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo free plan: free in EEA; £200/30 days outside EEA (3% after)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the outside-EEA allowance and 3% fee; EEA is free up to £400 per 30 days, not unlimited as implied."
+   },
+   {
+    "text": "Unlike Monzo or Revolut, Starling doesn't restrict your free monthly ATM withdrawals",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "Implies Monzo restricts monthly ATM withdrawals; this is consistent with the free-plan limits but is a comparison the facts don't directly cover."
+   }
+  ]
+ },
+ "judge_error": null
+}

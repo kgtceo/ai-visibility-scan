@@ -1,0 +1,166 @@
+{
+ "engine": "perplexity",
+ "question_id": "C1",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.starlingbank.com/current-account/service-information/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Current account service information - Starling Bank"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-now-that-revolut-is-a-bank-in-the-uk-how-is-my-money-protected/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Now that Revolut is a bank, how is my money protected?"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Bank account with overdraft"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-what-will-happen-my-account-when-its-moved/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "What will happen to my account when it’s moved? | Revolut ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://www.revolut.com/en-GB/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "www.revolut.com · en-GB · blogIs Revolut a fully licensed bank in the UK? Here’s what's ..."
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-saver-account/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Easy access savings account"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "What does the UK Bank Licence mean for my account?"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/overdraft/overdraft-cost-calculator/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Overdraft cost calculator"
+  },
+  {
+   "url": "https://help.revolut.com/help/accounts/what-does-the-uk-bank-licence-mean-for-my-account/question-is-my-savings-account-fscs-protected/",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Is the money in my Savings account protected by the FSCS?"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-general-terms-may-2026.pdf",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "starling-personal-account-general-terms-may-2026. ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/account/Fee-Information-Doc-GBP-PCA.pdf",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Fee Information Document"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/overdrafts/what-interest-is-charged-on-my-overdraft/",
+   "domain": "help.starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "What interest is charged on my overdraft? - Starling Help"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the safest all-round pick for a main UK account."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "choose Revolut if you’ll make frequent foreign-currency payments and want its extra app features."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Choose Chase if cashback and savings are your priorities"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

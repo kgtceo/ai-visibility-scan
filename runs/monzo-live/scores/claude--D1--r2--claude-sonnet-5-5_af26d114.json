@@ -1,0 +1,107 @@
+{
+ "engine": "claude",
+ "question_id": "D1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best banks and bank accounts UK: A list of top banks 2026"
+  },
+  {
+   "url": "https://www.moneysavingadvice.co.uk/guides/saving/best-current-accounts-uk",
+   "domain": "moneysavingadvice.co.uk",
+   "source_type": "other",
+   "title": "Best Current Accounts UK 2026: Chase, Starling, First Direct Compared ..."
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is good for budgeting and extra features. Finder ranks it second, at 9.3/10."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For simple, low-fuss daily use, choose Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "If you want cashback, add Chase alongside it."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is good for budgeting and extra features.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers budgeting or features quality."
+   },
+   {
+    "text": "Finder ranks Monzo second, at 9.3/10.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Third-party ranking not in facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

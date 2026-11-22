@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D2",
+ "run": 2,
+ "text": "There isn't one best app bank in the UK. It depends on how you use your money. Monzo, Starling and Revolut are the main three, and Chase is a fourth option.\n\n**Quick picks**\n- **Monzo** is the best all-rounder for everyday use and budgeting. It's the one to pick if your friends use it, because bill-splitting only works well when everyone is on the same app. One comparison site also found that Monzo consistently leads on independent satisfaction measures.\n- **Starling** is the best free replacement for a high-street bank. It's the only one of the four that lets you pay in cash and cheques at the Post Office. It also has 24/7 phone, chat and email support, whereas Monzo's support is in-app only.\n- **Revolut** is best if you travel or move money across borders. It packs in the most features overall, including crypto trading, stock investing, currency exchange and virtual cards. The catch is that phone support sits behind its paid tiers, so on the free plan you're mostly using in-app chat.\n- **Chase** is best for an easy-access savings account with occasional cashback, according to one comparison.\n\n**How to choose**\n- **You handle cash or cheques:** Starling.\n- **You want budgeting tools and your friends use Monzo:** Monzo.\n- **You travel a lot or want investing in the same app:** Revolut.\n- **You want a main account you can rely on:** Starling or Monzo. Both are free and both have a full UK banking licence.\n\n**Things to check**\n- **Savings rates change often and the sources disagree.** One source lists Revolut at up to 5% on a new-joiner promotion, and another puts Monzo at 4.0% AER. Check the live rates in each app before you decide.\n- **Revolut's deposit protection is unclear in the sources.** One says Revolut became a UK-licensed bank in March 2026, with £120,000 FSCS protection. Another still lists it under the older LDIS €100k scheme. Look at Revolut's own site to see which applies to your account.\n- **Use one as a second account if you're unsure.** You can open a free Monzo or Starling account alongside your current bank and test it for a month or two before moving your salary and direct debits. The Current Account Switch Service can then move everything across.\n\nIf you tell me what you mainly do (salary and bills, saving, travelling, freelancing or handling cash), I can narrow it to one.",
+ "citations": [
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://anna.money/blog/guides/starling-vs-monzo-vs-revolut-business-account/",
+   "title": "Starling vs Monzo vs Revolut Business Account: 2026 Comparison"
+  },
+  {
+   "url": "https://easyearns.com/articles/revolut-vs-monzo-vs-starling",
+   "title": "Monzo vs Starling vs Revolut: Which UK Bank Wins in 2026?"
+  },
+  {
+   "url": "https://freenance.io/rankings/best-neobanks-uk-2026/",
+   "title": "Best Neobanks in UK 2026 — Monzo, Starling, Revolut Compared ..."
+  },
+  {
+   "url": "https://bankadvisor.co.uk/compare-digital-banks-uk-2026",
+   "title": "Compare Digital Banks UK 2026"
+  }
+ ],
+ "search_queries": [
+  "best app-based bank UK 2026 Monzo Starling Revolut comparison"
+ ],
+ "latency_s": 10.74,
+ "asked_at": "2026-11-21T16:44:22.720912+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,34 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T3",
+ "run": 1,
+ "text": "A recurring UK complaint about Monzo is **what happens when something goes wrong**: a payment is stopped, an account is frozen, or a scam refund is refused, and the customer struggles to get a clear answer. That’s different from saying most customers dislike Monzo. ([financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai))\n\n- **Frozen accounts and unclear updates.** A security check can be justified, but the wait can still be unreasonable. In one Financial Ombudsman case, a restriction affected a customer’s account for four weeks, and Monzo acknowledged it had taken too long to restore full access. Other customers have complained that their accounts were closed without a clear explanation. ([financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk/decision/DRN-6033900.pdf))\n- **Disputes over scam refunds.** Of the Monzo fraud and scam complaints the Ombudsman resolved in 2025, it sided with the customer in about a third. That’s a real concern, but the figure is for **escalated disputes**, not for everyone who reported fraud to Monzo. ([theguardian.com](https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman?utm_source=openai))\n- **No branch to walk into.** If you want to discuss a complicated problem face to face, Monzo’s app-first model is a drawback. You can pay cash in at a Post Office or PayPoint, but a fee can apply. ([theguardian.com](https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman?utm_source=openai))\n\nFor perspective, Monzo **ranked first for overall service quality** among personal current-account providers in Great Britain in the independent Ipsos survey published in August 2026. So I’d read the complaints as useful evidence of *what can go wrong*, not as a picture of the typical customer’s experience. ([ipsos.com](https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-6033900.pdf",
+   "title": "DRN-6033900 "
+  },
+  {
+   "url": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman?utm_source=openai",
+   "title": "Monzo wrongly denied refunds to thousands of fraud and scam victims | Monzo bank | The Guardian"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK complaints reasons frozen accounts customer support fraud scam Monzo complaints FCA 2025 2026 Monzo complaints data current account satisfaction Competition Markets Authority",
+  "August 2026 Monzo overall service quality Great Britain 2026 Ipsos August Monzo percent personal current accounts"
+ ],
+ "latency_s": 19.38,
+ "asked_at": "2026-11-21T17:02:04.315626+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

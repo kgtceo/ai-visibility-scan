@@ -1,0 +1,264 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D5",
+ "run": 1,
+ "text": "**Monzo for 16–17s is one of the strongest first accounts for most 16-year-olds in the UK**, with Starling and Nationwide as excellent alternatives depending on what matters most to you.\n\nAll the main options are free, come with a debit card, have no arranged overdraft (safer while you’re learning), and are FSCS-protected (up to £120,000). At 16 you can usually open them yourself.\n\n### Top pick for most people: Monzo (16–17s)\n- Open completely on your own in the app (photo ID, your own UK mobile number, and email).\n- Excellent app with real-time notifications, spending insights, bill-splitting, and Pots for budgeting.\n- Instant Access Savings Pot pays **2.80% AER** (variable), paid monthly, with instant access.\n- Age-restricted spending (e.g. gambling) is blocked.\n- Fee-free card spending abroad (they pass on the Mastercard rate).\n- Automatically becomes a full Monzo current account at 18.\n- Which? recommended provider with high customer scores.\n\nIt’s designed for independence and building good habits without fees or debt traps.\n\n### Strong app alternative: Starling Teen Account\n- Also free and open independently in the app (passport or similar ID + proof of address).\n- Often scores highest for customer satisfaction (Which? around 86%).\n- Strong app features: instant notifications, Spending Insights, and Spaces to organise money.\n- Blocks age-restricted merchants and converts to a normal Starling account at 18.\n- Current account balance itself currently pays **0% interest** (check if separate savings options are available to you).\n\nGreat if pure app quality and support matter more than interest.\n\n### Best for interest + branches: Nationwide FlexOne\n- Free current account paying **2% AER** on balances up to £1,000.\n- Linked FlexOne Saver pays **5.00% AER** (variable) on up to £5,000 — one of the better rates available to teens.\n- App, online, phone, and branches.\n- Fee-free overseas card use.\n- You can keep the account until age 23.\n- Which? customer score around 84%.\n\nChoose this if you have money to save or prefer the option of walking into a branch.\n\n### Other options worth a look\n- **TSB Under 19s**: **2.50% AER** (variable) on balances up to £2,500 (paid monthly). Driving-related discounts appear later.\n- **NatWest Adapt**: Around 1.60% interest; sometimes has sign-up offers (e.g. gift cards). Can often be opened independently at 16–17.\n\n### Quick advice\n- Want the easiest modern start and useful tools? Go **Monzo**.\n- Want the highest customer ratings and a clean app? **Starling**.\n- Want the best interest on savings or branch access? **Nationwide FlexOne + Saver**.\n\nYou’ll typically need photo ID (passport is simplest for the app banks) and proof of address. Rates are variable and change, so double-check the bank’s site before applying. At 18 these accounts usually convert smoothly, and if you go to university you can later look at student accounts (which often include interest-free overdrafts).",
+ "citations": [
+  {
+   "url": "https://www.mustcompare.co.uk/blog/best-bank-account-for-a-16-year-old",
+   "title": "https://www.mustcompare.co.uk/blog/best-bank-account-for-a-16-year-old"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/best-bank-cards-for-teenagers-uk-b2997287.html",
+   "title": "https://www.independent.co.uk/money/best-bank-cards-for-teenagers-uk-b2997287.html"
+  },
+  {
+   "url": "https://finanzaseu.com/en/blog/best-bank-accounts-teens-kids-europe-2026",
+   "title": "https://finanzaseu.com/en/blog/best-bank-accounts-teens-kids-europe-2026"
+  },
+  {
+   "url": "https://www.tsb.co.uk/current-accounts.html",
+   "title": "https://www.tsb.co.uk/current-accounts.html"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexone"
+  },
+  {
+   "url": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts/under19s_16_to_18_welcome_pack.pdf",
+   "title": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts/under19s_16_to_18_welcome_pack.pdf"
+  },
+  {
+   "url": "https://www.facebook.com/StarlingBankUK/videos/boosting-your-balance-/1362832261303798/",
+   "title": "https://www.facebook.com/StarlingBankUK/videos/boosting-your-balance-/1362832261303798/"
+  },
+  {
+   "url": "https://bankinfouk.com/products/view/14/Under_19s_account",
+   "title": "https://bankinfouk.com/products/view/14/Under_19s_account"
+  },
+  {
+   "url": "https://www.tsb.co.uk/savings.html",
+   "title": "https://www.tsb.co.uk/savings.html"
+  },
+  {
+   "url": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/",
+   "title": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/"
+  },
+  {
+   "url": "https://www.starlingbank.com/open-bank-account-online/",
+   "title": "https://www.starlingbank.com/open-bank-account-online/"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-accounts/children-and-teens/",
+   "title": "https://www.banks.guide/compare/current-accounts/children-and-teens/"
+  },
+  {
+   "url": "https://moneytothemasses.com/news/monzo-introduces-3-interest-on-childrens-savings-account",
+   "title": "https://moneytothemasses.com/news/monzo-introduces-3-interest-on-childrens-savings-account"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/best-childrens-bank-accounts-in-the-uk/",
+   "title": "https://www.revolut.com/blog/post/best-childrens-bank-accounts-in-the-uk/"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "https://monzo.com/current-account"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/monzo-under-16s-vs-starling-under-16s",
+   "title": "https://www.finder.com/uk/banking/childrens-banking/monzo-under-16s-vs-starling-under-16s"
+  },
+  {
+   "url": "https://depositscout.com/banks/tsb",
+   "title": "https://depositscout.com/banks/tsb"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/tsb-current-accounts",
+   "title": "https://www.finder.com/uk/current-accounts/tsb-current-accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/under-16s",
+   "title": "https://monzo.com/current-account/under-16s"
+  },
+  {
+   "url": "https://tryabel.com/best-money-apps-for-teenagers-uk/",
+   "title": "https://tryabel.com/best-money-apps-for-teenagers-uk/"
+  },
+  {
+   "url": "https://tryabel.com/starling-saving-spaces-interest/",
+   "title": "https://tryabel.com/starling-saving-spaces-interest/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-childrens-bank-accounts-aRMaB5Y7IaQO",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-childrens-bank-accounts-aRMaB5Y7IaQO"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/savings/flexone-saver",
+   "title": "https://www.nationwide.co.uk/savings/flexone-saver"
+  },
+  {
+   "url": "https://enabilifyminds.com/nationwide-flexone-account-review/",
+   "title": "https://enabilifyminds.com/nationwide-flexone-account-review/"
+  },
+  {
+   "url": "https://www.tsb.co.uk/savings/savings-for-children/young-saver.html",
+   "title": "https://www.tsb.co.uk/savings/savings-for-children/young-saver.html"
+  },
+  {
+   "url": "https://depositscout.com/banks/nationwide",
+   "title": "https://depositscout.com/banks/nationwide"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/bank-account-for-teenagers/",
+   "title": "https://www.starlingbank.com/current-account/bank-account-for-teenagers/"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/starling-teen-account-review",
+   "title": "https://www.finder.com/uk/banking/childrens-banking/starling-teen-account-review"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "https://monzo.com/help/monzo-plus/paid-interest"
+  },
+  {
+   "url": "https://depositscout.com/banks/nationwide/flexone-saver",
+   "title": "https://depositscout.com/banks/nationwide/flexone-saver"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://gbwise.co.uk/the-best-bank-cards-for-kids-and-teenagers-a-complete-uk-guide/",
+   "title": "https://gbwise.co.uk/the-best-bank-cards-for-kids-and-teenagers-a-complete-uk-guide/"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-increases-savings-rates-6",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-increases-savings-rates-6"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4418-flexone.pdf",
+   "title": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4418-flexone.pdf"
+  },
+  {
+   "url": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts.html",
+   "title": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts.html"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/savings/compare-savings-accounts-and-isas",
+   "title": "https://www.nationwide.co.uk/savings/compare-savings-accounts-and-isas"
+  },
+  {
+   "url": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-uk-best-options-for-teens-with-no-id/",
+   "title": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-uk-best-options-for-teens-with-no-id/"
+  },
+  {
+   "url": "https://www.starlingbank.com/news/starling-launches-student-account/",
+   "title": "https://www.starlingbank.com/news/starling-launches-student-account/"
+  },
+  {
+   "url": "https://www.tsb.co.uk/current-accounts/under19s-account-product-conditions.pdf",
+   "title": "https://www.tsb.co.uk/current-accounts/under19s-account-product-conditions.pdf"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/childrens-bank-accounts-what-options-are-there-in-2025-aX0o09p4sTq5",
+   "title": "https://www.which.co.uk/news/article/childrens-bank-accounts-what-options-are-there-in-2025-aX0o09p4sTq5"
+  },
+  {
+   "url": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts/under19s_11_to_15_welcome_pack.pdf",
+   "title": "https://www.tsb.co.uk/current-accounts/under-19s-bank-accounts/under19s_11_to_15_welcome_pack.pdf"
+  },
+  {
+   "url": "https://www.barclays.co.uk/current-accounts/childrens-bank-account/",
+   "title": "https://www.barclays.co.uk/current-accounts/childrens-bank-account/"
+  },
+  {
+   "url": "https://familysaveuk.co.uk/money/bank-account-for-11-year-old",
+   "title": "https://familysaveuk.co.uk/money/bank-account-for-11-year-old"
+  },
+  {
+   "url": "https://bankinggeek.com/en/best-kids-bank-account/",
+   "title": "https://bankinggeek.com/en/best-kids-bank-account/"
+  },
+  {
+   "url": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-best-app-challenger-banks-for-teenagers-2026-updated-list/",
+   "title": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-best-app-challenger-banks-for-teenagers-2026-updated-list/"
+  },
+  {
+   "url": "https://honestcodes.co.uk/guides/best-student-bank-account-uk-2026",
+   "title": "https://honestcodes.co.uk/guides/best-student-bank-account-uk-2026"
+  },
+  {
+   "url": "https://www.beswitchready.co.uk/blog-best-kids-bank-accounts-uk-2026",
+   "title": "https://www.beswitchready.co.uk/blog-best-kids-bank-accounts-uk-2026"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexone/flexone-maturity",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexone/flexone-maturity"
+  },
+  {
+   "url": "https://wise.com/gb/blog/best-bank-account-for-kids",
+   "title": "https://wise.com/gb/blog/best-bank-account-for-kids"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/under-16s-instant-access",
+   "title": "https://monzo.com/savings-isas/under-16s-instant-access"
+  },
+  {
+   "url": "https://compare100.com/nationwide-savings-account/",
+   "title": "https://compare100.com/nationwide-savings-account/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://monzo.com/current-account/16-17",
+   "title": "https://monzo.com/current-account/16-17"
+  },
+  {
+   "url": "https://www.natwest.com/current-accounts/childrens-accounts.html",
+   "title": "https://www.natwest.com/current-accounts/childrens-accounts.html"
+  },
+  {
+   "url": "https://studentsnews.co.uk/best-student-bank-accounts-2026/",
+   "title": "https://studentsnews.co.uk/best-student-bank-accounts-2026/"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf"
+  },
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/bank-accounts-for-kids",
+   "title": "https://www.finder.com/uk/banking/childrens-banking/bank-accounts-for-kids"
+  },
+  {
+   "url": "https://www.lovemoney.com/bestbuys/68071/the-best-kids-and-teenagers-bank-accounts-uk",
+   "title": "https://www.lovemoney.com/bestbuys/68071/the-best-kids-and-teenagers-bank-accounts-uk"
+  }
+ ],
+ "search_queries": [
+  "best bank account for 16 year old UK 2024",
+  "best first current account for teenagers UK comparison",
+  "Monzo vs Starling vs high street banks for 16 year olds UK",
+  "Starling Teen Account interest rate UK",
+  "Monzo 16-17 account interest rate savings",
+  "Nationwide FlexOne interest rate 2026",
+  "best bank account 16 year old UK Which? OR MoneySavingExpert",
+  "TSB Under 19s account interest rate UK"
+ ],
+ "latency_s": 38.96,
+ "asked_at": "2026-11-21T17:09:34.561120+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

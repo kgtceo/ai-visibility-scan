@@ -1,0 +1,33 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "D5",
+ "run": 2,
+ "text": "**Short answer:** for most 16-year-olds, the **Starling Teen account** or the **Monzo 16–17 account** is the best first account. If you want to earn interest, look at **Nationwide FlexOne**. Details change, so check each bank's own page before applying.\n\n**Best overall (app-based): Starling Teen or Monzo 16–17**\n- Starling's Teen account is designed specifically for 16 and 17 year olds. Finder gives it its top score, and Which? lists it as a recommended provider with an 86% customer score.\n- Monzo's 16–17 account is also free, and you can open it entirely on your own. Which? gives it 85%.\n- Both are fee-free, and Starling and Monzo both offer fee-free spending abroad. They also have savings pots and budgeting tools.\n- Both are app-only, so there are no branches.\n\n**Best if you want interest: Nationwide FlexOne**\n- It's open to 11–17s and has a free Visa debit card. It pays 2% AER on balances up to £1,000, and the linked FlexOne Saver pays 5.00% AER (variable) on up to £5,000. Rates change, so check them.\n- A November 2026 guide says Nationwide FlexOne and HSBC MyMoney pay the most interest among the accounts it compared.\n\n**Best if you want a high-street bank with branches: Lloyds, NatWest, Barclays or Santander**\n- Monzo, Starling, NatWest Adapt, Lloyds Under 19s and Santander 123 Mini can all be opened by a 16- or 17-year-old alone, with photo ID and proof of address.\n- Which? lists NatWest Adapt at 2.05% and Santander 123 Mini at 3% interest. Those figures come from an older review, so they may have changed.\n- Barclays' Young Person's Account has a 2.99% fee for spending abroad, so it's less good for travel.\n\n**Things to know**\n- Monzo 16-17, Starling, NatWest Adapt, Lloyds Under 19s, Barclays, TSB Under 19s, Santander 123 Mini, HSBC MyMoney and Nationwide FlexOne all have no monthly fee. You shouldn't need to pay for a basic account.\n- These are real, regulated accounts, so the money is protected by the FSCS up to £120,000.\n- You'll normally need photo ID (a passport is easiest) and proof of address.\n- Don't pay for a prepaid card or subscription app like GoHenry unless you want its parental controls. A free account does the same job for a 16-year-old.\n\n**My suggestion:** open Starling or Monzo as your main spending account. If you have savings, you could also open a Nationwide FlexOne for the interest. Many people use more than one. Overdrafts usually aren't available until 18.\n\nI can narrow this down if you tell me what matters most to you, such as interest, travel, branches or parental visibility.",
+ "citations": [
+  {
+   "url": "https://www.finder.com/uk/banking/childrens-banking/best-bank-account-for-teens",
+   "title": "Best bank accounts & prepaid cards for teens (under 18s) in the UK"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-childrens-bank-accounts-aRMaB5Y7IaQO",
+   "title": "Best children's bank accounts 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://gbwise.co.uk/bank-accounts-for-16-17-year-olds-best-app-challenger-banks-for-teenagers-2026-updated-list/",
+   "title": "Bank Accounts for 16-17 Year Olds UK (2026 Guide)"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-bank-accounts-for-under-18s",
+   "title": "Best bank accounts for children and teens"
+  }
+ ],
+ "search_queries": [
+  "best bank account for 16 year olds UK 2026"
+ ],
+ "latency_s": 11.27,
+ "asked_at": "2026-11-21T16:45:22.254135+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

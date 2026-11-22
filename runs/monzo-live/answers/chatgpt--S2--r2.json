@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "S2",
+ "run": 2,
+ "text": "**Yes.** Monzo’s free UK personal current account can receive your salary and pay your bills. It supports Direct Debits for bills such as energy and council tax, and standing orders for fixed payments such as rent. You don’t need a paid plan. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))\n\n- **If you want to keep your old account:** Give payroll your Monzo sort code and account number, update your Direct Debit details with each bill provider, and set up any standing orders in the Monzo app. Keep enough money in the old account for bills that haven’t moved yet. ([monzo.com](https://monzo.com/help/payments-getting-started/moving-salary-to-monzo?utm_source=openai))\n- **If you want to close your old account:** Use the **Current Account Switch Service** in the Monzo app. The switch takes seven working days, moves your balance, Direct Debits and standing orders, redirects incoming payments such as your salary, and closes the old account. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))\n\nMonzo is a regulated UK bank. If it fails, eligible deposits are protected by the Financial Services Compensation Scheme up to **£120,000 per person** across accounts held with Monzo Bank, not per account. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo?utm_source=openai",
+   "title": "Monzo Help - Moving your salary to Monzo"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK personal current account get salary paid in direct debits standing orders current account switch overdraft cash deposits cheques"
+ ],
+ "latency_s": 8.19,
+ "asked_at": "2026-11-21T17:03:34.379026+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,27 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "H3",
+ "run": 1,
+ "text": "Monzo UK savings interest rates range from 2.80% to 5.25% AER depending on the type of savings pot you choose and whether you pay for a Monzo subscription plan.   \nDepositScout\n\n(Note: Regular Monzo budgeting \"Pots\" and current account balances pay 0% interest — you must specifically open a Savings Pot or Cash ISA Pot.)\n\n1. Instant Access Savings & Cash ISA (Variable)\n\nPaid monthly on the 1st, with unlimited instant withdrawals and no minimum deposit (£1 for Cash ISA). Your rate depends on your Monzo subscription tier:   \nAbel\n\nMonzo Free: 2.80% AER   \nThe Finance Lowdown\n\nMonzo Extra (£3/month): 3.15% AER   \nThe Finance Lowdown\n\nMonzo Perks (£9/month): 3.55% AER   \nThe Finance Lowdown\n\nMonzo Max (£19/month): 3.80% AER   \nThe Finance Lowdown\n\n2. Select Access Savings & Cash ISA (Variable)\n\nRequires a £500 minimum deposit and pays interest monthly. You get a higher rate as long as you make 2 or fewer withdrawals per year from that pot:\n\nMonzo Free & Extra: 3.45% AER   \nThe Finance Lowdown\n\nMonzo Perks & Max: 3.70% AER   \nThe Finance Lowdown\n\nThe catch: If you make a 3rd withdrawal before your pot's anniversary, the interest rate drops significantly (below the standard Instant Access rate) until the pot resets.   \nAbel\n\n3. Fixed Rate Savings & Cash ISA (Fixed)\n\nRequires a £500 minimum deposit. Paid plans do not boost these rates — every tier gets the exact same rate, paid out at maturity:   \nDepositScout\n+ 1\n\n1-Year Fixed: 4.70% AER   \nDepositScout\n\n2-Year Fixed: 5.10% AER   \nDepositScout\n\n3-Year Fixed: 5.25% AER   \nDepositScout\n\n4. 1p Saving Challenge Pot (Variable)\n\nIf you participate in Monzo's automated 1p-a-day challenge (which saves £667.95 over a year), that specific pot earns 5.00% AER on the balance.   \nMonzo\n\nQuick Tip on Paid Plans: Because paid plans charge a monthly fee, upgrading purely for a higher savings rate only makes financial sense if you hold a large balance. For example, upgrading from Free to Perks (£9/month = £108/year) gets you an extra 0.75% on Instant Access — you would need to hold at least £14,400 in savings just to break even on the subscription fee.\n\nWould you like to calculate how much you'd earn on a specific savings balance, or compare Monzo's rates against top UK easy-access accounts?",
+ "citations": [
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "DepositScout Monzo Savings Rates 2026: Up to 5.25% AER - Banks - DepositScout “£434VariableMin £1. 5.00% AER. Learn More Visit. Table_title: Easy Access Table_c"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "Abel Monzo Savings Pot Interest Rates: 2.75% to 4.70% by Plan | Abel “There is no minimum deposit, you can withdraw at any moment, and you can hold up to £1,000"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "title": "The Finance Lowdown Monzo Review: Plans, Savings Rates & Catches (2026) | FLD “Table_title: Fees and savings rates by plan Table_content: | Plan | Monthly fee |"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 45.97,
+ "asked_at": "2026-11-21T13:38:59.024381+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

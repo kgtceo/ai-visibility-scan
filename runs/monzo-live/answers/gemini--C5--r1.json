@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C5",
+ "run": 1,
+ "text": "Choosing between **Monzo** and **Nationwide** as your primary UK current account comes down to whether you prioritize **modern app features and budgeting** or **branch access, member rewards, and traditional customer service**.\n\nHere is a direct comparison across the key areas to help you decide.\n\n---\n\n### 1. Everyday App Experience & Budgeting\n* **Monzo (Clear Winner):** Monzo’s app is best-in-class. You get instant push notifications the second you spend, automated budgeting categories, bill-splitting, and \"Pots\" to ring-fence money for bills or savings. If you want an account that actively helps you manage cash flow and track spending, nothing Nationwide offers compares.\n* **Nationwide:** The Nationwide app is clean, stable, and reliable, but it is fundamentally a traditional online banking portal. It has basic spending insights, but it lacks the real-time granular control, interactive budgeting, and slick UI of Monzo.\n\n---\n\n### 2. Branches, Cash, and Cheques\n* **Nationwide (Clear Winner):** Nationwide has pledged to keep high-street branches open until at least 2028. If you ever need to speak to someone face-to-face, deposit cash, or handle paper cheques easily at a counter or machine, Nationwide is the obvious choice.\n* **Monzo:** Monzo has no physical branches. \n  * **Cash deposits:** Must be done at PayPoint stores, costing £1 per deposit, with strict limits (£300 per transaction, £1,000 every 180 days on standard accounts).\n  * **Cheques:** You can scan smaller cheques via the app, but larger amounts must be physically posted to them.\n\n---\n\n### 3. Rewards, Interest, and Member Perks\n* **Nationwide (Strong Advantage):**\n  * **Building Society / Mutual Status:** Nationwide is owned by its members, not shareholders. In recent years, they have run the **\"Nationwide Fairer Share\"** scheme, paying an annual £100 cash bonus directly to eligible current account holders when the society has strong profits.\n  * **Interest / Switcher perks:** The **FlexDirect** account often offers competitive introductory interest on balances (e.g., 5% fixed for the first 12 months on up to £1,500) and access to market-leading member-only regular savings accounts.\n* **Monzo:** \n  * The standard free account pays 0% interest on your main balance (though you can open instant-access savings pots powered by partner banks inside the app).\n  * Paid tiers (Extra, Perks, Max) offer features like credit score tracking, higher cash deposit limits, and packaged travel/phone insurance, but cost £3 to £17/month.\n\n---\n\n### 4. Spending Abroad & Travel\n* **Monzo (Winner for Free Accounts):** Monzo passes on the Mastercard wholesale exchange rate with **0% foreign transaction fees** on debit card spending worldwide. You also get a fee-free international ATM withdrawal allowance (£200 every 30 days on the free tier).\n* **Nationwide",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 21.2,
+ "asked_at": "2026-11-21T17:54:40.439919+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

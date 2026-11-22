@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://monzo.com/current-account?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Current Accounts | Find the Right Current Account for You"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d pick Monzo if you want one account that makes budgeting easier or you regularly pay by card abroad."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "I’d pick Nationwide FlexDirect as your main account if your salary and bills naturally qualify for its rewards."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Neither has a monthly fee.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts show paid plans exist, but the free plan has no monthly fee; the claim is about the free account, which the facts do not state."
+   },
+   {
+    "text": "Monzo passes on Mastercard’s exchange rate without adding a fee on card purchases.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo's Salary Sorter can set aside bills and savings into separate Pots on payday.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "On the free account, each deposit at a Post Office or PayPoint costs £1.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

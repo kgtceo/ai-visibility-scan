@@ -1,0 +1,137 @@
+{
+ "engine": "claude",
+ "question_id": "D7",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "domain": "capitalise.com",
+   "source_type": "other",
+   "title": "Best Sole Trader Bank Accounts UK 2026: Free & Low Cost Picks"
+  },
+  {
+   "url": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/",
+   "domain": "nomorejanuary.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Accounts for Sole Traders in the UK (2026 ..."
+  },
+  {
+   "url": "https://soletraderguide.co.uk/blog/best-business-bank-accounts-uk-sole-traders-2026",
+   "domain": "soletraderguide.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Accounts for UK Sole Traders (2026)"
+  },
+  {
+   "url": "https://anna.money/blog/guides/best-business-bank-accounts/",
+   "domain": "anna.money",
+   "source_type": "other",
+   "title": "The Best Business Bank Accounts in the UK: A guide for 2026"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "domain": "zemplerbank.com",
+   "source_type": "other",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/best-business-bank-accounts-sole-traders",
+   "domain": "businesscomparison.com",
+   "source_type": "other",
+   "title": "Best business bank accounts for sole traders 2026"
+  },
+  {
+   "url": "https://www.taxtrends.co.uk/gb/best-business-bank-account-uk-2026/",
+   "domain": "taxtrends.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Account UK 2026: Revolut Business vs Wise vs ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo Business Lite: It's free, with free UK bank transfers, receipt capture and spending categorisation."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Most people should choose Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "If you take lots of foreign payments, choose Wise or Revolut."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite is free",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover personal plans, not business Lite pricing."
+   },
+   {
+    "text": "Monzo Business Lite has free UK bank transfers, receipt capture and spending categorisation",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business account features."
+   },
+   {
+    "text": "Monzo charges £1 per deposit, capped at £3,000 a month for sole traders",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Cash deposit fees are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

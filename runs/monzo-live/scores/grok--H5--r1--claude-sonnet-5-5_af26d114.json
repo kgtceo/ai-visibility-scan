@@ -1,0 +1,345 @@
+{
+ "engine": "grok",
+ "question_id": "H5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://community.monzo.com/t/overdraft-for-joint-account/173577",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/overdraft-for-joint-account/173577"
+  },
+  {
+   "url": "https://www.monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/current-account/joint-account"
+  },
+  {
+   "url": "https://consumer-credit.org/banking-savings/fscs-protection/",
+   "domain": "consumer-credit.org",
+   "source_type": "other",
+   "title": "https://consumer-credit.org/banking-savings/fscs-protection/"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-overdraft/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-overdraft/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-overdraft-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/joint-overdraft-information"
+  },
+  {
+   "url": "https://monzo.com/us/blog/monzo-us-blog/joint-accounts-get-started",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/blog/monzo-us-blog/joint-accounts-get-started"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/files/en-es/joint-account-terms-and-conditions/version-1-1/joint-account-terms-and-conditions-1.1.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/en-es/joint-account-terms-and-conditions/version-1-1/joint-account-terms-and-conditions-1.1.pdf"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/personal-finance/financial-services-compensation-scheme/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/uk/advisor/personal-finance/financial-services-compensation-scheme/"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account"
+  },
+  {
+   "url": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758"
+  },
+  {
+   "url": "https://monzo.com/us/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/joint-account"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "domain": "savesterling.co.uk",
+   "source_type": "other",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-joint-accounts/us-joint-accounts-on-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-joint-accounts/us-joint-accounts-on-monzo"
+  },
+  {
+   "url": "https://tryabel.com/best-joint-account-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/best-joint-account-apps-uk/"
+  },
+  {
+   "url": "https://monzo.com/-webviews/joint-account-terms-and-conditions/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/-webviews/joint-account-terms-and-conditions/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account-info",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/getting-started/help-joint-account-info"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/joint-account-terms-and-conditions"
+  },
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/joint-account"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-joint-account/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-joint-account/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-joint-accounts/us-opening-a-monzo-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-joint-accounts/us-opening-a-monzo-joint-account"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/credit-score-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/joint-accounts/credit-score-joint-account"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-overdraft-changes/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/monzo-overdraft-changes/"
+  },
+  {
+   "url": "https://community.monzo.com/t/joint-account-overdrafts/40871?page=13",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/joint-account-overdrafts/40871?page=13"
+  },
+  {
+   "url": "https://rategrove.com/en-gb/bank-accounts/monzo-joint-account",
+   "domain": "rategrove.com",
+   "source_type": "other",
+   "title": "https://rategrove.com/en-gb/bank-accounts/monzo-joint-account"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement"
+  },
+  {
+   "url": "https://rates.fm/banks/monzo-joint-account/",
+   "domain": "rates.fm",
+   "source_type": "other",
+   "title": "https://rates.fm/banks/monzo-joint-account/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-joint-accounts/us-can-i-open-a-joint-account-with-a-uk-monzo-customer",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-joint-accounts/us-can-i-open-a-joint-account-with-a-uk-monzo-customer"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/joint-instant-access"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/joint-accounts/what-joint-account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-together/joint-account-tax-implications",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-together/joint-account-tax-implications"
+  },
+  {
+   "url": "https://www.kaeltripton.com/fscs-protection-limit-uk/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/fscs-protection-limit-uk/"
+  },
+  {
+   "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/advanced-tools-for-joint-accounts"
+  },
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december",
+   "domain": "bankofengland.co.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. In the UK you can open a free Monzo joint account with one other person"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Deposits are protected by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "You can open a free Monzo joint account with one other person",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint accounts."
+   },
+   {
+    "text": "Overdraft rates are typically 19%, 29% or 39% EAR (variable)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "You can use Pots (including Instant Access Savings Pots) for shared bills or goals",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give the savings rate but not joint pot availability."
+   },
+   {
+    "text": "Both of you need your own Monzo personal current account, be 18+ and live in the UK full-time",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Eligibility is not covered by the facts."
+   },
+   {
+    "text": "Joint account has its own account number and sort code, and personal accounts stay private",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Opening the account creates a financial association affecting both credit files",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

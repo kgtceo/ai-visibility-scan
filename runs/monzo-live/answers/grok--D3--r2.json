@@ -1,0 +1,393 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "D3",
+ "run": 2,
+ "text": "**Monzo is the strongest choice for most people who want budgeting tools and savings pots in a UK bank.**\n\nMoneySavingExpert lists it as the top app-based account specifically for hands-on budgeting. Multiple independent comparisons reach the same conclusion: its pots and payday tools are more developed than the alternatives.\n\n### Why Monzo stands out\n- **Pots**: Create up to 20 separate spaces inside your account (rent, bills, groceries, holiday, emergency fund, etc.). You can name them, add images, hide them, or lock them so you’re less tempted to spend the money.\n- **Bills pots**: Direct Debits and standing orders can be paid straight from a dedicated pot, so bill money stays ring-fenced.\n- **Salary Sorter**: When your salary (or any payment over £100) lands, you can split it across pots and your main balance in one go. It remembers your preferences for next time.\n- **Other tools**: Automatic spending categories and insights, spending targets, round-ups into a pot, a bills calendar, and the option to get paid a day early (BACS).\n- **Interest-earning savings pots**: Separate from regular budgeting pots. Instant-access, limited-access, and fixed-rate options are available (rates vary by plan and change often). Cash ISA versions exist too.\n- Free current account covers the core pots and tools. Paid plans (Extra from £3/month, then higher tiers) add extras such as virtual cards linked to pots (so you can spend only what’s in that pot), custom categories, and higher savings rates.\n\nEligible deposits are FSCS-protected (currently up to £120,000 per person).\n\n### Close alternative: Starling\nStarling is excellent and often preferred as a pure all-rounder (MSE’s top all-rounder pick). Its **Spaces** work similarly to pots. Standout free features include:\n- Virtual debit cards linked to Spaces (spend only the money you’ve set aside — Monzo locks the equivalent behind a paid plan).\n- Bills Manager (pay Direct Debits and standing orders from a Space).\n- Round-ups, spending insights, and newer AI tools.\n- Strong fee-free overseas spending and ATM terms, plus well-regarded 24/7 UK support.\n\nIt lacks a direct equivalent of Monzo’s Salary Sorter, so the budgeting automation feels a step less hands-on for many users. Savings rates (via its Easy Saver, which can contain multiple Spaces) are competitive but include time-limited bonuses that drop after a few months — always check the current rate.\n\n### Quick comparison\n| Priority | Better pick | Why |\n|----------|-------------|-----|\n| Budgeting depth & payday sorting | **Monzo** | Salary Sorter + richer pot tools |\n| Free virtual cards on pots/spaces | **Starling** | Included at no extra cost |\n| Travel / ATM withdrawals | **Starling** | Generally more generous free limits |\n| Cashback on everyday spend | Chase | Strong cashback, but weaker pot system |\n| Highest possible savings rate | Separate easy-access account | In-app rates are convenient but rarely market-leading long-term |\n\n### Practical tips\n- You don’t have to fully switch. Many people keep a traditional bank for salary/mortgage and use Monzo (or Starling) as the day-to-day spending and pots account.\n- Interest rates change frequently — confirm the latest figures in the app or on the bank’s site before relying on them. For large balances, a top easy-access or regular saver elsewhere often pays more; the value of these banks is the integration with budgeting.\n- Both are app-only (no branches). Cash deposits are possible but can involve fees or limits (e.g. Monzo charges £1 per cash deposit at PayPoint/Post Office).\n- Open both if you want and test them — applications are quick and usually soft-search only unless you apply for an overdraft.\n\nCheck Monzo and Starling’s sites (or MoneySavingExpert’s digital banking guide) for the latest rates, fees, and eligibility, as these move.",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/",
+   "title": "https://www.starlingbank.com/"
+  },
+  {
+   "url": "https://www.reviewcentre.com/MONEY/SAVING-AND-BANKING/BANK-ACCOUNTS/BEST-JOINT-BANK-ACCOUNTS-UK-16214824",
+   "title": "https://www.reviewcentre.com/MONEY/SAVING-AND-BANKING/BANK-ACCOUNTS/BEST-JOINT-BANK-ACCOUNTS-UK-16214824"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter/",
+   "title": "https://monzo.com/salary-sorter/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS",
+   "title": "https://www.which.co.uk/policy-and-insight/article/which-names-the-current-account-providers-worth-switching-to-as-new-research-reveals-millions-of-customers-have-stayed-loyal-for-decades-aOJ079a3OLDS"
+  },
+  {
+   "url": "https://selectra.co.uk/money",
+   "title": "https://selectra.co.uk/money"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "https://generationmoney.co.uk/monzo-review/"
+  },
+  {
+   "url": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/",
+   "title": "https://rottenwifi.com/which-revolut-alternatives-are-safest-for-everyday-banking-in-the-uk/"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/spaces/",
+   "title": "https://www.starlingbank.com/features/spaces/"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots",
+   "title": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots"
+  },
+  {
+   "url": "https://banklist.co/monzo",
+   "title": "https://banklist.co/monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "https://monzo.com/current-account/personal"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "title": "https://monzo.com/current-account/extra"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/big-banks-fail-to-keep-up-with-rates-from-lesser-known-savings-providers-aFg7j1T7dExO",
+   "title": "https://www.which.co.uk/news/article/big-banks-fail-to-keep-up-with-rates-from-lesser-known-savings-providers-aFg7j1T7dExO"
+  },
+  {
+   "url": "https://tryabel.com/starling-saving-spaces-interest/",
+   "title": "https://tryabel.com/starling-saving-spaces-interest/"
+  },
+  {
+   "url": "https://cashcontrolly.com/uk/blog/monzo-starling-uk",
+   "title": "https://cashcontrolly.com/uk/blog/monzo-starling-uk"
+  },
+  {
+   "url": "https://thewealthster.com/how-i-use-monzo-pots-to-budget-smarter-and-save-24000/",
+   "title": "https://thewealthster.com/how-i-use-monzo-pots-to-budget-smarter-and-save-24000/"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-alternatives/",
+   "title": "https://generationmoney.co.uk/monzo-alternatives/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling",
+   "title": "https://www.finder.com/uk/current-accounts/revolut-vs-monzo-vs-starling"
+  },
+  {
+   "url": "https://depositscout.com/banks/starling/easy-saver",
+   "title": "https://depositscout.com/banks/starling/easy-saver"
+  },
+  {
+   "url": "https://starlingbank.com/features/virtual-cards/",
+   "title": "https://starlingbank.com/features/virtual-cards/"
+  },
+  {
+   "url": "https://earmarkiq.app/compare/monzo-budgeting-vs-earmarkiq",
+   "title": "https://earmarkiq.app/compare/monzo-budgeting-vs-earmarkiq"
+  },
+  {
+   "url": "https://www.thetraveler.org/starling-bank-vs-monzo-best-choice-for-uk-travelers/",
+   "title": "https://www.thetraveler.org/starling-bank-vs-monzo-best-choice-for-uk-travelers/"
+  },
+  {
+   "url": "https://www.boringmoney.co.uk/learn/articles/budgeting-apps-reviewed/",
+   "title": "https://www.boringmoney.co.uk/learn/articles/budgeting-apps-reviewed/"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/instant-access-savings",
+   "title": "https://depositscout.com/banks/monzo/instant-access-savings"
+  },
+  {
+   "url": "https://monzo.com/pots",
+   "title": "https://monzo.com/pots"
+  },
+  {
+   "url": "https://stablecoininsider.org/tsb-alternatives/",
+   "title": "https://stablecoininsider.org/tsb-alternatives/"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/",
+   "title": "https://www.starlingbank.com/savings/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "title": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2254029/bank-boosts-easy-saver-interest-rate",
+   "title": "https://www.express.co.uk/finance/personalfinance/2254029/bank-boosts-easy-saver-interest-rate"
+  },
+  {
+   "url": "https://monzo.com/features/pots",
+   "title": "https://monzo.com/features/pots"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/banking-apps-with-savings-pots",
+   "title": "https://www.finder.com/uk/current-accounts/banking-apps-with-savings-pots"
+  },
+  {
+   "url": "https://honest.ie/banking/neobanks/monzo/",
+   "title": "https://honest.ie/banking/neobanks/monzo/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/best-bank-account-uk/",
+   "title": "https://bankinggeek.com/en/best-bank-account-uk/"
+  },
+  {
+   "url": "https://monzo.com/blog/2023/02/23/manage-your-money-minimal-effort",
+   "title": "https://monzo.com/blog/2023/02/23/manage-your-money-minimal-effort"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-savings-accounts-to-open-with-as-little-as-1-akdFe6r5zSeE",
+   "title": "https://www.which.co.uk/news/article/best-savings-accounts-to-open-with-as-little-as-1-akdFe6r5zSeE"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "title": "https://moneytothemasses.com/banking/best-uk-current-accounts"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "title": "https://www.finder.com/uk/current-accounts/best-banks"
+  },
+  {
+   "url": "https://www.neobanksemea.com/guides/starling-bank-explained",
+   "title": "https://www.neobanksemea.com/guides/starling-bank-explained"
+  },
+  {
+   "url": "https://fintechpulse.co.uk/blog/starling-5-percent-easy-access-saver-new-customers",
+   "title": "https://fintechpulse.co.uk/blog/starling-5-percent-easy-access-saver-new-customers"
+  },
+  {
+   "url": "https://starlingbank.com/features/spaces/",
+   "title": "https://starlingbank.com/features/spaces/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank",
+   "title": "https://moneytothemasses.com/banking/starling-vs-monzo-which-is-the-better-app-only-bank"
+  },
+  {
+   "url": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html",
+   "title": "https://www.independent.co.uk/money/monzo-chase-revolut-starling-compare-banks-b2702454.html"
+  },
+  {
+   "url": "https://moneyweek.com/personal-finance/savings/starling-bank-easy-access-saver-is-it-worth-it",
+   "title": "https://moneyweek.com/personal-finance/savings/starling-bank-easy-access-saver-is-it-worth-it"
+  },
+  {
+   "url": "https://www.themoneypages.com/2024-personal-finance-awards-savings-banking-investments-winners/",
+   "title": "https://www.themoneypages.com/2024-personal-finance-awards-savings-banking-investments-winners/"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "title": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/"
+  },
+  {
+   "url": "https://freenance.io/comparisons/revolut-vs-monzo-comparison/",
+   "title": "https://freenance.io/comparisons/revolut-vs-monzo-comparison/"
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "title": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/"
+  },
+  {
+   "url": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/",
+   "title": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-savings-interest",
+   "title": "https://monzo.com/ie/help/managing-money/help-savings-interest"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/monzo-vs-starling-vs-revolut/",
+   "title": "https://pocketwise.co.uk/banking/bank-reviews/monzo-vs-starling-vs-revolut/"
+  },
+  {
+   "url": "https://tradersunion.com/brokers/digital-banks/view/monzo_bank/",
+   "title": "https://tradersunion.com/brokers/digital-banks/view/monzo_bank/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "title": "https://www.finder.com/uk/current-accounts/choosing-a-current-account"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "title": "https://monzo.com/salary-sorter"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/web-salary-sorter",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/web-salary-sorter"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/moneynet-awards-2025/",
+   "title": "https://www.moneynet.co.uk/moneynet-awards-2025/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "title": "https://www.referralplug.co.uk/blog/monzo-vs-starling"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-vs-starling/",
+   "title": "https://www.lilachbullock.com/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "title": "https://www.moneysavingexpert.com/banking/digital-banking/"
+  },
+  {
+   "url": "https://moneyzine.com/uk/banking/best-packaged-bank-accounts/",
+   "title": "https://moneyzine.com/uk/banking/best-packaged-bank-accounts/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-starling/",
+   "title": "https://bankinggeek.com/en/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/spending-insights/",
+   "title": "https://www.starlingbank.com/features/spending-insights/"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-accounts/",
+   "title": "https://www.banks.guide/compare/current-accounts/"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "title": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "title": "https://generationmoney.co.uk/monzo-vs-starling/"
+  },
+  {
+   "url": "https://www.apkmirror.com/apk/starling-bank/starling-bank-mobile-banking/",
+   "title": "https://www.apkmirror.com/apk/starling-bank/starling-bank-mobile-banking/"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/high-interest-current-accounts",
+   "title": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/high-interest-current-accounts"
+  },
+  {
+   "url": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/",
+   "title": "https://insighthq.uk/uk-travel-money-guide-2026-starling-monzo-revolut-wise-and-chase-compared/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-savings-apps-in-the-uk-how-to-save-money-using-your-smartphone/amp",
+   "title": "https://moneytothemasses.com/banking/best-savings-apps-in-the-uk-how-to-save-money-using-your-smartphone/amp"
+  },
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "title": "https://tryabel.com/monzo-vs-starling/"
+  },
+  {
+   "url": "https://monzo.com/savings/instant-access",
+   "title": "https://monzo.com/savings/instant-access"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://depositscout.com/savings/easy-access",
+   "title": "https://depositscout.com/savings/easy-access"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-review/",
+   "title": "https://bankinggeek.com/en/monzo-review/"
+  },
+  {
+   "url": "https://payspacemagazine.com/?p=82601",
+   "title": "https://payspacemagazine.com/?p=82601"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9",
+   "title": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/cash-isas",
+   "title": "https://monzo.com/savings-isas/cash-isas"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-savings-account-providers-aBP133g9ReUB",
+   "title": "https://www.which.co.uk/news/article/best-savings-account-providers-aBP133g9ReUB"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/bills-manager/",
+   "title": "https://www.starlingbank.com/features/bills-manager/"
+  },
+  {
+   "url": "https://www.starlingbank.com/news/5-easy-saver-release/",
+   "title": "https://www.starlingbank.com/news/5-easy-saver-release/"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/easy-saver/",
+   "title": "https://www.starlingbank.com/savings/easy-saver/"
+  },
+  {
+   "url": "https://depositscout.com/banks/starling",
+   "title": "https://depositscout.com/banks/starling"
+  },
+  {
+   "url": "https://starlingbank.com/savings/easy-saver/",
+   "title": "https://starlingbank.com/savings/easy-saver/"
+  },
+  {
+   "url": "https://enginebystarling.com/mobile-sdks/savings-and-budgeting-features/",
+   "title": "https://enginebystarling.com/mobile-sdks/savings-and-budgeting-features/"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/monzo-vs-starling",
+   "title": "https://bankadvisor.co.uk/monzo-vs-starling"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/starling-vs-monzo",
+   "title": "https://www.finder.com/uk/current-accounts/starling-vs-monzo"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-pots-explained/",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-pots-explained/"
+  }
+ ],
+ "search_queries": [
+  "best UK bank for budgeting and saving pots 2024",
+  "Monzo vs Starling vs Chase vs Revolut pots budgeting UK",
+  "best current accounts UK with savings pots and budgeting tools",
+  "Monzo pots salary sorter budgeting features UK",
+  "Starling Spaces vs Monzo Pots budgeting",
+  "MSE best digital bank for budgeting Monzo",
+  "Starling Bank Spaces features budgeting 2026",
+  "current Monzo Instant Access savings pot interest rate UK",
+  "Starling Easy Saver current interest rate"
+ ],
+ "latency_s": 52.99,
+ "asked_at": "2026-11-21T17:07:44.157220+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,45 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H1",
+ "run": 1,
+ "text": "**Short answer:** for most people they aren't worth it. Extra almost never is. Perks and Max can be, but only if you'd use the perks anyway.\n\n**Current prices.** Extra, Perks and Max cost £3, £9 and £19 a month, and the price rose by £2 in August 2026. That rise applied to Perks and Max. Extra stayed at £3.\n\n**Extra (£3/month, £36/year): skip it.**\n- You get slightly more advanced money-management tools. A lot of those are already in the free account, including spending notifications, budgeting tools and savings pots.\n- The savings boost is small. The extra 0.25 points of interest only covers the £36 fee if you hold about £14,400 in Instant Access Savings.\n\n**Perks (£9/month, £108/year): only if you'd use the freebies.**\n- It includes a weekly Greggs treat, a monthly cinema ticket and an annual Railcard. Monzo says these are worth over £300 a year.\n- That figure is the real case for Perks, and it only holds if you would use the perks anyway.\n- It's a poor choice if you only want the savings rate or fee-free cash withdrawals. The rate boost alone only pays for itself with around £21,600 saved.\n- A Railcard only helps if you take trains fairly regularly.\n\n**Max (£19/month, £228/year): good for a specific kind of person.**\n- It adds worldwide travel insurance, phone insurance, and UK and Europe breakdown cover.\n- It's worth it if you travel abroad at least a couple of times a year and would otherwise buy travel insurance separately. The bundled cover costs less than buying even two of the policies standalone.\n- One review values the insurance package at roughly £325, but only if you use every bundled feature.\n- It isn't worth it for the savings rate. The extra quarter-point only covers the £10/month gap above Perks if you have roughly £48,000 saved.\n- There are limits. It has a 3-month minimum and is for ages 18–69. Adding family costs extra.\n\n**Rule of thumb:**\n- If you'd currently pay for travel insurance, phone insurance and breakdown cover, Max can save you money.\n- If you'd use the Greggs, cinema and Railcard perks, Perks can pay off.\n- If you're only after better interest or budgeting tools, stay on the free account. You could also put the fee towards a high-interest savings account elsewhere.\n\nBefore you upgrade, price the policies you'd actually replace. Check that the insurance terms, such as trip length, excess and age limits, suit you. The 3-month minimum on Max also means you're committed for at least that long.",
+ "citations": [
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/",
+   "title": "Is Monzo Max worth it? What about Extra, and Monzo Perks?"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "Are Monzo's Paid Plans Worth It? Extra, Perks, Max"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/monzo-max-review",
+   "title": "Monzo Max review: Is the account worth it? - Finder UK"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Max"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/monzo",
+   "title": "Monzo Review UK: Is the Free Account Worth It, and Do the £3 to ..."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "title": "Is Monzo Max worth it? £19/month, Max vs Perks vs Extra (2026)"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans"
+  }
+ ],
+ "search_queries": [
+  "Monzo Extra Perks Max plans worth it"
+ ],
+ "latency_s": 10.27,
+ "asked_at": "2026-11-21T16:48:40.943133+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

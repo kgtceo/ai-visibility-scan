@@ -1,0 +1,309 @@
+{
+ "engine": "grok",
+ "question_id": "H2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/plans/fee-information"
+  },
+  {
+   "url": "https://www.ibusinesstalk.co.uk/does-monzo-charge-to-withdraw-cash-abroad/",
+   "domain": "ibusinesstalk.co.uk",
+   "source_type": "other",
+   "title": "https://www.ibusinesstalk.co.uk/does-monzo-charge-to-withdraw-cash-abroad/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/using-monzo/help-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/using-monzo/help-fees"
+  },
+  {
+   "url": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad",
+   "domain": "eboots.co.uk",
+   "source_type": "other",
+   "title": "https://eboots.co.uk/wiki/how-much-does-monzo-charge-to-withdraw-money-abroad"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-perks/monzo-plan-price-change"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/plus-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-plus/plus-fees"
+  },
+  {
+   "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm"
+  },
+  {
+   "url": "https://www.currencyexpert.com/reviews/monzo/",
+   "domain": "currencyexpert.com",
+   "source_type": "other",
+   "title": "https://www.currencyexpert.com/reviews/monzo/"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip"
+  },
+  {
+   "url": "https://www.thetraveler.org/monzo-pricing-explained-before-you-travel/",
+   "domain": "thetraveler.org",
+   "source_type": "other",
+   "title": "https://www.thetraveler.org/monzo-pricing-explained-before-you-travel/"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/does-monzo-charge-abroad/"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-paid-plans-worth-it/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-travel-spending/"
+  },
+  {
+   "url": "https://transferfees.io/monzo-international-transfer-fee-calculator/",
+   "domain": "transferfees.io",
+   "source_type": "other",
+   "title": "https://transferfees.io/monzo-international-transfer-fee-calculator/"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://monzo.com/legal/files/international-payments/international-fees-document.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/international-payments/international-fees-document.pdf"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://outboundlynx.com/using-monzo-credit-card-abroad/",
+   "domain": "outboundlynx.com",
+   "source_type": "other",
+   "title": "https://outboundlynx.com/using-monzo-credit-card-abroad/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-card-abroad",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-card-abroad"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/plans"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/travelling/understanding-fees"
+  },
+  {
+   "url": "https://hub.sivo.it.com/banking-abroad/can-i-use-monzo-abroad/",
+   "domain": "hub.sivo.it.com",
+   "source_type": "other",
+   "title": "https://hub.sivo.it.com/banking-abroad/can-i-use-monzo-abroad/"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/premium/fee-information"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-abroad/most-asked-travel-questions"
+  },
+  {
+   "url": "https://monzo.com/features/travel/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/travel/"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/using-monzo/help-unexpected-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/using-monzo/help-unexpected-fees"
+  },
+  {
+   "url": "https://monzo.com/legal/files/international-payments/international-fees-document-1.1.pdf?_gl=1*5mdaja*_up*MQ..*_ga*MTg3OTYxNjQzMS4xNzUyNjUxNDY4*_ga_HYTMWBVCZY*czE3NTI2NTE0NjgkbzEkZzAkdDE3NTI2NTE0NjgkajYwJGwwJGgw*_ga_PRFK54V027*czE3NTI2NTE0NjgkbzEkZzAkdDE3NTI2NTE0NjgkajYwJGwwJGgw",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/international-payments/international-fees-document-1.1.pdf?_gl=1*5mdaja*_up*MQ..*_ga*MTg3OTYxNjQzMS4xNzUyNjUxNDY4*_ga_HYTMWBVCZY*czE3NTI2NTE0NjgkbzEkZzAkdDE3NTI2NTE0NjgkajYwJGwwJGgw*_ga_PRFK54V027*czE3NTI2NTE0NjgkbzEkZzAkdDE3NTI2NTE0NjgkajYwJGwwJGgw"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "No Monzo fees on card spending abroad; cash withdrawals are fee-free only up to certain limits (then 3%)."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can pay with your Monzo card in any currency, fee-free. Monzo passes on Mastercard's exchange rate with no markup or foreign transaction fee.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Free account, and Monzo is not your main bank: £400 fee-free, then 3% (UK and EEA)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Free account, and Monzo is your main bank: unlimited fee-free in the UK and EEA",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA, free account: £200 fee-free, then 3%",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "After the free allowance, Monzo charges 3%.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Current paid plans are Extra, Perks and Max.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Extra, Plus, Premium, Perks and Max: unlimited fee-free in the UK and EEA",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Paid plan ATM allowances not covered by facts."
+   },
+   {
+    "text": "Outside the EEA: Plus £400 fee-free; Premium (legacy), Perks and Max £600 fee-free, then 3%; Extra £200",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Paid plan limits not covered by facts."
+   },
+   {
+    "text": "Main bank means at least £500 paid in over a rolling 35 days plus an active Direct Debit, or certain benefits/student loan payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Criteria not in facts."
+   },
+   {
+    "text": "Limits are on a rolling 30-day basis and shared across personal and joint accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Rolling 30 days is consistent with F7 but sharing is not covered."
+   },
+   {
+    "text": "Plus and Premium are older plans no longer open to new customers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

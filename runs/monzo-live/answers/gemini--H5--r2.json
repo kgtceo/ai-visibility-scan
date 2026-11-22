@@ -1,0 +1,42 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H5",
+ "run": 2,
+ "text": "**Yes, you can open a joint account with Monzo in the UK.** It is free to open and run, and it exists alongside your personal account inside the Monzo app.\n\n---\n\n### Key Requirements\nBefore you can open a joint account, you both must:\n* Be at least **18 years old** and a **UK resident**.\n* **Already have an active personal Monzo account.** You cannot open a joint account directly as a brand-new customer without first opening personal accounts.\n* Have each other’s contact details saved (and have **\"Find profile by phone number\"** turned on under *Privacy & Security* in the Monzo app settings).\n\n---\n\n### How to Open It\nThe application is entirely digital and usually takes just a few minutes:\n\n1. Open the Monzo app and tap the **Home** icon.\n2. Tap the **+** (plus icon) in the top right.\n3. Select **Apply for a joint account**.\n4. Choose the other person from your contacts or generate an invitation link (valid for 24 hours).\n5. The other person accepts the invitation in their own Monzo app.\n6. You will both confirm your details, and Monzo will run eligibility and identity checks. If approved, the account opens almost immediately.\n\n---\n\n### How It Works\n\n* **Separate from your personal money:** The joint account does not merge with your personal account. Inside the app, you can easily swipe/toggle between your personal account and your joint account.\n* **Two debit cards:** You will each receive your own physical joint debit card (typically a different colour/design from the standard personal coral card).\n* **Shared visibility & notifications:** Whenever either person makes a purchase, withdraws cash, or pays a bill, both of you receive instant notifications.\n* **Shared Pots and Bills:** You can set up joint Pots (including a dedicated **Bills Pot** to pay shared direct debits and standing orders automatically), use Salary Sorter, and budget together.\n* **FSCS protection:** Money held in the joint account is protected by the Financial Services Compensation Scheme (FSCS) up to £85,000 per person (or up to £170,000 jointly).\n\n---\n\n### Things to Keep in Mind\n* **Credit Association:** Opening any joint bank account in the UK creates a **financial association** between you and the other person on your credit reports. This means a lender reviewing one of you in the future could check the other person’s credit history.\n* **Equal Access:** Both holders have equal rights to the funds in the account. Either person can spend or withdraw money without needing the other’s approval.\n* **Closing the account:** If either person requests to close the joint account, Monzo will close it for both holders.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvW6Hbv1PBh_HV6gVnMZf76tClvRW2E9khOr_LKl0aykY8DR1n5At7vCHA623_tCSPKeZGbfV3tUnAvIFK30zkISYloqyBo-NqnUFtzWZ8eAufvd24fOfzC0gJOGIxwIUhKpg",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcgeyvrzCxQ67WuNQBItZhnqMP-Toa3l2g3BN4xhKczIIo4K-ZPQHxvJpb-Q41LP8tVS83ZLhGOsWZNWCUxwSxeOMSCIzXZTgpC4I8Djd0PMkdZ_7t3T5Mx02IzgzGQ5ekBPUQlg==",
+   "title": "getcino.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwf8SbUlg_VUVaD5gphLcU3w2Am-osfTBME025UN41laeXF3kumk4-n709FKQOQ3KUF8GhZYtPMUJxBud7QYUWD_69UQaVRwUu89_8HtTQqsC8WdzSv4WkFrYPCEWdMuQRCUY4WOlalYN1RD8b518jSVaK-g==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyuJ7xu6X0N-829O8i-H9G1IjzoJi_APA60euK1UAaWo6hFjIt38xEhnDXtgKDdmfYWyREuFMK3wvyl9lnnbr-B7krMxqywS9oYnWPPcDZfm0RC8FNIeLX7i5UVin1cOL84M5B3kxf1WvvLZZArhpuYq-W",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNMkPfT4MOQzHWo3pFVMnRpkNc22Kq-yM2le_U6-i8khJT_85P5y_88IHUqGWhqG6wpucEOpzRY8eYCpwmRJI2ZNOWEe0RzloaW_9XomGw5VZ96HIaR34hO93YvzJSGH--dmFdKSPgKdFeAMnIiyQjVWA6wBJ5T-c99mSHS7rSGg==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHigfBVP5rdqBqJKpx67RflP-wBI-19vZnGCmYll-DcScnMsfbPWBeCAqDqB2g6rcuihm_T6gF1DWQSfbG_cKVmoFWZnar8KOJzyS581c1foh6W30TC13TDnfuDsh3kJhiivupmdRWHTLHMV1qkA3d-eSd7jAp_uGm3prb9tr4rr7ESaVTkHjPOazsQlZegBELCSHirYsBnirckyaMQk6Kp5Q==",
+   "title": "reddit.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo joint account uk requirements how it works"
+ ],
+ "latency_s": 20.16,
+ "asked_at": "2026-11-21T17:58:26.591215+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

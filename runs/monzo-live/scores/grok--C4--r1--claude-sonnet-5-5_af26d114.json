@@ -1,0 +1,442 @@
+{
+ "engine": "grok",
+ "question_id": "C4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "domain": "gilt-edge.uk",
+   "source_type": "other",
+   "title": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/savings"
+  },
+  {
+   "url": "https://x.com/monzo/status/2114416341444616430",
+   "domain": "x.com",
+   "source_type": "forum_social",
+   "title": "https://x.com/monzo/status/2114416341444616430"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/fixed-rate-savings-2-years",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/fixed-rate-savings-2-years"
+  },
+  {
+   "url": "https://cashcontrolly.com/uk/blog/monzo-starling-uk",
+   "domain": "cashcontrolly.com",
+   "source_type": "other",
+   "title": "https://cashcontrolly.com/uk/blog/monzo-starling-uk"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-savings-rates/"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/chase"
+  },
+  {
+   "url": "https://smartmoneypeople.com/resources/article/monzo-vs-chase-which-is-better-in-the-battle-of-the-banks",
+   "domain": "smartmoneypeople.com",
+   "source_type": "review_comparison",
+   "title": "https://smartmoneypeople.com/resources/article/monzo-vs-chase-which-is-better-in-the-battle-of-the-banks"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/a-beginners-guide-to-cashback"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/select-access"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-savings-pots-explained",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "https://coolcuration.com/monzo-savings-pots-explained"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-savings-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-savings-account/"
+  },
+  {
+   "url": "https://hellobonus.co.uk/",
+   "domain": "hellobonus.co.uk",
+   "source_type": "other",
+   "title": "https://hellobonus.co.uk/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/saver-boosted/"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/cashback-general-faq/"
+  },
+  {
+   "url": "https://depositscout.com/isa/cash/fixed-rate/2-year",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/isa/cash/fixed-rate/2-year"
+  },
+  {
+   "url": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/compare/monzo-savings-account-review-uk/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-savings-pots-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-started/help-winter-cashback",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/getting-started/help-winter-cashback"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=tRUN7c8wMRk",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "https://www.youtube.com/watch?v=tRUN7c8wMRk"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/media/chase-regular-saver/"
+  },
+  {
+   "url": "https://www.moneyhq.uk/savings/chase-saver-easy-access",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "https://www.moneyhq.uk/savings/chase-saver-easy-access"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/chase/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/chase/"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-vs-chase",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "https://coolcuration.com/monzo-vs-chase"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/why-mse-recommends-chase-over-monzo-for-cashback",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/why-mse-recommends-chase-over-monzo-for-cashback"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/chase-bank-review-is-it-the-best-uk-digital-bank/amp"
+  },
+  {
+   "url": "https://monzo.com/features/cashback",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/cashback"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://community.monzo.com/t/say-hello-to-fixed-rate-savings/197681",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/say-hello-to-fixed-rate-savings/197681"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-chase/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-vs-chase/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-boosted-rate-offers/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/interest-rates-explained/our-boosted-rate-offers/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/instant-access"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-billsback-review",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/monzo-billsback-review"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/chase-uk-review/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/chase-vs-monzo/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/chase-vs-monzo/"
+  },
+  {
+   "url": "https://monzo.com/savings/instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings/instant-access"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-extra/what-is-billsback",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-extra/what-is-billsback"
+  },
+  {
+   "url": "https://www.ibusinesstalk.co.uk/monzo-vs-chase/",
+   "domain": "ibusinesstalk.co.uk",
+   "source_type": "other",
+   "title": "https://www.ibusinesstalk.co.uk/monzo-vs-chase/"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase/chase-saver",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/chase/chase-saver"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/chase-saver-with-boosted-rate-six-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/legal/chase-saver-with-boosted-rate-six-terms-and-conditions/"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/fixed-rate"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/best-second-bank-account-uk"
+  },
+  {
+   "url": "https://monzo.com/savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/monzo-vs-chase",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "https://bankadvisor.co.uk/monzo-vs-chase"
+  },
+  {
+   "url": "https://tryabel.com/chase-vs-monzo/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/chase-vs-monzo/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/chase-vs-monzo",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/chase-vs-monzo"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.chase.co.uk/gb/en/support/where-can-i-earn-cashback/"
+  },
+  {
+   "url": "https://monzo.com/help/cashback/cashback-offers",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/cashback/cashback-offers"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-chase",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/monzo-vs-chase"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo (free) is competitive long-term on savings, though its cashback is inferior."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Chase is better for most people who can meet its conditions and open the boosted saver quickly."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Paid plans (Extra from £3/month, Perks £9, Max from £19)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Extra £3, Perks £9, Max from £19 match; 'Extra from £3' is slightly loose."
+   },
+   {
+    "text": "Instant Access Savings Pot: 2.80% AER variable on the free plan",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Both are app-only UK banks with FSCS protection (currently up to £120,000 per person)",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Instant access rate rises to 3.15% on Extra, 3.55% on Perks, 3.80% on Max",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Paid-plan rates not covered by the facts."
+   },
+   {
+    "text": "Select Access 3.45% AER on free/Extra, up to 3.70% on higher plans, £500 minimum",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Fixed-rate pots around 4.70% (1 year), 5.10% (2 years), up to 5.25% (3 years), also as Cash ISAs",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Free account has no automatic category cashback; partner offers often 2–10% must be activated in the app",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Paid plans include Billsback, a monthly prize draw refunding bills up to £150",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

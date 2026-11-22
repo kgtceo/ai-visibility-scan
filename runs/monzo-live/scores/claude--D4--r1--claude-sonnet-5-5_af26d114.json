@@ -1,0 +1,150 @@
+{
+ "engine": "claude",
+ "question_id": "D4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Best debit cards to use abroad 2026 - Banking - Which.co.uk"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/best-prepaid-travel-card/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "The best travel cards for 2026 with low foreign transaction fees ..."
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/travel-money/article/cheapest-way-to-spend-money-abroad-ag5Ir4c6j52o",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "The cheapest way to spend money abroad - Which.co.uk"
+  },
+  {
+   "url": "https://www.yourmoney.com/household-bills/best-and-worst-travel-cards-for-summer-2026/",
+   "domain": "yourmoney.com",
+   "source_type": "other",
+   "title": "Best and worst travel cards for summer 2026"
+  },
+  {
+   "url": "https://www.monito.com/en/wiki/best-debit-card-for-international-travel",
+   "domain": "monito.com",
+   "source_type": "other",
+   "title": "9 Best Debit Cards With No Foreign Transaction Fee in 2025"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/debit-cards-low-foreign-transaction-fees",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best UK debit cards with no foreign transaction fees"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best Travel Credit & Debit Cards 2026 - Fees & Top Picks"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Foreign purchases have no transaction fee, but watch for charges on withdrawals."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the best all-round pick for fee-free spending abroad."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Both are fine for spending, but their free ATM allowances are tighter."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase allows fee-free cash withdrawals overseas, up to set limits."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Starling's debit card is fee-free for all purchases and cash withdrawals, unlike rival Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "Implies Monzo is not fee-free for cash; F7 shows allowances then a 3% fee, so it is vague rather than contradicted."
+   },
+   {
+    "text": "Monzo: Foreign purchases have no transaction fee.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo cash withdrawals are fee-free in the EEA, and up to £200 a month elsewhere, if Monzo is your main account.",
+    "verdict": "contradicted",
+    "fact_id": "F7",
+    "note": "Fact says £200 every 30 days outside the EEA on the free plan, with unlimited EEA only if main bank; the £400 EEA allowance applies otherwise. The 'if main account' condition and 'a month' do not match."
+   },
+   {
+    "text": "Watch for charges on Monzo withdrawals.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "A 3% fee applies after the allowance."
+   }
+  ]
+ },
+ "judge_error": null
+}

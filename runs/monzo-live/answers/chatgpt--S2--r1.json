@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "S2",
+ "run": 1,
+ "text": "Yes. **Monzo’s free UK personal current account can be your main account** for both salary and bills. Give your employer your Monzo sort code and account number for payroll. You can pay bills by Direct Debit and set up standing orders for fixed payments such as rent. No paid plan is needed. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))\n\nIf you’re moving from another bank, you have two options:\n\n- **Keep your old account open:** Update payroll and your bill providers yourself. Leave enough money in the old account to cover any payments due before the changes take effect. ([monzo.com](https://monzo.com/features/monzo-payday?utm_source=openai))\n- **Make a full switch:** Monzo’s free Current Account Switch Service moves your balance, Direct Debits and standing orders, redirects incoming payments such as salary, and **closes your old account**. It takes seven working days. ([monzo.com](https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday?utm_source=openai",
+   "title": "Get Paid Early | Payday, the Monzo Way"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai",
+   "title": "Monzo Help - How a full switch works"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK personal current account salary bills direct debits standing orders switch salary seven working days FSCS £120000 cash deposits"
+ ],
+ "latency_s": 8.63,
+ "asked_at": "2026-11-21T17:03:26.183719+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,298 @@
+{
+ "engine": "grok",
+ "question_id": "T2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/savings/safe-savings/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/savings/safe-savings/"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "https://generationmoney.co.uk/monzo-review/"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/banks/monzo"
+  },
+  {
+   "url": "https://monzo.com/i/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/i/current-account"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/guides/fscs-protection",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "https://bankcreditratings.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/guides/fscs-protection-when-banks-merge",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "https://bankcreditratings.co.uk/guides/fscs-protection-when-banks-merge"
+  },
+  {
+   "url": "https://www.banks.guide/monzo/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/monzo/"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-general-info/us-is-monzo-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-general-info/us-is-monzo-a-bank"
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm",
+   "domain": "register.fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://register.fca.org.uk/s/firm?nocache=https%3A%2F%2Fregister.fca.org.uk%2Fs%2Ffirm%3Fid%3D001b000002syvKiAAI%26utm"
+  },
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "domain": "fscs.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://monzo.com",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com"
+  },
+  {
+   "url": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html",
+   "domain": "mundoamerica.com",
+   "source_type": "other",
+   "title": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html"
+  },
+  {
+   "url": "https://www.kaeltripton.com/fscs-protection-uk-2026/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/fscs-protection-uk-2026/"
+  },
+  {
+   "url": "https://monzo.com/legal/pensions/fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/pensions/fscs-information"
+  },
+  {
+   "url": "https://research.contrary.com/report/monzo",
+   "domain": "research.contrary.com",
+   "source_type": "other",
+   "title": "https://research.contrary.com/report/monzo"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://signaltools.org/check-platform/monzo/",
+   "domain": "signaltools.org",
+   "source_type": "other",
+   "title": "https://signaltools.org/check-platform/monzo/"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/personal"
+  },
+  {
+   "url": "https://status.monzo.com/",
+   "domain": "status.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://status.monzo.com/"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "domain": "savesterling.co.uk",
+   "source_type": "other",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/is-monzo-safe/"
+  },
+  {
+   "url": "https://register.fca.org.uk/s/firm?id=001b000002syvKiAAI",
+   "domain": "register.fca.org.uk",
+   "source_type": "regulator_official",
+   "title": "https://register.fca.org.uk/s/firm?id=001b000002syvKiAAI"
+  },
+  {
+   "url": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/",
+   "domain": "neobanque.ch",
+   "source_type": "other",
+   "title": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/"
+  },
+  {
+   "url": "https://www.mishcon.com/news/fca-fines-monzo-21-million-for-failings-in-anti-money-laundering-systems-and-controls",
+   "domain": "mishcon.com",
+   "source_type": "other",
+   "title": "https://www.mishcon.com/news/fca-fines-monzo-21-million-for-failings-in-anti-money-laundering-systems-and-controls"
+  },
+  {
+   "url": "https://monzo.com/us",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Monzo",
+   "domain": "en.wikipedia.org",
+   "source_type": "wikipedia",
+   "title": "https://en.wikipedia.org/wiki/Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a real, fully licensed bank, not just an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "it's a licensed digital/challenger bank, similar to Starling."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is authorised by the PRA and regulated by both the PRA and the FCA.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000 per person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo received its full UK banking licence in April 2017.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the licence date."
+   },
+   {
+    "text": "Monzo's Firm Reference Number is 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the FRN."
+   },
+   {
+    "text": "The FSCS limit rose from £85,000 on 1 December 2025.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the current limit."
+   },
+   {
+    "text": "Monzo is app-only with no branches.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo started in 2015 with prepaid cards and became a full bank in 2017.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers current accounts with a sort code and account number, Direct Debits, standing orders and bank transfers.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo's US operations are not a licensed bank there.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

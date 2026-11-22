@@ -1,0 +1,95 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "T2",
+ "run": 2,
+ "text": "Yes — in the UK, Monzo is a real, fully licensed bank, not just an app.\n\n**Monzo Bank Limited** holds a full UK banking licence. It is authorised by the Prudential Regulation Authority (PRA) and regulated by both the PRA and the Financial Conduct Authority (FCA), under Firm Reference Number 730427. It received its full licence in April 2017 (after an earlier restricted licence).\n\nThat means:\n\n- You get a proper current account with a sort code and account number.\n- You can receive salary, set up Direct Debits and standing orders, and make bank transfers.\n- Eligible deposits are protected by the Financial Services Compensation Scheme (FSCS) up to £120,000 per person (the limit rose from £85,000 on 1 December 2025), the same scheme that covers high-street banks.\n\nIt is a digital (or “challenger”) bank with no branches — you manage everything in the app — but the legal and regulatory status is the same as a traditional bank. This is different from some app-based services that only hold an e-money licence and safeguard funds rather than offering full FSCS deposit protection.\n\nYou can confirm the authorisation yourself on the FCA Financial Services Register by searching for “Monzo” or FRN 730427.",
+ "citations": [
+  {
+   "url": "https://signaltools.org/check-platform/monzo/",
+   "title": "https://signaltools.org/check-platform/monzo/"
+  },
+  {
+   "url": "https://research.contrary.com/report/monzo",
+   "title": "https://research.contrary.com/report/monzo"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "https://generationmoney.co.uk/monzo-review/"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Monzo",
+   "title": "https://en.wikipedia.org/wiki/Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "title": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
+  },
+  {
+   "url": "https://fintech.global/2025/12/22/monzo-secures-eu-banking-licence-to-launch-in-europe/",
+   "title": "https://fintech.global/2025/12/22/monzo-secures-eu-banking-licence-to-launch-in-europe/"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://www.banks.guide/monzo/",
+   "title": "https://www.banks.guide/monzo/"
+  },
+  {
+   "url": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html",
+   "title": "https://www.mundoamerica.com/british/2026/10/28/6ae1ced9e4d4d8a10f8b45cc.html"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank/",
+   "title": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank/"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-fscs-information",
+   "title": "https://monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-lead-bank/us-who-is-lead-bank",
+   "title": "https://monzo.com/us/help/us-lead-bank/us-who-is-lead-bank"
+  },
+  {
+   "url": "https://www.pulsapi.com/services/monzo-bank",
+   "title": "https://www.pulsapi.com/services/monzo-bank"
+  },
+  {
+   "url": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/",
+   "title": "https://neobanque.ch/blog/is-monzo-a-bank-uk-us-operations-explained/"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "title": "https://monzo.com/help/investments/investments-FSCS"
+  },
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "title": "https://selectra.co.uk/money/banks/monzo"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "title": "https://monzo.com/help/legal-stuff/deposit-protection-fscs"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "https://monzo.com/current-account/personal"
+  }
+ ],
+ "search_queries": [
+  "Is Monzo a real bank UK",
+  "Monzo bank licence FSCS protection",
+  "Monzo official status authorised bank"
+ ],
+ "latency_s": 12.2,
+ "asked_at": "2026-11-21T17:28:51.943957+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

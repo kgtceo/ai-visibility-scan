@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "D4",
+ "run": 1,
+ "text": "For a no-fee debit card, Chase’s UK current account is a strong pick: it charges no fees for overseas card spending or cash withdrawals, and offers up to £15/month cashback on selected spending in the first year.\nforbes\n\nIf you mean a credit card, Lloyds Ultra is a strong option for fee-free overseas spending and also offers cashback; pay the balance in full to avoid interest.\nmoneysavingexpert",
+ "citations": [
+  {
+   "url": "https://www.forbes.com/advisor/uk/credit-cards/best-debit-card-to-use-abroad/",
+   "title": "forbes"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/?lid=3qdyn6jaudul",
+   "title": "moneysavingexpert Top cards for travelling abroad Read MoneySavingExpert's guide on travel cards and find out how you can avoid expensive foreign exchange fees"
+  },
+  {
+   "url": "https://www.which.co.uk/money/credit-cards-and-loans/credit-cards/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR",
+   "title": "which.co Best travel credit cards 2026 - Which? - Which.co.uk Regularly go abroad, or shop on foreign websites? You could benefit from a specialist travel credi"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/travel-money/article/cheapest-way-to-spend-money-abroad-ag5Ir4c6j52o",
+   "title": "which.co The cheapest way to spend money abroad - Which? How to avoid 3% charges when paying overseas, plus the best travel debit and credit cards for holidays"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "which.co Best debit cards to use abroad 2026 - Banking - Which.co.uk We reveal the best banks for fee-free spending on your holiday – and the expensive mistakes"
+  },
+  {
+   "url": "https://www.which.co.uk/money/credit-cards-loans/credit-cards/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR",
+   "title": "which.co www.which.co.uk · money · credit-cards-loansBest travel credit cards 2026 - Which? Regularly go abroad, or shop on foreign websites? You could benefit"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "which.co Best debit cards to use abroad 2026 - Which? We reveal the best banks for fee-free spending on your holiday – and the expensive mistakes to avoid"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/credit-cards/article/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR",
+   "title": "which.co www.which.co.uk · reviews · credit-cardsBest travel credit cards 2026 - Which? Regularly go abroad, or shop on foreign websites? You could benefit from"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/the-best-debit-and-credit-cards-to-use-abroad/",
+   "title": "becleverwithyourcash The best debit and credit cards to use abroad These debit and credit cards are the best to use abroad as they offer fee-free spending and c"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "title": "wise Best UK debit cards with no foreign transaction fee Read our rundown of the best UK debit cards with no foreign transaction fees, for overseas spending, AT"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.77,
+ "asked_at": "2026-11-21T13:04:10.592242+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

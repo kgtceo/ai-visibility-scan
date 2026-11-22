@@ -1,0 +1,555 @@
+{
+ "engine": "grok",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/banks/monzo"
+  },
+  {
+   "url": "https://depositscout.com/isa/cash",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/isa/cash"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/plans"
+  },
+  {
+   "url": "https://maxyourtrip.com/uk-railcards-explained-which-one-is-right-for-you/",
+   "domain": "maxyourtrip.com",
+   "source_type": "other",
+   "title": "https://maxyourtrip.com/uk-railcards-explained-which-one-is-right-for-you/"
+  },
+  {
+   "url": "https://ukcalculator.com/streaming-services-cost-calculator.html",
+   "domain": "ukcalculator.com",
+   "source_type": "other",
+   "title": "https://ukcalculator.com/streaming-services-cost-calculator.html"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas/select-access"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://monzo-travel.zendesk.com/hc/en-gb/articles/16328800594065-How-long-does-travel-insurance-cover-me-for",
+   "domain": "monzo-travel.zendesk.com",
+   "source_type": "other",
+   "title": "https://monzo-travel.zendesk.com/hc/en-gb/articles/16328800594065-How-long-does-travel-insurance-cover-me-for"
+  },
+  {
+   "url": "https://www.facebook.com/fb-answers/uber-one-uk-benefits-and-pricing/",
+   "domain": "facebook.com",
+   "source_type": "forum_social",
+   "title": "https://www.facebook.com/fb-answers/uber-one-uk-benefits-and-pricing/"
+  },
+  {
+   "url": "https://depositscout.com/savings/easy-access",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/savings/easy-access"
+  },
+  {
+   "url": "https://moneytothemasses.com/news/monzo-launches-three-new-packaged-bank-accounts-are-they-worth-it",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/news/monzo-launches-three-new-packaged-bank-accounts-are-they-worth-it"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-max/max-travel-cover",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-max/max-travel-cover"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/monzo-perks-review",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/monzo-perks-review"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/monzo-makes-huge-change-paid-32649836",
+   "domain": "mirror.co.uk",
+   "source_type": "other",
+   "title": "https://www.mirror.co.uk/money/monzo-makes-huge-change-paid-32649836"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://nextsteps.finance/blog/monzo-plus-vs-premium-worth-it-2026",
+   "domain": "nextsteps.finance",
+   "source_type": "other",
+   "title": "https://nextsteps.finance/blog/monzo-plus-vs-premium-worth-it-2026"
+  },
+  {
+   "url": "https://www.ubereats.com/gb/uber-one",
+   "domain": "ubereats.com",
+   "source_type": "other",
+   "title": "https://www.ubereats.com/gb/uber-one"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/plans/fee-information"
+  },
+  {
+   "url": "https://community.monzo.com/t/introducing-new-perks-on-monzo-perks-and-max-youtube-premium-lite-just-added/170606?page=29",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/introducing-new-perks-on-monzo-perks-and-max-youtube-premium-lite-just-added/170606?page=29"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/team-blog/2025/09/is-uber-one-subscription-worth-it/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/team-blog/2025/09/is-uber-one-subscription-worth-it/"
+  },
+  {
+   "url": "https://www.techbloat.com/software/monzo/pricing/",
+   "domain": "techbloat.com",
+   "source_type": "other",
+   "title": "https://www.techbloat.com/software/monzo/pricing/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-plus-vs-premium/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-plus-vs-premium/"
+  },
+  {
+   "url": "https://dailyukpost.co.uk/tech/what-is-uber-one/",
+   "domain": "dailyukpost.co.uk",
+   "source_type": "other",
+   "title": "https://dailyukpost.co.uk/tech/what-is-uber-one/"
+  },
+  {
+   "url": "https://monzo.com/blog/make-monzo-more-you",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/make-monzo-more-you"
+  },
+  {
+   "url": "https://fairsubs.com/prices/youtube-premium/united-kingdom",
+   "domain": "fairsubs.com",
+   "source_type": "other",
+   "title": "https://fairsubs.com/prices/youtube-premium/united-kingdom"
+  },
+  {
+   "url": "https://x.com/_craighadley/status/2087870339489349951",
+   "domain": "x.com",
+   "source_type": "forum_social",
+   "title": "https://x.com/_craighadley/status/2087870339489349951"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://profiletree.com/what-is-youtube-premium/",
+   "domain": "profiletree.com",
+   "source_type": "other",
+   "title": "https://profiletree.com/what-is-youtube-premium/"
+  },
+  {
+   "url": "https://www.savethestudent.org/student-deals/travel-holidays/half-price-uber-one-for-students.html",
+   "domain": "savethestudent.org",
+   "source_type": "other",
+   "title": "https://www.savethestudent.org/student-deals/travel-holidays/half-price-uber-one-for-students.html"
+  },
+  {
+   "url": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/",
+   "domain": "westminsterpimliconews.co.uk",
+   "source_type": "other",
+   "title": "https://westminsterpimliconews.co.uk/best-savings-rates-november-2026/"
+  },
+  {
+   "url": "https://www.facebook.com/fb-answers/what-is-uber-one-and-how-does-it-work/",
+   "domain": "facebook.com",
+   "source_type": "forum_social",
+   "title": "https://www.facebook.com/fb-answers/what-is-uber-one-and-how-does-it-work/"
+  },
+  {
+   "url": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/",
+   "domain": "thefintechmag.com",
+   "source_type": "other",
+   "title": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/"
+  },
+  {
+   "url": "https://snoozeit.co.uk/guides/streaming-services-cost-uk",
+   "domain": "snoozeit.co.uk",
+   "source_type": "other",
+   "title": "https://snoozeit.co.uk/guides/streaming-services-cost-uk"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo/select-access-savings",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo/select-access-savings"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-guides",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "https://coolcuration.com/monzo-guides"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes"
+  },
+  {
+   "url": "https://www.uber.com/gb/en/uber-one/student/",
+   "domain": "uber.com",
+   "source_type": "other",
+   "title": "https://www.uber.com/gb/en/uber-one/student/"
+  },
+  {
+   "url": "https://monzo.com/current-account/max/worldwide-mobile-phone-insurance",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/max/worldwide-mobile-phone-insurance"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-max/rac-request-breakdown-assistance",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-max/rac-request-breakdown-assistance"
+  },
+  {
+   "url": "https://monzo-travel.zendesk.com/hc/en-gb/articles/37891141789201-What-insurances-do-I-get-with-my-Monzo-account",
+   "domain": "monzo-travel.zendesk.com",
+   "source_type": "other",
+   "title": "https://monzo-travel.zendesk.com/hc/en-gb/articles/37891141789201-What-insurances-do-I-get-with-my-Monzo-account"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/"
+  },
+  {
+   "url": "https://perkfolio.io/blog/lifestyle-subscriptions-compared",
+   "domain": "perkfolio.io",
+   "source_type": "other",
+   "title": "https://perkfolio.io/blog/lifestyle-subscriptions-compared"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/extra"
+  },
+  {
+   "url": "https://www.thesun.co.uk/tech/35057731/youtube-premium-lite-google-ad-free-price-comparison/",
+   "domain": "thesun.co.uk",
+   "source_type": "other",
+   "title": "https://www.thesun.co.uk/tech/35057731/youtube-premium-lite-google-ad-free-price-comparison/"
+  },
+  {
+   "url": "https://prunely.app/subscriptions/youtube-premium",
+   "domain": "prunely.app",
+   "source_type": "other",
+   "title": "https://prunely.app/subscriptions/youtube-premium"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-savings-pots-review/"
+  },
+  {
+   "url": "https://monzo.com/current-account/max/breakdown-cover",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/max/breakdown-cover"
+  },
+  {
+   "url": "https://www.quotehunt.co.uk/business-bank-accounts/monzo",
+   "domain": "quotehunt.co.uk",
+   "source_type": "other",
+   "title": "https://www.quotehunt.co.uk/business-bank-accounts/monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account/perks/",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/perks/"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-perks-vs-max",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "https://coolcuration.com/monzo-perks-vs-max"
+  },
+  {
+   "url": "https://www.thefinancialwilderness.com/is-uber-one-worth-it/",
+   "domain": "thefinancialwilderness.com",
+   "source_type": "other",
+   "title": "https://www.thefinancialwilderness.com/is-uber-one-worth-it/"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9"
+  },
+  {
+   "url": "https://monzo.com/current-account/max/worldwide-travel-insurance",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/max/worldwide-travel-insurance"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb"
+  },
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/",
+   "domain": "moneysavinganswers.com",
+   "source_type": "other",
+   "title": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-scaps-plus-and-premium-heres-what-its-offering-instead/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/monzo-scaps-plus-and-premium-heres-what-its-offering-instead/"
+  },
+  {
+   "url": "https://www.dailymail.co.uk/money/saving/article-13336187/Monzo-changes-paid-accounts-Free-Greggs-offer-cheapest-plan-loses-access-savings-rate.html",
+   "domain": "dailymail.co.uk",
+   "source_type": "other",
+   "title": "https://www.dailymail.co.uk/money/saving/article-13336187/Monzo-changes-paid-accounts-Free-Greggs-offer-cheapest-plan-loses-access-savings-rate.html"
+  },
+  {
+   "url": "https://community.monzo.com/t/introducing-extra-perks-and-max/162646",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/introducing-extra-perks-and-max/162646"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-plus/paid-interest"
+  },
+  {
+   "url": "https://monzo-travel.zendesk.com/hc/en-gb/articles/16330173031441-What-is-the-hire-car-excess-cover",
+   "domain": "monzo-travel.zendesk.com",
+   "source_type": "other",
+   "title": "https://monzo-travel.zendesk.com/hc/en-gb/articles/16330173031441-What-is-the-hire-car-excess-cover"
+  },
+  {
+   "url": "https://www.facebook.com/monzobank/posts/perks-and-max-customers-buckle-up-uber-one-has-arrived-enjoy-0-delivery-fee-on-u/1150788167082503/",
+   "domain": "facebook.com",
+   "source_type": "forum_social",
+   "title": "https://www.facebook.com/monzobank/posts/perks-and-max-customers-buckle-up-uber-one-has-arrived-enjoy-0-delivery-fee-on-u/1150788167082503/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-perks/monzo-plan-price-change"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/max"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-paid-plans-worth-it/"
+  },
+  {
+   "url": "https://moneyappreviews.com/monzo-review-uk/",
+   "domain": "moneyappreviews.com",
+   "source_type": "other",
+   "title": "https://moneyappreviews.com/monzo-review-uk/"
+  },
+  {
+   "url": "https://prunely.app/subscriptions/uber-one",
+   "domain": "prunely.app",
+   "source_type": "other",
+   "title": "https://prunely.app/subscriptions/uber-one"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/easy-access"
+  },
+  {
+   "url": "https://hellosafe.com/credit-card-insurance/united-kingdom/monzo/max",
+   "domain": "hellosafe.com",
+   "source_type": "other",
+   "title": "https://hellosafe.com/credit-card-insurance/united-kingdom/monzo/max"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo's free account is already excellent... Free is the right choice for most people."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Free plan: fee-free card spending abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Free plan includes FSCS protection",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Free plan Instant Access savings around 2.80% AER (variable)",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Extra costs £3/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks costs £9/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Max is from £19/month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks gives higher ATM cash limits abroad (£600/30 days outside EEA)",
+    "verdict": "unverifiable",
+    "fact_id": "F7",
+    "note": "Fact covers only the free plan's £200 outside the EEA; paid plan limit is not covered."
+   },
+   {
+    "text": "Extra Instant Access ~3.15% AER; Perks ~3.55% / Select Access ~3.70%; Max ~3.80%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover free plan rate."
+   },
+   {
+    "text": "Max includes worldwide travel insurance, phone insurance and RAC breakdown cover; ages 18-69, 3-month minimum",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Perks includes annual Railcard, weekly Greggs treat, monthly Vue ticket, Uber One, YouTube Premium Lite, 3 free cash deposits/month",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo says partner perks on Perks/Max are worth over £300 a year",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Older Plus and Premium plans are closed to new customers",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

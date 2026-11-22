@@ -1,0 +1,29 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D4",
+ "run": 1,
+ "text": "**I’d pick Starling Bank’s debit Mastercard for everyday spending abroad.** Its UK personal current account has no monthly fee, and when you pay in local currency, Starling uses the Mastercard exchange rate without adding a foreign transaction fee or exchange-rate markup. ([starlingbank.com](https://www.starlingbank.com/travel/?utm_source=openai))\n\nIt’s also a good choice for cash: you can withdraw the equivalent of **£300 per day** abroad without a Starling fee. The ATM operator can still charge its own fee, so check the screen before confirming. ([starlingbank.com](https://www.starlingbank.com/travel/?utm_source=openai))\n\n**If you already have a Chase UK debit card, I’d use that rather than open another account just for the trip.** For card purchases, you get the same Mastercard exchange rate with no fee from Chase. ([chase.co.uk](https://www.chase.co.uk/gb/en/support/travel-with-chase/?af_ad=boosted&af_channel=organic-social&c=mkt-686_uk_gl_dgt_oso_fbig_eng_xdv_pr_adp_at11_reach_awareness&pid=facebook-instagram&utm_source=openai))\n\n**Whichever card you use, choose the local currency, not pounds.** For example, if a terminal in Spain offers EUR or GBP, choose EUR. That lets your card handle the conversion rather than accepting the retailer’s usually less favourable rate. ([help.starlingbank.com](https://help.starlingbank.com/joint/topics/travelling-overseas/what-do-the-different-debit-card-exchange-rates-mean/?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/support/travel-with-chase/?af_ad=boosted&af_channel=organic-social&c=mkt-686_uk_gl_dgt_oso_fbig_eng_xdv_pr_adp_at11_reach_awareness&pid=facebook-instagram&utm_source=openai",
+   "title": "Travelling with Chase | Chase UK"
+  },
+  {
+   "url": "https://help.starlingbank.com/joint/topics/travelling-overseas/what-do-the-different-debit-card-exchange-rates-mean/?utm_source=openai",
+   "title": "What do the different debit card exchange rates mean? - Starling Help"
+  }
+ ],
+ "search_queries": [
+  "site:chase.co.uk spending abroad fees debit card £1500 £500 UK Mastercard exchange rate cashback abroad"
+ ],
+ "latency_s": 9.68,
+ "asked_at": "2026-11-21T16:53:43.850774+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

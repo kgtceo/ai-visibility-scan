@@ -1,0 +1,117 @@
+{
+ "engine": "gemini",
+ "question_id": "D6",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU7-3tHHUr7IGTM6wiF0v_sCpdaoTkk1_LPO5bevqaoQ7rQkYFWhV5eROoTTVYyGvKrHIiPaHX9Hvc6FpsKuEsNkaf0PegK4DGjiI1lTEYjnDW2D4d3pEDhUCP_kvnHzxl_mTHbjqbQFMPX6v042vCGpZTPz3vvOf5RSWbRqj-Sp8H86w=",
+   "domain": "comparethemarket.com",
+   "source_type": "review_comparison",
+   "title": "comparethemarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfBfoBYdtGGLdxrhB6jjJ1pNCKQH2ui4sH6MRPO_Ky50eRPJWN8cgi070mQ_45jYhT5aPWFJrpo9v30Gg9bZOdEFXzpe_MPKSjBDjEw0b4a0NHW5DqOKPBgYEzDDZslHvjXpkq7Uld0E6b25DwL81zlDKiSz6f4WGJg2JcUc=",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfYOsfxT_ekHA1AqOTHAGHsuKqwobllITAqzfVuVtRsBFzcTz9D9z50C38ifhv7GSpReZJAO-XbuQ9Hf9hEDhnC1KAsA8Ozx4zqcD1snZVDVG4ZzMGAdh5eXwS0cfO9_odU8eFIAT2zPgiaE4nxICzdc=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFuJwCN3QJGDzpT2ZbczRnUKudzpi8t_fFIhYcVUb8mkNHk3uixRDII_fr5yteh0_c3e1De1GCTG1ddFRaLMCXk0g28nRMssVTwa-Ze71OYeKoPTjMHQ9U38hFKYt9-qgqhuU25YJPrZVOa2l7NEYrhV1FlJUkkA=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlwre3GV3mucIJleQfQ9JttZeW5ZbXDOAiIj-penK-Czvy5g1jG7m5u_HS-WNf5e4VkM_4Sus6NVqY_nmSEz80Q3yN4YWN3r7PhfwuCynWBzZQcyQZTCYKJ1hb_bxfgC7SJbSn0U0xiPpc2yDxFXQc6VAvMN_3RiHeTkiWvnywHdwsezcHVw==",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "moneyfactscompare.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExGo8ZfGpXwVjDSL6HUSPuKKhpeMLzzu0lc6PTl1dlmgw2ymHAKkFy_rI5iqPRNDX8QbJFO59WynqALOUdL5eUGKCTkSHOW0E5qFENDuSFOBnWuD85Nk0_0fE=",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "natwest.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7XfQ0DZqNQOKZiEin1VG4hV9KTbvEtOhduGYXUoSQ16pT_smqZMiCGdL1ZKs_qx91WNFEwhofNUmpd1ipU6T8pBnhz7ZsmSK6SApc0e-KmOc2KaTJvtfeRi8pQCkkV7JJyuqn-Z8RTQOxYUFHR4mBFfBieeJx5CcLWmA=",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXyYF9MMk5Y5BrzXK5UINzoxV83LNrR98c7Ax6uqrDMscY1wR5azsGa3Lx91XWXdp3a5LW4epvz72NOXpbqPkSryBOdOUFSNZZTqcynwjU7qMcj-ooyF-jkyH7KvFPGjKLEKKlFg6FxZSOqtWyTg2zaNvDWP5HZ60lxjMprTD5384dOA==",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase UK → Boosted Saver (~3.75%–4.75% AER variable)... no monthly fees, and 1% cashback on debit card spending"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "For up to £1,500: Open Nationwide FlexDirect for 5% fixed for a year."
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

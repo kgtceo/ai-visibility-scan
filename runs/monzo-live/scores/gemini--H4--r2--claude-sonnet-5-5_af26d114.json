@@ -1,0 +1,135 @@
+{
+ "engine": "gemini",
+ "question_id": "H4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvNPorCxskM_Sf-4X3u3hXD39F6PGH0ZLwaEQCD6uXD8c45j8uyYewvR7MC8JJUp1EvwKFD1bwBqs-RpOo9SKNw5SmSfI8ZSLCIGz00Xl3k7id",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQ4QdLpgHZoO8kRlXAutiEObwcR6TQUGIqe-wcWuxJY8m7WocKZSWmvlzVxLnnYG0--Y6zvxi2w11kmnAuXf0ttJzwiYGSmXTKMwFbwJCDaiUy6-v6__NRO9rlz3_gmzqir5eT0LOwsB11M85yoajR9Ka984ZhLE3fXfZKw==",
+   "domain": "ukbusinessbankaccounts.co.uk",
+   "source_type": "other",
+   "title": "ukbusinessbankaccounts.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqBJWQxHk3ZXD5U1A2ICUQg8Pj1fzNZJNgRursIW6ApDQdfuIdQSOeHMsmoSBI5snVVIeJFYOd2gAfCogiVRwhhlIYORHMAzgtPVNvvdlvaH1H8erzzgIzXMNO9sxJYXmomHpdjOO8d1lhJKoBqU6wARx8HcHR6U=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNykjEWk-zd74AaASRd19lMWa-dmTHZgKgGxj8vfJ9bvG8w9QZYUpHIGeQYTx4aaml5PvQNbRABWmtZqh-6XQcYsBsQGWqloq7yIYwbpjxy9xoETEODuhb9UN9sEYtGiGgzvER7MgrCtneb9legd0FLVbEwbMGcl7H_e2i71s5ufW_7hQgRchPILXXq81VH2HxuB_7V-niLNcs06Wd2ARFg-qzYCblzS5430U=",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYRXVcEUZliqwTzN11JhJJpTwV9e0-ESZPPtIFqUXaooC6xt2Hy-ABHEwarQtEhSKLXK2Pa4k0pmQImFdOZI96am9SP0Z9ZeYGpGKKZIpz8NCfZkWhfGEZd2BfQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMh4veLhBPoZbzlXb3ugG-OSpnaiLQipkQW4c1U2wWhfnTPtbxRNMuPm5IcRgvreDqFeheBaQVOEkYCqxNJDQSGl9Bp4GzmbcnLyDMUQjHFKualOEPulg6P2dhVJlaYwj2_cpB1S4bfF5m",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does offer arranged overdrafts to eligible UK personal account holders (aged 18 and over)."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does offer arranged overdrafts to eligible UK personal account holders (aged 18 and over).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdrafts."
+   },
+   {
+    "text": "Monzo overdraft tiered pricing of 19%, 29% and 39% EAR (variable).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "Monzo offers arranged overdraft limits of up to £2,000.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft limits."
+   },
+   {
+    "text": "Borrowing £1,200 for 30 days at 39% EAR costs approximately £32.94.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft costs."
+   },
+   {
+    "text": "Monzo does not charge unarranged overdraft fees and has no set-up or cancellation fees.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover overdraft fees."
+   },
+   {
+    "text": "Checking eligibility in the Monzo app uses a soft credit search that won't affect your credit score.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

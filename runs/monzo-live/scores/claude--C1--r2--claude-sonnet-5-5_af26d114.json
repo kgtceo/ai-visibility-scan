@@ -1,0 +1,118 @@
+{
+ "engine": "claude",
+ "question_id": "C1",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://pocketwise.co.uk/banking/bank-reviews/online-banks-guide/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "Online and Digital Banks UK — Monzo, Starling, Revolut and Chase ..."
+  },
+  {
+   "url": "https://depositscout.com/guides/revolut-vs-monzo-vs-starling-vs-chase-best-free-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "Best Free UK Bank 2026: Revolut vs Monzo vs Starling"
+  },
+  {
+   "url": "https://liveyourlifeitsyours.com/articles/best-uk-travel-card-by-use-case",
+   "domain": "liveyourlifeitsyours.com",
+   "source_type": "other",
+   "title": "Best UK Travel Debit Card 2026: Revolut vs Wise vs Starling vs ..."
+  },
+  {
+   "url": "https://tryabel.com/best-banking-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Best Banking Apps in the UK: Monzo, Starling, Chase and Revolut ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/is-revolut-a-fully-licensed-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Is Revolut a fully licensed bank in the UK? Here’s what's changed ..."
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/revolut-is-officially-a-bank-in-the-uk/",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "It's official — Revolut is now a bank in the UK"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/banking-guide-best-uk-digital-banks-2026-monzo-starling-revolut-and-chase",
+   "domain": "gilt-edge.uk",
+   "source_type": "other",
+   "title": "Banking Guide: Best UK Digital Banks 2026 — Monzo, Starling, ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "negative",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the best fit as a main UK account for most people."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Add Revolut if you travel often or hold foreign currency."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Add Chase if you want a better savings rate or cashback."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

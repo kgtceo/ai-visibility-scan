@@ -1,0 +1,183 @@
+{
+ "engine": "gemini",
+ "question_id": "H2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrDeHuY8x3e7aNgnlbkSxVY_tRSKeIZZkLwix7YOcx6UDwnqG8ixBRhW9H1nvqObQ4cc0Y0JKxSXM_sgTqq224etKWVfzevsI39EVmhTlDNbVAIqZQHBdq4ld9FzuRqkad5-cbcQuZLCvl",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpmX9_rdwhVUu3UFsyTIPRHTGPwcsMp_FvU9Vta9EmY4TtN54XAMULmk-BP1pFxODoWzCVzVJ3-uXEK0HpSzTqsi-atiKHFzT1vPwVUBzDJ2JiTnRfRUA=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFGV0YixJXjlMdNFTdbrXWty4fbBZ_9wVMKGYPhswgZHCE59GMsWS3uvpA9e5Nq7sCfGbGphP6JXMqH_-bH9J_Y4Z8K0xxF-pbjD3lzIg9qFoEdILj1h7kF2LWWjCqWMXtZPdj5q2pGC93QcUvRxVoSX7omMlqJw==",
+   "domain": "outboundlynx.com",
+   "source_type": "other",
+   "title": "outboundlynx.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEktaxt41kTe3LFvyM-GSyCWzJxA6Z0uBMHhnPOdyNkY8v5EIuGsQA5A_2yprUXQ3qAj67Mxbc9qylbSv_ktDt8EXM9ZEtBanydzi6bJqT01QLBl49K48zIUBh1ncktpz4ZRMyk0YhXqq6SjrD20w==",
+   "domain": "outboundlynx.com",
+   "source_type": "other",
+   "title": "outboundlynx.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4jK7qiGszO5wtlVpoXK1IZ6gab6rFO_0IWRTgoljgK9IL7OHfnI9SqVj26PoEAy1WuWPLaI3ATuCCiuRBM_ZU0ULQGejd8HKUhAtrH2hVq11Wgi56EzwQQyTKCBYjY3t323Jh1w==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtV0I3JyJrtfbd8JWlNe3RshRXlpmQVopT04wMFclJwDi8e3PooPQDTCL1y8uY5Qrz5uMBXswHCyTkQEYwEpoLjLAC24dNCFUMgoHRh_VA1YaV5cEdG4MVcBcSjAFCZ1Vn9D_yNSANyT8Zeid3FtD7W4nIFvgM1KbtGiIfevRIAW1PZD2B4kcC6K1McRO-ozc60w5q3wHSzA==",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJAQ45eMlh2d8kscNUIAkXMs4raDbIks9orRLPPFYVaEcHFZzC73Oy-2FuiQbwCdpOwD5qQIRqvrbM8E6IQI8C3Sb7bg_5UUrp_U01xldIFG4ns5S0a6g6vx5G2ID48pe",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQQvQon2Eu62TRt59z6Q0HubpiIrwWAMec9jFJKndZwS92Rh9rQ9Ev2bylX-aw_ksuwKXL89rHtPLxoMly-hWMcJPamzKWooRUoyTXrSBhmtn_wjndwjFRrSuLExvIoFmCMHjN91J8nS_xQDt0PZCTWyejAGnvsD3Yg==",
+   "domain": "travelmint.co.uk",
+   "source_type": "other",
+   "title": "travelmint.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb53x3TuMByupBeY_C-oD7FKGNa2KczgEjR3150sKKjp6DTLRuYwmca5YF5WfKVSHpLMryCNxU4ns-G5v7gj4Uoog0urmINhnX1bAOdCiCxlRReeStXtd3oa3lu0brH7wTaP2szb7M1gyEnQTpG2q2usHk4NmZ8TPaIasALtIMSvXfXwtkV6opBg==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSosmip3pbyHzcPGvn8RoHMaHcendXeQF3txPTLciSjxMLRxdUKn6NSD-G4G1iTa0jgbLBeDlxQtd5LZq_HyoIs_mX9tFxr7X4LlTP64-DQqDwIce-2UrAgxQfsy9Q9l3moKW7lt0j1Xn8kjsSgJKjsgip8u-RnP5GiG2rN8kYThpre7nzq0Au",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo does not charge any transaction fees for spending on your debit or credit card abroad."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does not charge any transaction fees for spending on your debit or credit card abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo passes on the Mastercard exchange rate directly with 0% markup.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA, Standard (Free) users get up to £200 fee-free every rolling 30 days, then a 3% fee.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Within the EEA, if Monzo is your main bank, withdrawals are unlimited and fee-free.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Within the EEA, if Monzo is not your main bank, you can withdraw up to £200 fee-free every rolling 30 days, then 3%.",
+    "verdict": "contradicted",
+    "fact_id": "F7",
+    "note": "Fact says the free plan allowance in the UK and EEA is £400 every 30 days, not £200."
+   },
+   {
+    "text": "Monzo Perks allows up to £400 fee-free outside the EEA every rolling 30 days, then 3%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover paid-plan allowances abroad."
+   },
+   {
+    "text": "Monzo Max allows up to £600 fee-free outside the EEA every rolling 30 days, then 3%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover paid-plan allowances abroad."
+   },
+   {
+    "text": "Monzo Extra users get up to £200 fee-free outside the EEA every rolling 30 days.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts name the Extra plan but give no allowance for it."
+   },
+   {
+    "text": "Monzo counts you as a main bank user if you pay in at least £500 every 35 days and have an active Direct Debit, or receive certain benefits or pension.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Main bank criteria are not in the facts."
+   },
+   {
+    "text": "Perks or Max plan holders get unlimited fee-free withdrawals in the EEA.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

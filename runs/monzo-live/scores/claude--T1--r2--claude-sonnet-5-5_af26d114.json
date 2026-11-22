@@ -1,0 +1,147 @@
+{
+ "engine": "claude",
+ "question_id": "T1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://www.flagright.com/post/monzos-ps21-1m-fca-fine-a-scaling-lesson-for-uk-fintech-compliance",
+   "domain": "flagright.com",
+   "source_type": "other",
+   "title": "Monzo's £21M FCA Fine: A Scaling Lesson for UK Fintech Compliance"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Is Monzo Safe? How We Help Protect Your Money and Savings"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services Compensation Scheme Information Sheet Version 2.0"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Are investment accounts protected?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-reports-annual-losses-of-113-8m-are-your-current-account-and-savings-safe-a6KU47R02DKt",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "Monzo reports annual losses of £113.8m: are your current account ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is a properly regulated UK bank, and your money is protected if it fails."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is authorised by the Prudential Regulation Authority and regulated by both the PRA and the Financial Conduct Authority.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Your Monzo money is covered by the Financial Services Compensation Scheme (FSCS).",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The FSCS limit is £120,000 per depositor per bank.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches £120,000 per person."
+   },
+   {
+    "text": "The FCA fined Monzo £21.1m for operational compliance systems, with issues from 2018–2020 since remediated.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the fine."
+   },
+   {
+    "text": "Monzo is a full bank with its own licence, not just an app or e-money account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts say it is a UK bank authorised by the PRA but do not mention its own licence."
+   },
+   {
+    "text": "Stocks & Shares ISAs and General Investment Accounts have a separate £85,000 protection.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover investment protection."
+   },
+   {
+    "text": "Some Monzo savings pots are held at other banks, such as OakNorth, and count towards your limit at that bank.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Business account eligible deposits are protected up to £120,000 in total.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover business accounts."
+   }
+  ]
+ },
+ "judge_error": null
+}

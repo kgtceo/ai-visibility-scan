@@ -1,0 +1,749 @@
+{
+ "engine": "grok",
+ "question_id": "C5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/605-nationwide-branches-stay-open-37709259",
+   "domain": "mirror.co.uk",
+   "source_type": "other",
+   "title": "https://www.mirror.co.uk/money/605-nationwide-branches-stay-open-37709259"
+  },
+  {
+   "url": "https://www.zopa.com/current-account/interest-rates-compared",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "https://www.zopa.com/current-account/interest-rates-compared"
+  },
+  {
+   "url": "https://hellobonus.co.uk/codes/monzo",
+   "domain": "hellobonus.co.uk",
+   "source_type": "other",
+   "title": "https://hellobonus.co.uk/codes/monzo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-account-service-quality/monzo/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/current-account-service-quality/monzo/"
+  },
+  {
+   "url": "https://www.gov.uk/government/news/latest-banking-satisfaction-survey-results-revealed-by-cma",
+   "domain": "gov.uk",
+   "source_type": "regulator_official",
+   "title": "https://www.gov.uk/government/news/latest-banking-satisfaction-survey-results-revealed-by-cma"
+  },
+  {
+   "url": "https://www.moneyhq.uk/data/bank-switching-offers",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "https://www.moneyhq.uk/data/bank-switching-offers"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/monzo"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect/",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexdirect/"
+  },
+  {
+   "url": "https://switchbonus.co.uk/switches",
+   "domain": "switchbonus.co.uk",
+   "source_type": "other",
+   "title": "https://switchbonus.co.uk/switches"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-to-become-uks-biggest-branch-network-as-banks-continue-to-close-theirs",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-to-become-uks-biggest-branch-network-as-banks-continue-to-close-theirs"
+  },
+  {
+   "url": "https://www.standard.co.uk/business/money/nationwide-virgin-money-people-b1283123.html",
+   "domain": "standard.co.uk",
+   "source_type": "news",
+   "title": "https://www.standard.co.uk/business/money/nationwide-virgin-money-people-b1283123.html"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-pays-gbp-100-to-around-4-million-members-as-fairer-share-rolls-out",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-pays-gbp-100-to-around-4-million-members-as-fairer-share-rolls-out"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/personal"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-announced-2026-fairer-share-payment-as-part-of-its-member-benefits",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-announced-2026-fairer-share-payment-as-part-of-its-member-benefits"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/nationwide",
+   "domain": "getquids.co.uk",
+   "source_type": "other",
+   "title": "https://getquids.co.uk/en/reviews/nationwide"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/overdrafts"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-extends-branch-promise-to-2030-while-other-banks-shut-doors",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-extends-branch-promise-to-2030-while-other-banks-shut-doors"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/nationwide-fairer-share-payment-2026/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/nationwide-fairer-share-payment-2026/"
+  },
+  {
+   "url": "https://depositscout.com/banks/nationwide",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/nationwide"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "https://www.clearscore.com/learn/managing-money/best-banks-2023-cma"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/monzo-paid-plans-worth-it/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/nationwide-review-2026/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/nationwide-review-2026/"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2267943/key-details-nationwide-fairer-share-175-payments-update-given",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2267943/key-details-nationwide-fairer-share-175-payments-update-given"
+  },
+  {
+   "url": "https://www.independent.co.uk/bulletin/news/nationwide-fairer-share-payment-eligibility-bonus-virgin-b2981214.html",
+   "domain": "independent.co.uk",
+   "source_type": "news",
+   "title": "https://www.independent.co.uk/bulletin/news/nationwide-fairer-share-payment-eligibility-bonus-virgin-b2981214.html"
+  },
+  {
+   "url": "https://monzo.com/features/get-paid-early",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/get-paid-early"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/about-us/branch-promise",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/about-us/branch-promise"
+  },
+  {
+   "url": "https://depositscout.com/switch-offers/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/switch-offers/monzo"
+  },
+  {
+   "url": "https://britbrief.co.uk/business/banking/monzo-get-paid-early-750k-claimed-in-october-week.html",
+   "domain": "britbrief.co.uk",
+   "source_type": "other",
+   "title": "https://britbrief.co.uk/business/banking/monzo-get-paid-early-750k-claimed-in-october-week.html"
+  },
+  {
+   "url": "https://monzo.com/us/blog/monzo-us-blog/get-paid-early",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/blog/monzo-us-blog/get-paid-early"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-overdraft-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/joint-overdraft-information"
+  },
+  {
+   "url": "https://nextsteps.finance/blog/best-bank-switching-offers-uk-2026",
+   "domain": "nextsteps.finance",
+   "source_type": "other",
+   "title": "https://nextsteps.finance/blog/best-bank-switching-offers-uk-2026"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2265100/monzo-customers-early-pay-new-rule",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2265100/monzo-customers-early-pay-new-rule"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-overdraft/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-overdraft/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/choosing-a-current-account"
+  },
+  {
+   "url": "https://www.lovemoney.com/news/87749/best-and-worst-banks-how-customers-rate-their-service",
+   "domain": "lovemoney.com",
+   "source_type": "other",
+   "title": "https://www.lovemoney.com/news/87749/best-and-worst-banks-how-customers-rate-their-service"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/service-quality",
+   "domain": "bankcreditratings.co.uk",
+   "source_type": "other",
+   "title": "https://bankcreditratings.co.uk/service-quality"
+  },
+  {
+   "url": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2",
+   "domain": "thebanker.com",
+   "source_type": "other",
+   "title": "https://www.thebanker.com/content/3e5ba2ad-b93f-4b21-b136-fc35590ad4f2"
+  },
+  {
+   "url": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans",
+   "domain": "ukbusinessbankaccounts.co.uk",
+   "source_type": "other",
+   "title": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans"
+  },
+  {
+   "url": "https://monzo.com/business-banking/features/sole-trader-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/business-banking/features/sole-trader-overdrafts"
+  },
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-business-overdrafts-uk",
+   "domain": "capitalise.com",
+   "source_type": "other",
+   "title": "https://capitalise.com/gb/insights/business-banking/best-business-overdrafts-uk"
+  },
+  {
+   "url": "https://bankinggeek.com/en/best-bank-account-uk/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/best-bank-account-uk/"
+  },
+  {
+   "url": "https://www.nottinghampost.com/news/uk-world-news/nationwide-confirms-future-uk-branches-11148997",
+   "domain": "nottinghampost.com",
+   "source_type": "other",
+   "title": "https://www.nottinghampost.com/news/uk-world-news/nationwide-confirms-future-uk-branches-11148997"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account-switch-offers/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account-switch-offers/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/01/nationwide-fairer-share-how-to/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/news/2026/01/nationwide-fairer-share-how-to/"
+  },
+  {
+   "url": "https://www.birminghammail.co.uk/news/cost-of-living/nationwide-confirms-future-branches-issues-34576981",
+   "domain": "birminghammail.co.uk",
+   "source_type": "other",
+   "title": "https://www.birminghammail.co.uk/news/cost-of-living/nationwide-confirms-future-branches-issues-34576981"
+  },
+  {
+   "url": "https://www.kaeltripton.com/nationwide-fairer-share-bonus-2026/",
+   "domain": "kaeltripton.com",
+   "source_type": "other",
+   "title": "https://www.kaeltripton.com/nationwide-fairer-share-bonus-2026/"
+  },
+  {
+   "url": "https://businessfinancing.co.uk/business-bank-accounts/monzo-vs-nationwide/",
+   "domain": "businessfinancing.co.uk",
+   "source_type": "other",
+   "title": "https://businessfinancing.co.uk/business-bank-accounts/monzo-vs-nationwide/"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/monzo-payday"
+  },
+  {
+   "url": "https://monzo.com/us/features/get-paid-early",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/features/get-paid-early"
+  },
+  {
+   "url": "https://www.kentonline.co.uk/news/national/nationwide-hails-current-account-record-as-payouts-prove-popular-174491/",
+   "domain": "kentonline.co.uk",
+   "source_type": "other",
+   "title": "https://www.kentonline.co.uk/news/national/nationwide-hails-current-account-record-as-payouts-prove-popular-174491/"
+  },
+  {
+   "url": "https://bankadvisor.co.uk/guides/compare-uk-current-accounts",
+   "domain": "bankadvisor.co.uk",
+   "source_type": "other",
+   "title": "https://bankadvisor.co.uk/guides/compare-uk-current-accounts"
+  },
+  {
+   "url": "https://britbrief.co.uk/business/consumers/monzo-get-paid-early-how-to-get-salary-early-and-double-pay.html",
+   "domain": "britbrief.co.uk",
+   "source_type": "other",
+   "title": "https://britbrief.co.uk/business/consumers/monzo-get-paid-early-how-to-get-salary-early-and-double-pay.html"
+  },
+  {
+   "url": "https://www.mirror.co.uk/money/uk-bank-shares-4pm-method-37843281",
+   "domain": "mirror.co.uk",
+   "source_type": "other",
+   "title": "https://www.mirror.co.uk/money/uk-bank-shares-4pm-method-37843281"
+  },
+  {
+   "url": "https://www.yourmoney.com/saving-banking/challenger-brands-top-bank-customer-satisfaction-table/",
+   "domain": "yourmoney.com",
+   "source_type": "other",
+   "title": "https://www.yourmoney.com/saving-banking/challenger-brands-top-bank-customer-satisfaction-table/"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/savings-isas"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://www.moneyhq.uk/current-accounts/nationwide-flexdirect",
+   "domain": "moneyhq.uk",
+   "source_type": "other",
+   "title": "https://www.moneyhq.uk/current-accounts/nationwide-flexdirect"
+  },
+  {
+   "url": "https://community.monzo.com/t/standard-current-account-directory/196567",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/standard-current-account-directory/196567"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/extra"
+  },
+  {
+   "url": "https://bankinggeek.com/en/nationwide-flexdirect-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/nationwide-flexdirect-review/"
+  },
+  {
+   "url": "https://fourweekmba.com/how-does-monzo-make-money/",
+   "domain": "fourweekmba.com",
+   "source_type": "other",
+   "title": "https://fourweekmba.com/how-does-monzo-make-money/"
+  },
+  {
+   "url": "https://monzo.com/service-quality-results",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/service-quality-results"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4054-current-accounts-interest-rates-and-charges.pdf"
+  },
+  {
+   "url": "https://honestcodes.co.uk/guides/bank-referral-bonuses-uk",
+   "domain": "honestcodes.co.uk",
+   "source_type": "other",
+   "title": "https://honestcodes.co.uk/guides/bank-referral-bonuses-uk"
+  },
+  {
+   "url": "https://honestcodes.co.uk/categories/banking",
+   "domain": "honestcodes.co.uk",
+   "source_type": "other",
+   "title": "https://honestcodes.co.uk/categories/banking"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/ways-to-bank/branch-banking",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/ways-to-bank/branch-banking"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/about-us/fairer-share",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/about-us/fairer-share"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-upgrades-popular-flexdirect-current-account-offering-gbp-295-of-value-in-first-year",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-upgrades-popular-flexdirect-current-account-offering-gbp-295-of-value-in-first-year"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-account-service-quality/nationwide-bank/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/current-account-service-quality/nationwide-bank/"
+  },
+  {
+   "url": "https://www.moneyexpert.com/news/nationwide-monzo-attract-current-account-switchers/",
+   "domain": "moneyexpert.com",
+   "source_type": "other",
+   "title": "https://www.moneyexpert.com/news/nationwide-monzo-attract-current-account-switchers/"
+  },
+  {
+   "url": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/",
+   "domain": "thesun.co.uk",
+   "source_type": "other",
+   "title": "https://www.thesun.co.uk/money/36307328/uk-banks-ranked-best-worst-customer-service/"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/",
+   "domain": "moneynet.co.uk",
+   "source_type": "other",
+   "title": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-authorised-overdraft/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/nationwide/nationwide-review-2026/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/nationwide/nationwide-review-2026/"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexdirect"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/paid-early-how-to",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-getting-started/paid-early-how-to"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/compare",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/compare"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/nationwide-current-accounts",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/nationwide-current-accounts"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/overdrafts-fees"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/05/nationwide-fairer-share-announcement/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/news/2026/05/nationwide-fairer-share-announcement/"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "domain": "thefinancelowdown.co.uk",
+   "source_type": "other",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://aberdeenbusinessnews.co.uk/branch-closures-boost-nationwide-to-number-one-spot-on-the-high-street/",
+   "domain": "aberdeenbusinessnews.co.uk",
+   "source_type": "other",
+   "title": "https://aberdeenbusinessnews.co.uk/branch-closures-boost-nationwide-to-number-one-spot-on-the-high-street/"
+  },
+  {
+   "url": "https://stablecoininsider.org/metro-bank-alternatives/",
+   "domain": "stablecoininsider.org",
+   "source_type": "other",
+   "title": "https://stablecoininsider.org/metro-bank-alternatives/"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/about/fairer-share/26112-fairer-share-terms-and-conditions-2026.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/about/fairer-share/26112-fairer-share-terms-and-conditions-2026.pdf"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/nationwide/nationwide-atm-limit/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/nationwide/nationwide-atm-limit/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-and-worst-banks-a8VTn0B0PJNC"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2205845/Nationwide-Building-Society-branch-pledge",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2205845/Nationwide-Building-Society-branch-pledge"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/plans"
+  },
+  {
+   "url": "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/nationwide-still-uks-top-financial-brand-as-monzo-climbs-the-ranks/597702",
+   "domain": "mpamag.com",
+   "source_type": "other",
+   "title": "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/nationwide-still-uks-top-financial-brand-as-monzo-climbs-the-ranks/597702"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-alternatives/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-alternatives/"
+  },
+  {
+   "url": "https://baypayforum.com/news/regulation-news/monzo-beats-chase--nationwide--and-starling-in-uk-customer-satisfaction---yougov",
+   "domain": "baypayforum.com",
+   "source_type": "other",
+   "title": "https://baypayforum.com/news/regulation-news/monzo-beats-chase--nationwide--and-starling-in-uk-customer-satisfaction---yougov"
+  },
+  {
+   "url": "https://bankinggeek.com/en/nationwide-review/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/nationwide-review/"
+  },
+  {
+   "url": "https://referral-links.uk/best-bank-switch-bonuses-uk/",
+   "domain": "referral-links.uk",
+   "source_type": "other",
+   "title": "https://referral-links.uk/best-bank-switch-bonuses-uk/"
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts"
+  },
+  {
+   "url": "https://www.birminghammail.co.uk/news/cost-of-living/thousands-monzo-customers-could-paid-34894888",
+   "domain": "birminghammail.co.uk",
+   "source_type": "other",
+   "title": "https://www.birminghammail.co.uk/news/cost-of-living/thousands-monzo-customers-could-paid-34894888"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Pure digital, travel, and budgeting focus → Monzo as main."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "keep Monzo (or Starling) for day-to-day spending, especially abroad"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Want the biggest first-year cash return and occasional branch access → switch to Nationwide FlexDirect."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both are solid free UK current accounts with FSCS protection up to £120,000.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo free account monthly fee £0",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Free plan implied by F7 but no explicit fee fact."
+   },
+   {
+    "text": "Savings pots from about 2.80% AER variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "£0 foreign transaction fee on card purchases",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Free cash abroad up to typically £200 outside the EEA in a rolling 30 days, higher if main account criteria met, then 3%",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Paid plans Extra £3, Perks £9, Max from £19",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo customer recommendation 79% (1st) in CMA data",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give NPS 76, not CMA recommendation."
+   },
+   {
+    "text": "No branches; £1 per cash deposit at PayPoint or Post Office",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Overdraft 19%, 29% or 39% EAR depending on credit",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Get paid early with Bacs salary from 4pm the day before; 24/7 in-app chat",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has pots, salary sorter, instant notifications, categories, targets",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,156 @@
+{
+ "engine": "gemini",
+ "question_id": "D1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPU1wH6t4gpEko--Nx9tDUNB186_DLXf81LvQXr8nm4bDFbFAZG4EsAyNaO471bSYtAFk0XmIsPU3-jvgZpEkwPRDrlAAFy9V-ettz37kPOjpWPhI-T-wZ8JYE9uWxS5I3LjBDGKfol7LkMouhnrEbw75PkDLmi0mAJgvnpS85e3TyOh2hSHiA79M=",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3GazyBuiZuv61jXbj9T8l95BziTxg8NSE1yMnxeth58wZb3fEaHF1qBWy3vc3es5SulrYV7O4A4_CxVI2UdoAT2vakhE9_0co5TUvrE8jqaUKc_H3MzbocwtVcOY0J-iRvBMokzuXGiivHJ3AyB4z-CmsAuVCBvieR5USd2JdLEUd7LqC6R0ln_k=",
+   "domain": "yonder.com",
+   "source_type": "other",
+   "title": "yonder.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFImJRMXVruonnxqFQTslSDhj_XqsX7FYybhPrPV0aJpd3RFgHzdyTOXhgRVeRNfHiMeKmKk0DWz_Qlv1W_7xjS-OkdQQ5-0e7QIERQjZKlFi3b4qAhN5eybm2C19sPdGDVsbtNSIwLoqy23wpNYAH0X3zm",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExM3ZtXGjjp40tK0ibdxmFe1idKIs5bokj-eldc9tW_ibsEBmtxBEVL72--x3zgTaFKovXzB3ds3DAtR_2lMvPQQ5xBdj0yBaJ3HDHqt0YbhT-CVaHEIZ5bd63uY8YUdOEFDQ-7wI-X4_-TUUjYBYwBcoLy-yoIS5p07k=",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFiGhGl8j5qsTnpO9KPMKfVgXiNT6P-VadkMxXi-6H7h47DVFBYPpeILMNhT2jITNYGxRMBN39KNBy5JSK-ldkWNnf5SpuF7Z-7ZsG4WsEP2S7YLJYxAUTSTHqyEbdZ8aY9e9f6XR8bQF90T_MXainVlRCSiXT0KYVIETK4KKLZV1c7fi4W8QWJz6_uSUyEbqahNX2WSIAbyKFfWr1IQ==",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvhJbSf-ib0hndsY2YpggARmnK2_pNyMKoDXVj8Q30H22vyCzH5RGlyrwKvPN1t4PgJvWjB44Rz0SO6R2XQ7ZIdIB_BqEofZiBOkQE7ixyjMsnsAgBl2GgNzramHDFwClHI6NSGAWYxix7AmqPhV23yon0AJfVi1bpze1CF-rR",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "finder.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMUAB6kCOLGbTXVOBZM3Z5c8p7VSMKTB-MK9PKLHcSyTnCE9Ba0TLfbO0v31_lLHBiXOaGcDk9nUo1ARootAld2XxslG4EtgdfDAMCWYYk6ea2f9uwahTJxC85XZFnTgGE7nhTFPnrCrdPblt_YtP4hZ5qQn5bnyo5M_pIibxCp6veTmppS0RcE4JG7983dosjC9GDAolxTiXHtI6F2CAFsp9TaorLRhwL",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Best for Budgeting & Digital Experience: Monzo or Starling Bank"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Consistently wins customer satisfaction awards. Has a cleaner, less clutter-heavy app than Monzo"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase is generally the top choice for debit card spending."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "keep their salary and direct debits with a traditional bank (e.g., First Direct, Nationwide, or Santander)"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Zero fees on card spending worldwide",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches no fee on card spending abroad."
+   },
+   {
+    "text": "free foreign ATM withdrawals up to a rolling limit",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free withdrawal allowance per 30 days, with a fee after."
+   },
+   {
+    "text": "Free standard account (paid tiers available for extra perks)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Paid plans exist alongside the free plan."
+   },
+   {
+    "text": "Instant push notifications, custom spending categories, and \"Pots\" to separate spending money from bill money",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "You can also pay directly from a pot",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   }
+  ]
+ },
+ "judge_error": null
+}

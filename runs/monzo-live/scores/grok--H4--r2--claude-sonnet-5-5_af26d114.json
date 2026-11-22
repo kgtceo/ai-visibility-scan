@@ -1,0 +1,321 @@
+{
+ "engine": "grok",
+ "question_id": "H4",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://becleverwithyourcash.com/monzo-overdraft-changes/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/monzo-overdraft-changes/"
+  },
+  {
+   "url": "https://monzo.com/overdraft-calculator",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/overdraft-calculator"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-overdraft/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-overdraft/"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/overdrafts-fees",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/overdrafts-fees"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/how-to-open-overdraft"
+  },
+  {
+   "url": "https://monzo.com/business-banking/features/sole-trader-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/business-banking/features/sole-trader-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.2.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/overdraft-information/overdraft-information-1.2.pdf"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-understanding-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/getting-extra-support/help-understanding-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-for-under-16s/under-16s-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-for-under-16s/under-16s-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/unauthorised-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/unauthorised-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/information-about-current-account-services",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/information-about-current-account-services"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://banktopp.com/articles/best-current-accounts-2026",
+   "domain": "banktopp.com",
+   "source_type": "other",
+   "title": "https://banktopp.com/articles/best-current-accounts-2026"
+  },
+  {
+   "url": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/managing-money/help-overdrafts-with-monzo"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/overdraft-cass",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/switching-to-monzo/overdraft-cass"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://monzo.com/legal/files/ie/overdraft-information/overdraft-information-1.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/files/ie/overdraft-information/overdraft-information-1.0.pdf"
+  },
+  {
+   "url": "https://community.monzo.com/t/overdraft-with-monzo-ireland/193834",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/overdraft-with-monzo-ireland/193834"
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/getting-extra-support/help-overdraft-eligible"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/how-do-overdrafts-work"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-business-bank-account-review/"
+  },
+  {
+   "url": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans",
+   "domain": "ukbusinessbankaccounts.co.uk",
+   "source_type": "other",
+   "title": "https://ukbusinessbankaccounts.co.uk/monzo-business-overdraft-and-loans"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/plans/fee-information"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/11/15/how-do-i-get-out-of-my-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/11/15/how-do-i-get-out-of-my-overdraft"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/overdrafts"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-fees/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/monzo-fees/"
+  },
+  {
+   "url": "https://monzo.com/legal/overdraft-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/overdraft-information"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/what-is-an-overdraft",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/what-is-an-overdraft"
+  },
+  {
+   "url": "https://www.monzo.com/legal/terms-and-conditions/version-2-0",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/terms-and-conditions/version-2-0"
+  },
+  {
+   "url": "https://monzo.com/ie/legal/overdraft-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/legal/overdraft-information"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score"
+  },
+  {
+   "url": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/overdrafts-loans/manage-overdraft-web"
+  },
+  {
+   "url": "https://monzo.com/i/overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/i/overdrafts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/02/07/upgrade-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2018/02/07/upgrade-overdrafts"
+  },
+  {
+   "url": "https://www.iwoca.co.uk/lenders/monzo-business-overdrafts",
+   "domain": "iwoca.co.uk",
+   "source_type": "other",
+   "title": "https://www.iwoca.co.uk/lenders/monzo-business-overdrafts"
+  },
+  {
+   "url": "https://community.monzo.com/t/what-we-know-about-the-overdrafts-faq-moneybag-open-wiki/17228/1",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/what-we-know-about-the-overdrafts-faq-moneybag-open-wiki/17228/1"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. Monzo offers arranged overdrafts on UK personal current accounts (18+, eligibility and terms apply)."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers arranged overdrafts on UK personal current accounts (18+, eligibility and terms apply).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdrafts."
+   },
+   {
+    "text": "Interest is 19%, 29% or 39% EAR/APR (variable), depending on your credit score; representative rate 39% APR.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Overdraft rates not in facts."
+   },
+   {
+    "text": "Borrowing £1,200 for 30 days at 39% EAR/APR would cost about £32.94.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Overdraft limits of up to £2,000 if eligible.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Monzo charges £0 (no interest or fees) for unarranged overdrafts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Interest is calculated daily and charged on the 1st of each month.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Checking eligibility is a soft search; switching an overdraft on is a hard search.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

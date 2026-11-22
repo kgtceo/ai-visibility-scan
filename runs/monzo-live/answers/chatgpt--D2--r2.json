@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D2",
+ "run": 2,
+ "text": "**I’d choose Starling** if you want one app-based UK current account for your salary, bills and everyday spending. There’s no monthly fee, and its **Bills Manager** lets you set rent and bill money aside in a separate “Space” and pay bills directly from it. That makes it easy to see what’s actually left to spend. Starling also charges no fee for debit-card spending or cash withdrawals abroad, and you can pay cash in at a Post Office. ([starlingbank.com](https://www.starlingbank.com/current-account/?utm_source=openai))\n\n**Monzo is the alternative I’d consider** if customer service matters more to you than overseas cash withdrawals. In the August 2026 Great Britain survey, 79% of Monzo customers said they’d recommend it, versus 76% for Starling. Monzo’s standard account is free, but it charges £1 per cash deposit and, outside the European Economic Area, 3% on cash withdrawals above £200 in a rolling 30-day period. ([starlingbank.com](https://www.starlingbank.com/current-account/))\n\n**I’d try Starling before moving your salary.** Use it for everyday spending for a week or two. If you like it, the free Current Account Switch Service moves your balance, Direct Debits and standing orders in seven working days and redirects incoming payments. A full switch **closes your old account**, so wait until you’re ready. ([currentaccountswitch.co.uk](https://www.currentaccountswitch.co.uk/about-the-service/?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/current-account/?utm_source=openai",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://www.currentaccountswitch.co.uk/about-the-service/?utm_source=openai",
+   "title": "About the service"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK free current account fees cash deposits abroad PayPoint Post Office CASS pots UK official",
+  "site:currentaccountswitch.co.uk close old account seven working days card subscriptions"
+ ],
+ "latency_s": 18.87,
+ "asked_at": "2026-11-21T16:53:03.992130+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

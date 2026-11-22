@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D4",
+ "run": 1,
+ "text": "**Best all-round pick: Starling’s personal current-account debit card.** It has no Starling fees for card spending or cash withdrawals abroad, with Mastercard’s exchange rate. Its overseas cash-withdrawal limit is **£300 per day**. The ATM operator may still charge its own fee. citeturn0search0turn0search8\n\n**First Direct** is a strong alternative: no bank fees for overseas card purchases or ATM withdrawals, and a stated **£500 daily ATM limit**. citeturn0search9turn0search10\n\nA couple of caveats:\n- “No fees” doesn’t prevent a foreign ATM from charging you. If a terminal offers to convert the payment to pounds, choose **the local currency** instead.\n- **Chase** is also fee-free for foreign spending, but overseas cash withdrawals are capped at **£1,500 per month**. **Monzo** is fee-free for purchases, but its free cash allowance is limited and depends on your account and where you are. citeturn0search12turn0search4\n\nSo, for one straightforward card that’s fee-free for both purchases and cash, I’d pick **Starling**; choose **First Direct** if its higher daily cash limit suits you better. Check the current account terms before applying, as limits can change.",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/travel/",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad"
+  },
+  {
+   "url": "https://www.co-operativebank.co.uk/products/bank-accounts/travel-debit-cards/",
+   "title": "Travel debit cards to use abroad"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad",
+   "title": "Fees for using your card in a foreign currency"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/using-your-debit-card-abroad",
+   "title": "Everything you need to know about using your debit card abroad"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://www.halifax.co.uk/travel/using-debit-credit-cards-abroad.html",
+   "title": "Travel | Using Your Card Abroad"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "title": "Best UK debit cards with no foreign transaction fee"
+  },
+  {
+   "url": "https://www.which.co.uk/reviews/bank-accounts/article/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "Best debit cards to use abroad 2026 - Which?"
+  },
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "title": "Travel Debit Card | Fee Free Card To Use Abroad"
+  },
+  {
+   "url": "https://www.firstdirect.com/travel-and-international/travel-help-and-advice/using-your-cards-outside-the-uk/",
+   "title": "Using your card outside the UK"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/",
+   "title": "Best Travel Credit & Debit Cards 2026 - Fees & Top Picks"
+  },
+  {
+   "url": "https://www.aph.com/community/holidays/using-your-debit-card-abroad-foreign-transaction-fees-for-16-uk-banks-compared/",
+   "title": "Debit Card Fees Abroad: 16 UK Banks Compared"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/credit-cards/best-debit-card-to-use-abroad/",
+   "title": "Best Debit Cards To Use Abroad"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/best-bank-accounts-to-use-abroad/",
+   "title": "Best bank accounts to use abroad"
+  },
+  {
+   "url": "https://www.yourmoney.com/household-bills/best-and-worst-travel-cards-for-summer-2026",
+   "title": "Best and worst travel cards for summer 2026"
+  }
+ ],
+ "search_queries": [
+  "best UK debit card no foreign transaction fees 2026 bank ATM limits",
+  "UK bank debit card no fees abroad foreign spending 2026 Starling Chase Monzo",
+  "UK travel debit card no foreign transaction fees ATM withdrawals 2026"
+ ],
+ "latency_s": 5.89,
+ "asked_at": "2026-11-21T17:40:25.243365+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

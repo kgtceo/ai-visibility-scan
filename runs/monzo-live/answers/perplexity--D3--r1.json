@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D3",
+ "run": 1,
+ "text": "**Best all-rounder: Monzo**, if you want one app for day-to-day budgeting *and* savings goals. Its budgeting tools and separate Pots make it easy to organise bills and goals; eligible savings Pots earn interest too. The rates shown in the information I found are variable: **2.80% AER on the free plan** for instant access, with higher rates on paid plans. Check the current rate and whether a paid plan is worthwhile before signing up.\n\n**Best if you prefer straightforward budgeting “Spaces”: Starling.** It’s a good option for separating money into named Spaces, but ordinary current-account Spaces don’t earn interest. Starling’s separate Easy Saver does pay interest, though its advertised rate can include a time-limited bonus—check what it falls to afterwards.\n\n**My quick take:** try **Monzo free** first if budgeting is the priority; consider **Starling** if you like its simpler setup. For savings, compare the current easy-access rates separately rather than assuming the bank with the nicest pots has the best return. Rates change, and savings accounts are distinct from budgeting pots.",
+ "citations": [
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/fixed-rate-savings/",
+   "title": "Fixed Saver"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-premium/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/",
+   "title": "Starling | Award-winning bank accounts"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/paid-interest",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium ..."
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/cash-isa/",
+   "title": "Cash ISA | Tax-Free Savings"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "Interest on your savings with Plus, Premium, Extra, Perks & Max"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-joint-easy-saver-terms-may-2026.pdf",
+   "title": "Starling Joint Easy Saver terms May 2026"
+  },
+  {
+   "url": "https://www.tryabel.com/starling-saving-spaces-interest/",
+   "title": "Starling Saving Spaces Interest: Only Easy Saver Spaces Pay"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work",
+   "title": "How does interest work for Savings Pots?"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/select-access",
+   "title": "Select Access Savings | Higher Rate Limited Access Pot"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-perks-what",
+   "title": "What benefits are included with Perks?"
+  },
+  {
+   "url": "https://www.starlingbank.com/savings/",
+   "title": "Our Best Savings Accounts"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "Instant Access Savings Account"
+  }
+ ],
+ "search_queries": [
+  "best UK bank budgeting pots savings spaces 2026 Monzo Starling Chase UK",
+  "Monzo Pots interest savings rate UK 2026",
+  "Starling Spaces savings interest UK 2026"
+ ],
+ "latency_s": 5.56,
+ "asked_at": "2026-11-21T17:40:13.503382+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

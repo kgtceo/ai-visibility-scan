@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "H5",
+ "run": 1,
+ "text": "Yes. You and the other person each need a Monzo personal account. In the app, go to Home, tap the plus icon, choose “Apply for a Joint Account,” and invite them; once they accept, the account is ready.\nmonzo\n\nIt’s separate from your personal accounts, with its own account number and a debit card for each of you. You can both use it for shared spending and bills, while keeping your personal accounts separate.\nmonzo",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "title": "monzo Open a Joint Bank Account | Simplify Shared Costs with Monzo Use your joint bank account to spend on whatever you like – from household bills and subscrip"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "title": "monzo Opening a joint account The home for everything you need to know about using Monzo."
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "title": "monzo Monzo Help - Understanding joint accounts The home for everything you need to know about using Monzo."
+  },
+  {
+   "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
+   "title": "monzo Manage your money together with joint accounts! Introducing Monzo joint accounts! Pool your resources with someone to make life easier to manage."
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-started/help-joint-account-info",
+   "title": "monzo What is a Monzo joint account? A joint account is a separate account that you share with another person. It's designed to make managing shared finances ea"
+  },
+  {
+   "url": "https://community.monzo.com/t/labs-feedback-joint-accounts/41988",
+   "title": "community.monzo Labs Feedback: Joint Accounts 🤝 We’ve just launched joint accounts in Monzo Labs! That means you can now open a joint account, test it out, and"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts",
+   "title": "finder Monzo joint accounts - Finder UK Discover whether opening a joint account with Monzo would make sense for you."
+  },
+  {
+   "url": "https://community.monzo.com/t/joint-accounts-are-now-available-for-us-customers/143961",
+   "title": "community.monzo Joint accounts are now available for US customers! - Monzo ... Hey everyone 👋 We’re really excited to announce that joint accounts for US custo"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions/version-1-1",
+   "title": "monzo Joint Account terms Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-joint-account-review",
+   "title": "referralplug.co Monzo joint account review (2026): how it works after 4 years The Monzo joint account is free and needs both holders to have personal accounts f"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.79,
+ "asked_at": "2026-11-21T13:21:47.871688+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

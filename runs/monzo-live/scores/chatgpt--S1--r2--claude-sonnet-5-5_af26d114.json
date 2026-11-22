@@ -1,0 +1,105 @@
+{
+ "engine": "chatgpt",
+ "question_id": "S1",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/switch?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - How a full switch works"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "a free **full switch** to Monzo moves your existing Direct Debits automatically"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "A free full switch to Monzo moves your existing Direct Debits automatically via the Current Account Switch Service.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the switching process."
+   },
+   {
+    "text": "A full switch also closes your old account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "Start the switch in the Monzo app: go to Home, tap the three dots on your account, then Switch to Monzo.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App navigation not covered."
+   },
+   {
+    "text": "Choose a switch date at least seven working days away.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   },
+   {
+    "text": "On switch day, Monzo moves your remaining balance and existing payment arrangements, including standing orders; incoming payments such as salary are redirected.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

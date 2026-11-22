@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T2",
+ "run": 1,
+ "text": "Monzo is a real bank. It isn't only an app.\n\n- **Licence:** Monzo has been a fully-fledged bank since it received its banking licence in April 2017. It is authorised by the Prudential Regulation Authority and regulated by both the FCA and the PRA. That is the same regulatory setup as the big high-street banks.\n- **Deposit protection:** Eligible deposits are protected by the FSCS up to £120,000 per person per banking licence. The limit was raised from £85,000 on 1 December 2025. On a joint account the limit is £240,000. If you see older articles quoting £85,000, they're out of date.\n- **App-first:** Monzo operates almost entirely through a mobile app rather than branches. The app is how you use the bank. It doesn't change what the company is.\n\n**Caveats**\n- Investment products such as Stocks & Shares ISAs and General Investment Accounts have a separate £85,000 of protection.\n- Monzo was fined £21.1m by the FCA in 2025 over financial crime control failures. The fine related to compliance failures from 2018–2020, and it targeted operational compliance systems rather than Monzo's financial stability or deposit security.\n- Be careful with other fintechs. Some apps are e-money institutions, which only safeguard your money and don't give you FSCS cover. Monzo isn't one of those.\n\nTo check for yourself, look up Monzo Bank Limited on the FCA Register. Business sources list its reference number as 730427.",
+ "citations": [
+  {
+   "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+   "title": "​​Is Monzo a bank?"
+  },
+  {
+   "url": "https://monzo.com/security",
+   "title": "Industry-first security"
+  },
+  {
+   "url": "https://selectra.co.uk/money/banks/monzo",
+   "title": "What Is Monzo? Review, Plans & Fees Explained (2026)"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "Monzo Review 2026: Fees, Savings, Loans and Is It Safe?"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "Is Monzo Safe? How We Help Protect Your Money and Savings"
+  },
+  {
+   "url": "https://www.flagright.com/post/monzos-ps21-1m-fca-fine-a-scaling-lesson-for-uk-fintech-compliance",
+   "title": "Monzo's £21M FCA Fine: A Scaling Lesson for UK Fintech Compliance"
+  }
+ ],
+ "search_queries": [
+  "Monzo bank UK banking licence FSCS protected"
+ ],
+ "latency_s": 7.46,
+ "asked_at": "2026-11-21T16:50:21.770110+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

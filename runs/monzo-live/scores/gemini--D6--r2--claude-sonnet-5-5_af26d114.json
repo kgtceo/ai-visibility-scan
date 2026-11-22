@@ -1,0 +1,98 @@
+{
+ "engine": "gemini",
+ "question_id": "D6",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5UTisIO4PnyNS90IYDfne0DMtBiwucRGVe9hJihS6igFazhr0N1dt_68HzvRi-jrJwtdyRskBJqgFTVw5f63Z04JoCwQmOtYXfp_iLlJCCTqCYquHD54vgdBcIa9l_QVE5vjBkouyPAroOdW53_WH3R6wvptPcX-f8MazfO4=",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqZrXUerTZZCAC46-bJ22avPE4RHDaC_85cFN94HiM3p-LH8HQOf28fLyE4gnyQQULTmb5W9r_-SLjX9XkdE0UjFmLcMcJW_uN7Q_iA0JHfQ5230KpTpPIiMnJvpn-SbnqnAT_aTjD",
+   "domain": "ifastgb.com",
+   "source_type": "other",
+   "title": "ifastgb.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_8CZpow4AdX_7GRK8GVBIl2cXwzhfs3nwGRKI-mh8OW0N66xvSZEARdkKVJwnD7pC13s7_15vzsezZPkOmW8ZVVmdmMW4xFQ9XUUM8MyPoEaR0NBiN_7pZqUIZHRyS66L176YiGaKtwvY_0GhukDzeqoR6BBaMf8Cp3tOFMy-Jw__U6FNpF92cxCiLqPCPdGLJQVdag==",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "clearscore.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqHToHn6ojXqyW-Q8k1VsvFXltQOLTjA_ixbg1PR5oTjtFzDn2hH-htJyZ_5WIkvyvmtskPyolTgiOCu9PI3cT7jXoCQmJ2szkAc88UATi-dS8KRR13_lOaA_vDobHDSnz2d4Agl3buziCDXOGURWbOlj9n8Mz4Qew3AvTGJysDgNCBHA=",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa998jbOZ_BPz80oFMmlRBTpahOtnPkq6QREgs2g2wMMNQk_FZcMqgmLHUr-s5BsxTtLU-KpQo0yOLjdzeKOOeg0LVhlFuqCcnBwJNSG1GkEXlSDE8_RN_aTFdIequf5qZfbrqOwf5KAsEG9VWZtMfexb4iMZ38kd550_2OJWCd61O1e895A==",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "moneyfactscompare.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEqmIdKTTvrKK_f_g8bLXF7iznwpDE3uVfzvDBk3hqAXYbwyAvBNAszRR7sk5D8JCFb9JS0Q0MO9uVSutXNcoAeruY_ijGBzlbNFA7se4-Pd-EzERr3RzEl6glVBN9D-Pixvx7Uy8Npqz8aTrAdHC_RKf8jzEAUaM=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect – 5.00% AER (fixed for 12 months)"
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

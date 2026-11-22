@@ -1,0 +1,166 @@
+{
+ "engine": "gemini",
+ "question_id": "H1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhLM47cMHv2fUhXSpMiD6eYZLr-jg1WhOGmbDMi708VzCraM_H1dvI7qPlPpA-9QNJWJNVC0m8DfMWz5XBtGtTd27AooQj1t5jwB23uuI3uV132buAzBWRaAXJXqUjEHKAyHvs",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4KSdqb7O7n4R1yPaSN6Tn_iM8fWfdlHi9Vk1kHyl1mCsPSw3upHoiEu8Ep-BGM1Qj2m8GMoDttXokWMQDBJ_9TqV5HjBkqToJbnoOTgMricgMBXE2wXIBwcEB9w2_aFxInsg=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU3gLC8o_AeebSPqaZoKMm4RMuOzTVqwApxVkFhYinzOxjIC0btq2MoiWzsOPZ0YiaLZXEjXqbhJMBdgd2PDN3nMQQW0lM_0Fa1AcQJpXfuQ72zpNY-yPhA97_h7s4LRg9GIPSFBcUFvnuJDd277-iHhCOMlEvDuo=",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "moneysupermarket.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYfAqh-wEyiFlBZreNZTorShf_h7VYB4yo8jXf6DNS2LrfwscQMef5ebXSiNfgZNva8QuVP2T28O5VRLh6qWC0f8hdq7JruZH-lGU_szGqRGmwjSc5hCP--SLSNY=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqDZViTTpSvu-jLgpBmJHO3ZMSYt8JhRAgnN0fPzQC51RAVTxKpzEpB8EE4nvqBIPC0WAOhzp8ivdQQVAa8u1MSpRhH8WtEF_qMOvBfbd9sIzZDMU0SzgnC_yU4yjfgW0FSuH5SlLqLmLxu3dDQouj0w==",
+   "domain": "delphina.money",
+   "source_type": "other",
+   "title": "delphina.money"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzkJzybQJW9SoHdaO029S6GZN16CfeuqzJFnF_gAaXPK624_d8M-3a_2DAj7aEkwUL72l88MS0xA0e0eoR4RJy57zy6IfflkCZKNHLpfBV0B9cMEc0MzWoDb7eaFzHFjdD09K2mnVj2AsmhpwRGopbzIWFt1s=",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrsUQAJrtlYOZAbPJJrpHLEsNLnF--7CiRdNjaIM0IUzSMXNG0Cib2w2wvsgSTVSSFfXfR9F1pteiwkLt3KorWgXHf4fNfd6eix4qu2_gw-tVdb15aC5pkqCVNyd5pxjzN-JrduSmxZ4bO-RlHvnHmMyuhijh6YI-ZygLt-ldMk0iCYIIlOnknfu8uf2yIFQ4OBcL7d-JJAE2tAgTVopByl-12q_8",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhqfr2gi8RgBsBZCWKfQ6vPzN3Hmxn07htDPI0thJASENLk6IVhiWcWKozq6Gu7mWya7_KfOH-gmQcbeHPVQw59z5hH-E7QLQ2GxQ1BaMtkvhi4PjD685IfJ6goRwqBwRx",
+   "domain": "coolcuration.com",
+   "source_type": "other",
+   "title": "coolcuration.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Yes, if: You regularly buy train tickets and pass a Greggs... you recoup most of the annual fee."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "rivals like Chase UK (which offers multiple sub-accounts with separate card details) provide similar features for free."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo offers three paid tiers: Extra (£3/mo), Perks (£9/mo), and Max (£19/mo).",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches plan prices; Max is 'from £19'."
+   },
+   {
+    "text": "Monzo's free account already covers fee-free spending abroad.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo Extra costs £3/month = £36/year.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks costs £9/month = £108/year.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Perks includes a boosted interest rate on Instant Access Savings.",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "Facts only give the free plan rate, not the Perks rate."
+   },
+   {
+    "text": "Perks includes a weekly Greggs treat and a free annual National Railcard.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers perks."
+   },
+   {
+    "text": "Perks includes 3 free cash deposits a year at PayPoints and higher international ATM limits.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only the free plan ATM limits."
+   },
+   {
+    "text": "Extra lets you connect external bank accounts, export transactions to Google Sheets, custom categories, virtual cards and credit score tracking.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

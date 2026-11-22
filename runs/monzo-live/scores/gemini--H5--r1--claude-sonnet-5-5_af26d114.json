@@ -1,0 +1,177 @@
+{
+ "engine": "gemini",
+ "question_id": "H5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9rbt3IWgl88yGp7TkZ_R6eP1ywUQcUlnep-d4ppWHOqL-h9v19Y2D8xq8rX4O8JkZSNKNp0P53beu_jk02Up9-nzmAqEDiKD1IndNR7qTCfSCsQd2ZKxOkweyDiyAxIYWIXE",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmlRlxZKjVSLUIVHnwKWDBB3TQOokglgCbg478YmBLkLFknWOPKEGDMjy5bIR45uX8-RXu_Np90yDwsgqdGUkzv-fjWODeDGhfx_jQpf4yB2OBxZ2-TUGs5c4EbmktadlckRQqNA==",
+   "domain": "getcino.com",
+   "source_type": "other",
+   "title": "getcino.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdrMj_uh564nU42JCrepFX4ZIYJEDaoGdYABnxs-XBleZJD8-rhEIUaWTnUWRygVWRLf3c2Kg6gf6VR6C5Z-UrJAx3QSEpc6qlNFA5jPoZHJvfiklrlhLlo-Iu4IiBsQKUdYbOzWG7nga8a8DxM7NPwXjB",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYm3qb5XybDDL2vSvTjNXJ9DbSqBksPs-nd_rQXO0Ptin8D3iF58qs6PN5u9p6YE4Al_wD8FMkvPsUNMfzIcG06HFiSMysofzhAh0jp8UKPXkb4nvi_6-A6hX2cXFyJeVrpfwRDCcVROdxAPaW9fxda_GaIPc=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwsnAii_O7OXAI4JskWRLHH7c3fEJp90E49JgZSFmjYzDHgOIochoguHlb3YXtU0EI2FUL3nKe5WJ5BlPBCT4R1Y_pTK2tqGiAaOgY8eZgfNu3iobpaj9QvO19gvSuiDe9pVeMacDfsr9pwh3DEdfE01gGFuKShdFWmsFQl6wAw==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtJSEvV8iq2093DuK_d6P6FHQO-xPh6zIhBDB4ASanNkKoNq_Wu6y3aX6S0KsJgJBSdADH8yptpMmGwSUsVJ77XhRlJnZiIrB3HPWfnVguzu1l9dC9rr968eQ5hYBBpA==",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQqjMgddh6nfl99nsuLblAmP06dHoewF50GidcZwAm-L2uNL1l0l7x_R5h10l4E9yJxV65dCB2ey6NclYFHHtibpSGTOvDI_zNffdCNlv6sx_EDZWJZWMdMFmZuGX8zNk6",
+   "domain": "rates.fm",
+   "source_type": "other",
+   "title": "rates.fm"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIW8rD8IIs16KAuqOw_c8qlqMlxTcNKkx44dbJWzljzETC_AXodb1iqc5Yo1LcsJ-447jrskOLf0qTcoKMJl3isQ0eLBb2XV-FMih1JLjomUvT-XB1yn4Ag4n-kibpKgJty54u7VRBVY1O1zuOqK0=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFds3lxsfGDS8B7sCsYVqw9_78xvOCH9KFgW22UEQJEEDylvOnq9pLH5XR9jK1Oe08eq9hktDWJ9p1mVVOEqCZUXLdIsXMzauSLrgiBZEMk_SG5CSG-nL4Y8SWdhp2tEQHhDL_n1OE=",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLqRBl9s71qDWDtwImnVDCeWklBungpauU5eKtNW3tvda6hgY_hVibZqDPaNfuo5JrHaxJf-LGU_JBsafxdSof6b6h4LhSWIHUfoXU0K7jz3iAWGdueARfLRwG1R1x4v70zHKAqP4URmty7C0Y5g==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNBN77RJCtYqHjuZ0_armjO0lG4CVZSF12LCWGU3mE8lpftj_ml0UOdYzmGFHdIdCq0Jdw4a0c2E0pZbQvyooDKzw-uA5cS8a7OuO2kkTIKMgoCi6WwLVt9DvOnfAa9UzoZrvNlw==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAadKpTfIBDP2Qjsv0uV-Anl-Hk5r-CNSzJRg0FknDIiMYXfEPDArCieuk8319fkRYcL4WaILdLQ53zR0OSCxcIk1OPiEbAwZo8oIkFKUywoWMChn5T9gHmVk0Em_Z0lMrXVRFXbL_vudJqn0gJrakXivEGOTkZILJIvSkh343PqRb188_X114oL1Pr1DS5YP2gUiKyV5z",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, you can open a joint account with Monzo in the UK. It is completely free"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can open a joint account with Monzo in the UK.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover joint accounts."
+   },
+   {
+    "text": "The joint account is completely free.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover plan fees, not joint account fees."
+   },
+   {
+    "text": "Both must already have an individual Monzo current account and be UK residents aged 18 or over.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Eligibility not covered by facts."
+   },
+   {
+    "text": "The invite link is valid for 24 hours.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered."
+   },
+   {
+    "text": "The joint account has its own account number and sort code, and each person gets a dedicated debit card.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered."
+   },
+   {
+    "text": "Shared Pots, Bills Pot and Salary Sorter features are available for the joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Features not covered."
+   },
+   {
+    "text": "Either person can close the joint account without the other's permission.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered."
+   }
+  ]
+ },
+ "judge_error": null
+}

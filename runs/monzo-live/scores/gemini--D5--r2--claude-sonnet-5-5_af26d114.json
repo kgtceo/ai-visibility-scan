@@ -1,0 +1,155 @@
+{
+ "engine": "gemini",
+ "question_id": "D5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Mv0Uv2NnYuVTCemBGwTWRi1i8B7jubv82jRnaVqRiajEos4zgRJzMvpCNiYl1zOgh4O2i3iGkDj4Kf5sO1EbBpvLr5knOOhBqpXzRs4DwSKnTDbvAesCQWGnuY657giUcZ6__d3suzmK1bZRZMPSf3CgiCMlcL8rkKZkUubDR4jmE3rxDshrUpt_Ncat7Z9A3A==",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDXuHQeASJ4iK480wbkwvjVA4brlOdV10QkN4Lfm1N2zjvky66w5vqS0Q9j0QLNU9Tb6vcg8GtREG9hMeQuxh38J3VH6CqaB9iMercJkK3b2jRHorbuzQP8L0BSr0tCsCaLQ_pnq7Bw5EbEiqfoqjJ7u-tAteCoemXkUWvLukAwgKDwXrQ17Me0h8HmpTL-JP24NJK8Ew-V4=",
+   "domain": "co-operativebank.co.uk",
+   "source_type": "other",
+   "title": "co-operativebank.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGxMye1zyhdOhicZkirWVF9kJUPoLfBaGrHilN3zLL7sxDvjgsmqiqkf0NKPAMkFjBfXXqLdWMfROu4eJk80BN9oV3LidCFhfrSow9GQjLVsr70ibtn-zL5PEGkkmDDsDiwzIsst9KSoVNfmbl1Iy0i4S6hY9YucOwoWUAxx0=",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73umhPYxDvJlxjCVzcd3q8Zp--7KEM6RC4TLh2WMI3e2raLqesPyVcG5r-dqrkBHwaAIiS2WimsQJbrNWbL13PmUF21X5hu3HIti6hzSDCsz3iyNYe4qbwQWwjRcEVRfFCSsq7waZm0p9VWiDxDVcBhGZ",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZqwYw5zuABDe6Xo_A3GE6q7wJm-_4AuD1rvGEA7RYcO9jCYeAUp5PTMAbNZGhve2vQNSylMd3U2heIiHePtWf611Tu0aZTLNFN526gtd31EBVDw7Mw7JP__1Zv17REioiTuckbF2LyGe2AKe_67aAqOEyfbC5AuNjBtlDvQ==",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "starlingbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEoMk-PV2O6zsIsld87JjGSLmvh_xOflpvIyIS_Eehe9AYNsgqNKtvP_-XhPi-UIZTfzVanyI1LwSmUswXTK0NX5m_hndVdeYe7ulLZ0H5-fL-sNpTrn7H_4NCdOgvuSbcvX3evuRVtR1s",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "nationwide.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ5ilJlj2ur1MCVt0CsCqE_eGKu1vaWHi9LkWpnGLObDGvordKR6zPxDLYqRNwZCntif1lEQYgvxud9LBQarkCdDJ0p7HF2cpGqXN3IY2YowGj6PhTiTXSGuE5uv4BWzq4KS2mc8rtQ7AWAmqwo7WsDFfKs70QftSLcdluDJ67bxJxmAnhhfp5GTQOUtk=",
+   "domain": "natwest.com",
+   "source_type": "other",
+   "title": "natwest.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAW6FaVabwPHz1jNxBHYxPN0p7vrpG4nrk77I_lpDCZAPijwGzDJavUZQrjmHLmtDhlTC8Rl4NiVhIDKgOT6HRuicGQaYT5QHkYHuQfYqk8rLZtHgyDRdQbv-UzPLZ2fi6RhRes7x89g==",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Go with Starling or Monzo if you want seamless mobile banking, instant spend tracking, easy transfers with friends"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Consistently rated the UK's top bank for customer satisfaction by Which?"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Go with Nationwide FlexOne if you want to grow your savings quickly"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Fee-free spending abroad (at Mastercard's exchange rate).",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo offers a 16–17 account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers teen accounts."
+   },
+   {
+    "text": "Monzo has built-in Pots for budgeting and categorising spending.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Access to interest-earning savings pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give a savings rate on the free plan but do not cover teen accounts or pots."
+   },
+   {
+    "text": "Extremely popular among teens and students.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

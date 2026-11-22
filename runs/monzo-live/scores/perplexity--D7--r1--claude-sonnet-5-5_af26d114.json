@@ -1,0 +1,178 @@
+{
+ "engine": "perplexity",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.tide.co/business-current-account/compare-business-bank-accounts/",
+   "domain": "tide.co",
+   "source_type": "other",
+   "title": "Compare business bank accounts"
+  },
+  {
+   "url": "https://www.tide.co/pricing/",
+   "domain": "tide.co",
+   "source_type": "other",
+   "title": "Plans and pricing | Tide Business"
+  },
+  {
+   "url": "https://www.starlingbank.com/business-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Business bank account | No monthly fees | Starling"
+  },
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "domain": "capitalise.com",
+   "source_type": "other",
+   "title": "8 best sole trader bank accounts in the UK for 2026"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/small-business-bank-accounts/",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Small Business Bank Accounts - Perks for Self-employed & Startups"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "domain": "zemplerbank.com",
+   "source_type": "other",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/current-accounts/",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Business Bank Accounts - Apply Online, from £0 Per Month"
+  },
+  {
+   "url": "https://www.money.co.uk/business/bank-accounts/pm-1",
+   "domain": "money.co.uk",
+   "source_type": "review_comparison",
+   "title": "Top 10 Small Business Accounts - Latest Deals For April 2026"
+  },
+  {
+   "url": "https://www.tide.co/business-current-account/compare-tide-vs-mettle/",
+   "domain": "tide.co",
+   "source_type": "other",
+   "title": "Tide vs Mettle by NatWest Business Bank Accounts Comparison"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-sole-trader-bank-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "Best Sole Trader Bank Accounts In The UK 2026"
+  },
+  {
+   "url": "https://uk.virginmoney.com/business/",
+   "domain": "uk.virginmoney.com",
+   "source_type": "other",
+   "title": "Business Accounts - Current & Savings"
+  },
+  {
+   "url": "https://www.ofx.com/en-gb/blog/best-free-business-bank-accounts-uk/",
+   "domain": "ofx.com",
+   "source_type": "other",
+   "title": "Best free business bank accounts in the UK: fees compared"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/best-business-bank-accounts/",
+   "domain": "businessexpert.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Accounts in the UK (2026)"
+  },
+  {
+   "url": "https://www.worldfirst.com/uk/blog/global-business-tips/compare-business-bank-accounts/",
+   "domain": "worldfirst.com",
+   "source_type": "other",
+   "title": "Compare 7 UK Business Bank Accounts in 2026"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/business-bank-account/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Best business bank accounts UK compared"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo Business Lite — a good option if you prefer managing everything in an app; UK transfers are free"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling is my best all-round starting point: no monthly fee, no fees on UK bank transfers, and accounting integrations."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite is a good option if you prefer managing everything in an app",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover personal plans, not business account suitability."
+   },
+   {
+    "text": "Monzo Business Lite UK transfers are free",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business account transfer fees."
+   },
+   {
+    "text": "Monzo Business Lite cash deposits cost £1 each, subject to limits",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business cash deposit fees."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,55 @@
+{
+ "engine": "perplexity-web",
+ "model": "perplexity.ai · signed out · default model",
+ "question_id": "C4",
+ "run": 1,
+ "text": "Chase is generally better for cashback: it offers 2% on eligible spending, up to £20 a month, if you meet its monthly conditions—15 card or Direct Debit payments and £1,000 held in Chase savings. Monzo’s free account doesn’t offer equivalent guaranteed cashback.\nbankinggeek\n\nFor savings, Chase looks better for new customers during its 12-month boosted rate, but after that its standard rate is reported to fall below Monzo’s free-plan rate. Check the latest rates and eligibility before switching, since they can change.\ncoolcuration",
+ "citations": [
+  {
+   "url": "https://coolcuration.com/monzo-vs-chase",
+   "title": "coolcuration"
+  },
+  {
+   "url": "https://bankinggeek.com/en/chase-vs-monzo/",
+   "title": "bankinggeek Chase vs Monzo: Which Is Better in 2026? - bankinggeek.com Chase vs Monzo compared: fees, cashback, features, FSCS protection, and app quality. Find"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-chase",
+   "title": "referralplug.co Monzo vs Chase UK 2026: 2% cashback vs better budgeting Monzo and Chase UK are both free but win different jobs: Monzo is the better primary acc"
+  },
+  {
+   "url": "https://tryabel.com/chase-vs-monzo/",
+   "title": "tryabel Chase vs Monzo: Cashback, Savings Rates and Fees, Oct 2026 Chase pays 2% cashback and 4.5% AER for a year; Monzo is free with Pots and 2.75% to 3.50% sa"
+  },
+  {
+   "url": "https://community.monzo.com/t/chase-uk-chat-part-2/176125?page=46",
+   "title": "community.monzo Chase UK Chat (Part 2) - Page 46 That must be wrong, surely. Who has 15 direct debits? I have as few as possible, although they possibly have a"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/why-mse-recommends-chase-over-monzo-for-cashback",
+   "title": "referralplug.co What does MoneySavingExpert say about Monzo vs Chase? MSE names no winner: it files Chase under cashback, Monzo under budgeting, and suggests ho"
+  },
+  {
+   "url": "https://smart-pounds.com/chase-uk-vs-monzo-cashback-2026-everyday-spending/",
+   "title": "smart-pounds Chase UK vs Monzo Cashback in 2026: Which Debit Card Actually … Chase UK's flat 1% paid me £15 a month on £1,800 of spending; Monzo Perks paid £8.9"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-chase/",
+   "title": "bankinggeek Monzo vs Chase 2026: Which UK Account Is Better? Monzo vs Chase: a fair head-to-head comparing fees, cashback, features, FSCS protection and app qua"
+  },
+  {
+   "url": "https://gilt-edge.uk/posts/chase-monzo-and-starling-compared-which-challenger-bank-deserves-your-money-in",
+   "title": "gilt-edge Chase vs Monzo vs Starling: Which Bank Wins for Your Money? - GiltEdge Chase vs Monzo vs Starling in 2026: compare a matched £5,000 saver, Chase cashb"
+  },
+  {
+   "url": "https://coolcuration.com/tag/cashback/page/2",
+   "title": "coolcuration cashback Archives - Page 2 of 2 - COOLCURATION *Last updated: 22 August 2026* By Stiv · Design, technology and personal finance Affiliate disclosur"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 21.54,
+ "asked_at": "2026-11-21T13:14:12.491496+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

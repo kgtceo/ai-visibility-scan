@@ -1,0 +1,119 @@
+{
+ "engine": "gemini",
+ "question_id": "D2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "The three standout options are **Starling Bank**, **Monzo**, and **Chase UK**."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling Bank – Best All-Rounder & Best for Travel"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut is fantastic for foreign currency exchange and holding multi-currency balances, but it is traditionally used alongside a primary bank account."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Chase UK – Best for Cashback & Interest"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo caps fee-free overseas ATM withdrawals",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Free plan has a cap of £200 per 30 days outside the EEA."
+   },
+   {
+    "text": "Free overseas ATM withdrawals are capped at £200 every 30 days (outside the EEA).",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo FSCS Protected: Yes (up to £85,000).",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says the FSCS protection limit is £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo is a full member of CASS.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching."
+   },
+   {
+    "text": "Monzo cash deposits are available at PayPoint stores (£1 fee per deposit).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Pots, Salary Sorter, instant notifications, automated spending categories and shared tabs.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

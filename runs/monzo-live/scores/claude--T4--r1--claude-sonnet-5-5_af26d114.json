@@ -1,0 +1,141 @@
+{
+ "engine": "claude",
+ "question_id": "T4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Why We Sometimes Restrict or Close Monzo Accounts"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-1870449.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-1870449"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-account-frozen-for-8-days-and-still-no-sign-of-resolution/160301",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo account frozen for 8 days and still no sign of resolution ..."
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2411037.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-2411037"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3706072.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-3706072"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2062505.pdf",
+   "domain": "financial-ombudsman.org.uk",
+   "source_type": "regulator_official",
+   "title": "Decision Reference DRN-2062505"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "neutral",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does freeze (restrict or block) accounts."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does freeze (restrict or block) accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account restriction practices."
+   },
+   {
+    "text": "Monzo's terms allow closure with at least two months' notice, or immediately in some circumstances.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Terms not covered by facts."
+   },
+   {
+    "text": "You can contact Monzo via in-app chat (Help → Contact us), email help@monzo.com, or call 0800 802 1281.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Contact details not in facts."
+   },
+   {
+    "text": "The Ombudsman awarded £150 compensation against Monzo where immediate-closure criteria weren't shown to be met.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ombudsman cases not covered by facts."
+   },
+   {
+    "text": "Monzo says it will tell you in the app what restrictions apply and whether you need to do anything.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

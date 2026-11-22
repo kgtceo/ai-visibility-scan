@@ -1,0 +1,80 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D6",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "FlexDirect | Interest and cashback bank account | Nationwide"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/santander-edge-saver?utm_source=openai",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Santander Edge saver"
+  },
+  {
+   "url": "https://www.santander.co.uk/personal/savings-and-investments/savings/regular-saver?icid=php-r1_t2-Regular%2520eSaver-0917&utm_source=openai",
+   "domain": "santander.co.uk",
+   "source_type": "other",
+   "title": "Regular saving | Savings accounts | Santander UK"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect pays the highest rate I found on the UK current-account balance itself"
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

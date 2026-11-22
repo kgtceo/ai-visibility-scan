@@ -1,0 +1,124 @@
+{
+ "engine": "gemini-web",
+ "question_id": "T1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo is safe, and your money is protected."
+   },
+   {
+    "brand": "Starling",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Compare Monzo with Starling and Chase UK"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Compare Monzo with Starling and Chase UK"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "your deposits are covered by the FSCS up to £85,000 per person (or £170,000 for joint accounts)",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo is a fully regulated UK bank authorised by the PRA and regulated by the FCA",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "the FSCS would automatically refund your eligible money, typically within 7 days",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Payout timing is not covered by the facts."
+   },
+   {
+    "text": "Monzo's Savings Pots are powered by third-party banks (OakNorth, Shawbrook, Paragon)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo uses bank-grade encryption, biometric logins, and 3D Secure for online card payments",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers instant spending notifications, one-tap card freezing, and location-based security",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Stocks & Shares ISAs and General Investment Accounts, with its fund partner BlackRock, covered by FSCS investment protection up to £85,000",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Investment products and the investment protection limit are not covered by the facts."
+   },
+   {
+    "text": "virtual cards are available on a paid plan",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

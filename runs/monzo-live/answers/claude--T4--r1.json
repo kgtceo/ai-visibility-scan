@@ -1,0 +1,50 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T4",
+ "run": 1,
+ "text": "**Yes, Monzo does freeze (restrict or block) accounts.** Like other UK banks, it does this to meet legal and financial-crime obligations. Reasons include unusual activity, concerns that someone else has access to the account, legal requirements, or checks linked to financial crime. Large or unusual payments into a fairly new account are a common trigger. The Financial Ombudsman has said it isn't unreasonable for a bank to block an account if a relatively large amount is paid into it and the account hasn't been open long.\n\n**What to do if it happens**\n\n1. **Check the Monzo app first.** Monzo says it will tell you what restrictions apply and whether you need to do anything. A restriction doesn't always mean you can't use the account at all. What you can and can't do depends on the restriction.\n2. **Answer any requests for information quickly.** Monzo says it will contact you in the app if it needs more information. It also says it can't give a specific timeline for the review. Reviews vary a lot. Some users report being reinstated within hours after providing what was asked, while others wait days or weeks.\n3. **Contact Monzo if you can't pay for essentials.** If you can't pay for food or medication, tell Monzo what's happening and it will see how it can help. You can use in-app chat (Help → Contact us), email help@monzo.com, or call 0800 802 1281. That number comes from a Monzo community forum post, so check it in the app.\n4. **Keep records.** Screenshots of all your correspondence with Monzo are useful if you complain later.\n5. **Make a backup plan.** Open a basic bank account elsewhere. Consider telling bill providers and your employer if your income or direct debits are affected.\n\n**If you're unhappy with how it's handled**\n\n- **Make a formal complaint to Monzo.** Some people say complaints are pointless, but one user reported that theirs led to their account being re-enabled, along with an apology that it took too long.\n- **Escalate to the Financial Ombudsman Service (FOS).** It's free, and you can go to it if you're unhappy with your bank. In practice that usually means after Monzo's final response, or if Monzo hasn't resolved the complaint within 8 weeks.\n\n**What to expect from the Ombudsman**\n\n- **Blocks and reviews:** It generally accepts that banks can block an account while they review it. In one case it found Monzo was within its rights to review the account and block it during the review.\n- **Closures:** Monzo can close accounts. Its terms allow closure with at least two months' notice, or immediately in some circumstances. The Ombudsman has still ruled against Monzo in some cases. It awarded £150 compensation where the immediate-closure criteria weren't shown to be met. In another case, Monzo agreed it had taken too long to unblock the account.\n- **Explanations:** Monzo often doesn't have to explain why it acted, which people find frustrating.\n\nIf you're in the middle of this now, the app is the best first step. Tell me what's happening, for example whether it's frozen, closed or awaiting a review, and I can suggest more specific next steps.",
+ "citations": [
+  {
+   "url": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts",
+   "title": "Why We Sometimes Restrict or Close Monzo Accounts"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-1870449.pdf",
+   "title": "Decision Reference DRN-1870449"
+  },
+  {
+   "url": "https://monzo.com/ie/help/keeping-your-account-secure/help-frozen-account",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-account-frozen-for-8-days-and-still-no-sign-of-resolution/160301",
+   "title": "Monzo account frozen for 8 days and still no sign of resolution ..."
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2411037.pdf",
+   "title": "Decision Reference DRN-2411037"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-3706072.pdf",
+   "title": "Decision Reference DRN-3706072"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-2062505.pdf",
+   "title": "Decision Reference DRN-2062505"
+  }
+ ],
+ "search_queries": [
+  "Monzo account frozen or restricted what to do",
+  "Monzo complaints Financial Ombudsman account closure blocked"
+ ],
+ "latency_s": 12.4,
+ "asked_at": "2026-11-21T16:51:06.251546+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

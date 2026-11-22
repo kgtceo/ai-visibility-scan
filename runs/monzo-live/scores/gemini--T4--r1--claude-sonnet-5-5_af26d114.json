@@ -1,0 +1,135 @@
+{
+ "engine": "gemini",
+ "question_id": "T4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkv5Ui-XIQq7R0KtmJc7mH6G8WwFT0F0jHHwp0zhe5cecWwxfkkTw6yO4NIODxZnnPCL7gfpUQ0EQddk9xkKidsfOhVFNtuCGWkdruCKG1VAJtN6OsIFyrzS2OFhSdrFC9v5d5-u9w4Vk=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXkDrDuCZTH7fybTSDV9s5kyKosn-TcyBRj7zG7tHuaAp9CLDoqH_aVfg-gxyNUwXe6ZZfAlhSYK25FzERprOoCzK61rvPtMrmSrcrtcEVe6gVP1v3pMTJt560i12rwb9gHTKnJyeEhuGvNPY3G9ofIG0AzVnS78BUd8Qpx0vBwSR6YyoKjoZyOS6",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6jV2pva0qdoOS8ahvst0Iwqoq4zWLgWq_xnm6UMiy4Xpg6BeNOi_RRaLYXi1IvVcKG85pAO22zCVk352oLiyB2u_ypSpKAwWa1VulOgKqR02nuKGFyR7fu9DKDsxi9fdK4Vo=",
+   "domain": "ycombinator.com",
+   "source_type": "other",
+   "title": "ycombinator.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ERapcS15s8AGBGn5MCnMp53F0Hrjefs4zwhjFdbCNcUY8DU589n2lHNU1EL6raQzeBrHtTh3A4BuPp5RUhFK3sYJVaJt8-d8qtnqFgnDwNNPA1kQf7oB535EU7YZ7ycd-Sv-N6EJPlqkp6tPzsM=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbNPVfIWNAKlt5yBvUz8o62u2xA3gzo4mjZLOysSOz8Um_xpt8NMdDxAve-kJWIpc9QFfLO7zXWqezUvt7cFFGUfftRDhHRJt_XrmQkkNie0E5RXZtVrgFOV3cZUv7O6hLqhzWaCXhxZAfJY4EG7oDLem9owDFmQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHthw5JgqWMCgWiYYq23iYAoRi-odEiagi6Rsywo-px_UJ7e9aduXS9oWFE673aYLme6zgWKZflCH_fKJ44SqS-wqZ6SYsq2MspHM6YwEPD-a3-NGw4ThQJDmBykB2QRbPusvL56OLBcF-ylFD9jyCQQ2CZ2lmD9Ge49Lg82g==",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "neutral",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does freeze accounts. Like all UK-regulated banks, Monzo is legally required"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does freeze accounts if automated monitoring flags suspicious activity, unexpected high-value transactions, or potential fraud.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezing."
+   },
+   {
+    "text": "Phone: Call 0800 802 1281 (UK freephone) or +44 20 3872 0620 (from abroad).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Contact numbers are not in the facts."
+   },
+   {
+    "text": "Email: help@monzo.com",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Monzo's complaints email is complaints@monzo.com.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Monzo has up to 8 weeks to provide a Final Response letter on complaints.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaint timelines are not in the facts."
+   },
+   {
+    "text": "The Monzo app has in-app chat via Help, where you search \"Contact us\", and may prompt for document uploads.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App support flow is not covered."
+   }
+  ]
+ },
+ "judge_error": null
+}

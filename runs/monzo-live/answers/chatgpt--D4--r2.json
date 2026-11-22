@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D4",
+ "run": 2,
+ "text": "**I’d pick the First Direct 1st Account debit card** if you’re opening a UK account for travel. There’s no monthly account fee, and First Direct passes on the Mastercard exchange rate without adding a fee for purchases abroad. You can also withdraw up to £500 a day in local currency without a First Direct fee, though the cash machine operator may charge its own. ([firstdirect.com](https://www.firstdirect.com/banking/travel-debit-card/))\n\nIf you already have a **Starling debit card**, I’d use that rather than open another account just for the trip. It also gives you fee-free purchases at the Mastercard rate; the main difference is a lower cash withdrawal limit of £300 a day. ([starlingbank.com](https://www.starlingbank.com/travel/?utm_source=openai))\n\n**At the till or cash machine, choose the local currency, not GBP.** That way you get the card’s exchange rate rather than the merchant’s or cash machine’s, which is usually worse. ([firstdirect.com](https://www.firstdirect.com/banking/travel-debit-card/))",
+ "citations": [
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "title": "Travel Debit Card | Fee Free Card To Use Abroad - first direct"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  }
+ ],
+ "search_queries": [
+  "UK Chase debit card spending abroad no fees Mastercard ATM limit Starling Monzo November 2026 travel UK official First Direct"
+ ],
+ "latency_s": 11.65,
+ "asked_at": "2026-11-21T16:53:55.503344+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

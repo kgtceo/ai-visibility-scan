@@ -1,0 +1,160 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "H1",
+ "run": 2,
+ "text": "For most people in the UK, **no** — Monzo’s free account is already very good, and the paid plans only make sense if you will actually use specific extras that replace spending you’d make anyway.\n\n### Current plans\nPrices and rates below are from Monzo’s site (rates are variable and can change).\n\n| Plan | Cost | What you’re mainly paying for |\n|------|------|-------------------------------|\n| **Free** | £0 | Everyday banking, pots, budgeting, fee-free card spend abroad, FSCS protection |\n| **Extra** | £3/month (£36/year) | Extra money tools |\n| **Perks** | £9/month (£108/year) | Lifestyle perks + a savings-rate boost |\n| **Max** | From £19/month (£228/year); £23 with family | Everything in Perks, plus travel, phone and breakdown cover |\n\n**Instant Access savings (AER, variable):** Free 2.80% · Extra 3.15% · Perks 3.55% · Max 3.80%. Select Access is higher on Perks and Max (up to 3.70%) if you keep withdrawals low.\n\nOlder **Plus** (£6) and **Premium** (£17) plans are closed to new customers. If you’re already on one, compare carefully before leaving — you can’t go back.\n\n### When each plan can be worth it\n\n**Free — the right choice for most people**  \nYou already get pots, spending categories, instant notifications, fee-free foreign card payments, and solid app tools. Don’t upgrade just because a paid plan exists.\n\n**Extra (£3) — only for the tools**  \nUseful if you want virtual cards, connecting multiple other banks/cards, advanced round-ups, custom categories, an auto spreadsheet, or weekly credit scores from two agencies.  \nThe interest uplift alone only covers the fee if you keep a fairly large balance in Instant Access (roughly £10,000+ versus the free rate). Even then, dedicated easy-access accounts elsewhere often pay more. Pay for the tools, not the rate.\n\n**Perks (£9) — worth it if you use the lifestyle extras**  \nMonzo markets the partner bundle as worth over £300 a year *if you claim everything*. What matters is what you’d otherwise pay for. Typical standalone values include:\n- Annual Railcard (~£35)\n- Uber One (~£50 a year)\n- YouTube Premium Lite (around £8 a month)\n- Weekly Greggs treat, if you actually claim it\n- Monthly Vue ticket, if you’d go anyway\n\nUse two or three of those regularly and the plan can pay for itself. Use none of them and it’s poor value. The higher savings rate is a bonus, not a reason to join on its own — you’d need a large balance for the extra interest to cover £108, and better rates are often available outside Monzo. You also get a higher fee-free cash withdrawal limit abroad (£600 per 30 days outside the EEA).\n\n**Max (£19, or £23 with family) — an insurance bundle, not a banking upgrade**  \nThe step up from Perks is about £120 a year. For that you get:\n- Worldwide multi-trip travel insurance (Zurich, via Qover; £50 excess; exclusions apply)\n- Phone insurance (Assurant; phones up to £2,000; £75 excess)\n- UK & Europe breakdown cover (RAC)\n- Family cover on those for an extra £4 a month\n- Age limit 18–69, and a 3-month minimum term\n\nIt can be good value **if** you would otherwise buy at least two of those policies, the cover actually suits you, and you’re not already protected (employer travel cover, phone cover via home insurance, breakdown via car insurance, etc.). One policy on its own often doesn’t justify the gap. Read the policy wording — packaged cover frequently has tighter limits or exclusions than a policy you choose yourself. Compare with standalone quotes and with other packaged accounts (for example Nationwide FlexPlus) before committing.\n\n### Simple way to decide\n1. Stay on **free** unless you can name features you’ll use every month.\n2. Choose **Extra** only for budgeting/credit tools you care about.\n3. Choose **Perks** only if the Railcard, Greggs, cinema, Uber One or YouTube Premium Lite replace real spending.\n4. Choose **Max** only if the insurance stack fits your life and beats buying cover separately.\n5. Don’t upgrade just for a slightly higher savings rate — shop the wider market.\n\nExtra and Perks can be cancelled in the app (benefits stop straight away). Max has a minimum term. Check current rates, perk details and insurance documents in the app before you pay, because both prices and benefits have changed more than once.",
+ "citations": [
+  {
+   "url": "https://monzo.com/blog/make-monzo-more-you",
+   "title": "https://monzo.com/blog/make-monzo-more-you"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/monzo-perks-review",
+   "title": "https://www.finder.com/uk/current-accounts/monzo-perks-review"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/uber-one",
+   "title": "https://monzo.com/help/monzo-perks/uber-one"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/monzo-max-review",
+   "title": "https://www.finder.com/uk/current-accounts/monzo-max-review"
+  },
+  {
+   "url": "https://thefinancelowdown.co.uk/monzo/",
+   "title": "https://thefinancelowdown.co.uk/monzo/"
+  },
+  {
+   "url": "https://stablecoininsider.org/monzo-vs-revolut/",
+   "title": "https://stablecoininsider.org/monzo-vs-revolut/"
+  },
+  {
+   "url": "https://tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "https://tryabel.com/monzo-paid-plans-worth-it/"
+  },
+  {
+   "url": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/",
+   "title": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes",
+   "title": "https://monzo.com/help/monzo-premium/plus-premium-plan-price-changes"
+  },
+  {
+   "url": "https://techyorker.com/products/monzo/pricing/",
+   "title": "https://techyorker.com/products/monzo/pricing/"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max",
+   "title": "https://www.referralplug.co.uk/blog/monzo-extra-vs-perks-vs-max"
+  },
+  {
+   "url": "https://rottenwifi.com/services/monzo/pricing/",
+   "title": "https://rottenwifi.com/services/monzo/pricing/"
+  },
+  {
+   "url": "https://www.techbloat.com/software/monzo/pricing/",
+   "title": "https://www.techbloat.com/software/monzo/pricing/"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "https://monzo.com/current-account/max"
+  },
+  {
+   "url": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/",
+   "title": "https://moneysavinganswers.com/personal/bank-accounts/is-monzo-max-worth-it-what-about-extra-and-monzo-perks/"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "https://monzo.com/current-account/plans"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-perks-what",
+   "title": "https://monzo.com/help/monzo-perks/monzo-perks-what"
+  },
+  {
+   "url": "https://x.com/_craighadley/status/2087870339489349951",
+   "title": "https://x.com/_craighadley/status/2087870339489349951"
+  },
+  {
+   "url": "https://nextsteps.finance/blog/monzo-plus-vs-premium-worth-it-2026",
+   "title": "https://nextsteps.finance/blog/monzo-plus-vs-premium-worth-it-2026"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "title": "https://monzo.com/help/monzo-perks/monzo-plan-price-change"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb",
+   "title": "https://www.which.co.uk/news/article/monzo-changes-its-paid-accounts-are-the-perks-worth-paying-for-aGqrA7d45tEb"
+  },
+  {
+   "url": "https://www.positioniseverything.net/tools/monzo/pricing/",
+   "title": "https://www.positioniseverything.net/tools/monzo/pricing/"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "title": "https://monzo.com/help/monzo-plus/paid-interest"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-scaps-plus-and-premium-heres-what-its-offering-instead/",
+   "title": "https://becleverwithyourcash.com/monzo-scaps-plus-and-premium-heres-what-its-offering-instead/"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-plus-vs-premium/",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-plus-vs-premium/"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "https://monzo.com/legal/plans/fee-information"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-investment-fees-cut-what-it-means",
+   "title": "https://coolcuration.com/monzo-investment-fees-cut-what-it-means"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/railcard-benefit-code",
+   "title": "https://monzo.com/help/monzo-perks/railcard-benefit-code"
+  },
+  {
+   "url": "https://moneyappreviews.com/monzo-review-uk/",
+   "title": "https://moneyappreviews.com/monzo-review-uk/"
+  },
+  {
+   "url": "https://coolcuration.com/is-monzo-max-worth-it",
+   "title": "https://coolcuration.com/is-monzo-max-worth-it"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-mobile/plans-and-pricing",
+   "title": "https://monzo.com/help/monzo-mobile/plans-and-pricing"
+  },
+  {
+   "url": "https://monzo.com/legal/mobile/price-information",
+   "title": "https://monzo.com/legal/mobile/price-information"
+  },
+  {
+   "url": "https://hellosafe.com/credit-card-insurance/united-kingdom/monzo/perks",
+   "title": "https://hellosafe.com/credit-card-insurance/united-kingdom/monzo/perks"
+  },
+  {
+   "url": "https://coolcuration.com/monzo-guides",
+   "title": "https://coolcuration.com/monzo-guides"
+  }
+ ],
+ "search_queries": [
+  "Monzo paid plans worth it UK 2024 2025",
+  "Monzo Plus Premium Max plans comparison features cost",
+  "Monzo bank current plans pricing UK",
+  "Monzo Perks benefits value Railcard Greggs Uber One YouTube 2026"
+ ],
+ "latency_s": 47.75,
+ "asked_at": "2026-11-21T17:24:21.745114+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

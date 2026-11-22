@@ -1,0 +1,178 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://www.moneysavingexpert.com/banking/digital-banking/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "moneysavingexpert"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-vs-starling/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "lilachbullock"
+  },
+  {
+   "url": "https://bankinggeek.com/en/monzo-vs-starling/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "bankinggeek Monzo vs Starling 2026: Which Is Better? - bankinggeek.com Monzo vs Starling compared on fees, foreign spending, budgeting tools, FSCS protection an"
+  },
+  {
+   "url": "https://finflags.com/monzo-vs-starling/",
+   "domain": "finflags.com",
+   "source_type": "other",
+   "title": "finflags Monzo vs Starling | Finflags Two British app banks with free accounts and the Mastercard rate abroad. They part ways on cash machines outside Europe, o"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "generationmoney.co Monzo vs Starling (2026): Which Digital Bank Is The Best? Monzo vs Starling, which of these UK digital banks is the best? Read our independen"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-vs-starling/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "forbes Monzo Vs Starling Bank: Compare Features & Benefits Starling Bank and Monzo are both strong contenders if you're in search of a new digital-first current"
+  },
+  {
+   "url": "https://topewallets.com/compare/starling-vs-monzo",
+   "domain": "topewallets.com",
+   "source_type": "other",
+   "title": "topewallets Starling vs Monzo: Travel Fees, Euro Account and Transfers Abroad Compared | Top E-Wallets Starling vs Monzo for UK customers who spend, withdraw an"
+  },
+  {
+   "url": "https://europeanpurpose.com/compare/monzo-vs-starling-bank",
+   "domain": "europeanpurpose.com",
+   "source_type": "other",
+   "title": "europeanpurpose Monzo vs Starling Bank (2026): Which One Fits? Monzo and Starling are both London banks for UK residents, authorised by the PRA and FCA."
+  },
+  {
+   "url": "https://moneyzine.com/uk/banking/starling-vs-monzo/",
+   "domain": "moneyzine.com",
+   "source_type": "other",
+   "title": "moneyzine Starling vs Monzo: Compare Fees, Features & Terms for 2026 Anne Boden founded Starling Bank back in 2014, following an esteemed career working for the"
+  },
+  {
+   "url": "https://www.reddit.com/r/UKPersonalFinance/comments/t2kmv5/monzo_vs_starling_need_help_deciding/",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit Monzo vs. Starling - need help deciding I've used both and I honestly think Starling is the better Bank. ... if you do any travelling Starling beats Monz"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is better if you value its budgeting tools, savings/investment options, and optional paid plans."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the better default choice if you want a simple, free, full-featured current account"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both are fully regulated UK banks with FSCS protection.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo also has no card-spend fees but applies overseas ATM limits/charges in some cases.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "No card-spend fees matches F6; the ATM limits and charges match F7."
+   },
+   {
+    "text": "Monzo's overdraft is 19% EAR.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft pricing."
+   },
+   {
+    "text": "Monzo's limited-access saver is listed at 3.45%.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F9 covers the Instant Access Savings rate on the free plan (2.80%), not a limited-access saver."
+   },
+   {
+    "text": "Monzo offers loans, Flex credit, savings and paid plans alongside its current account.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 confirms paid plans exist; loans and Flex are not covered by the facts."
+   },
+   {
+    "text": "Monzo's paid plans add extras such as travel insurance and lifestyle perks.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give plan prices but not plan benefits."
+   },
+   {
+    "text": "Monzo has Pots, salary sorter, spending breakdowns and bill tracking.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "Monzo offers free personal and joint accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The facts mention a free plan but not joint accounts."
+   }
+  ]
+ },
+ "judge_error": null
+}

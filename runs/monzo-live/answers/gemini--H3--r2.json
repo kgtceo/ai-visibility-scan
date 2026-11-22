@@ -1,0 +1,43 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H3",
+ "run": 2,
+ "text": "The interest Monzo pays depends on the **type of pot** you open and the **Monzo account plan** you have. \n\n---\n\n### 1. Instant Access Savings Pot (Unlimited withdrawals)\nInterest is variable, calculated daily, and paid monthly on the 1st:\n\n| Plan | Monthly Fee | Interest Rate (AER Variable) |\n| :--- | :--- | :--- |\n| **Monzo Free (Standard)** | £0 | **2.80%** |\n| **Monzo Extra** | £3 | **3.15%** |\n| **Monzo Perks** (or Plus/Premium) | £9 | **3.55%** |\n| **Monzo Max / Max Family** | £17–£19 | **3.80%** |\n\n*There is no minimum deposit, and you can withdraw anytime without affecting the rate.*\n\n---\n\n### 2. Select Access Savings Pot (Limited withdrawals)\nA higher-yield flexible pot that rewards you for leaving money untouched:\n\n* **Free / Extra accounts:** **3.45% AER** (drops temporarily to 2.65% AER if you make a 3rd withdrawal in a year).\n* **Perks / Plus / Premium / Max accounts:** **3.70% AER** (drops temporarily to 3.10% AER if you make a 3rd withdrawal).\n\n---\n\n### 3. Fixed Rate Savings Pots\nIf you lock your money away for a set period, Monzo (or its partner banks) pays a fixed rate until maturity:\n\n* **1-Year Fixed Pot:** Typically pays around **4.50% – 4.70% AER**.\n* Fixed rates are generally the same across all Monzo tiers.\n\n---\n\n### 4. Cash ISAs\nMonzo offers tax-free **Cash ISA versions** (Instant Access, Select Access, and Fixed ISAs) that mirror these rates, allowing you to use your £20,000 annual ISA allowance.\n\n---\n\n### 5. Third-Party Marketplace Pots\nInside the Monzo app, you can also open savings pots held with third-party partner banks (such as Paragon Bank, Charter Savings Bank, or OakNorth). These third-party pots often offer different easy-access or fixed terms.\n\n---\n\n*Note: All variable rates can fluctuate over time. You can check the current live rates directly in your Monzo app by tapping **Create a Pot** > **Savings Pot**.*",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF90ZBMg2qPLZaGSkunzS430t2hvm8gDnMYQZ2Pm8HGDYWkhDa8AvBF85mg5DlpdFfg3o3QrK56CsLj0WdxYDFdB6Fy47-KiRLS_D-oz9WCvpdTEgzEvuyVsx2UKr0O2ViGfXgC",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG187qRRC8U8z4C7poCeIx5qbXl6YN5DZGkcCKFMvszv1D2SCl6Wy5nox5VuMVpA29g70opj92QrG8koe3hbTnn7SBiUp00_CRDEXfCvxcPlX9WSkKu3E6YZnLqEVi_CeiBXvXbpA==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRFzsNeSbuF1BSIjcanFgmnRSZufDCmhlcfgCidgFJW4vHKqKv_TPWqFrBwn1WPbi2O44GEDsXYE0Vz01x21jZLbcO3kyYNMIpjjO9Abk2S0VsKrzcrn-IvPc8kuwe0hTPsag=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjzIZkBFXWFWM0NlFf1VRPbdMZunqlLBD0LGY7SAnM_wzHXfM7MI0TButqLpR6M15-WEkffhVC5_yX7JZ8Xx9lOmsgg5TcmDMxUhS7pRqZuLpi3hSlC99yuCknjg==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpu5AQWvEzzoLKLrGWR9GbjGaUQnwsMP5IJKWAq_x_oOjDsmNrT6TXj6A19R42WGo6ckWB2c8hXC9q09ES87Twf4FrO2LbFcPQlVLtfiyTkRlbmyG_bbaxJLg=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDZGG6gylx1ylgmzvuXhsQheathuHA5kjHY_KweNDYh1OYBltH00Q635qaTLbigUXTaOhYNL_PqM9LLxeJcYu7mx-zk0hmvuVKIYzhw6CF4FxLRKVEg-F_y3RG-3LnX3HBS2XNsW1ZP51qheZvZxnRvYHc6A==",
+   "title": "depositscout.com"
+  }
+ ],
+ "search_queries": [
+  "monzo instant access savings pot interest rate",
+  "monzo savings interest rates uk"
+ ],
+ "latency_s": 17.89,
+ "asked_at": "2026-11-21T17:57:07.271992+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "T1",
+ "run": 2,
+ "text": "Yes, Monzo is a properly regulated UK bank, and your money is protected if it fails.\n\n**Regulation**\n- Monzo is authorised by the Prudential Regulation Authority and regulated by both the PRA and the Financial Conduct Authority. It is a full bank with its own licence, not just an app or e-money account.\n- The FCA fined Monzo £21.1m. That penalty was for operational compliance systems, not Monzo's financial stability or deposit security. The issues were from 2018–2020, and the fine was reported as covering problems that have since been remediated.\n\n**If Monzo goes bust**\n- Your Monzo money is covered by the Financial Services Compensation Scheme (FSCS), an independent body that protects your money if your bank fails.\n- The limit is £120,000 per depositor per bank. It was £85,000 until 1 December 2025, so some older articles still show the old figure.\n- The limit is per person and per banking licence, not per account. If you had £150,000 in one failed bank, you'd get £120,000 back and lose £30,000.\n- Joint accounts are covered. As I understand it, each holder gets their own limit on their share, but check the FSCS site if that matters to you.\n\n**Points to watch**\n- **Investments:** Stocks & Shares ISAs and General Investment Accounts have a separate £85,000 protection. This covers losses if Monzo or its providers fail. It doesn't cover poor investment performance or market drops.\n- **Savings pots from partner banks:** Some Monzo savings pots are held at other banks. Those deposits count towards your limit at that bank. For example, a pot held at OakNorth and a separate account directly with OakNorth would share one limit. That article uses the older £85,000 figure.\n- **Business accounts:** Eligible deposits in business accounts are treated as made by a single depositor, so they're protected up to £120,000 in total.\n- **Temporary high balances:** If you have one, such as money from a house sale, you may get more than £120,000 of protection for six months.\n\n**Practical tips**\n- If you hold more than £120,000 in total, spread it across banks with different licences. Some brands share a licence, so check first.\n- Keep your account secure: use a strong passcode, turn on biometric lock, and watch out for scams. FSCS protects you if the bank fails, but it doesn't cover you if you are tricked into sending money. Separate rules on fraud reimbursement apply to that.\n\nFor the current limits, you can check the FSCS website (fscs.org.uk) or Monzo's own FSCS help page.",
+ "citations": [
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://www.flagright.com/post/monzos-ps21-1m-fca-fine-a-scaling-lesson-for-uk-fintech-compliance",
+   "title": "Monzo's £21M FCA Fine: A Scaling Lesson for UK Fintech Compliance"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "title": "Is Monzo Safe? How We Help Protect Your Money and Savings"
+  },
+  {
+   "url": "https://monzo.com/legal/files/fscs-information/fscs-information-2.0.pdf",
+   "title": "Financial Services Compensation Scheme Information Sheet Version 2.0"
+  },
+  {
+   "url": "https://monzo.com/help/investments/investments-FSCS",
+   "title": "Monzo Help - Are investment accounts protected?"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/monzo-reports-annual-losses-of-113-8m-are-your-current-account-and-savings-safe-a6KU47R02DKt",
+   "title": "Monzo reports annual losses of £113.8m: are your current account ..."
+  }
+ ],
+ "search_queries": [
+  "Monzo FSCS protection safe deposits"
+ ],
+ "latency_s": 9.61,
+ "asked_at": "2026-11-21T16:50:14.312022+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

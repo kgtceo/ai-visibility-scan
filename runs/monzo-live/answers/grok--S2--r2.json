@@ -1,0 +1,225 @@
+{
+ "engine": "grok",
+ "model": "grok-4.7",
+ "question_id": "S2",
+ "run": 2,
+ "text": "Yes. Monzo works fine as a main UK current account for salary and bills.\n\nMonzo Bank Limited is a fully authorised UK bank (regulated by the PRA and FCA). It gives you a normal sort code and account number, so employers can pay your salary into it by Bacs or Faster Payments, and you can set up Direct Debits and standing orders for bills.\n\n### Useful features for this\n- **Salary tools**: You can get Bacs salary paid early (from 4pm the business day before it is due) and use Salary Sorter to automatically split incoming pay into pots for bills, savings and spending.\n- **Bills pots**: These ring-fence money for Direct Debits and standing orders so you don’t accidentally spend it.\n- **Current Account Switch Service (CASS)**: Free and available in the app. It can move your balance, Direct Debits, standing orders and redirect incoming payments (including salary) from your old bank, usually in about 7 working days, and close the old account if you want.\n\nEligible deposits are protected by the FSCS up to **£120,000** per person (the limit rose from £85,000 on 1 December 2025), the same statutory protection as high-street banks.\n\nLots of people in the UK already use Monzo as their only or main account for income and bills. The free account is designed for everyday banking, and using it as your main account (regular income plus at least one Direct Debit) also gives you better cash-withdrawal allowances.\n\n### Practical caveats\n- It is app-only (no branches). Cash deposits are possible at PayPoint or the Post Office (usually a small fee); cheques can be paid in via the app.\n- Occasional short outages happen, as with most banks. Monzo has a backup system that usually keeps card payments and basic transfers working.\n- Some customers report account freezes or slower help on complex issues (common with digital banks because of fraud controls). Many people keep a small secondary account elsewhere as a backup, though it isn’t required.\n\n**In short:** Yes — you can receive your salary and pay all your bills from Monzo without a problem. If you want extra peace of mind, keep another account open for emergencies, but going fully “Full Monzo” is common and works well for most people.",
+ "citations": [
+  {
+   "url": "https://www.gbnews.com/money/monzo-banking-app-down",
+   "title": "https://www.gbnews.com/money/monzo-banking-app-down"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what",
+   "title": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what"
+  },
+  {
+   "url": "https://www.mumsnet.com/talk/money-matters/5476565-monzo-as-main-bank",
+   "title": "https://www.mumsnet.com/talk/money-matters/5476565-monzo-as-main-bank"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-as-main-bank-account/37601",
+   "title": "https://community.monzo.com/t/monzo-as-main-bank-account/37601"
+  },
+  {
+   "url": "https://community.monzo.com/t/using-monzo-as-main-account/190949",
+   "title": "https://community.monzo.com/t/using-monzo-as-main-account/190949"
+  },
+  {
+   "url": "https://www.businessexpert.co.uk/business-banking/monzo-bank-account-review/",
+   "title": "https://www.businessexpert.co.uk/business-banking/monzo-bank-account-review/"
+  },
+  {
+   "url": "https://rottenwifi.com/monzo-vs-starling-fees-features-and-fscs-protection-compared-2026/",
+   "title": "https://rottenwifi.com/monzo-vs-starling-fees-features-and-fscs-protection-compared-2026/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december",
+   "title": "https://www.bankofengland.co.uk/news/2025/november/pra-confirms-fscs-deposit-limit-to-be-increased-to-120000-from-1-december"
+  },
+  {
+   "url": "https://www.prarulebook.co.uk/guidance/statements-of-policy/sop---deposit-guarantee-scheme",
+   "title": "https://www.prarulebook.co.uk/guidance/statements-of-policy/sop---deposit-guarantee-scheme"
+  },
+  {
+   "url": "https://community.monzo.com/t/full-monzo-required-for-paying-salary-in/45759",
+   "title": "https://community.monzo.com/t/full-monzo-required-for-paying-salary-in/45759"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-for-under-16s/under-16s-fscs",
+   "title": "https://monzo.com/help/monzo-for-under-16s/under-16s-fscs"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo",
+   "title": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo"
+  },
+  {
+   "url": "https://monzo.com/features/double-payday",
+   "title": "https://monzo.com/features/double-payday"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots",
+   "title": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots"
+  },
+  {
+   "url": "https://compare100.com/monzo-current-account/",
+   "title": "https://compare100.com/monzo-current-account/"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://uk.trustpilot.com/reviews/6a7370e20430bef5b754fd18",
+   "title": "https://uk.trustpilot.com/reviews/6a7370e20430bef5b754fd18"
+  },
+  {
+   "url": "https://smartmoneypeople.com/monzo-reviews/products",
+   "title": "https://smartmoneypeople.com/monzo-reviews/products"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "title": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch"
+  },
+  {
+   "url": "https://www.probusinessblog.co.uk/monzo-sort-code/",
+   "title": "https://www.probusinessblog.co.uk/monzo-sort-code/"
+  },
+  {
+   "url": "https://www.mirror.co.uk/news/uk-news/monzo-down-app-issues-status-37569134",
+   "title": "https://www.mirror.co.uk/news/uk-news/monzo-down-app-issues-status-37569134"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://consumer-credit.org/banking-savings/fscs-protection/",
+   "title": "https://consumer-credit.org/banking-savings/fscs-protection/"
+  },
+  {
+   "url": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank",
+   "title": "https://www.theguardian.com/money/2025/jul/08/monzo-fined-customers-fca-bank"
+  },
+  {
+   "url": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763",
+   "title": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763"
+  },
+  {
+   "url": "https://www.kaeltripton.com/fscs-protection-limit-uk/",
+   "title": "https://www.kaeltripton.com/fscs-protection-limit-uk/"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme",
+   "title": "https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme"
+  },
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement",
+   "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/november/depositor-protection-policy-statement"
+  },
+  {
+   "url": "https://www.fscs.org.uk/deposit-limit/",
+   "title": "https://www.fscs.org.uk/deposit-limit/"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-what",
+   "title": "https://monzo.com/help/switching-to-monzo/cass-what"
+  },
+  {
+   "url": "https://bankcreditratings.co.uk/outages/monzo",
+   "title": "https://bankcreditratings.co.uk/outages/monzo"
+  },
+  {
+   "url": "https://community.monzo.com/t/making-monzo-my-main-account/91561",
+   "title": "https://community.monzo.com/t/making-monzo-my-main-account/91561"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-switch-in",
+   "title": "https://monzo.com/ie/help/using-monzo/help-switch-in"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-packaged-bank-accounts",
+   "title": "https://moneytothemasses.com/banking/the-best-packaged-bank-accounts"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2240587/monzo-down-live-banking-app",
+   "title": "https://www.express.co.uk/finance/personalfinance/2240587/monzo-down-live-banking-app"
+  },
+  {
+   "url": "https://community.monzo.com/t/does-it-work-with-only-monzo-bank-account-in-uk/89675",
+   "title": "https://community.monzo.com/t/does-it-work-with-only-monzo-bank-account-in-uk/89675"
+  },
+  {
+   "url": "https://www.reddit.com/r/monzo/comments/1mpeyna/who_uses_monzo_as_their_main_account",
+   "title": "https://www.reddit.com/r/monzo/comments/1mpeyna/who_uses_monzo_as_their_main_account"
+  },
+  {
+   "url": "https://monzo.com/switch",
+   "title": "https://monzo.com/switch"
+  },
+  {
+   "url": "https://bankinggeek.com/en/how-to-switch-bank-account/",
+   "title": "https://bankinggeek.com/en/how-to-switch-bank-account/"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-cancel-how-to",
+   "title": "https://monzo.com/help/switching-to-monzo/cass-cancel-how-to"
+  },
+  {
+   "url": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/",
+   "title": "https://www.fscs.org.uk/industry-resources/deposit-limit-change-stakeholder-materials/"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "title": "https://www.ukfinanceblog.co.uk/is-monzo-safe/"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/joint-account-switch",
+   "title": "https://monzo.com/help/joint-accounts/joint-account-switch"
+  },
+  {
+   "url": "https://community.monzo.com/t/use-monzo-account-and-i-am-not-a-uk-resident/182580",
+   "title": "https://community.monzo.com/t/use-monzo-account-and-i-am-not-a-uk-resident/182580"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-fscs-information",
+   "title": "https://monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "title": "https://monzo.com/features/monzo-payday"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "title": "https://monzo.com/salary-sorter"
+  },
+  {
+   "url": "https://www.fscs.org.uk/what-we-cover/",
+   "title": "https://www.fscs.org.uk/what-we-cover/"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "https://monzo.com/current-account"
+  },
+  {
+   "url": "https://www.bbc.com/news/articles/cqjqgxzz8gjo",
+   "title": "https://www.bbc.com/news/articles/cqjqgxzz8gjo"
+  }
+ ],
+ "search_queries": [
+  "Can I use Monzo as main bank account UK salary bills",
+  "Monzo current account FSCS protection salary direct debits 2024",
+  "Monzo reliability issues main account reviews UK",
+  "FSCS deposit protection limit 2026 UK",
+  "Monzo sort code current account switch service"
+ ],
+ "latency_s": 27.94,
+ "asked_at": "2026-11-21T17:33:07.233547+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

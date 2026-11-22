@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C3",
+ "run": 1,
+ "text": "**Short answer: Monzo for most UK travellers; Revolut if you’ll exchange larger amounts or want more currency features.**\n\n- **Card spending:** Monzo passes on Mastercard’s exchange rate with no extra fee. Revolut Standard has a **£1,000 monthly exchange allowance**, then a **1% fee**, and can charge **1% on weekend exchanges**. If you’re mostly paying by card and want fewer conditions to keep track of, Monzo is simpler.\n- **Cash:** In the **EEA**—which covers most European destinations—Monzo offers unlimited fee-free withdrawals if it’s your main bank; otherwise, the allowance is **£400 per 30 days**, then 3%. Revolut Standard gives up to **£200 or five withdrawals per rolling month**, whichever comes first, then charges 2% (minimum £1).\n- **Outside the EEA:** Monzo’s fee-free cash allowance is generally lower, so check the terms for your account. Revolut’s exchange and withdrawal limits still apply.\n\n**My pick:** Monzo for a typical Europe trip, especially if you’ll use card and only occasionally need cash. Consider Revolut if you expect to exchange over £1,000 in a month or value its multi-currency tools. Either way, choose to pay or withdraw in the **local currency**, not pounds; the ATM or merchant’s conversion is often worse. Also, an ATM may charge its own fee.\n\nThese allowances and terms can change, so check your plan’s current limits before travelling.",
+ "citations": [
+  {
+   "url": "https://help.revolut.com/en-GB/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/",
+   "title": "Currency exchange fees and limits | Revolut United Kingdom"
+  },
+  {
+   "url": "https://www.revolut.com/legal/personal-current-account-fees/",
+   "title": "Personal Fees – All Plans (Current) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees",
+   "title": "Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/atm-withdrawals/withdrawing-in-other-currencies/",
+   "title": "Fees for cash withdrawals | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/legal/plus/fee-information/version-1-9",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://www.revolut.com/legal/standard-fees/",
+   "title": "Personal Fees (Standard) | Revolut United Kingdom"
+  },
+  {
+   "url": "https://help.revolut.com/help/inactive-faqs/why-did-the-atm-charge-a-fee-for-my-cash-withdrawal/",
+   "title": "Cash withdrawal limits and fees | Revolut United Kingdom"
+  },
+  {
+   "url": "https://help.revolut.com/help/card-payments-withdrawals/getting-started-with-card-payments/can-i-pay-in-a-specific-currency/",
+   "title": "Fees for card payments in a foreign currency"
+  },
+  {
+   "url": "https://monzo.com/legal/premium/fee-information",
+   "title": "Fee Information"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/things-to-know-pre-and-post-trip",
+   "title": "Money Abroad: What To Know Before, During & After Your Trip"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "title": "Fee information - Monzomonzo.com › legal › fee-information"
+  },
+  {
+   "url": "https://monzo.com/learn/money-abroad/most-asked-travel-questions",
+   "title": "Your Most-Asked Travel Money Questions, Answered"
+  },
+  {
+   "url": "https://cdn.revolut.com/terms_and_conditions/pdf/notice_of_change_63b38090_1.0.0_1773685386_en.pdf",
+   "title": "NOTICE OF CHANGE - cdn.revolut.com"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/our-new-fees-and-allowances",
+   "title": "What fees do Monzo charge?"
+  },
+  {
+   "url": "https://www.revolut.com/blog/post/using-revolut-abroad/",
+   "title": "Using Revolut abroad: your guide to travel spending"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK travel abroad card fees ATM allowance 2026",
+  "Revolut UK standard plan ATM allowance foreign exchange fees weekend 2026",
+  "Monzo vs Revolut travel Europe UK 2026"
+ ],
+ "latency_s": 6.6,
+ "asked_at": "2026-11-21T17:41:47.591253+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

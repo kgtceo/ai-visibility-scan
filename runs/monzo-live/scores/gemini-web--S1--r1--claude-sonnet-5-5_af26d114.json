@@ -1,0 +1,86 @@
+{
+ "engine": "gemini-web",
+ "question_id": "S1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "You can move your current account, direct debits, and standing orders to Monzo using the UK's Current Account Switch Service (CASS).“"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can move your current account, direct debits, and standing orders to Monzo using the UK's Current Account Switch Service (CASS).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switching."
+   },
+   {
+    "text": "The switch takes 7 working days, is completely free, and is backed by a guarantee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers switch timing or guarantee."
+   },
+   {
+    "text": "Open the Monzo app and select Switch to Monzo, entering old sort code, account number and last 5 digits of the debit card.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App steps are not covered by the facts."
+   },
+   {
+    "text": "Stray payments sent to your old details are automatically redirected to Monzo for at least 3 years.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Redirection period not covered."
+   }
+  ]
+ },
+ "judge_error": null
+}

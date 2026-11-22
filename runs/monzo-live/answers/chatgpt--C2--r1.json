@@ -1,0 +1,42 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C2",
+ "run": 1,
+ "text": "**I’d pick Starling as the better all-round free UK current account.** Its free virtual cards, cheaper cash deposits and fee-free overseas ATM withdrawals give it the edge. **I’d pick Monzo instead** if you regularly split expenses with other people or want to organise your salary the moment it lands. ([starlingbank.com](https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai))\n\n| What matters to you | How the free accounts compare |\n|---|---|\n| **Budgeting** | Both let you set money aside. Monzo’s *Salary Sorter* can automatically divide your pay into Pots for rent, bills and spending. Starling lets you spend directly from a Space with a free virtual card; Monzo’s virtual cards start with Extra at £3/month. ([monzo.com](https://monzo.com/salary-sorter?utm_source=openai)) |\n| **Shared expenses** | **Monzo** is my pick for flatmates or group trips. Monzo Split tracks ongoing shared costs, and friends can join by link without opening a Monzo account. ([monzo.com](https://monzo.com/features/monzo-split?utm_source=openai)) |\n| **Travel** | If you mostly pay by card, it’s a tie: neither bank charges for overseas card purchases. For cash, **Starling** wins: it doesn’t charge for overseas withdrawals, while Monzo Free charges 3% after £200 in any 30 days outside the UK and European Economic Area. The ATM operator can still charge its own fee. ([starlingbank.com](https://www.starlingbank.com/travel/?utm_source=openai)) |\n| **Paying in cash** | **Starling** lets you deposit £1,000 per calendar year free at the Post Office, then charges 0.7% on the excess. Monzo charges £1 per deposit at a Post Office or PayPoint. ([starlingbank.com](https://www.starlingbank.com/features/post-office-branch-finder/?utm_source=openai)) |\n\nOne useful tie-breaker: if your employer pays by **Bacs**, Monzo lets you access your salary **one business day early**. If that or shared bills would help you every month and you rarely touch cash, I’d choose Monzo. Otherwise, Starling is my default. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai",
+   "title": "Virtual cards: Spend directly from a Space - Starling Bank | Starling"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter?utm_source=openai",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-split?utm_source=openai",
+   "title": "Monzo Split | Settle Up With Anyone | Split The Bill"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/?utm_source=openai",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/post-office-branch-finder/?utm_source=openai",
+   "title": "Post Office Branch Finder - Starling Bank | Starling"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK current account cash deposit fee ATM abroad £400 2026 salary early free pots budgeting",
+  "site:starlingbank.com current account free virtual cards Spaces travel no fees ATM abroad personal banking"
+ ],
+ "latency_s": 16.79,
+ "asked_at": "2026-11-21T16:56:58.217239+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

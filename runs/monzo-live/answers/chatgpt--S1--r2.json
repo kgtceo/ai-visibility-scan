@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "S1",
+ "run": 2,
+ "text": "Yes. If your old bank participates in the UK’s **Current Account Switch Service**, a free **full switch** to Monzo moves your existing Direct Debits automatically. **Don’t cancel them** or set them up again. A full switch also closes your old account. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n\n1. **Open a Monzo current account** if you don’t already have one. Check that Monzo and your old bank have the same address for you. ([monzo.com](https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai))\n2. **Start the switch in the Monzo app:** go to **Home**, tap the **three dots** on your account, then **Switch to Monzo**. Choose a switch date at least **seven working days** away. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n3. **Keep enough money in your old account** for bills due before the switch. If you need to set up a *new* Direct Debit during those final seven working days, use your Monzo details. On switch day, Monzo moves your remaining balance and existing payment arrangements, including standing orders. Incoming payments such as your salary are redirected. ([monzo.com](https://monzo.com/switch?utm_source=openai))\n\n**One thing to update yourself:** subscriptions charged to your old **debit card** aren’t Direct Debits. If a service uses your card number rather than your sort code and account number, give it your new Monzo card details. ([monzo.com](https://monzo.com/switch?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/switch?utm_source=openai",
+   "title": "Switch to Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/switching-to-monzo/cass-full-switch-what?utm_source=openai",
+   "title": "Monzo Help - How a full switch works"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com help switch Monzo full switch direct debits app UK seven working days balance partial"
+ ],
+ "latency_s": 11.87,
+ "asked_at": "2026-11-21T17:03:17.546576+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

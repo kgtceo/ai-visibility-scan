@@ -1,0 +1,98 @@
+{
+ "engine": "gemini-web",
+ "question_id": "T4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes, Monzo does freeze accounts. Like all UK-regulated banks, Monzo is legally required to monitor transactions"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo does freeze accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account freezes."
+   },
+   {
+    "text": "Monzo's UK customer support line is 0800 802 1281 (available 24/7).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover contact details."
+   },
+   {
+    "text": "You can email help@monzo.com from your registered email address.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers email contact."
+   },
+   {
+    "text": "Monzo has up to 8 weeks to investigate and respond to a formal complaint.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaint timelines are not in the facts."
+   },
+   {
+    "text": "Monzo staff are legally prohibited from telling you why your account is frozen while an investigation is underway.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "You can use In-App Chat via the Help tab to contact Monzo support.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "App support features are not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

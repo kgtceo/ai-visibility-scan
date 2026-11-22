@@ -1,0 +1,398 @@
+{
+ "engine": "grok",
+ "question_id": "D6",
+ "run": 2,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/",
+   "domain": "moneyfactscompare.co.uk",
+   "source_type": "other",
+   "title": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/"
+  },
+  {
+   "url": "https://www.lhv.com/",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/"
+  },
+  {
+   "url": "https://depositscout.com/banks/kroo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/kroo"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4413-flexdirect.pdf"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2265900/high-street-banks-paying-low-interest-savings",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2265900/high-street-banks-paying-low-interest-savings"
+  },
+  {
+   "url": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/high-interest-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/saving-for-your-future/savings-best-buy-tables/high-interest-current-accounts"
+  },
+  {
+   "url": "https://kroo.com/current-account/pots",
+   "domain": "kroo.com",
+   "source_type": "other",
+   "title": "https://kroo.com/current-account/pots"
+  },
+  {
+   "url": "https://depositscout.com/banks/lhv/easy-access-savings-account",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/banks/lhv/easy-access-savings-account"
+  },
+  {
+   "url": "https://rategrove.com/en-gb/bank-accounts/nationwide-flexdirect",
+   "domain": "rategrove.com",
+   "source_type": "other",
+   "title": "https://rategrove.com/en-gb/bank-accounts/nationwide-flexdirect"
+  },
+  {
+   "url": "https://www.lhv.com/legal/fees",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/legal/fees"
+  },
+  {
+   "url": "https://depositscout.com/savings/easy-access",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/savings/easy-access"
+  },
+  {
+   "url": "https://www.banks.guide/compare/current-accounts/",
+   "domain": "banks.guide",
+   "source_type": "other",
+   "title": "https://www.banks.guide/compare/current-accounts/"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/"
+  },
+  {
+   "url": "https://depositscout.com/guides/best-uk-savings-rates-october-2026",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "https://depositscout.com/guides/best-uk-savings-rates-october-2026"
+  },
+  {
+   "url": "https://www.investorschronicle.co.uk/content/f54de937-ae1c-56c4-84c1-731eaa2d4fe4",
+   "domain": "investorschronicle.co.uk",
+   "source_type": "other",
+   "title": "https://www.investorschronicle.co.uk/content/f54de937-ae1c-56c4-84c1-731eaa2d4fe4"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-savings-round-up-news/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/november-2026s-savings-round-up-news/"
+  },
+  {
+   "url": "https://brumdaily.uk/business/corporate-news/nationwide-ups-flexdirect-cashback-to-120-for-new-customers.html",
+   "domain": "brumdaily.uk",
+   "source_type": "other",
+   "title": "https://brumdaily.uk/business/corporate-news/nationwide-ups-flexdirect-cashback-to-120-for-new-customers.html"
+  },
+  {
+   "url": "https://www.lhv.com/about/news/lhv-bank-offers-no-strings-attached-current-account-paying-4-aer",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/about/news/lhv-bank-offers-no-strings-attached-current-account-paying-4-aer"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/best-current-accounts/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/best-current-accounts/"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/current-accounts/",
+   "domain": "moneynet.co.uk",
+   "source_type": "other",
+   "title": "https://www.moneynet.co.uk/current-accounts/"
+  },
+  {
+   "url": "https://tryabel.com/kroo-bank-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/kroo-bank-review/"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/how-to-get-more-than-5-interest-on-your-savings",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/how-to-get-more-than-5-interest-on-your-savings"
+  },
+  {
+   "url": "https://www.lhv.com/personal/accounts",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/personal/accounts"
+  },
+  {
+   "url": "https://www.lhv.com/personal/savings/easy-access-savings",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/personal/savings/easy-access-savings"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect/",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexdirect/"
+  },
+  {
+   "url": "https://ifamagazine.com/nationwide-upgrades-popular-flexdirect-current-account-offering-295-of-value-in-first-year/",
+   "domain": "ifamagazine.com",
+   "source_type": "other",
+   "title": "https://ifamagazine.com/nationwide-upgrades-popular-flexdirect-current-account-offering-295-of-value-in-first-year/"
+  },
+  {
+   "url": "https://kroo.com/current-account",
+   "domain": "kroo.com",
+   "source_type": "other",
+   "title": "https://kroo.com/current-account"
+  },
+  {
+   "url": "https://ifamagazine.com/savers-spoiled-for-choice-as-5-deals-surge-moneyfacts/",
+   "domain": "ifamagazine.com",
+   "source_type": "other",
+   "title": "https://ifamagazine.com/savers-spoiled-for-choice-as-5-deals-surge-moneyfacts/"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "domain": "bankinggeek.com",
+   "source_type": "other",
+   "title": "https://bankinggeek.com/en/current-account/"
+  },
+  {
+   "url": "https://web.kroo.com/current-account/interest-calculator",
+   "domain": "web.kroo.com",
+   "source_type": "other",
+   "title": "https://web.kroo.com/current-account/interest-calculator"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/current-accounts/flexdirect"
+  },
+  {
+   "url": "https://www.lhv.com/about/news/lhv-bank-tops-%C2%A31bn-in-deposits-as-simplicity-and-fair-value-win-customer-trust",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/about/news/lhv-bank-tops-%C2%A31bn-in-deposits-as-simplicity-and-fair-value-win-customer-trust"
+  },
+  {
+   "url": "https://rategrove.com/en-gb/bank-accounts/lhv-bank-current-account",
+   "domain": "rategrove.com",
+   "source_type": "other",
+   "title": "https://rategrove.com/en-gb/bank-accounts/lhv-bank-current-account"
+  },
+  {
+   "url": "https://www.finextra.com/latest-announcements?company=lhv+bank",
+   "domain": "finextra.com",
+   "source_type": "other",
+   "title": "https://www.finextra.com/latest-announcements?company=lhv+bank"
+  },
+  {
+   "url": "https://www.lhv.com/about/news/lhv-bank-launches-easy-access-savings-account",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/about/news/lhv-bank-launches-easy-access-savings-account"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/media/news/nationwide-upgrades-popular-flexdirect-current-account-offering-gbp-295-of-value-in-first-year",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "https://www.nationwide.co.uk/media/news/nationwide-upgrades-popular-flexdirect-current-account-offering-gbp-295-of-value-in-first-year"
+  },
+  {
+   "url": "https://getquids.co.uk/en/reviews/nationwide",
+   "domain": "getquids.co.uk",
+   "source_type": "other",
+   "title": "https://getquids.co.uk/en/reviews/nationwide"
+  },
+  {
+   "url": "https://www.moneyage.co.uk/Easy-access-rates-rise-for-first-time-since-July-to-254pc.php",
+   "domain": "moneyage.co.uk",
+   "source_type": "other",
+   "title": "https://www.moneyage.co.uk/Easy-access-rates-rise-for-first-time-since-July-to-254pc.php"
+  },
+  {
+   "url": "https://www.lhv.com/about/news",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/about/news"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/"
+  },
+  {
+   "url": "https://help.kroo.com/hc/en-gb/articles/51577985102993-What-is-the-12-month-promotional-interest-rate-offer",
+   "domain": "help.kroo.com",
+   "source_type": "other",
+   "title": "https://help.kroo.com/hc/en-gb/articles/51577985102993-What-is-the-12-month-promotional-interest-rate-offer"
+  },
+  {
+   "url": "https://www.express.co.uk/finance/personalfinance/2255304/bank-boosts-interest-rate-current-account",
+   "domain": "express.co.uk",
+   "source_type": "other",
+   "title": "https://www.express.co.uk/finance/personalfinance/2255304/bank-boosts-interest-rate-current-account"
+  },
+  {
+   "url": "https://compare100.com/nationwide-flexdirect-account/",
+   "domain": "compare100.com",
+   "source_type": "other",
+   "title": "https://compare100.com/nationwide-flexdirect-account/"
+  },
+  {
+   "url": "https://fr.trustpilot.com/review/lhv.com",
+   "domain": "fr.trustpilot.com",
+   "source_type": "review_comparison",
+   "title": "https://fr.trustpilot.com/review/lhv.com"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/"
+  },
+  {
+   "url": "https://www.lhv.com/help/personal",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/help/personal"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/news/article/6-ways-to-boost-your-instant-access-rate-if-your-provider-wont-ayi6k7A1g2V9"
+  },
+  {
+   "url": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-credit-interest/",
+   "domain": "moneynet.co.uk",
+   "source_type": "other",
+   "title": "https://www.moneynet.co.uk/current-accounts/current-accounts-best-credit-interest/"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-an4Fn8G6BTFK",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-high-interest-bank-accounts-an4Fn8G6BTFK"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/best-uk-current-accounts"
+  },
+  {
+   "url": "https://www.lhv.com/personal/savings/historic-interest-rates",
+   "domain": "lhv.com",
+   "source_type": "other",
+   "title": "https://www.lhv.com/personal/savings/historic-interest-rates"
+  },
+  {
+   "url": "https://ukrates.ratesonar.com/",
+   "domain": "ukrates.ratesonar.com",
+   "source_type": "other",
+   "title": "https://ukrates.ratesonar.com/"
+  },
+  {
+   "url": "https://www.zopa.com/current-account/interest-rates-compared",
+   "domain": "zopa.com",
+   "source_type": "other",
+   "title": "https://www.zopa.com/current-account/interest-rates-compared"
+  },
+  {
+   "url": "https://help.kroo.com/hc/en-gb/articles/51578206421009-Am-I-eligible-for-the-12-month-current-account-interest-rate-promotion",
+   "domain": "help.kroo.com",
+   "source_type": "other",
+   "title": "https://help.kroo.com/hc/en-gb/articles/51578206421009-Am-I-eligible-for-the-12-month-current-account-interest-rate-promotion"
+  },
+  {
+   "url": "https://help.kroo.com/hc/en-gb/articles/11938059132561-What-interest-rate-is-paid-on-current-account-balances",
+   "domain": "help.kroo.com",
+   "source_type": "other",
+   "title": "https://help.kroo.com/hc/en-gb/articles/11938059132561-What-interest-rate-is-paid-on-current-account-balances"
+  },
+  {
+   "url": "https://www.abcmoney.co.uk/2026/10/nationwide-flexdirect-account-upgrades-cashback-to-offer-new-switchers-370/",
+   "domain": "abcmoney.co.uk",
+   "source_type": "other",
+   "title": "https://www.abcmoney.co.uk/2026/10/nationwide-flexdirect-account-upgrades-cashback-to-offer-new-switchers-370/"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Nationwide FlexDirect currently offers the highest rate on a current account balance, at 5% AER (fixed) on up to £1,500"
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

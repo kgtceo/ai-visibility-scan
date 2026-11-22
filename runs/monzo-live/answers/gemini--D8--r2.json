@@ -1,0 +1,59 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D8",
+ "run": 2,
+ "text": "According to the **Competition and Markets Authority (CMA)** independent service quality survey (conducted by Ipsos), alongside regular polling by **Which?** and **MoneySavingExpert**, the UK banks with the best customer service fall into three distinct leaders depending on how you prefer to bank:\n\n---\n\n### 1. Best Overall & Best App-Based: **Monzo** and **Starling Bank**\n* **CMA Ranking:** 1st (Monzo) and 2nd (Starling).\n* **Why they win:** Both digital-only challenger banks consistently lead UK customer satisfaction surveys. Their customer support is primarily delivered via fast in-app chat with 24/7 access. The app interfaces are modern, dispute handling is straightforward, and response times are generally very fast compared to traditional high-street banks.\n* **Caveat:** Neither has physical branches. If you need to pay in large amounts of cash regularly or want to sit down across a desk from an adviser, they may not suit your needs.\n\n---\n\n### 2. Best for Telephone Support: **First Direct**\n* **CMA Ranking:** Consistently in the top 3.\n* **Why they win:** First Direct (a division of HSBC) has held a legendary reputation for customer service for decades. Their standout feature is **24/7 UK-based telephone banking**, where real human operators typically answer within a few rings without complicated automated phone menus. \n* **Perks:** Because they are part of HSBC, customers can use HSBC branches and cash machines to deposit cheques and cash.\n\n---\n\n### 3. Best for In-Person / High-Street Branches: **Nationwide Building Society**\n* **CMA Ranking:** Ranked **#1 for branch service**.\n* **Why they win:** Nationwide is technically a building society (owned by members, not shareholders), and it has made a public \"Branch Promise\" to maintain high-street presence across the country. If having access to a helpful person at a physical branch counter matters most to you, Nationwide ranks significantly higher than high-street competitors like Barclays, Lloyds, Santander, or HSBC.\n\n---\n\n### At the Other End of the Spectrum\nBy contrast, the banks that regularly rank near the bottom of the CMA surveys for personal current account service quality are **Virgin Money**, **Royal Bank of Scotland (RBS)**, and **TSB**.\n\n### Summary Recommendation\n* Choose **Monzo** or **Starling** if you want seamless mobile banking and app-based chat.\n* Choose **First Direct** if you want to pick up the phone and speak to a helpful human immediately.\n* Choose **Nationwide** if you prefer having a local branch you can walk into.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0RNqQ3ujHuzpMfLbiq6-VMnjfP20uihp0KOBxMu57QHt-557txAL5kk0WiDW_VF6U09uxqXkFuZnyWpKlFU1VA3yFqzbjH1TUFzaMkmgn3abxl4hTCW9DhZ9G0lcdxmhkjF3cYpSo1XBPCaeIhg7rFf4w5-snJ3ZoT0AFb3rEnO4n1YA_BSnZI8U5LR-lvKbXi_M=",
+   "title": "www.gov.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgkgwSK29TCOs7jKD7LwU-3z-f3uR3Z5ROxGPb4YzPKV47qH6xsR9qfXPqFZ6t4W-EUVg-UTw2yf3Cy6y9tZhan0zR-gWuN0bXemw6jWe-IS1UFLP9a6qy6uvPrf_h8wFZBXGidL4YINJ8aahSa3ZZbaizhQInsfDM0g==",
+   "title": "barclays.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLAjjbcAMCpV0ivExzv2RVMHrTDgH1Iya5I7n_sOwaw3qHd1g0ZTqK1Ji3QLFBBblSOeRO4hoDJNI3I18MZVkMrkMMlv7XrE-bAoESDEoyHWattel4ywTOo1xsc2_MUvf8m9Zo3CrqeXrE0zSYxZOK1ORMrjYJWpYfzhv3IL_rxwhCkzRIFJxERWM2Va8FuZ0svmCEwmxn9NjYM7h48A==",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJAyQrz2KE9ezK60rDTRAhOf3iP8cLyBtzAUJNc5cMkoyPqzf01Zn4G9pgcuUxbpURyLbMdU_h8zApYJjJNFr5WCHOdX8_gOUO22BXu_j1Nz_IP6C5t9l0rbiyg0q_1D_fYnFR578s4WoQBInqGpg83Bd4avXc2jxMXe4=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8VFxTDpDqBfM435zXDQFH45kzuuipU4othDkUUkHKlkGFNml2hHV4pi3Q2ILoe-KZ00GegUrvdEPWbTeDoeiHDkVzUOuyr10r4c_rwek0QlcUwMNBtbLGWVQGUNHJBQqtkzZvsXXZWLtrskWYLMbZutPhkZjJHqDbSfABE2r89WWnOBmNcpsSrYtyu_tng39nOvDcZqYcZEwATGuRJGAoRgLgYP4VaqRV",
+   "title": "wired-gov.net"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc6PH4_rQG8NgD1wv6phGxF6K4KAcK_Qq1RrkQw8soMVmBc_GTKHGMJN5-w3Vz5nOUGuCniVERWnL9tolr3COX3EeCZpBPXHPWNieWENl6_YxnlDngLPjOQzD9c-3L5kFEPw-0c9COMwBzoU-1MgORUTJlADXvZX-t",
+   "title": "clearscore.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOmwHHbDWmbrf8JwexL5ITaoe1TeRmrThzZg54iz3nqLQVqyi30UDkWGaSMs5eup-OX5VsIBUsyMif64iqPd0PK9SJz7vNvmMudMyTlmmtla8jLp-glsJHqXH6PH_P",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDMqiPilt1UrA1cRYLqCzL82h5VLp3JZ8V3z-XgiKSq0EhfGx_zIoouXVfarbGKnDWhafeCy3xnPqMYbVLIriX4vTUsTFAbSLLmvtJkkha825doIrvMXS6Bzm9_R7IYlaXMMrz5GVefEMJ3t-uE6-HUkIje_eOQ7z963ZfqrEAaZ6lXHKg1zlk8GInufq3KDfWzTe6ANYbXvbZWkafNMlH",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__zZ3jMhBPmSdHDxNsJRqGan7OsdpaqmxsMQ1pXnxHgUXiT4HmtDaKm7iPSUa4y49UnFA3evkujN7mq6rLCNVa_WPI2BYii1wewFaDy7ETrDORLGteI_bsO_4OSxy3MCMSMJpdoEm1_ZqkCYrr5QOETw=",
+   "title": "lloydsbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL8tltIypaTbMPg5aFh2O4Be3GX6Txi8rtu23WPXyXmTxsXYv3necp-8tnArByruwV2TGT8xq3vQjx6qMga2uy2zzUkpn9SFEOLznEp0VUAwIrEdK6yzdaVIg5l0pGiQFpcye7-eX13z27Q0tK5TlmQCGxCqFAnhjRDj-qLi8ls5LMu106bh2gzdrRrlyYKggOZiZXBOuJ",
+   "title": "retailbankerinternational.com"
+  }
+ ],
+ "search_queries": [
+  "CMA personal banking service quality survey results",
+  "Which best bank customer service UK"
+ ],
+ "latency_s": 18.23,
+ "asked_at": "2026-11-21T17:50:31.822304+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

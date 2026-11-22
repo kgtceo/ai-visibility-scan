@@ -1,0 +1,21 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H2",
+ "run": 2,
+ "text": "**Card spending: no Monzo fee.** When you pay abroad with your UK Monzo debit card, Monzo uses Mastercard’s exchange rate without adding a fee. If a shop offers to charge you in pounds, **choose the local currency** so you don’t get the shop’s exchange rate instead. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?trk=public_post_comment-text))\n\n**Cash withdrawals: it depends on your account and where you withdraw.** These are Monzo’s fee-free allowances per rolling 30 days. If you go over your allowance, Monzo charges **3% on the amount over it**. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?trk=public_post_comment-text))\n\n| Your Monzo personal account | UK and European Economic Area (EEA) | Outside the UK and EEA |\n|---|---:|---:|\n| Free account — not your main bank | £400 | £200 |\n| Free account — your main bank | Unlimited | £200 |\n| Extra | Unlimited | £200 |\n| Plus | Unlimited | £400 |\n| Premium, Perks or Max | Unlimited | £600 |\n\nThe EEA includes all EU countries plus Iceland, Liechtenstein and Norway. You can check your remaining allowance in the Monzo app under **your account → ⋯ → Fees and allowances**. Even within your allowance, the ATM operator may charge a separate fee. ([monzo.com](https://monzo.com/help/travelling/understanding-fees?trk=public_post_comment-text))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?trk=public_post_comment-text",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK fees abroad cash withdrawals EEA main bank £400 £200 £600 Monzo current account spending abroad fees"
+ ],
+ "latency_s": 10.78,
+ "asked_at": "2026-11-21T17:00:05.831877+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

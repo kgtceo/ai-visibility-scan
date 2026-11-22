@@ -1,0 +1,19 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "D1",
+ "run": 1,
+ "text": "The best UK bank account for everyday spending depends on whether you want cashback on card purchases, cashback on household bills, or smart budgeting tools.\n\nFor most people looking purely at everyday debit card spending, Chase UK is the top choice because it offers ongoing cashback with no monthly fee. However, several strong alternatives win depending on how you manage your money:   \nMoney To The Masses\n\nAccount\tMonthly Fee\tEveryday Spending Perks\tKey Extras & Trade-offs\tBest For\nChase UK Current Account\t£0\tCashback on eligible everyday debit card spending\tFee-free overseas spending, 5% AER round-up savings pot, and strong app budgeting. No overdraft or physical branches.\tEveryday card spending & budgeting\nZopa Biscuit\t£0\t3% cashback on household bills + 1% in-credit interest\tFee-free overseas card use and easy-access savings pots. App-only with no overdraft facility.\tHousehold bills & earning balance interest\nSantander Edge\t£3\t1% cashback on eligible bills (up to £10/month)\tAccess to a 6.00% AER linked saver (up to £4,000) and fee-free foreign card spending. Requires £500/month pay-in and 2 Direct Debits.\tAll-round bills & savings\nStarling Bank\t£0\tNone (0% cashback)\tMarket-leading budgeting Spaces, instant spending notifications, fee-free overseas spending/ATM withdrawals, and 24/7 UK support.\tApp-based budgeting & travel\nFirst Direct 1st Account\t£0\tNone (0% cashback)\tTop-rated UK customer service, £250 interest-free overdraft, fee-free overseas card spending, and a 7.00% regular saver.\tCustomer service & overdraft buffer\nHow to Choose\n\nIf you spend heavily on your debit card: Go with Chase UK. Because it is a separate app-based account with no overdraft, many people keep their main high-street bank for salary and Direct Debits, and transfer a weekly or monthly spending allowance to Chase to earn cashback.\n\nIf your main outgoing is household bills: Zopa Biscuit (fee-free) or Santander Edge (£3/month) will usually earn you more back on council tax, energy, and broadband Direct Debits than card cashback would.\n\nIf you want upfront switching cash: If you are willing to use the Current Account Switch Service (CASS) to move an existing account, Barclays (up to £300), Santander (£240), and First Direct (£210) are currently offering substantial cash bonuses.\n\nNote: All banks listed above are UK-regulated and protect deposits up to £120,000 under the Financial Services Compensation Scheme (FSCS).\n\nHow would you like to tailor your bank choice?\nStep 1/3\nSelect what matters most for your everyday account\nPrimary Priorities\nMaximising cashback on card spending\nCashback on Direct Debits & bills\nFee-free spending abroad\nUpfront cash switching bonus\nAccount Features\nInterest-free overdraft buffer\nHigh-interest linked savings\nPhysical high-street branches\n Skip \nNext",
+ "citations": [
+  {
+   "url": "https://moneytothemasses.com/banking/best-uk-current-accounts",
+   "title": "Money To The Masses Best UK current accounts - Banking - Money To The Masses “Table_title: Best UK bank accounts - a comparison Table_content: | Provider | Acco"
+  }
+ ],
+ "search_queries": [],
+ "latency_s": 27.25,
+ "asked_at": "2026-11-21T13:29:47.917041+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}

@@ -1,0 +1,81 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D3",
+ "run": 2,
+ "text": "**For most people, Monzo is the best all-round choice for budgeting and savings pots.** Its regular Pots are useful for separating bills and spending money, while Savings Pots earn interest. You can automate saving with recurring transfers and round-ups, and set bills to come from a Pot. Some extras, such as custom categories, are on paid plans.\n\n**Choose Starling if you prefer a straightforward setup.** Its Spaces help you organise money for bills or goals, and virtual cards linked to a Space can help you stick to a spending limit. Check whether the specific Space or saver account you choose earns interest; don’t assume all money set aside does.\n\n**Choose Chase if your priority is savings accounts and round-ups.** Its savings pots are separate saver accounts, and it can round up spending into a savings account. It may be less suited than Monzo if you want detailed day-to-day budgeting.\n\n**My quick take:** Monzo for budgeting plus pots; Starling for simple envelopes and spending control; Chase for a savings-focused setup. Compare the current interest rate, withdrawal rules, and any account fees before moving savings—rates and terms change. Also check FSCS protection and remember the limit applies across eligible deposits you hold with the same banking group.",
+ "citations": [
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/saving-pots/",
+   "title": "What is a savings pot and how can they be used?"
+  },
+  {
+   "url": "https://monzo.com/features/pots",
+   "title": "Monzo Pots | Separate Your Money However You Like"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/instant-access",
+   "title": "Instant Access Savings Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas",
+   "title": "Compare ISAs & Savings Accounts | Monzo"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://monzo.com/",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/blog/looking-for-a-budgeting-app-supercharge-your-savings-and-budget-better-with",
+   "title": "Looking for a budgeting app? Supercharge your savings ... - Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/instant-access-savings-pots-web",
+   "title": "What are Instant Access Savings Pots?"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/fixed-rate",
+   "title": "Fixed Rate Savings Account | Fixed Term Savings"
+  },
+  {
+   "url": "https://enginebystarling.com/mobile-sdks/savings-and-budgeting-features/",
+   "title": "Saving and Budgeting Features"
+  },
+  {
+   "url": "https://monzo.com/gb/help/budgeting-overdrafts-savings",
+   "title": "Opening pots, budgeting and saving - Monzo USA"
+  },
+  {
+   "url": "https://www.starlingbank.com/",
+   "title": "Starling | Award-winning bank accounts"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/pot-type-explanation",
+   "title": "What’s the difference between a Regular Pot, a Savings Pot ..."
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "title": "Monzo Extra | The Bank Account for Budgeting for £3 a Month"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/hub/how-to-save-for-a-mortgage/",
+   "title": "How to start saving for a mortgage deposit"
+  }
+ ],
+ "search_queries": [
+  "UK bank budgeting tools savings pots 2026 Monzo Starling Chase",
+  "Monzo savings pots budgeting features UK FSCS",
+  "Starling Spaces budgeting features UK FSCS",
+  "Chase UK savings pots budgeting tools 2026"
+ ],
+ "latency_s": 5.84,
+ "asked_at": "2026-11-21T17:40:19.344951+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "C2",
+ "run": 2,
+ "text": "**Short answer: Starling is the better all-rounder for most people; Monzo is better if you want richer budgeting tools and a more feature-packed app.**\n\n| | **Starling** | **Monzo** |\n|---|---|---|\n| Monthly fee | Free | Free; optional paid plans |\n| Spending abroad | No Starling fees for card spending or cash withdrawals | No foreign card-spending fees; cash-withdrawal limits can apply, especially outside the EEA |\n| Cash deposits | Free up to £1,000 per calendar year, then a charge applies | Usually £1 per deposit; some paid plans include free deposits |\n| Budgeting | Spaces and spending insights | Pots and more extensive budgeting features |\n| Savings | Linked savings options; rates vary | Savings Pots and rates that can vary by plan and account |\n| Protection | Eligible deposits covered by FSCS | Eligible deposits covered by FSCS |\n\n**Choose Starling** if you travel, sometimes need cash, or want a straightforward free account with fewer withdrawal restrictions abroad.\n\n**Choose Monzo** if budgeting features, Pots, or its wider app ecosystem matter more to you—and check the current plan terms before paying for extras.\n\nBoth are UK-licensed banks, and eligible deposits are protected by the FSCS up to the applicable limit. Savings rates and fees change, so verify the latest terms before switching. A common practical choice is to keep your existing account and try one of them as a second account first.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/compare-best-bank-accounts/",
+   "title": "The best bank accounts: Compare current accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://monzo.com/?roistat_visit=2540962",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/starling-vs-monzo",
+   "title": "Starling vs Monzo | Which is better for fees & features?"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/?msockid=353040040127624e282b581400da63ae",
+   "title": "Monzo Bank Current Accounts | MoneySuperMarket"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling",
+   "title": "Monzo vs Starling Business (2026) — Which Should You Open?"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/starling-bank/",
+   "title": "Starling Bank Current Accounts"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "title": "Monzo Review 2026"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "title": "Monzo vs Starling Bank: which digital bank is better in 2026?"
+  }
+ ],
+ "search_queries": [
+  "Monzo personal current account fees travel cash deposit savings 2026",
+  "Starling personal current account fees travel cash deposit savings 2026",
+  "Monzo vs Starling UK comparison 2026 customer service FSCS"
+ ],
+ "latency_s": 5.74,
+ "asked_at": "2026-11-21T17:41:40.987485+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

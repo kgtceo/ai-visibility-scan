@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H1",
+ "run": 1,
+ "text": "**Short answer: Extra can be worth £3; Perks is worth it only if you use its extras; Max can be good value if you’d otherwise buy similar insurance.** The right choice depends more on what you’ll actually use than on the headline value of the benefits.\n\n| Plan | Price | Likely worth it if… |\n|---|---:|---|\n| **Extra** | **£3/month** | You’ll use the virtual cards, connected accounts or budgeting tools. |\n| **Perks** | **£9/month** | You’ll regularly use several of the included treats or memberships, or the savings-rate boost benefits you. |\n| **Max** | **£19/month** | You need travel, phone and breakdown cover and the policy terms suit you. |\n\n### A quick way to judge\n\n- **Extra:** £36 a year. Treat it as a convenience subscription, not a way to earn money. The extra tools need to be useful to you to justify the fee.\n- **Perks:** £108 a year. Add up only benefits you’d genuinely use. An annual Railcard, Uber One, Greggs treats, a Vue ticket and YouTube Premium Lite are included, but they’re not worth their retail price if you wouldn’t otherwise buy them. The savings-rate boost can help, but compare the *difference* in interest against £108 a year—not just the advertised rate.\n- **Max:** £228 a year, or **£276 with family cover**. Compare that with separate travel, phone and breakdown policies you’d actually buy. Check the exclusions, excesses, age eligibility and whether your existing cover (including through another account, credit card or home insurance) makes parts of Max redundant. The plan is for ages 18–69 and has a three-month minimum term.\n\n**My rule of thumb:** choose Extra for tools you’ll use; choose Perks only if a few perks are genuinely part of your routine; choose Max only after comparing insurance cover and exclusions with standalone policies. If you’re unsure, Monzo Free avoids paying for benefits you may not use. Rates and terms can change, so check the current plan details before signing up.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/max",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-perks/monzo-plan-price-change",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information ..."
+  },
+  {
+   "url": "https://monzo.com/current-account/perks",
+   "title": "Monzo Perks | Our Bank Account with Benefits for £9 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/extra",
+   "title": "Monzo Extra | The Bank Account for Budgeting for £3 a Month"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information/version-1-5",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/plus-premium-plan-price-changes",
+   "title": "Monzo Plus and Premium: Information about our plan price ..."
+  },
+  {
+   "url": "https://monzo.com/",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/basic-vs-packaged-current-accounts",
+   "title": "Differences Between Basic and Packaged Bank Accounts"
+  },
+  {
+   "url": "https://community.monzo.com/t/introducing-new-perks-on-monzo-perks-and-max-youtube-premium-lite-just-added/170606?page=29",
+   "title": "Introducing new perks on Monzo Perks and Max 🍿🚇🚕▶️ ..."
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/",
+   "title": "Monzo Bank Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/make-monzo-more-you",
+   "title": "Introducing Plans | Make Monzo More You"
+  },
+  {
+   "url": "https://www.tryabel.com/monzo-paid-plans-worth-it/",
+   "title": "Are Monzo's Paid Plans Worth It? Extra, Perks, Max"
+  },
+  {
+   "url": "https://monzo.com/static/docs/premium/monzo-premium-axa-ipid.pdf",
+   "title": "TRAVEL INSURANCE"
+  },
+  {
+   "url": "https://thefintechmag.com/monzo-plus-price-rise-worth-it/",
+   "title": "Is Monzo Plus Still Worth It at £6? Keep, Switch or Cancel"
+  }
+ ],
+ "search_queries": [
+  "Monzo paid plans prices Extra Perks Max UK 2026",
+  "Monzo current plans benefits fees travel insurance UK",
+  "Monzo paid plan comparison official"
+ ],
+ "latency_s": 6.07,
+ "asked_at": "2026-11-21T17:42:27.573472+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

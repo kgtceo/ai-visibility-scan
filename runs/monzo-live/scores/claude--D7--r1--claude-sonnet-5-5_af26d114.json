@@ -1,0 +1,167 @@
+{
+ "engine": "claude",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://capitalise.com/gb/insights/business-banking/best-sole-trader-bank-account",
+   "domain": "capitalise.com",
+   "source_type": "other",
+   "title": "Best Sole Trader Bank Accounts UK 2026: Free & Low Cost Picks"
+  },
+  {
+   "url": "https://wise.com/gb/blog/self-employed-business-account",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "Best Self-Employed Business Accounts (UK - 2026) - Wise"
+  },
+  {
+   "url": "https://nomorejanuary.co.uk/get-help/best-business-bank-accounts-sole-trader/",
+   "domain": "nomorejanuary.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Accounts for Sole Traders in the UK (2026 ..."
+  },
+  {
+   "url": "https://www.businesscomparison.com/blog/banking-finance/best-business-bank-accounts-sole-traders",
+   "domain": "businesscomparison.com",
+   "source_type": "other",
+   "title": "Best business bank accounts for sole traders 2026"
+  },
+  {
+   "url": "https://soletraderguide.co.uk/blog/best-business-bank-accounts-uk-sole-traders-2026",
+   "domain": "soletraderguide.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Accounts for UK Sole Traders (2026)"
+  },
+  {
+   "url": "https://bookkeepertools.uk/best-business-bank-account-uk-sole-traders-2026/",
+   "domain": "bookkeepertools.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Account for UK Sole Traders (2026)"
+  },
+  {
+   "url": "https://www.zemplerbank.com/resources/business-banking/best-business-accounts-small-business/",
+   "domain": "zemplerbank.com",
+   "source_type": "other",
+   "title": "Best bank accounts for small businesses UK"
+  },
+  {
+   "url": "https://smallbusiness.co.uk/best-business-bank-accounts-for-sole-traders-2563034/",
+   "domain": "smallbusiness.co.uk",
+   "source_type": "other",
+   "title": "Best business bank accounts for sole traders - Small Business UK"
+  },
+  {
+   "url": "https://www.taxtrends.co.uk/gb/best-business-bank-account-uk-2026/",
+   "domain": "taxtrends.co.uk",
+   "source_type": "other",
+   "title": "Best Business Bank Account UK 2026: Revolut Business vs Wise vs ..."
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for a nicer app and room to grow: Monzo Business"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling is the best all-round choice."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Revolut Business is widely used by sole traders and freelancers who need stronger international payment features."
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Business Lite has no monthly fee.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover personal plans, not business plans."
+   },
+   {
+    "text": "Lite is free, Pro is £9 and Team starts at £25.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Facts give personal plan prices (Perks £9); business plan pricing is not covered."
+   },
+   {
+    "text": "MTD filing is included on the free Lite plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Cash deposits cost £1 each, capped at £3,000 a month for sole traders.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Accounting integrations need the Pro plan.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "One comparison lists Starling, Mettle and Monzo as FSCS protected.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Monzo deposits are FSCS protected."
+   }
+  ]
+ },
+ "judge_error": null
+}

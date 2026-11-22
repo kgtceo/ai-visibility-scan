@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D4",
+ "run": 2,
+ "text": "**Starling’s free current account debit card is probably the best all-round pick** if you want no bank fees for both purchases and cash withdrawals abroad. It uses Mastercard’s exchange rate, has no monthly account fee, and Starling says it doesn’t add overseas transaction or ATM-withdrawal fees. Cash withdrawals are subject to a £300-a-day equivalent limit; the ATM operator may still charge its own fee.\n\nOther good options:\n\n- **Chase:** no fees for overseas card spending or cash withdrawals, but withdrawals abroad have a £1,500 monthly limit.\n- **First Direct:** no fees on foreign purchases or cash withdrawals; its overseas ATM limit is £500 per day.\n- **Monzo:** no foreign transaction fee on purchases, but free cash withdrawals are limited—on the free plan, £200 every 30 days outside the EEA, then a 3% fee.\n\n**Bottom line:** Choose Starling if you want the simplest fee-free option for spending and cash. At card terminals and ATMs, choose to pay or withdraw in the **local currency**, not pounds; that usually avoids the merchant’s or ATM’s less favourable conversion rate. The provider may have changed its terms, so check the current limits before travelling.",
+ "citations": [
+  {
+   "url": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad",
+   "title": "Fees for using your card in a foreign currency"
+  },
+  {
+   "url": "https://www.lloydsbank.com/travel/using-debit-credit-cards-abroad.html",
+   "title": "Using Debit Credit Cards Abroad"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/credit-cards/best-debit-card-to-use-abroad/",
+   "title": "Best Debit Cards To Use Abroad"
+  },
+  {
+   "url": "https://monzo.com/features/travel",
+   "title": "Fee-free Debit & Credit Cards Made for Travel"
+  },
+  {
+   "url": "https://www.halifax.co.uk/travel/using-debit-credit-cards-abroad.html?pagetabs=0",
+   "title": "Using debit and credit cards abroad"
+  },
+  {
+   "url": "https://www.starlingbank.com/travel/",
+   "title": "Travel Money | The Perfect Debit Card to Use Abroad"
+  },
+  {
+   "url": "https://wise.com/gb/blog/debit-cards-with-no-foreign-transaction-fee",
+   "title": "Best UK debit cards with no foreign transaction fee"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-debit-cards-to-use-abroad-aAXDc0x3A22B",
+   "title": "Best debit cards to use abroad 2026 - Banking - Which.co.uk"
+  },
+  {
+   "url": "https://www.firstdirect.com/banking/travel-debit-card/",
+   "title": "Travel Debit Card | Fee Free Card To Use Abroad"
+  },
+  {
+   "url": "https://www.ulsterbank.co.uk/travel/spending-abroad.html",
+   "title": "Spending abroad | Using your card on holiday - Ulster Bank"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/debit-cards-low-foreign-transaction-fees",
+   "title": "Best UK debit cards and banks to use abroad with no foreign transaction fees"
+  },
+  {
+   "url": "https://www.which.co.uk/money/credit-cards-and-loans/credit-cards/best-credit-card-deals/best-travel-credit-cards-aHLGN5d6y8JR",
+   "title": "Best travel credit cards 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.aph.com/community/holidays/using-your-debit-card-abroad-foreign-transaction-fees-for-16-uk-banks-compared/",
+   "title": "Debit Card Fees Abroad: 16 UK Banks Compared"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/best-bank-accounts-to-use-abroad/",
+   "title": "Best bank accounts to use abroad"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/credit-cards/revealed-3-best-debit-cards-use-abroad",
+   "title": "Travel debit cards: how to avoid overseas fees"
+  }
+ ],
+ "search_queries": [
+  "best UK debit card abroad no fees 2026 travel spending",
+  "UK bank debit card no foreign transaction fees 2026 Starling Chase Monzo",
+  "UK travel debit card overseas cash withdrawals fees 2026"
+ ],
+ "latency_s": 4.93,
+ "asked_at": "2026-11-21T17:40:30.177995+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,34 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D3",
+ "run": 2,
+ "text": "**I’d pick Starling Bank for budgeting and saving pots.** The deciding feature is that you can *spend directly from a pot* using a free virtual debit card. If you put £80 in a Groceries Space, the linked card can only spend that £80; it won’t dip into your bills money. You can have up to five of these cards. ([starlingbank.com](https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai))\n\nI’d set it up with three pots:\n\n- **Bills:** Use a Regular Space for Direct Debits and standing orders, so money earmarked for bills stays out of your day-to-day balance. ([starlingbank.com](https://www.starlingbank.com/features/bills-manager/?utm_source=openai))\n- **Groceries:** Set up a weekly transfer into a Regular Space and add its virtual card to your phone for the weekly shop. ([help.starlingbank.com](https://help.starlingbank.com/personal/topics/account-support/what-are-starling-spaces/?utm_source=openai))\n- **Emergency fund or holiday:** Use an **Easy Saver Space** rather than a Regular Space, so the money earns interest while you build towards a target. ([help.starlingbank.com](https://help.starlingbank.com/personal/topics/account-support/what-are-starling-spaces/?utm_source=openai))\n\n**I’d choose Monzo instead if your main goal is “split my pay, then let me spend what’s left”.** Its free Salary Sorter automatically divides incoming pay between bills, savings and spending once you’ve set it up. Use an Instant Access Savings Pot for money you want to earn interest; Regular Pots pay none. The trade-off is that spending directly from a Pot by virtual card requires a paid plan. ([monzo.com](https://monzo.com/salary-sorter?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.starlingbank.com/features/virtual-cards/?dm_i=4Q2Y%2CQIUT%2C53HT0N%2C39RIC%2C1&utm_source=openai",
+   "title": "Virtual cards: Spend directly from a Space - Starling Bank | Starling"
+  },
+  {
+   "url": "https://www.starlingbank.com/features/bills-manager/?utm_source=openai",
+   "title": "Bills Manager: All your bills in one place | Starling"
+  },
+  {
+   "url": "https://help.starlingbank.com/personal/topics/account-support/what-are-starling-spaces/?utm_source=openai",
+   "title": "What are Starling Spaces? - Starling Help"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter?utm_source=openai",
+   "title": "Salary Sorter | Put Your Money Where it Needs to be"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com uk free current account pots salary sorter bills regular pots instant access savings interest free budgeting trends",
+  "site:starlingbank.com free virtual cards spend from spaces personal five free groceries"
+ ],
+ "latency_s": 15.8,
+ "asked_at": "2026-11-21T16:53:34.170824+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

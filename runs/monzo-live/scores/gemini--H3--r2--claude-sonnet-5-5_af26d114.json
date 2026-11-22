@@ -1,0 +1,165 @@
+{
+ "engine": "gemini",
+ "question_id": "H3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF90ZBMg2qPLZaGSkunzS430t2hvm8gDnMYQZ2Pm8HGDYWkhDa8AvBF85mg5DlpdFfg3o3QrK56CsLj0WdxYDFdB6Fy47-KiRLS_D-oz9WCvpdTEgzEvuyVsx2UKr0O2ViGfXgC",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG187qRRC8U8z4C7poCeIx5qbXl6YN5DZGkcCKFMvszv1D2SCl6Wy5nox5VuMVpA29g70opj92QrG8koe3hbTnn7SBiUp00_CRDEXfCvxcPlX9WSkKu3E6YZnLqEVi_CeiBXvXbpA==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRFzsNeSbuF1BSIjcanFgmnRSZufDCmhlcfgCidgFJW4vHKqKv_TPWqFrBwn1WPbi2O44GEDsXYE0Vz01x21jZLbcO3kyYNMIpjjO9Abk2S0VsKrzcrn-IvPc8kuwe0hTPsag=",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjzIZkBFXWFWM0NlFf1VRPbdMZunqlLBD0LGY7SAnM_wzHXfM7MI0TButqLpR6M15-WEkffhVC5_yX7JZ8Xx9lOmsgg5TcmDMxUhS7pRqZuLpi3hSlC99yuCknjg==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpu5AQWvEzzoLKLrGWR9GbjGaUQnwsMP5IJKWAq_x_oOjDsmNrT6TXj6A19R42WGo6ckWB2c8hXC9q09ES87Twf4FrO2LbFcPQlVLtfiyTkRlbmyG_bbaxJLg=",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDZGG6gylx1ylgmzvuXhsQheathuHA5kjHY_KweNDYh1OYBltH00Q635qaTLbigUXTaOhYNL_PqM9LLxeJcYu7mx-zk0hmvuVKIYzhw6CF4FxLRKVEg-F_y3RG-3LnX3HBS2XNsW1ZP51qheZvZxnRvYHc6A==",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "depositscout.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo offers tax-free Cash ISA versions (Instant Access, Select Access, and Fixed ISAs) that mirror these rates"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Free (Standard) Instant Access Savings rate is 2.80% AER variable",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan rate."
+   },
+   {
+    "text": "Monzo Extra costs £3 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks costs £9 a month",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Max / Max Family costs £17–£19 a month",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "Range includes the 'from £19' figure, so not contradicted."
+   },
+   {
+    "text": "Monzo Extra Instant Access rate is 3.15%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers paid plan rates."
+   },
+   {
+    "text": "Monzo Perks Instant Access rate is 3.55%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Max Instant Access rate is 3.80%",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Select Access Savings Pot pays 3.45% for Free/Extra and 3.70% for Perks/Max, dropping on a 3rd withdrawal",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "1-Year Fixed Pot typically pays around 4.50%–4.70% AER",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Cash ISAs (Instant Access, Select Access, Fixed) with a £20,000 annual allowance",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo app offers third-party marketplace pots with Paragon Bank, Charter Savings Bank, OakNorth",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

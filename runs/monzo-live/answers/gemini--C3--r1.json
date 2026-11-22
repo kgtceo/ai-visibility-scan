@@ -1,0 +1,55 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C3",
+ "run": 1,
+ "text": "For spending in Europe as a UK resident, **Monzo is generally the better, hassle-free option for most people**, although **Revolut has specific perks if you like to manage and hold foreign currency in advance.** \n\nA breakdown of how their standard (free) accounts compare helps clarify which to choose:\n\n---\n\n### 1. Spending and Exchange Rates\n* **Monzo:** Passes on the **Mastercard exchange rate with 0% fee**, 7 days a week. There are no monthly caps on how much you can spend on card purchases abroad.\n* **Revolut:** Uses its own interbank rate, which on weekdays can sometimes be marginally better than Mastercard’s rate. However, on the free tier, there is a **£1,000 rolling monthly limit** on currency exchanges (a 1% fee applies afterwards).\n* **Winner: Monzo.** You can spend as much as you want without worrying about limits or which day of the week it is.\n\n### 2. The Weekend Markup (A Major Catch with Revolut)\n* **Monzo:** **No weekend markup.** You get the standard Mastercard rate 24/7.\n* **Revolut:** The foreign exchange markets close on weekends. Because of this, Revolut charges an extra **1% fee on all currency conversions between Friday evening (5 PM ET) and Sunday evening (6 PM ET)** on its Standard plan. \n* **Winner: Monzo.** Weekend hotel checkouts, dining, or shopping with Revolut will incur a surcharge unless you pre-convert your money during the week.\n\n### 3. ATM Cash Withdrawals in Europe (EEA)\n* **Monzo:** \n  * If Monzo is **not** your main bank: Fee-free up to **£400 every 30 days** in the EEA (3% fee afterwards).\n  * If Monzo is your main bank (or you have a paid tier): **Unlimited fee-free cash withdrawals** within the European Economic Area.\n* **Revolut:** Standard tier allows up to **£200 or 5 withdrawals per rolling month** (whichever comes first), then a 2% fee (minimum £1). (Plus the 1% markup applies if withdrawing on a weekend.)\n* **Winner: Monzo.** Monzo gives at least double the allowance for European trips.\n\n### 4. Holding Multi-Currency Balances\n* **Revolut:** Allows you to hold 30+ separate currency \"pockets.\" You can convert GBP into Euros on a Tuesday when the rate is favourable, store it, and spend directly from your Euro balance over the weekend with no fees.\n* **Monzo:** Does not support holding balances in foreign currencies. Your money remains in GBP, and each transaction converts on the fly at the current rate.\n* **Winner: Revolut.** Great if you like locking in exchange rates or frequently transfer money between EUR and GBP bank accounts.\n\n### 5. Protection and Security\n* **Monzo:** A fully licensed UK retail bank. Your money is protected up to £85,000 by the **Financial Services Compensation Scheme (FSCS)**.\n* **Revolut:** Currently in a mobilisation stage for its UK banking licence, meaning customer balances are safeguarded under e-money regulations rather than covered by the FSCS. Revolut does, however, offer disposable virtual cards, which are great for booking activities on local foreign websites.\n* **Winner: Monzo.** \n\n---\n\n### The Verdict\n\n* **Choose Monzo if:** You want a completely frictionless card. You just load it with Pounds, swipe it in Europe anytime (including weekends), get a solid exchange rate, and never have to calculate mark",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDynTptnJcX2FZH79kiK92wEbsqeAnvtHUAepFDsN4Sp04wQVsI3K3KOCeG6F7jqVAbteg2mqi8iHL1jLzKBfsOXDOqdFLKHS4j2oro5ixbYE0FrHjurWWc97khpaAOdOEnyA7_SfgZs2n",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6i6u8uFNimGfYJmKE00O7M5qUOk66_z2movih7A3bC-N-AwMRk37iWmBq0BN-Udu_YWtqI8qZi2rKB12lqFM3YMaxHrpia-sxcXGF-zx3gf9fTEY2RqY=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1kZEl54Viw0mOdAENgR-7uBEpbXUzwVxvhzfOGVBtddbWS24EQxIYZPh8XPXlgYZ66LoXJpPy-_SPmvAqHhDgPUH6kKcYvY1Pu5CGE7-YZ-JkEcZGzRxrmQyRia33co4aqovLulDZdmHop-K-kOvHaAykEJ5LO-imMN4JUFFc5HH4LQWv4ngns5ily1F",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzEn_oyw54blJiFhVGsy8w1cCwnYHpCHFZPJRg5opsrAIQEFyauI1Tc7zYhCDgADvCF49aj07Fqntp79IzXiZIkLdq5LW3M5L9b5MAlxoAcgExmVyH6mMGBJXC7LyVxDyaaYyhbjU5lAAOrNA=",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG24pjYTSIQhSHJ1U8TO3Z3N-0NxNoAOxY-ul6C0xjrSGxBIeHNB3D9QJslYCMKnre3pe17u0Wx5qXsEuiPJ901yQZwJ1lOUqx1_yLQoC38VYlqK0fWSx8wDEE_e1VySEDjO7zJ7yFFv55FJB-wCH2sLBNDcSXLabN-fStsyxoR0ebLmgFXrDpmR5Mbh2Topiy6BZm5p8DvaVEwNjIfC3s7wAsGTiDkgkNb7eRcMI9JizYA",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfmDVKK0X4wEtGzwJEOwre-MlPwLPW9WieuondDjqPREUaaH1MeQj_TrdsK2q5-nRs76ZX0gr5qwUlmaQMqqEqddiGHRpav0i4XoE5oWJ-e9_lBTCHaCGj_uH8gF2mPaJ5YSQ0htn-cc9xRsxOhDXegF6MnqZUhpgUpnkOslQokhLq_GrP2n1U_mJz2osLIXbhmSniCiCM85hUi6nwJKLeuRBq5zYVhb_ezZTDIobnTbFLGXq6n1p-2v9B0OPsNomrTTit1erGO8b11w==",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExuf4u7cU3H5OsrUVj_IpUwsiI26Flg-vx7-ktANFVCZ2eqJw71yYvEjDYgtjkQri3dkLt_nRnitttAxacfdZrueGdGIfVU0RidBEGH_T75ZQPMUTVmZwsX4cK2VK10Q==",
+   "title": "bankverse.ch"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgKYCGtxmVb2ChCzDygP5-g7wi7pgHmrIdr39LKhb5dJ5dM__QTc_4oxlQIVVAaRd1eGl0kOSP1RGKkcCyudFGhfKo5dzWraIQId5OoE9HtTt0kXvFyiz-3YGI9Tk0weMk98whN7LzllzyH98saBzfhfbnz55d_MeCAFlGXw7y5A9s4qDz_Tbgig==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSQNhh8xdtAb1D50j0zqHpXJEqwBwRSPOIDVB5KopQ0WEamveTswdw8ZPxQ-U5yS9CuQRowIjpomNW76dLPzZVMjPm7Yscb-Mczp_QsKW_xjp-XDcoBomEL3Mzyo7uiwuGGw==",
+   "title": "revolut.com"
+  }
+ ],
+ "search_queries": [
+  "monzo fee abroad atm limits eea",
+  "revolut weekend exchange fee uk standard"
+ ],
+ "latency_s": 28.29,
+ "asked_at": "2026-11-21T17:53:01.642260+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

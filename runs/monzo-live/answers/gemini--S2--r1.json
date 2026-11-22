@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "S2",
+ "run": 1,
+ "text": "**Yes, absolutely.** Monzo is a fully licensed UK bank, and millions of people use it as their primary bank account for salary, direct debits, and day-to-day spending.\n\nHere is what you need to know about using Monzo as your main account:\n\n---\n\n### Key Features for Salary & Bills\n\n* **Full UK Bank Details:** You receive a standard UK account number and sort code, allowing employers to pay you via BACS or Faster Payments, and HMRC to process tax refunds or benefits.\n* **Direct Debits & Standing Orders:** Monzo supports all standard UK Direct Debits and standing orders. You can view upcoming bills on your feed a day in advance, giving you visibility before the money leaves.\n* **Bill Pots:** One of Monzo’s most popular budgeting tools. You can set aside money into a dedicated \"Bills Pot\" on payday, and set your Direct Debits and standing orders to be paid directly from that pot rather than your main spending balance.\n* **Get Paid Early:** If your employer pays you via standard BACS, Monzo tracks the incoming transfer and lets you claim your salary at **4:00 PM on the working day before** it would normally land.\n* **FSCS Protection:** Eligible deposits are protected up to **£85,000** per person by the Financial Services Compensation Scheme (FSCS), the exact same safety net as high-street banks like Barclays, HSBC, or Lloyds.\n* **Current Account Switch Service (CASS):** Monzo participates in the 7-day switch guarantee. If you decide to move, CASS will automatically transfer all your Direct Debits, standing orders, and remaining balance from your old bank, and redirect any incoming payments for at least three years.\n\n---\n\n### Things to Keep in Mind (Potential Limitations)\n\n* **No Physical Branches:** All customer service and account management is handled via the app or telephone support.\n* **Cash Deposits:** You cannot walk into a bank branch to deposit cash. Monzo allows cash deposits via **PayPoint** (and at the **Post Office**), but limits and small fees apply depending on your tier (e.g., £1 per deposit on the free standard plan).\n* **Cheques:** You can deposit smaller cheques by photographing them in the app (up to certain limits), but larger cheques must be posted via Freepost.\n* **Joint Accounts & Overdrafts:** Monzo offers joint accounts, arranged overdrafts, and credit cards (Monzo Flex), though these are subject to credit approval.\n\n---\n\n### Summary\nIf you rarely deal with physical cash deposits and prefer managing everything through your smartphone, Monzo functions identically to (and often more smoothly than) a traditional high-street bank for salaries and household bills.",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 14.24,
+ "asked_at": "2026-11-21T18:01:39.068796+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

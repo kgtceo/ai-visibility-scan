@@ -1,0 +1,120 @@
+{
+ "engine": "claude",
+ "question_id": "D1",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.finder.com/uk/current-accounts/best-banks",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Best banks and bank accounts UK: A list of top banks 2026"
+  },
+  {
+   "url": "https://www.moneysavingadvice.co.uk/guides/saving/best-current-accounts-uk",
+   "domain": "moneysavingadvice.co.uk",
+   "source_type": "other",
+   "title": "Best Current Accounts UK 2026: Chase, Starling, First Direct Compared ..."
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "November 2026's current account news & offers - Be Clever With ..."
+  },
+  {
+   "url": "https://selectra.co.uk/money/guides/current-accounts/best-current-accounts",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "Best Current Account UK (2026): Bonuses, Interest and Cashback"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo: Finder rates it best for extra features. Selectra rates it best for budgeting and salary advance."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "For simple everyday spending, Starling is the safest pick."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Open Chase alongside it if you want cashback."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "mentioned",
+    "position": 4,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Finder names Nationwide FlexAccount best on the high street."
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Finder rates Monzo best for extra features.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Third-party ranking not covered by the facts."
+   },
+   {
+    "text": "Selectra rates Monzo best for budgeting and salary advance.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Third-party ranking not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

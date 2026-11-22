@@ -1,0 +1,119 @@
+{
+ "engine": "gemini",
+ "question_id": "D8",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEyoRu66UUEhO8UYR-h8UgB8Wny9Vms-tdN5Gh_lVX_mfYGVTOSXJ6cFQUwo29ubCgBKaDf4MCh8SIY-7thpK9ZTXEDaMwQOXWOvqTTxodeBS2keoyUjRjbX_y8ypc7GjiUzecyU9eQyGY5Wfq_6whpMeUIHe9Du0Q",
+   "domain": "clearscore.com",
+   "source_type": "other",
+   "title": "clearscore.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1PTtK_xNSTANc5pcIicyZ2vqd4UHR0EeDoqBhkaFLs4cIGJawZKBkjjJ6s4YmDWiKMKsQ_DSarcm8iI_FLGBQTcgMH0ueRnQ8JUab1WaKFXzIvmNO1B4UzbvdiXb43vdY4jG0Ck5pb_fmravDlsMBM4YZqkhA8sbGLr2rTxBVsA==",
+   "domain": "datagardener.com",
+   "source_type": "other",
+   "title": "datagardener.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc4rKbfmye_WsUUh6slaWOgcgyHKltE8LPPJ7WJa_oM8YqAV0IxfNDEay3hxIguETrN13re9LB0g3pVNKm2DO2k-2QL5UgziFaM3p2S5LRajA0-Ly4gvnnn_8pUK0g",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNF2VzpsZ8q_KHjdv_1QCIz1Oxy4eoYlywqcT28JlVDv0W4XPp6tD2YK6dEXWGpWk8uISVkxfR25kgX4f0qmhtyGuYXVYAVW-dURlLdOWD1YkHmQFaxo0JmnSsSF5j_B7gst5zVEvcejZXOb5PLfbVX5g=",
+   "domain": "lloydsbank.com",
+   "source_type": "other",
+   "title": "lloydsbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2-r_DG2Axxb91cejjEat5WNZ2j3JLTYsQAeGe09hXYgdKNpgS3e8R09hLS3gLiZiXSFLTSkm3k-A7UhHZSzTTcSQ2jBJSgiMyRT4nQEnREEvT_jfXmReLcK0oTdcR_OxbQ-Ykh41RAVSEY8QjStU-nTpCxWtYzpNOqkUtgRqprux7rwB0CeaacpDyEvi40AFXpOcJ5GzfmncnhRJRVb-d1bVbrrcXbA==",
+   "domain": "retailbankerinternational.com",
+   "source_type": "other",
+   "title": "retailbankerinternational.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Prefer a smartphone app: Choose Starling or Monzo."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best Overall & Best App-Based: Monzo & Starling Bank"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for High-Street Branches: Nationwide Building Society"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "In the official CMA service quality surveys, Monzo and Starling regularly take the #1 and #2 spots for overall personal banking service and mobile experience.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers CMA survey rankings."
+   },
+   {
+    "text": "Monzo customer service is primarily digital via in-app chat, call lines, or automated workflows, with prompt responses.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover customer service style."
+   }
+  ]
+ },
+ "judge_error": null
+}

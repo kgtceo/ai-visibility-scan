@@ -1,0 +1,183 @@
+{
+ "engine": "perplexity",
+ "question_id": "T4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/app-help/contacting-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Contacting support"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/why-monzo-restricts-or-closes-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Why We Sometimes Restrict or Close Monzo Accounts"
+  },
+  {
+   "url": "https://monzo.com/help",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How can we help you today?"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-frozen-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Frozen or locked accounts - Monzo Help"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-1-1",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Terms and Conditions"
+  },
+  {
+   "url": "https://monzo.com/help/emergencies/report-fraud",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Reporting fraud"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/make-complaint-web",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Making a complaint"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-extra-support/contact-support",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo has 24/7 customer support for anything urgent"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.0.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "[PDF] These terms and using your Monzo account How to contact us How ..."
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/your-account-is-under-review",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Why is my account under review?"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/keeping-your-account-secure/help-paid-scams",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - I've paid a scammer – what should I do?"
+  },
+  {
+   "url": "https://monzo.com/legal/files/terms-and-conditions/monzo-terms-and-conditions-2.8.pdf",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "These terms and using your Monzo accountmonzo.com › terms-and-conditions › monzo-terms-and-conditions-2.8.pdf"
+  },
+  {
+   "url": "https://monzo.com/en-es/legal/complaints",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo's Customer Service"
+  },
+  {
+   "url": "https://monzo.com/legal/terms-and-conditions/version-1-3",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Terms and Conditions"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-terms-and-conditions/version-1-6",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Terms and Conditions - Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo says urgent queries are handled 24/7; less urgent phone or chat support is available 7am–8pm."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo can temporarily restrict or “freeze” an account, for example if it spots unusual activity or needs to meet legal or financial-crime obligations.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers account restrictions."
+   },
+   {
+    "text": "Call Monzo in the UK on 0800 088 4040 or email help@monzo.com.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Contact details are not in the facts."
+   },
+   {
+    "text": "Monzo says urgent queries are handled 24/7; less urgent phone or chat support is available 7am–8pm.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Support hours are not in the facts."
+   },
+   {
+    "text": "You can complain in the app or email complaints@monzo.com, and may take it to the Financial Ombudsman Service, usually within six months of the final response.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Complaints process is not in the facts."
+   },
+   {
+    "text": "Monzo may not be able to explain the precise reason for a restriction in some cases, and reviews can take different amounts of time.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

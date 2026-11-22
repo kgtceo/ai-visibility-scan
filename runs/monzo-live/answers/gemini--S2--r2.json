@@ -1,0 +1,15 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "S2",
+ "run": 2,
+ "text": "**Yes, absolutely.** Monzo is a fully licensed UK bank, and millions of people use it as their sole or primary bank account for their salary, bills, and everyday spending. \n\nIt is well-suited to serve as a main account for several key reasons:\n\n---\n\n### 1. Receiving Your Salary\n* **Standard Account Details:** You get a full UK sort code and account number, just like any traditional high-street bank. Your employer can pay you via Bacs, Faster Payments, or CHAPS.\n* **Get Paid Early:** If your employer pays via Bacs, Monzo can spot the incoming payment and allows you to claim your salary at **4:00 PM on the working day before** it is officially due.\n* **Salary Sorter:** When your pay arrives, the app lets you automatically split it between your main spending balance, savings pots, and bills pots in one tap.\n\n---\n\n### 2. Paying Bills\n* **Direct Debits & Standing Orders:** Fully supported. You can set them up easily using your account details.\n* **Pay Bills from a \"Pot\":** You can set up dedicated \"Bills Pots\" and assign your Direct Debits and standing orders to come directly out of that pot. This prevents you from accidentally spending your rent or utility money.\n* **Advance Notifications:** Monzo notifies you the working day before a Direct Debit or scheduled payment is due to come out, warning you if you do not have enough funds to cover it.\n\n---\n\n### 3. Switching is Easy (CASS)\n* Monzo is part of the **Current Account Switch Service (CASS)**. \n* If you want to move from another UK bank, you can request a switch directly in the Monzo app. The service will automatically redirect your salary, switch all Direct Debits and standing orders, transfer your remaining balance, and close your old account within 7 working days.\n\n---\n\n### 4. Safety & Protection\n* **FSCS Protection:** Monzo is regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority (PRA). Eligible deposits are protected up to **£85,000** under the Financial Services Compensation Scheme (FSCS).\n\n---\n\n### Things to Keep in Mind (Potential Drawbacks)\n* **No Physical Branches:** Customer support and account management are handled entirely through the app.\n* **Cash Deposits:** You can deposit cash at PayPoint retailers (and Post Office branches), but it comes with a fee (typically £1 per deposit unless on higher-tier plans) and annual/daily limits.\n* **Cheques:** Smaller cheques can be scanned and deposited through the app, but larger cheques have to be physically posted to Monzo’s freepost address.\n\nIf you don't regularly deal with large amounts of physical cash, Monzo works seamlessly as a main account.",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 14.64,
+ "asked_at": "2026-11-21T18:01:53.711369+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

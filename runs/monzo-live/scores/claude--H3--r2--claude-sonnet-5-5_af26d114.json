@@ -1,0 +1,129 @@
+{
+ "engine": "claude",
+ "question_id": "H3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/monzo-plus/paid-interest",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Interest on your savings with Plus, Premium, Extra, ..."
+  },
+  {
+   "url": "https://monzo.com/savings-isas/savings",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Compare Our Best Savings Accounts and Pots"
+  },
+  {
+   "url": "https://tryabel.com/monzo-savings-pots-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Monzo Savings Pot Interest Rates: 2.75% to 4.70% by Plan"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Instant Access Savings: Free 2.80% AER (variable), Extra 3.15%, Perks/Plus/Premium 3.55%, Max and Max Family 3.80%."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Instant Access Savings: Free 2.80% AER (variable)",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": "Matches the free plan rate of 2.80% AER variable."
+   },
+   {
+    "text": "Extra 3.15%, Perks/Plus/Premium 3.55%, Max and Max Family 3.80% on Instant Access Savings",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts only cover the free plan rate."
+   },
+   {
+    "text": "Select Access Savings pays 3.45% AER (variable) on free accounts and 3.70% on Perks, Plus, Premium, Max and Max Family, with 2 or fewer withdrawals a year per Pot",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Select Access rates are not covered by the facts."
+   },
+   {
+    "text": "A third withdrawal temporarily drops the rate to 2.65% for free accounts, or 3.10% for paid plans",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "Fixed Rate pots come in 1, 2 and 3 year terms, with rates of up to 5.25% AER (fixed), paid at maturity",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Fixed Rate pots are not covered by the facts."
+   },
+   {
+    "text": "Interest is paid on the 1st of the month",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   },
+   {
+    "text": "A comparison site dated 17 October 2026 listed the free plan at 2.75% AER variable on Instant Access",
+    "verdict": "unverifiable",
+    "fact_id": "F9",
+    "note": "This is a third-party figure from a different date. It is not a clear contradiction of the 2.80% rate checked on 21 November 2026."
+   },
+   {
+    "text": "The third-party snapshot listed 3.15% on Select Access, 4.70% fixed on a one-year Fixed Rate pot, and paid plans at 3.00%, 3.25% and 3.50% for Instant Access",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Not covered by the facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

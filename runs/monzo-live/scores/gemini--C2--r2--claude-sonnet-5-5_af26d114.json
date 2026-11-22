@@ -1,0 +1,142 @@
+{
+ "engine": "gemini",
+ "question_id": "C2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZEQozlg397Du_b0hHM6SNlUpk5kwkLH5t4TX7ewwEFwhGaTj2ZEI2500JCIU6M2zjeaVg1HFx-sLZ59fkcFO31VV12SCbw34KKVIwVymY3AME_aKBY-zRZZ504R9l_VF7GqSNsG7p3OEPO2-yMAW-KwTO_uxGGhXB",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYkwuNFXNfeMVZuo_pO8BQqoR4M_4qV77c9WidOZJNh4RBABPtn2HJlN9AG1yUgXLIULI0xxPU56BP51HuhStf6N5vBxaXu6_kdm7_qQDHhyZXr6aTGynsUrTnLDtDkz4GUBkGDP_Bg3sae09iLVo",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "pocketwise.co.uk"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Choose Monzo if: Your priority is daily budgeting, visualising spending habits, and easily splitting expenses"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Choose Starling if: You want a completely free primary current account, you travel frequently outside Europe"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully licensed UK bank protected by the FSCS up to £85,000",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact states FSCS protection is up to £120,000 per person, not £85,000."
+   },
+   {
+    "text": "Monzo spending abroad: Mastercard rate, 0% fees",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo ATM withdrawals are fee-free in the EEA; capped at £200/30 days outside the EEA on the free tier (3% fee thereafter)",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo charges a £1 fee per cash deposit at PayPoint or the Post Office (free tier)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposit fees."
+   },
+   {
+    "text": "Monzo offers in-app cheque deposit photo scanning (or postal service)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has Pots, automated Salary Sorter, instant spend breakdown and round-ups",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has very limited emergency web access (primarily mobile app only)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has a free tier plus paid tiers Extra, Perks and Max offering insurance, credit tracker, higher ATM limits",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Plan names match; benefits not covered but not contradicted."
+   },
+   {
+    "text": "Monzo's paid tiers (Perks and Max) include travel insurance, mobile phone insurance, breakdown cover and a Greggs treat each week",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo is free to open with no minimum pay-in requirements",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

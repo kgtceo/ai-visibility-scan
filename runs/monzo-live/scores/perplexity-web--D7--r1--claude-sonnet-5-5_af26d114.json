@@ -1,0 +1,15 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "D7",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [],
+ "judgement": null,
+ "judge_error": null
+}

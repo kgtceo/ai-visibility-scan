@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D1",
+ "run": 2,
+ "text": "For a **single everyday-spending account**, **Chase is a strong pick based on the latest information available here**—especially if most of your spending is on groceries, cafés, restaurants, transport or fuel. It has no monthly fee, offers **2% cashback on eligible UK spending up to £20 a month**, and has fee-free card spending abroad. To get the cashback, you need to make at least 15 card payments a month and hold at least £1,000 in Chase savings accounts. It’s app-only, and doesn’t offer an overdraft.\n\nOther good fits:\n- **Starling** if you want a fee-free everyday account with helpful app features, human support and fee-free spending abroad, without cashback conditions.\n- **Monzo** if budgeting tools, spending notifications and savings Pots matter most.\n- **First Direct** if you prefer phone support and a more traditional bank; a temporary cashback offer appeared in the latest results, so check whether it’s still running.\n- **Nationwide FlexDirect** if you can meet its conditions and want its current cashback offer; check the terms and how long the offer lasts.\n\n**My short answer:** Chase for eligible cashback; Starling for a simple, flexible daily account. The best choice depends on whether you value cashback, budgeting tools, branch access or an overdraft. Check the bank’s current terms before applying, as rates and offers change.",
+ "citations": [
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-current-account-news-offers/",
+   "title": "November 2026's current account news & offers - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.lloydsbank.com/help-guidance/everyday-banking/mobile-banking-app/rewards/terms-and-conditions.html",
+   "title": "Prize draws - Rewards"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/chase-account/",
+   "title": "Current account with 2% cashback"
+  },
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.lloydsbank.com/current-accounts.html",
+   "title": "Current Accounts"
+  },
+  {
+   "url": "https://bankinggeek.com/en/current-account/",
+   "title": "Best Current Accounts in 2026, Compared - BankingGeek"
+  },
+  {
+   "url": "https://www.which.co.uk/news/article/best-bank-account-switching-deals-a2D4e7f98lL3",
+   "title": "Best bank account switching deals November 2026 - Which.co.uk"
+  },
+  {
+   "url": "https://www.dailyrecord.co.uk/lifestyle/money/four-banks-free-cash-deals-37893872.amp",
+   "title": "Four banks offering up to £265 free cash to people opening or switching accounts"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/packaged-bank-accounts/?goal=CUR_BENEFITS",
+   "title": "Best Packaged Bank Accounts - November 2026 | MoneySuperMarket"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+   "title": "FlexDirect | Interest and cashback bank account"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/banking/zopa-biscuit-new-prize-draw/",
+   "title": "Receive up to £10000 this Christmas with Zopa"
+  },
+  {
+   "url": "https://wise.com/gb/blog/banks-with-free-current-accounts",
+   "title": "List of UK banks with free current accounts"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "title": "How to choose a good value current account"
+  }
+ ],
+ "search_queries": [
+  "best UK current account everyday spending cashback 2026",
+  "UK bank current account cashback rewards November 2026",
+  "UK current account fee free spending account comparison 2026"
+ ],
+ "latency_s": 5.99,
+ "asked_at": "2026-11-21T17:39:55.703646+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

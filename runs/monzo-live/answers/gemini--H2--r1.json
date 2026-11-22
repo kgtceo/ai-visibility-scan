@@ -1,0 +1,59 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "H2",
+ "run": 1,
+ "text": "### 1. Spending abroad (card payments)\n* **No fees:** Monzo does not charge any transaction fees for spending on your debit or credit card abroad.\n* **Exchange rate:** Monzo passes on the **Mastercard exchange rate directly with 0% markup**.\n* **Tip:** If a card machine or cash register asks whether you want to pay in GBP or the local currency, **always choose the local currency**. Choosing GBP allows the merchant's machine to apply its own poor exchange rate (Dynamic Currency Conversion).\n\n---\n\n### 2. Withdrawing cash abroad (ATMs)\nCash withdrawal fees depend on **where you travel** and **how your account is set up**:\n\n#### Inside the European Economic Area (EEA)\n* **Monzo is your main bank** (or you have a paid plan like Perks or Max): **Unlimited fee-free withdrawals**. *(Monzo considers you a \"main bank\" user if you pay in at least £500 every 35 days and have at least one active Direct Debit, or receive certain government benefits/pension).*\n* **Monzo is not your main bank:** You can withdraw up to **£200 fee-free every rolling 30 days**. After that, Monzo charges a **3% fee**.\n\n#### Outside the EEA (Rest of the World)\nRegardless of whether Monzo is your main bank, rolling 30-day allowances apply based on your plan tier:\n* **Standard (Free) & Monzo Extra:** Up to **£200** fee-free every rolling 30 days (then **3%** fee).\n* **Monzo Perks:** Up to **£400** fee-free every rolling 30 days (then **3%** fee).\n* **Monzo Max (or Premium):** Up to **£600** fee-free every rolling 30 days (then **3%** fee).\n\n---\n\n### Additional things to keep in mind\n* **ATM operator fees:** Some foreign ATMs charge their own usage fee independent of Monzo. The machine must display this on-screen before you confirm the transaction.\n* **Rolling 30-day window:** Your allowance resets exactly 30 days from the day you make a withdrawal, rather than on the 1st of each calendar month. You can check your remaining fee-free allowance directly in the Monzo app under your account limits.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrDeHuY8x3e7aNgnlbkSxVY_tRSKeIZZkLwix7YOcx6UDwnqG8ixBRhW9H1nvqObQ4cc0Y0JKxSXM_sgTqq224etKWVfzevsI39EVmhTlDNbVAIqZQHBdq4ld9FzuRqkad5-cbcQuZLCvl",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpmX9_rdwhVUu3UFsyTIPRHTGPwcsMp_FvU9Vta9EmY4TtN54XAMULmk-BP1pFxODoWzCVzVJ3-uXEK0HpSzTqsi-atiKHFzT1vPwVUBzDJ2JiTnRfRUA=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFGV0YixJXjlMdNFTdbrXWty4fbBZ_9wVMKGYPhswgZHCE59GMsWS3uvpA9e5Nq7sCfGbGphP6JXMqH_-bH9J_Y4Z8K0xxF-pbjD3lzIg9qFoEdILj1h7kF2LWWjCqWMXtZPdj5q2pGC93QcUvRxVoSX7omMlqJw==",
+   "title": "outboundlynx.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEktaxt41kTe3LFvyM-GSyCWzJxA6Z0uBMHhnPOdyNkY8v5EIuGsQA5A_2yprUXQ3qAj67Mxbc9qylbSv_ktDt8EXM9ZEtBanydzi6bJqT01QLBl49K48zIUBh1ncktpz4ZRMyk0YhXqq6SjrD20w==",
+   "title": "outboundlynx.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4jK7qiGszO5wtlVpoXK1IZ6gab6rFO_0IWRTgoljgK9IL7OHfnI9SqVj26PoEAy1WuWPLaI3ATuCCiuRBM_ZU0ULQGejd8HKUhAtrH2hVq11Wgi56EzwQQyTKCBYjY3t323Jh1w==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtV0I3JyJrtfbd8JWlNe3RshRXlpmQVopT04wMFclJwDi8e3PooPQDTCL1y8uY5Qrz5uMBXswHCyTkQEYwEpoLjLAC24dNCFUMgoHRh_VA1YaV5cEdG4MVcBcSjAFCZ1Vn9D_yNSANyT8Zeid3FtD7W4nIFvgM1KbtGiIfevRIAW1PZD2B4kcC6K1McRO-ozc60w5q3wHSzA==",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJAQ45eMlh2d8kscNUIAkXMs4raDbIks9orRLPPFYVaEcHFZzC73Oy-2FuiQbwCdpOwD5qQIRqvrbM8E6IQI8C3Sb7bg_5UUrp_U01xldIFG4ns5S0a6g6vx5G2ID48pe",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQQvQon2Eu62TRt59z6Q0HubpiIrwWAMec9jFJKndZwS92Rh9rQ9Ev2bylX-aw_ksuwKXL89rHtPLxoMly-hWMcJPamzKWooRUoyTXrSBhmtn_wjndwjFRrSuLExvIoFmCMHjN91J8nS_xQDt0PZCTWyejAGnvsD3Yg==",
+   "title": "travelmint.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb53x3TuMByupBeY_C-oD7FKGNa2KczgEjR3150sKKjp6DTLRuYwmca5YF5WfKVSHpLMryCNxU4ns-G5v7gj4Uoog0urmINhnX1bAOdCiCxlRReeStXtd3oa3lu0brH7wTaP2szb7M1gyEnQTpG2q2usHk4NmZ8TPaIasALtIMSvXfXwtkV6opBg==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSosmip3pbyHzcPGvn8RoHMaHcendXeQF3txPTLciSjxMLRxdUKn6NSD-G4G1iTa0jgbLBeDlxQtd5LZq_HyoIs_mX9tFxr7X4LlTP64-DQqDwIce-2UrAgxQfsy9Q9l3moKW7lt0j1Xn8kjsSgJKjsgip8u-RnP5GiG2rN8kYThpre7nzq0Au",
+   "title": "moneysavingexpert.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo ATM withdrawal fees abroad limits",
+  "Monzo fees spending withdrawing cash abroad UK"
+ ],
+ "latency_s": 19.15,
+ "asked_at": "2026-11-21T17:56:14.318063+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

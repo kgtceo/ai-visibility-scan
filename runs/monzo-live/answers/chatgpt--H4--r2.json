@@ -1,0 +1,21 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H4",
+ "run": 2,
+ "text": "Yes. Monzo offers an **arranged overdraft of up to £2,000** on its UK personal current account, subject to eligibility. You pay interest only on the amount you actually use, not on the full limit. ([monzo.com](https://monzo.com/overdrafts?utm_source=openai))\n\nThe variable effective annual rate (EAR) is **19%, 29% or 39%**, depending on your credit score. You can check your personal rate in the overdraft section of the Monzo app. ([monzo.com](https://monzo.com/overdrafts?utm_source=openai))\n\nFor example, at Monzo’s representative rate of **39%**, borrowing **£1,200 for 30 days costs £32.94** in interest. Borrowing less or paying it back sooner costs less. ([monzo.com](https://monzo.com/overdrafts?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/overdrafts?utm_source=openai",
+   "title": "Overdrafts | Apply for an Arranged Overdraft with Monzo"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK personal arranged overdraft cost EAR 19 29 39 Monzo up to £2000"
+ ],
+ "latency_s": 7.48,
+ "asked_at": "2026-11-21T17:00:43.720485+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

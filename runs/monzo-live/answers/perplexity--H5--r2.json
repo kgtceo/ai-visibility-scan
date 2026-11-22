@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "H5",
+ "run": 2,
+ "text": "Yes. In the UK, you can open a Monzo joint account with **one other person**—they don’t have to be your partner. You both need to be **18 or over, live in the UK, and already have Monzo personal current accounts**. Monzo says you also need **Payments with Friends** switched on.\n\n**How to open it**\n1. In the Monzo app, go to **Home** and tap the **+** button.\n2. Choose **Apply for a Joint Account**.\n3. Select the other person from your contacts or invite them with a link.\n4. They accept the invitation, and you follow the in-app steps.\n\n**How it works**\n- You each get a debit card and can both see the account’s transactions and make payments.\n- You can use it for shared spending, bills and savings; both of you can set up Direct Debits and standing orders.\n- Either account holder can usually make payments without the other approving each one, so it’s worth agreeing together how you’ll use it.\n- If you apply for a joint overdraft, eligibility is assessed for both of you, and **you’re both responsible for repaying it**.\n- A joint account creates a financial association between you. It doesn’t merge your credit scores, but your joint finances—and problems such as missed payments—may affect your credit record.\n\nMonzo’s joint-account terms apply, and an overdraft isn’t guaranteed.",
+ "citations": [
+  {
+   "url": "https://monzo.com/faq",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "title": "Open a Joint Bank Account | Simplify Shared Costs with Monzo"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "title": "How to open a Monzo Personal Account"
+  },
+  {
+   "url": "https://monzo.com/gb/help/opening-an-account",
+   "title": "Opening a Monzo Personal, Joint or Business Account"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "title": "Opening a joint account"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://monzo.com/en-es/current-account/joint-accounts",
+   "title": "Open a Free Joint Bank Account Online | Monzo Spain"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "title": "Joint Savings Accounts | Save Together with Monzo"
+  },
+  {
+   "url": "https://monzo.com/overdrafts",
+   "title": "Apply for an Arranged Overdraft with Monzo"
+  },
+  {
+   "url": "https://monzo.com/learn/money-together/joint-account-for-shared-living-expenses",
+   "title": "How a Joint Bank Account Can Simplify Shared Living Expenses"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account",
+   "title": "Opening a joint account - Monzo Help"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-overdraft-information",
+   "title": "About joint overdrafts at Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions",
+   "title": "Joint Account terms"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account",
+   "title": "How to open a Monzo Joint Account"
+  },
+  {
+   "url": "https://monzo.com/-webviews/joint-account-terms-and-conditions/",
+   "title": "Monzo –"
+  }
+ ],
+ "search_queries": [
+  "Monzo joint account UK eligibility how to open official",
+  "Monzo joint account features fees overdraft official UK",
+  "Monzo joint account FAQ application both existing customers"
+ ],
+ "latency_s": 5.05,
+ "asked_at": "2026-11-21T17:43:08.628686+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

@@ -1,0 +1,34 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T3",
+ "run": 2,
+ "text": "A recurring frustration with Monzo in the UK is **not knowing what’s happening when access to your money is interrupted**. That’s different from disliking the bank day to day. Three complaints illustrate the distinction. ([financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai))\n\n- **“My account was blocked or closed, and I don’t know why.”** Financial Ombudsman cases describe customers losing access without a clear explanation, including one couple who said a closure disrupted a mortgage payment. Banks have to check accounts for suspicious activity, so a block isn’t by itself proof Monzo made a mistake. But if a bill is due, not knowing when you can use your money is a problem in its own right. ([financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai))\n- **“I can contact support, but I can’t get an answer.”** Customers describe having to repeat security checks or struggling to get a complicated problem resolved. That distinction matters in a scam or refund dispute: getting a reply isn’t the same as finding out whether you’ll get your money back. ([financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk/decision/DRN-5776674.pdf?utm_source=openai))\n- **“Sometimes I just want a branch.”** Monzo has no branches. You can pay cash in at a Post Office or PayPoint, but deposits can carry a fee. If you regularly handle cash or prefer to sort out problems face to face, that’s a practical drawback. ([monzo.com](https://monzo.com/help/payments-getting-started/paypoint-fee-why?utm_source=openai))\n\nFor perspective, **82% of Monzo customers surveyed in Great Britain said they’d recommend it**, putting it first for overall service quality in the independent Ipsos survey published in August 2026. So the complaints are worth taking seriously as accounts of *what can go wrong*, but they don’t show that most customers are unhappy or that Monzo freezes accounts more often than other banks. ([ipsos.com](https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-4964429.pdf?utm_source=openai",
+   "title": "Decision Reference DRN-4964429"
+  },
+  {
+   "url": "https://www.financial-ombudsman.org.uk/decision/DRN-5776674.pdf?utm_source=openai",
+   "title": "Decision Reference DRN-5776674"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/paypoint-fee-why?utm_source=openai",
+   "title": "Monzo Help - Why there's a fee for cash deposits"
+  },
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  }
+ ],
+ "search_queries": [
+  "Monzo UK bank complaints most common complaints account freezes customer support fraud Monzo complaints data 2026 first half Monzo bank",
+  "August 2026 Monzo overall service quality Great Britain Ipsos Monzo percentage recommend August 2026 Monzo  overall quality"
+ ],
+ "latency_s": 19.22,
+ "asked_at": "2026-11-21T17:02:23.545282+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

@@ -1,0 +1,249 @@
+{
+ "engine": "grok",
+ "question_id": "H5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account/joint-account"
+  },
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/current-account"
+  },
+  {
+   "url": "https://tryabel.com/best-joint-account-apps-uk/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "https://tryabel.com/best-joint-account-apps-uk/"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/joint-accounts/what-joint-account"
+  },
+  {
+   "url": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758?u=rossmonzo",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758?u=rossmonzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/08/28/how-to-open-a-monzo-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/08/28/how-to-open-a-monzo-account"
+  },
+  {
+   "url": "https://monzo.com/ie/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/current-account/joint-account"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account-info",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/getting-started/help-joint-account-info"
+  },
+  {
+   "url": "https://monzo.com/en-es/help/getting-started/help-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/en-es/help/getting-started/help-joint-account"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/joint-accounts/set-up-joint-account"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Personal-Account"
+  },
+  {
+   "url": "https://rates.fm/banks/monzo-joint-account/",
+   "domain": "rates.fm",
+   "source_type": "other",
+   "title": "https://rates.fm/banks/monzo-joint-account/"
+  },
+  {
+   "url": "https://www.monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/current-account/joint-account"
+  },
+  {
+   "url": "https://www.getcino.com/post/monzo-joint-account",
+   "domain": "getcino.com",
+   "source_type": "other",
+   "title": "https://www.getcino.com/post/monzo-joint-account"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-plus/plus-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-plus/plus-joint-account"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-monzo-pro/us-is-monzo-pro-available-for-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-monzo-pro/us-is-monzo-pro-available-for-joint-accounts"
+  },
+  {
+   "url": "https://rategrove.com/en-gb/bank-accounts/monzo-joint-account",
+   "domain": "rategrove.com",
+   "source_type": "other",
+   "title": "https://rategrove.com/en-gb/bank-accounts/monzo-joint-account"
+  },
+  {
+   "url": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/opening-an-account/how-to-open-a-Monzo-Joint-Account"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-joint-accounts/us-can-i-open-a-joint-account-with-a-uk-monzo-customer",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-joint-accounts/us-can-i-open-a-joint-account-with-a-uk-monzo-customer"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-joint-account/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-joint-account/"
+  },
+  {
+   "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/advanced-tools-for-joint-accounts"
+  },
+  {
+   "url": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/advanced-money-management-tools-for-joint-accounts/165758"
+  },
+  {
+   "url": "https://monzo.com/us/help/us-joint-accounts/us-joint-accounts-on-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/help/us-joint-accounts/us-joint-accounts-on-monzo"
+  },
+  {
+   "url": "https://monzo.com/us/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/us/joint-account"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Yes. In the UK you can open a free Monzo joint account with one other person"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Spending abroad has no Monzo foreign transaction fees (Mastercard’s rate applies).",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are FSCS-protected up to £120,000 per person.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "You can open a free Monzo joint account with one other person, if you both have personal Monzo accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account eligibility is not covered by the facts."
+   },
+   {
+    "text": "The invite link expires after 24 hours.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Paid plans (Extra, Perks, Max) can unlock extra joint features such as virtual cards, custom categories, and higher savings rates on joint pots.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Plan names match F8 but the features are not covered."
+   },
+   {
+    "text": "A joint overdraft may be available, but Monzo credit-checks both of you.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

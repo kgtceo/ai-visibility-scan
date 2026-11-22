@@ -1,0 +1,166 @@
+{
+ "engine": "gemini-web",
+ "question_id": "C4",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://tryabel.com/chase-vs-monzo/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Abel Chase vs Monzo: Cashback, Savings Rates and Fees, Oct 2026 - Abel “Monzo splits savings into Pots. Its Instant Access Savings Pot pays 2.75% AER (variable)"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/news/2026/6/chase-cashback-criteria-change/",
+   "domain": "moneysavingexpert.com",
+   "source_type": "review_comparison",
+   "title": "Money Saving Expert Chase user? Your cashback is doubling to 2% – but there are new “* The cashback rate will be 2% – up from 1%. This will apply to both the ex"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/legal/cashback-terms-and-conditions/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase UK Cashback Terms and Conditions - Chase UK “To earn cashback in any given month, you must meet both of the following criteria in the previous calendar mo"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/product/2-percent-cashback/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase UK Earn 2% cashback with Chase “18+, UK residents. Eligibility applies. Chase current and saver accounts required. Make 15+ payments per month using your"
+  },
+  {
+   "url": "https://www.chase.co.uk/gb/en/saver-boosted/",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Chase UK Chase Boost: 4.75% AER variable (4.65% gross) “You'll earn 4.75% AER variable, which includes a fixed, 12‑month boost of 2.25% AER on top of our standa"
+  },
+  {
+   "url": "https://tryabel.com/chase-uk-review/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Abel Chase UK Review: 2% Cashback Rules and Every Rate Checked “* Regular Saver: 6.5% AER fixed for 12 months (6.31% gross). Pay in up to £300 a month, counted"
+  },
+  {
+   "url": "https://depositscout.com/banks/chase/chase-saver",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "DepositScout Chase UK Chase Saver Review: 4.75% AER (Nov 2026) “Ranks 2nd of 221. Easy access accounts we track. Among the best. This account 4.75% UK CPI (Oct"
+  },
+  {
+   "url": "https://depositscout.com/banks/monzo",
+   "domain": "depositscout.com",
+   "source_type": "review_comparison",
+   "title": "DepositScout Monzo Savings Rates 2026: Up to 5.25% AER - Banks - DepositScout “Fixed Rate Cash ISA. 3 Years FixedMin £500. 5.25% AER. Learn More Visit. Fixed Ra"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Pick Monzo if you want tax-free Cash ISAs... or want Monzo's superior budgeting tools"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Chase UK beats Monzo on both cashback and savings."
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo free account monthly fee £0; paid plans Extra £3, Perks £9, Max £19/mo",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches plan prices (Max is from £19)."
+   },
+   {
+    "text": "Monzo Instant Access rate is 2.80% AER on the free plan",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Monzo's Select Access Pot pays 3.45% AER with a £500 minimum",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers it."
+   },
+   {
+    "text": "Up to 3.80% AER Instant Access on Monzo Max",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only the free plan rate."
+   },
+   {
+    "text": "Up to 5.25% AER on 3-year Fixed Pots & Cash ISAs (£500 min)",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers offer-based cashback typically 2%-10% at selected retailers, which must be activated in the app",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo offers Cash ISAs and multi-year fixed pots",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has budgeting tools like Salary Sorter and bill-splitting Pots",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,166 @@
+{
+ "engine": "gemini-web",
+ "question_id": "C5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-nationwide",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Referral Plug Monzo vs Nationwide: which current account is actually better? “From year two Nationwide's cashback stops and Monzo's offers carry on. Both are ou"
+  },
+  {
+   "url": "https://monzo.com/current-account/perks",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Monzo Perks | Our Bank Account with Benefits for £9 a Month “in the UK and EEA. Perks * Includes everything from Free and Extra, plus: * 3.55% AER (variab"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/nationwide/nationwide-review-2026/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "PocketWise Nationwide FlexAccount Review 2026: The Best High-Street Bank? “ For families who want insurance bundles and branch access in a single account, FlexP"
+  },
+  {
+   "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+   "domain": "nationwide.co.uk",
+   "source_type": "competitor_owned",
+   "title": "Nationwide FlexAccount current account - Nationwide “ Our packaged bank account. * Worldwide family travel and mobile insurance. * UK and European breakdown cov"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Choose Monzo if you want the best app experience, automated budgeting, and fee-free spending abroad."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "negative"
+    },
+    "evidence": "Choose Nationwide if you want branch access, member-only savings rates, a £50 interest-free overdraft buffer"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Both offer free standard accounts and FSCS protection up to £120,000",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "FSCS limit matches."
+   },
+   {
+    "text": "Monzo offers fee-free card spending worldwide at the Mastercard rate.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Free ATM withdrawals up to £400/30 days in the EEA (£200 outside).",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "2.80% AER (variable) in Instant Access Savings Pots.",
+    "verdict": "supported",
+    "fact_id": "F9",
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks costs £9/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo Max costs £19/month.",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Fact says from £19."
+   },
+   {
+    "text": "Monzo Perks boosts Instant Access savings to 3.55% AER",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts cover only the free plan rate."
+   },
+   {
+    "text": "Cash deposits cost £1 per deposit at PayPoint or the Post Office; cheques can be scanned in-app.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Arranged overdrafts charged at 19%, 29%, or 39% EAR depending on credit score; no free buffer.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Occasional referral bonuses (£5–£50).",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Max charges an extra £4/month for family cover and includes travel, phone insurance and breakdown cover.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo Perks includes an annual Railcard, weekly Greggs treat, monthly Vue ticket, Uber One and YouTube Premium Lite.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,47 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "D1",
+ "run": 1,
+ "text": "The \"best\" bank account for everyday spending depends on whether you want **cashback rewards**, **budgeting tools**, or **fee-free travel spending**. \n\nThe top options in the UK break down by category:\n\n---\n\n### 1. Best for Cashback & Everyday Perks: **Chase UK**\nIf your priority is earning money back on your daily purchases, Chase is generally the top choice for debit card spending.\n* **The Perks:** \n  * Cashback on everyday card spending (groceries, dining, transport, fuel).\n  * Linked easy-access saver with competitive interest.\n  * 5% AER \"Round-up\" account (rounds up your purchases to the nearest pound and pays 5% on the spare change).\n  * **Fee-free overseas spending and cash withdrawals** using the Mastercard exchange rate.\n* **Cost:** £0/month.\n* **Catch:** Criteria apply to keep qualifying for cashback after introductory periods (such as a minimum monthly deposit).\n\n---\n\n### 2. Best for Budgeting & Digital Experience: **Monzo** or **Starling Bank**\nIf you want granular control over your daily allowance and clean, intuitive apps, the challenger banks remain unmatched.\n\n* **Monzo:**\n  * **Why it’s great:** Instant push notifications, custom spending categories, and \"Pots\" to separate spending money from bill money. You can also pay directly from a pot.\n  * **Spending abroad:** Zero fees on card spending worldwide; free foreign ATM withdrawals up to a rolling limit.\n  * **Cost:** Free standard account (paid tiers available for extra perks).\n\n* **Starling Bank:**\n  * **Why it’s great:** Consistently wins customer satisfaction awards. Has a cleaner, less clutter-heavy app than Monzo, with \"Spaces\" for saving and 24/7 UK customer support.\n  * **Spending abroad:** Truly unlimited fee-free card payments and ATM withdrawals overseas.\n  * **Cost:** Free.\n\n---\n\n### 3. Best for Combined Bills + Daily Spend: **Santander Edge**\nIf you want to use the same account for groceries, commuting, and household utility bills.\n* **The Perks:** \n  * **1% cashback** (up to £10/month) on essential spending (supermarkets, fuel, train fares).\n  * **1% cashback** (up to £10/month) on household bills (council tax, gas, electricity, broadband).\n  * Access to the linked **Santander Edge Saver**, which pays a top-tier interest rate.\n* **Cost:** £3/month fee.\n* **Catch:** To make a profit, you need to earn more than the £3 fee in cashback, and you must deposit at least £500/month and maintain two direct debits.\n\n---\n\n### 4. Best Traditional Account & Service: **First Direct (1st Account)**\nIf you prefer a traditional banking setup with a human on the end of the phone:\n* **The Perks:** Rated #1 for UK customer service for years. Includes a £250 interest-free overdraft buffer and access to a high-yield regular savings account.\n* **Spending abroad:** Debit card spending and withdrawals abroad are fee-free.\n* **Cost:** £0/month.\n* **Switching bonus:** Often pays a cash bonus to switch via the Current Account Switch Service (CASS).\n\n---\n\n### Which one should you pick?\n\n* **Choose Chase** if you want automatic cashback on your daily coffees, lunches, and supermarket shops without paying an account fee.\n* **Choose Starling or Monzo** if you struggle to budget and want visual pots and instant spending breakdowns.\n* **The \"Two-Account\" Strategy:** Many people keep their salary and direct debits with a traditional bank (e.g., First Direct, Nationwide, or Santander) and set up a standing order every payday sending their weekly spending money to **Chase** or **Monzo**. This protects your bill money while maximizing rewards and budgeting tools.",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPU1wH6t4gpEko--Nx9tDUNB186_DLXf81LvQXr8nm4bDFbFAZG4EsAyNaO471bSYtAFk0XmIsPU3-jvgZpEkwPRDrlAAFy9V-ettz37kPOjpWPhI-T-wZ8JYE9uWxS5I3LjBDGKfol7LkMouhnrEbw75PkDLmi0mAJgvnpS85e3TyOh2hSHiA79M=",
+   "title": "forbes.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3GazyBuiZuv61jXbj9T8l95BziTxg8NSE1yMnxeth58wZb3fEaHF1qBWy3vc3es5SulrYV7O4A4_CxVI2UdoAT2vakhE9_0co5TUvrE8jqaUKc_H3MzbocwtVcOY0J-iRvBMokzuXGiivHJ3AyB4z-CmsAuVCBvieR5USd2JdLEUd7LqC6R0ln_k=",
+   "title": "yonder.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFImJRMXVruonnxqFQTslSDhj_XqsX7FYybhPrPV0aJpd3RFgHzdyTOXhgRVeRNfHiMeKmKk0DWz_Qlv1W_7xjS-OkdQQ5-0e7QIERQjZKlFi3b4qAhN5eybm2C19sPdGDVsbtNSIwLoqy23wpNYAH0X3zm",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExM3ZtXGjjp40tK0ibdxmFe1idKIs5bokj-eldc9tW_ibsEBmtxBEVL72--x3zgTaFKovXzB3ds3DAtR_2lMvPQQ5xBdj0yBaJ3HDHqt0YbhT-CVaHEIZ5bd63uY8YUdOEFDQ-7wI-X4_-TUUjYBYwBcoLy-yoIS5p07k=",
+   "title": "moneysavingexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFiGhGl8j5qsTnpO9KPMKfVgXiNT6P-VadkMxXi-6H7h47DVFBYPpeILMNhT2jITNYGxRMBN39KNBy5JSK-ldkWNnf5SpuF7Z-7ZsG4WsEP2S7YLJYxAUTSTHqyEbdZ8aY9e9f6XR8bQF90T_MXainVlRCSiXT0KYVIETK4KKLZV1c7fi4W8QWJz6_uSUyEbqahNX2WSIAbyKFfWr1IQ==",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvhJbSf-ib0hndsY2YpggARmnK2_pNyMKoDXVj8Q30H22vyCzH5RGlyrwKvPN1t4PgJvWjB44Rz0SO6R2XQ7ZIdIB_BqEofZiBOkQE7ixyjMsnsAgBl2GgNzramHDFwClHI6NSGAWYxix7AmqPhV23yon0AJfVi1bpze1CF-rR",
+   "title": "finder.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMUAB6kCOLGbTXVOBZM3Z5c8p7VSMKTB-MK9PKLHcSyTnCE9Ba0TLfbO0v31_lLHBiXOaGcDk9nUo1ARootAld2XxslG4EtgdfDAMCWYYk6ea2f9uwahTJxC85XZFnTgGE7nhTFPnrCrdPblt_YtP4hZ5qQn5bnyo5M_pIibxCp6veTmppS0RcE4JG7983dosjC9GDAolxTiXHtI6F2CAFsp9TaorLRhwL",
+   "title": "which.co.uk"
+  }
+ ],
+ "search_queries": [
+  "best debit card cashback uk current account",
+  "best bank account everyday spending uk moneysavingexpert"
+ ],
+ "latency_s": 25.09,
+ "asked_at": "2026-11-21T17:44:59.338504+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

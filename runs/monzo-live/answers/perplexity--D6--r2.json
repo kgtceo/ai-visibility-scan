@@ -1,0 +1,80 @@
+{
+ "engine": "perplexity",
+ "model": "perplexity/sonar",
+ "question_id": "D6",
+ "run": 2,
+ "text": "It depends whether you mean interest **on the current-account balance itself** or a **savings account you can open as a customer**:\n\n- **Best for cash left in the current account:** **Nationwide FlexDirect** pays **5% AER for the first 12 months** on up to **£1,500**. You need to pay in at least **£1,000 a month**; after the first year, the rate drops to 1%. That’s up to **£75 interest** in year one.\n- **Best ongoing rate on a current-account balance:** **LHV Bank** pays **4% variable** with no stated balance cap or minimum pay-in. One limitation: it doesn’t support setting up standing orders.\n- **Best linked easy-access saver among the options found:** **Santander Edge Saver** pays **6% variable** on up to **£4,000** for a year, but requires a Santander Edge current account, which costs **£3 a month**. The fee reduces the benefit, so check it still makes sense for your balance and whether you’ll use the account’s other perks.\n\nRates and eligibility can change, so verify the account terms before applying. If you tell me roughly how much you want to save and whether you need instant access, I can help compare the likely returns.",
+ "citations": [
+  {
+   "url": "https://www.forbes.com/uk/advisor/banking/best-current-accounts/",
+   "title": "Best Current Accounts UK 2026: From First Direct To Chase"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/",
+   "title": "Best current account offers: Get up to £300 to switch bank"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/high-interest-bank-accounts/",
+   "title": "High Interest Current Accounts - November 2026"
+  },
+  {
+   "url": "https://www.zopa.com/current-account/interest-rates-compared",
+   "title": "Compare Current Account Interest Rates"
+  },
+  {
+   "url": "https://www.hsbc.co.uk/savings/products/regular-saver/",
+   "title": "Regular Savings Account | Regular Saver"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/",
+   "title": "Regular savings accounts 2026: Earn up to 8%"
+  },
+  {
+   "url": "https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/",
+   "title": "Top Savings Accounts"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/october-2026s-savings-round-up-news/",
+   "title": "October 2026’s savings round-up & news - Be Clever With ..."
+  },
+  {
+   "url": "https://becleverwithyourcash.com/november-2026s-savings-round-up-news/",
+   "title": "November 2026's savings round-up & news"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/choosing-a-current-account",
+   "title": "How to choose a good value current account"
+  },
+  {
+   "url": "https://www.which.co.uk/money/savings-and-isas/savings-accounts/how-to-find-the-best-savings-account-aAWTh2N0jTx5",
+   "title": "Best savings account and bond rates 2026 - Which? - Which.co.uk"
+  },
+  {
+   "url": "https://www.which.co.uk/money/banking/bank-accounts/best-bank-accounts/best-bank-accounts-if-you-always-stay-in-credit-an4Fn8G6BTFK",
+   "title": "Best high-interest bank accounts 2026 - Which?"
+  },
+  {
+   "url": "https://moneyfactscompare.co.uk/news/savings/best-uk-savings-rates-this-week/",
+   "title": "Weekly Savings Roundup | Top UK accounts | November 2026"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/april-2026s-savings-round-up-news/",
+   "title": "April 2026's savings round-up & news - Be Clever With Your Cash"
+  },
+  {
+   "url": "https://www.clearscore.com/learn/managing-money/Savings-account-interest-rate-current-account",
+   "title": "How much UK cash earns no interest? What Bank of ..."
+  }
+ ],
+ "search_queries": [
+  "UK current account interest rates November 2026 highest interest current account",
+  "UK bank current account linked regular saver interest rates 2026",
+  "best UK current accounts interest on balance 2026"
+ ],
+ "latency_s": 5.05,
+ "asked_at": "2026-11-21T17:40:51.107823+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

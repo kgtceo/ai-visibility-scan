@@ -1,0 +1,141 @@
+{
+ "engine": "perplexity-web",
+ "question_id": "H5",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Open a Joint Bank Account | Simplify Shared Costs with Monzo Use your joint bank account to spend on whatever you like – from household bills and subscrip"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/set-up-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Opening a joint account The home for everything you need to know about using Monzo."
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Monzo Help - Understanding joint accounts The home for everything you need to know about using Monzo."
+  },
+  {
+   "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Manage your money together with joint accounts! Introducing Monzo joint accounts! Pool your resources with someone to make life easier to manage."
+  },
+  {
+   "url": "https://monzo.com/ie/help/getting-started/help-joint-account-info",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo What is a Monzo joint account? A joint account is a separate account that you share with another person. It's designed to make managing shared finances ea"
+  },
+  {
+   "url": "https://community.monzo.com/t/labs-feedback-joint-accounts/41988",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Labs Feedback: Joint Accounts 🤝 We’ve just launched joint accounts in Monzo Labs! That means you can now open a joint account, test it out, and"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/joint-bank-accounts/monzo-joint-accounts",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "finder Monzo joint accounts - Finder UK Discover whether opening a joint account with Monzo would make sense for you."
+  },
+  {
+   "url": "https://community.monzo.com/t/joint-accounts-are-now-available-for-us-customers/143961",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "community.monzo Joint accounts are now available for US customers! - Monzo ... Hey everyone 👋 We’re really excited to announce that joint accounts for US custo"
+  },
+  {
+   "url": "https://monzo.com/legal/joint-account-terms-and-conditions/version-1-1",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo Joint Account terms Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future."
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-joint-account-review",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "referralplug.co Monzo joint account review (2026): how it works after 4 years The Monzo joint account is free and needs both holders to have personal accounts f"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. You and the other person each need a Monzo personal account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You and the other person each need a Monzo personal account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint account eligibility."
+   },
+   {
+    "text": "In the app, go to Home, tap the plus icon, choose “Apply for a Joint Account,” and invite them; once they accept, the account is ready.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Application process not covered by facts."
+   },
+   {
+    "text": "The joint account is separate from your personal accounts, with its own account number and a debit card for each of you.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Joint account features not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

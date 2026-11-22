@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "D8",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": true
+ },
+ "sources": [
+  {
+   "url": "https://www.ipsos.com/en-uk/personal-banking-service-quality-great-britain-august-2026?utm_source=openai",
+   "domain": "ipsos.com",
+   "source_type": "other",
+   "title": "Personal banking service quality – Great Britain | Ipsos"
+  },
+  {
+   "url": "https://www.firstdirect.com/ways-to-bank/?utm_source=openai",
+   "domain": "firstdirect.com",
+   "source_type": "other",
+   "title": "Ways To Bank | Personal Banking Options - first direct bank"
+  },
+  {
+   "url": "https://www.hsbc.co.uk/help/csqi/",
+   "domain": "hsbc.co.uk",
+   "source_type": "other",
+   "title": "CSQI - HSBC UK"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is the best-rated UK bank overall for a personal current account."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "positive",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "If you prefer face-to-face help, I’d pick Nationwide. It ranked first for branch service"
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is the best-rated UK bank overall for a personal current account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overall ranking."
+   },
+   {
+    "text": "79% of Monzo customers surveyed in Great Britain and 82% in Northern Ireland said they were very or extremely likely to recommend it.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ipsos survey figures not in facts; F4 is a different NPS metric."
+   },
+   {
+    "text": "Monzo ranked first in both Great Britain and Northern Ireland.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Ranking not covered by facts."
+   }
+  ]
+ },
+ "judge_error": null
+}

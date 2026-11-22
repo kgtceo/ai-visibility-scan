@@ -1,0 +1,30 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "D8",
+ "run": 2,
+ "text": "**I’d pick First Direct for a personal current account if what matters most is being able to speak to someone when something goes wrong.** You can call a UK-based adviser 24/7, and First Direct earned five out of five stars for both customer service and telephone banking in the 2026 Which? survey. ([firstdirect.com](https://www.firstdirect.com/ways-to-bank/?utm_source=openai))\n\nTwo alternatives stand out, depending on how you bank:\n\n- **Monzo for overall service.** In the August 2026 Ipsos survey, Monzo ranked first in both Great Britain and Northern Ireland: 79% and 82% of its customers, respectively, were very or extremely likely to recommend it. That measures the whole banking experience, not just how well support handles a problem. ([uk.virginmoney.com](https://uk.virginmoney.com/current-accounts/service-quality-indicators/?utm_source=openai))\n- **Nationwide for face-to-face help.** It ranked first for branch service in Great Britain: 83% of customers surveyed would recommend its branches, compared with 71% for runner-up Halifax. ([uk.virginmoney.com](https://uk.virginmoney.com/current-accounts/service-quality-indicators/))",
+ "citations": [
+  {
+   "url": "https://www.firstdirect.com/ways-to-bank/?utm_source=openai",
+   "title": "Ways To Bank | Personal Banking Options - first direct bank"
+  },
+  {
+   "url": "https://uk.virginmoney.com/current-accounts/service-quality-indicators/?utm_source=openai",
+   "title": "Independent service quality survey results | Virgin Money UK"
+  },
+  {
+   "url": "https://uk.virginmoney.com/current-accounts/service-quality-indicators/",
+   "title": "Independent service quality survey results | Virgin Money UK"
+  }
+ ],
+ "search_queries": [
+  "August 2026 personal current accounts service quality survey Great Britain Monzo Chase first direct customer service August 2026 results Ipsos",
+  "site:firstdirect.com 24/7 phone real person telephone banking"
+ ],
+ "latency_s": 13.02,
+ "asked_at": "2026-11-21T16:56:04.989973+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

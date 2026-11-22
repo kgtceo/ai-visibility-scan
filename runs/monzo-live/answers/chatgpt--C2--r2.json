@@ -1,0 +1,35 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "C2",
+ "run": 2,
+ "text": "**For a free UK personal current account, I’d pick Monzo if you mostly pay by card and often split bills. I’d pick Starling if you regularly pay in cash or use cash machines abroad.** Both offer a current account with no monthly fee, so the choice comes down to how you’ll use it. ([monzo.com](https://monzo.com/current-account/personal?utm_source=openai))\n\n| What matters to you | Which I’d pick, and why |\n|---|---|\n| **Splitting costs with friends or flatmates** | **Monzo.** You can split a single dinner bill or keep a running total for groceries and trips. Friends can join by link without opening a Monzo account, and the app can remind them to pay. ([monzo.com](https://monzo.com/features/monzo-split?utm_source=openai)) |\n| **Spending on holiday** | **Either for card payments; Starling for cash.** Neither bank charges a fee for card purchases abroad. Starling also charges no overseas ATM fee. Outside the UK and European Economic Area, free Monzo gives you £200 of withdrawals per rolling 30 days, then charges 3% on the excess. ([starlingbank.com](https://www.starlingbank.com/current-account/)) |\n| **Paying cash into your account** | **Starling** for occasional deposits: the first £1,000 per calendar year is free. Free Monzo charges £1 each time you pay in cash, whether at a PayPoint or Post Office. ([help.starlingbank.com](https://help.starlingbank.com/joint/topics/cash-deposits-and-withdrawals/can-i-deposit-cash-into-my-account/?utm_source=openai)) |\n\n**If none of those differences matters much, I’d lean Monzo, narrowly.** In the August 2026 independent Great Britain service survey, 79% of Monzo customers would recommend it, versus 76% for Starling. They ranked first and second, so I’d give your own banking habits more weight than the three-point gap. ([starlingbank.com](https://www.starlingbank.com/current-account/))",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/personal?utm_source=openai",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-split?utm_source=openai",
+   "title": "Monzo Split | Settle Up With Anyone | Split The Bill"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "title": "Apply for our award-winning current account | Starling"
+  },
+  {
+   "url": "https://help.starlingbank.com/joint/topics/cash-deposits-and-withdrawals/can-i-deposit-cash-into-my-account/?utm_source=openai",
+   "title": "Can I deposit cash into my account? - Starling Help"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK current account free cash withdrawals abroad cash deposits budgeting pots fees 2026",
+  "site:monzo.com UK ATM fees £200 outside EEA £1 deposit cash Monzo free account fees",
+  "site:monzo.com split bills shared tabs free personal account Monzo friends not on Monzo"
+ ],
+ "latency_s": 23.9,
+ "asked_at": "2026-11-21T16:57:22.116355+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

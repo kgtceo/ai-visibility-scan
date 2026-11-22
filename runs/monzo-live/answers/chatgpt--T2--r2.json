@@ -1,0 +1,25 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "T2",
+ "run": 2,
+ "text": "Yes — **Monzo is a licensed UK bank**, and the app is how you manage your account. The Bank of England lists it as **Monzo Bank Limited**, firm reference **730427**. ([bankofengland.co.uk](https://www.bankofengland.co.uk/prudential-regulation/authorisations/which-firms-does-the-pra-regulate?utm_source=openai))\n\nIf Monzo were to fail, the **Financial Services Compensation Scheme (FSCS)** would protect your eligible deposits up to **£120,000 per person** across your accounts with Monzo Bank Limited, not £120,000 per account. ([monzo.com](https://monzo.com/help/legal-stuff/deposit-protection-fscs?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/authorisations/which-firms-does-the-pra-regulate?utm_source=openai",
+   "title": "Which firms does the PRA regulate? | Bank of England – the UK's central bank"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs?utm_source=openai",
+   "title": "Monzo Help - Deposit protection (FSCS)"
+  }
+ ],
+ "search_queries": [
+  "Monzo Bank Limited UK bank PRA FCA 730427 FSCS £120000 Monzo current account official"
+ ],
+ "latency_s": 8.32,
+ "asked_at": "2026-11-21T17:01:44.928958+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

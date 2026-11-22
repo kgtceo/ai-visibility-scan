@@ -1,0 +1,106 @@
+{
+ "engine": "chatgpt",
+ "question_id": "C3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/travelling/understanding-fees?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding fees for using your Monzo card abroad"
+  },
+  {
+   "url": "https://help.revolut.com/help/profile-and-plan/my-plan-benefits/revolut-plans1/standard-plan/?utm_source=openai",
+   "domain": "help.revolut.com",
+   "source_type": "competitor_owned",
+   "title": "Standard plan | Revolut United Kingdom"
+  },
+  {
+   "url": "https://monzo.com/features/travel?utm_source=openai",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee-free Debit & Credit Cards Made for Travel | Monzo"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "not_discussed",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "positive"
+    },
+    "evidence": "I’d choose Monzo for a European holiday"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "not_discussed",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut is worth choosing if you want to buy euros in advance"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can pay straight from your pound balance at Mastercard’s exchange rate, with no Monzo conversion fee, even at weekends.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Matches no fee and Mastercard rate."
+   },
+   {
+    "text": "Its UK and European Economic Area allowance is £400 per rolling 30 days, or unlimited if you meet its main-bank criteria.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Outside the EEA, the free account’s allowance is £200 per rolling 30 days.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

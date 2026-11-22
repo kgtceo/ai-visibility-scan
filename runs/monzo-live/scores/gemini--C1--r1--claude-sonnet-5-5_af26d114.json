@@ -1,0 +1,142 @@
+{
+ "engine": "gemini",
+ "question_id": "C1",
+ "run": 1,
+ "present": {
+  "Monzo": false,
+  "Starling": true,
+  "Revolut": true,
+  "Chase": true,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgwbjn-Az8xvfQbnciJM_33PeGIuz3r5ZFYj9mseuCmtAGrhW7oV-Cqcnvk7i2EVYFElXj7JnRuToBgCYI1-At_szU9o8ggbAIFMn9NIJnFZEJvL_76GpgF2VSvXIieUWSqdR-sf382xDZTznKeGIAhqzDiU=",
+   "domain": "currentaccountswitch.co.uk",
+   "source_type": "other",
+   "title": "currentaccountswitch.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7Y43vZooVj4O30_Pt6Mo7ngZwU1pbG_1QfuvCCpgfvJ_TECt5roGP16PDuN_zCc6w9J4RL7E7c9V_wNzIT0bvUJgkp8suBuzZWhEeT9LqLt03smF8tD9jQisGis523PxIbpFChcHdkMxV-cPiO5G5g_B8-csJGDFur0wH1K-pqo2m72ar6w3199XzdbmMwx9DbAYVwjr1zxdbmuNNNFZngphbd2_HTUqkAkzIj2nTda68gE=",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "starlingbank.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-G-3OoLA3Kxu4JtytO-zboUA9QoXsq7X9ILpG_CD6UVYBylk4uc7m3l_IYaWORztz738ouTBzyZOWspfaz3RISQz88FfN_GqtmynA_qVla2gvUtQhwEZ639Jq-xxlNc1DHrMGHQxTX-YeeI_LKuVE5iO9ZQdSb7_nNZfMDnB0TRVZHqZCFeJjdTV7RjpkyEYmU40xJRBv_16GksABSrUtESUe0CE=",
+   "domain": "moneyexpert.com",
+   "source_type": "other",
+   "title": "moneyexpert.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOAdvYYWMWoJbvOcc75uGFzWPxIwF7OqsOlZFNi8Fpd3esgmhdw_RtymzjOltpH-avzOLfpROacDYv5cqGyzY2amgWHQQNaqx9FAmT7s7Z_6nxHWsRpVttLSrkNeYhvLxlasc5M5ln0d8Bt8nolqdjO1lKWqcsScKxEzM6LQX2y1b4VNdgwhH0ybIvBBdNpDDfzLiHdQ==",
+   "domain": "bankingdive.com",
+   "source_type": "other",
+   "title": "bankingdive.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUUaoIL6knvMSyBGb19AzO6bLzrV8xxz5WfcVRx9RBO0EQTw5pQIiVvqUMX0mMIBINIY3_p-Xj0XNmzS57qIZ-Im17IfxQZFl6KE1wAN_f811Yl_2XFOkp3BvCYUDk61vitv6OYAdGiBSB5T_9qbMb6vqxNof7Bkj_oDYf0CsHbHMwa_vWaWH8hgtWqwl3pLQvZWrYnvVFdA8xRlii8iZdttXz_VlhZI3mvTn5t3MndTs5Eg==",
+   "domain": "which.co.uk",
+   "source_type": "review_comparison",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzDWRSb8dawJ2pYJ-B6R0p1EG8oU653KP5eXQcAy2VfjnxwfraUO3NIdo-s63J9_yDILC7JQsXkUOsQvT8jPoIp8H_GYdWAAmivZTyi2dIEeuq48ceZXkVqMmLaKo4TXPAnAIHkYRznpg3V2F47w==",
+   "domain": "chase.co.uk",
+   "source_type": "competitor_owned",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqVQRtepLIvinS3M0frzwmiGIgGSDNE566Mjv6xqDtqQhh8cfSRngPX0oCyOk1blddt6QT99gL5Fb3qNzHBuPE5mp2ARW3xJnqcRdrhTWRh_5gYLNNTNxfYHX4XU2p8pjQQs-FlrGRnP7dcQ6DAeuI9__2k1W2B2FNXokmhkDn4A=",
+   "domain": "neobankradar.com",
+   "source_type": "other",
+   "title": "neobankradar.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYbGlQaog_ZB3dcH4MP_4u-ik5HtBjZDBKgJcrknOFuHsW2_nk2Gsc7aujFCsLXSOQ16vwlTJGO0RudBRoeEpBAbU6uGnLGgYQzWj9TZPHzT1CDqDCmbOOX-PrbMB-lsIqro5PeZWu_x8M1alPJmXbIWvmJZMleDXU0pMOtyvmcSRT",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXUx0qU-IHRsToR9TGdCVLFspxSjbG4NNhg1GFc3I-Wlj1i2FJZZGANtbeNARCIC2hA3pciM8skumliWdYNcFaG6HUZ7ja-5RFJoehpCfGEHK93qn4OmJi5us=",
+   "domain": "wikipedia.org",
+   "source_type": "wikipedia",
+   "title": "wikipedia.org"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELjGBHv1JONlTrMCtSUmZP_pSn1Xt8kScoD33OIs9CkcTRB_NbVDoB5DH7oxADqlYZ064V1bBp6axquhZmFtcok23PV8UVAvh0Cz5O_kKz83yg8Ga_R5YZu4AZ5u2pEUsBZun3D1Mj1aUk41waA2eLmHzGg2Qt87-drr-Pki_aaRC4FeW8DYuDhBR174pzdDP8_hC6RfzaOcKTDkWBSYOe7P_pPGNtN6n0B8k_JL4uf5p26l2Mu8aLpIsmrqo=",
+   "domain": "ffnews.com",
+   "source_type": "other",
+   "title": "ffnews.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjIa-fD3gfT_JZa0_caLsoOT4GhlYNqhDe2QNmbfFUhKIlq5c5mapwnj3_zWt2B5vElvfL_P8KmvFhKaifl8NgTKyBPxaN6G9A4iN6jqAZ3YtEjSRTAMPiOzSXIb-5-M6JD5sF1mv2n--OkQ==",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Starling Bank is the overall winner."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "mentioned",
+    "position": 3,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "negative",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "positive"
+    },
+    "evidence": "An incredible multi-currency and travel tool, but still awkward as a sole UK primary current account."
+   },
+   {
+    "brand": "Chase",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "positive",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Best for Daily Spending & Rewards"
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": []
+ },
+ "judge_error": null
+}

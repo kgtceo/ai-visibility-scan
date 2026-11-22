@@ -1,0 +1,423 @@
+{
+ "engine": "grok",
+ "question_id": "S2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-getting-started/moving-salary-to-monzo"
+  },
+  {
+   "url": "https://community.monzo.com/t/full-monzo-required-for-paying-salary-in/45759",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/full-monzo-required-for-paying-salary-in/45759"
+  },
+  {
+   "url": "https://monzo.com/ie/help/using-monzo/help-direct-debits",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/ie/help/using-monzo/help-direct-debits"
+  },
+  {
+   "url": "https://monzo.com/salary-sorter",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/salary-sorter"
+  },
+  {
+   "url": "https://www.monzo.com/help/account-and-profile/account-number2",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/help/account-and-profile/account-number2"
+  },
+  {
+   "url": "https://community.monzo.com/t/does-it-work-with-only-monzo-bank-account-in-uk/89675",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/does-it-work-with-only-monzo-bank-account-in-uk/89675"
+  },
+  {
+   "url": "https://community.monzo.com/t/making-monzo-my-main-account/91561",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/making-monzo-my-main-account/91561"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/unauthorised-overdrafts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/unauthorised-overdrafts"
+  },
+  {
+   "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account"
+  },
+  {
+   "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/3846711-AIBU-to-not-use-Monzo-as-main-current-account",
+   "domain": "mumsnet.com",
+   "source_type": "forum_social",
+   "title": "https://www.mumsnet.com/talk/am_i_being_unreasonable/3846711-AIBU-to-not-use-Monzo-as-main-current-account"
+  },
+  {
+   "url": "https://theinterface.uk/news/monzo-uk-bank-now-supports-mobile-cheque-deposits",
+   "domain": "theinterface.uk",
+   "source_type": "other",
+   "title": "https://theinterface.uk/news/monzo-uk-bank-now-supports-mobile-cheque-deposits"
+  },
+  {
+   "url": "https://www.nephosgroup.com/nephos-blog/uk-sort-code-and-account-number/",
+   "domain": "nephosgroup.com",
+   "source_type": "other",
+   "title": "https://www.nephosgroup.com/nephos-blog/uk-sort-code-and-account-number/"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/cash-deposit-limit",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-getting-started/cash-deposit-limit"
+  },
+  {
+   "url": "https://community.monzo.com/t/direct-debit-from-pot/155732",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/direct-debit-from-pot/155732"
+  },
+  {
+   "url": "https://pocketwise.co.uk/banking/monzo/monzo-cash-deposit/",
+   "domain": "pocketwise.co.uk",
+   "source_type": "review_comparison",
+   "title": "https://pocketwise.co.uk/banking/monzo/monzo-cash-deposit/"
+  },
+  {
+   "url": "https://monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://community.monzo.com/t/using-monzo-as-main-account/190949",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/using-monzo-as-main-account/190949"
+  },
+  {
+   "url": "https://monzo.com/features/monzo-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/monzo-payday"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/the-best-packaged-bank-accounts",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/the-best-packaged-bank-accounts"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-overdraft/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "https://www.lilachbullock.com/monzo-overdraft/"
+  },
+  {
+   "url": "https://community.monzo.com/t/monzo-as-main-bank-account/37601",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/monzo-as-main-bank-account/37601"
+  },
+  {
+   "url": "https://www.probusinessblog.co.uk/monzo-sort-code/",
+   "domain": "probusinessblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.probusinessblog.co.uk/monzo-sort-code/"
+  },
+  {
+   "url": "https://community.monzo.com/t/use-monzo-account-and-i-am-not-a-uk-resident/182580",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/use-monzo-account-and-i-am-not-a-uk-resident/182580"
+  },
+  {
+   "url": "https://www.forbes.com/advisor/uk/banking/monzo-review/",
+   "domain": "forbes.com",
+   "source_type": "review_comparison",
+   "title": "https://www.forbes.com/advisor/uk/banking/monzo-review/"
+  },
+  {
+   "url": "https://www.monzo.com/legal/business-account-fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://www.monzo.com/legal/business-account-fscs-information"
+  },
+  {
+   "url": "https://monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday"
+  },
+  {
+   "url": "https://monzo.com/help/payments-getting-started/standing-order-set-up",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/payments-getting-started/standing-order-set-up"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-today/understanding-fscs-protection"
+  },
+  {
+   "url": "https://monzo.com/legal/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/legal/fee-information"
+  },
+  {
+   "url": "https://whito.co.uk/business-banking/business-bank-account-fscs-protection-uk/",
+   "domain": "whito.co.uk",
+   "source_type": "other",
+   "title": "https://whito.co.uk/business-banking/business-bank-account-fscs-protection-uk/"
+  },
+  {
+   "url": "https://x.com/monzo/status/2038195133728833788",
+   "domain": "x.com",
+   "source_type": "forum_social",
+   "title": "https://x.com/monzo/status/2038195133728833788"
+  },
+  {
+   "url": "https://community.monzo.com/t/depositing-cash-cheques/14978?page=3",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/depositing-cash-cheques/14978?page=3"
+  },
+  {
+   "url": "https://cambridgecurrencies.com/monzo-sort-code-and-account/",
+   "domain": "cambridgecurrencies.com",
+   "source_type": "other",
+   "title": "https://cambridgecurrencies.com/monzo-sort-code-and-account/"
+  },
+  {
+   "url": "https://community.monzo.com/t/transfers-bill-payments-and-monzo-dates/191241",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/transfers-bill-payments-and-monzo-dates/191241"
+  },
+  {
+   "url": "https://savesterling.co.uk/guides/fscs-protection",
+   "domain": "savesterling.co.uk",
+   "source_type": "other",
+   "title": "https://savesterling.co.uk/guides/fscs-protection"
+  },
+  {
+   "url": "https://monzo.com/help/monzo-for-under-16s/under-16s-fscs",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/help/monzo-for-under-16s/under-16s-fscs"
+  },
+  {
+   "url": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch",
+   "domain": "moneytothemasses.com",
+   "source_type": "other",
+   "title": "https://moneytothemasses.com/banking/monzo-review-should-you-make-the-switch"
+  },
+  {
+   "url": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank",
+   "domain": "selectra.co.uk",
+   "source_type": "other",
+   "title": "https://selectra.co.uk/money/news/neobanks-fscs-120000-revolut-monzo-starling-wise-not-a-bank"
+  },
+  {
+   "url": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots"
+  },
+  {
+   "url": "https://community.monzo.com/t/interested-in-using-monzo-as-my-main-bank-account/52262",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/interested-in-using-monzo-as-my-main-bank-account/52262"
+  },
+  {
+   "url": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/do-you-use-monzo-as-your-main-bills-direct-debit-account/86763"
+  },
+  {
+   "url": "https://www.ukfinanceblog.co.uk/is-monzo-safe/",
+   "domain": "ukfinanceblog.co.uk",
+   "source_type": "other",
+   "title": "https://www.ukfinanceblog.co.uk/is-monzo-safe/"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money"
+  },
+  {
+   "url": "https://community.monzo.com/t/pay-day-salary-sorter-pots-direct-debits/135249",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/pay-day-salary-sorter-pots-direct-debits/135249"
+  },
+  {
+   "url": "https://becleverwithyourcash.com/monzo-overdraft-changes/",
+   "domain": "becleverwithyourcash.com",
+   "source_type": "other",
+   "title": "https://becleverwithyourcash.com/monzo-overdraft-changes/"
+  },
+  {
+   "url": "https://community.monzo.com/t/can-i-get-salary-paid-into-monzo-bank-if-the-name-on-the-bank-is-different/177054",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/can-i-get-salary-paid-into-monzo-bank-if-the-name-on-the-bank-is-different/177054"
+  },
+  {
+   "url": "https://monzo.com/features/payments",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/features/payments"
+  },
+  {
+   "url": "https://community.monzo.com/t/help-wages/177460",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/help-wages/177460"
+  },
+  {
+   "url": "https://www.mumsnet.com/talk/money-matters/5476565-monzo-as-main-bank",
+   "domain": "mumsnet.com",
+   "source_type": "forum_social",
+   "title": "https://www.mumsnet.com/talk/money-matters/5476565-monzo-as-main-bank"
+  },
+  {
+   "url": "https://community.monzo.com/t/standing-orders-direct-debits/38165",
+   "domain": "community.monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://community.monzo.com/t/standing-orders-direct-debits/38165"
+  },
+  {
+   "url": "https://monzo.com/learn/money-today/direct-debits-vs-standing-orders",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "https://monzo.com/learn/money-today/direct-debits-vs-standing-orders"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "neutral",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. Monzo is a fully regulated UK bank, so you can use it as your main account for salary and bills."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a fully regulated UK bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are covered by the FSCS up to £120,000 per person",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "The FSCS limit rose from £85,000 on 1 December 2025",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts do not cover the date or previous limit."
+   },
+   {
+    "text": "Cash deposits are limited to about £750 a month on personal accounts and cost £1 each, via Post Office or PayPoint",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Cash withdrawals are free in the UK within normal limits; higher free overseas allowances apply if Monzo is your main bank",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Consistent with free allowance and main-bank uplift."
+   },
+   {
+    "text": "Monzo offers Get Paid Early, Salary Sorter and Bills Pots",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo supports Direct Debits and standing orders, and the Current Account Switch Service",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo has no branches and support is in-app/chat",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Unarranged overdrafts are not charged interest",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

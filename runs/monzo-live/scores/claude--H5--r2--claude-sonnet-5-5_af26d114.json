@@ -1,0 +1,141 @@
+{
+ "engine": "claude",
+ "question_id": "H5",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Joint Bank Account"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Manage your money together with joint accounts!"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Joint Savings Accounts"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-joint-account/",
+   "domain": "lilachbullock.com",
+   "source_type": "other",
+   "title": "Monzo Joint Account: Opening, Switching and Credit Scores"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Understanding joint accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Advanced tools for joint accounts"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "neutral",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Yes. In the UK you can open a joint Monzo account with a partner, friend, family member or flatmate."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "You can open a Monzo joint account with a partner, friend, family member or flatmate in the UK.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers joint accounts."
+   },
+   {
+    "text": "You need to be 18 or over; for joint savings both need to be UK residents aged 18+.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Both owners get a debit card and the joint account has its own account number.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Joint account overdraft: either owner can change limits, make repayments or switch it off.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "You can set up Joint Instant Access Savings Pots with a joint account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "F9 covers the free plan savings rate only, not joint savings pots."
+   },
+   {
+    "text": "Extra, Perks or Max plans unlock virtual cards, advanced roundups, custom categories and auto-spreadsheets on a joint account.",
+    "verdict": "unverifiable",
+    "fact_id": "F8",
+    "note": "F8 confirms plan names exist but not the features."
+   },
+   {
+    "text": "Opening a joint account creates a financial association, so missed payments or unarranged overdrafts can affect both credit scores.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

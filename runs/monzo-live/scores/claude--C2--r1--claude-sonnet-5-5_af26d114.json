@@ -1,0 +1,160 @@
+{
+ "engine": "claude",
+ "question_id": "C2",
+ "run": 1,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://studentmoneyuk.co.uk/monzo-vs-starling-students/",
+   "domain": "studentmoneyuk.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling for Students 2026/27"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling Bank: which digital bank is better in 2026?"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-vs-starling/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling (2026): Which Digital Bank Is The Best? - ..."
+  },
+  {
+   "url": "https://tryabel.com/monzo-vs-starling/",
+   "domain": "tryabel.com",
+   "source_type": "other",
+   "title": "Monzo vs Starling: Which Digital Bank Is Best in 2026?"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling Business (2026) — Which Should You Open?"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "positive",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Pick Monzo if: Budgeting matters most to you. Monzo is the pick for the best budgeting tools"
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "positive",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Pick Starling if: You want everything free without upsells."
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo Max (from £19 a month)",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": "Matches Max from £19 a month."
+   },
+   {
+    "text": "On a free account, Monzo gives £200 a month of free foreign ATM withdrawals and charges 3% after that.",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Matches the £200 allowance outside the EEA and 3% fee; the answer omits the 30-day period and the EEA detail."
+   },
+   {
+    "text": "Neither charges fees on foreign card spending.",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "Monzo charges no fee on card spending abroad."
+   },
+   {
+    "text": "Both are FSCS protected up to £120,000.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Matches the FSCS limit."
+   },
+   {
+    "text": "Monzo charges 19–39% EAR on arranged overdrafts, depending on your credit score.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers overdraft rates."
+   },
+   {
+    "text": "Monzo can match or beat Starling's savings rate only on its paid Perks or Max plans.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Facts give only the free plan rate of 2.80% AER, not paid plan rates."
+   },
+   {
+    "text": "Monzo offers personal loans and the Monzo Flex credit card as well as an overdraft.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these products."
+   },
+   {
+    "text": "Monzo came first for business service quality in the August 2026 results.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers this."
+   },
+   {
+    "text": "Monzo has bill splitting, instant Monzo-to-Monzo payments and connected accounts.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers these features."
+   },
+   {
+    "text": "Monzo doesn't offer accounting integrations and an overdraft in its business free tier.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers business accounts."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,214 @@
+{
+ "engine": "perplexity",
+ "question_id": "C2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": true,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/current-account",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "See All Current Accounts"
+  },
+  {
+   "url": "https://www.starlingbank.com/docs/legal/terms/starling-personal-account-schedule-and-rfc-may-2026.pdf",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Personal Current Account Schedule and Rates, Fees and ..."
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/compare-best-bank-accounts/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "The best bank accounts: Compare current accounts"
+  },
+  {
+   "url": "https://monzo.com/current-account/max",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Max | Get More Life for Your Money | from £19 a Month"
+  },
+  {
+   "url": "https://www.starlingbank.com/current-account/",
+   "domain": "starlingbank.com",
+   "source_type": "competitor_owned",
+   "title": "Apply for our award-winning current account"
+  },
+  {
+   "url": "https://monzo.com/?roistat_visit=2540962",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo | Open a Free Account"
+  },
+  {
+   "url": "https://www.finder.com/uk/current-accounts/starling-vs-monzo",
+   "domain": "finder.com",
+   "source_type": "review_comparison",
+   "title": "Starling vs Monzo | Which is better for fees & features?"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/monzo/?msockid=353040040127624e282b581400da63ae",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "Monzo Bank Current Accounts | MoneySuperMarket"
+  },
+  {
+   "url": "https://thebusinessbankingexpert.co.uk/compare/monzo-vs-starling",
+   "domain": "thebusinessbankingexpert.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling Business (2026) — Which Should You Open?"
+  },
+  {
+   "url": "https://www.moneysupermarket.com/current-accounts/providers/starling-bank/",
+   "domain": "moneysupermarket.com",
+   "source_type": "other",
+   "title": "Starling Bank Current Accounts"
+  },
+  {
+   "url": "https://generationmoney.co.uk/monzo-review/",
+   "domain": "generationmoney.co.uk",
+   "source_type": "other",
+   "title": "Monzo Review 2026"
+  },
+  {
+   "url": "https://www.referralplug.co.uk/blog/monzo-vs-starling",
+   "domain": "referralplug.co.uk",
+   "source_type": "other",
+   "title": "Monzo vs Starling Bank: which digital bank is better in 2026?"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "mentioned",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "neutral",
+     "savings_rates": "neutral",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Monzo is better if you want richer budgeting tools and a more feature-packed app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "neutral",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Starling is the better all-rounder for most people"
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo has no foreign card-spending fees",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo cash-withdrawal limits can apply, especially outside the EEA",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "Allowance is lower outside the EEA (£200 vs £400)."
+   },
+   {
+    "text": "Monzo has optional paid plans",
+    "verdict": "supported",
+    "fact_id": "F8",
+    "note": ""
+   },
+   {
+    "text": "Monzo eligible deposits are covered by FSCS",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo is a UK-licensed bank",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Monzo monthly fee is free",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": "A free plan exists."
+   },
+   {
+    "text": "Monzo cash deposits usually cost £1 per deposit; some paid plans include free deposits",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers cash deposits."
+   },
+   {
+    "text": "Monzo has Pots and more extensive budgeting features",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   },
+   {
+    "text": "Monzo savings rates can vary by plan and account",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "Fact gives a free-plan rate of 2.80% AER but says nothing on variation by plan."
+   }
+  ]
+ },
+ "judge_error": null
+}

@@ -1,0 +1,183 @@
+{
+ "engine": "perplexity",
+ "question_id": "T2",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": false,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://monzo.com/learn/money-today/understanding-fscs-protection",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "What is FSCS Protection and How Does it Work?"
+  },
+  {
+   "url": "https://monzo.com/help/legal-stuff/deposit-protection-fscs",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo Help - Deposit protection (FSCS)"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  },
+  {
+   "url": "https://monzo.com/legal/pensions/fscs-information",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How your investments and pensions are protected - Monzomonzo.com › legal › pensions › fscs-information"
+  },
+  {
+   "url": "https://monzo.com/security",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Industry-first security | Stay safe with Monzo"
+  },
+  {
+   "url": "https://monzo.com/legal/fscs-information/version-1-3",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Financial Services Compensation Scheme Information Sheet"
+  },
+  {
+   "url": "https://monzo.com/faq",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "FAQ"
+  },
+  {
+   "url": "https://monzo.com/learn/money-safety/how-we-help-protect-your-money",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Is Monzo safe? How we help protect your money"
+  },
+  {
+   "url": "https://web.monzo.com/",
+   "domain": "web.monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo – Online Banking"
+  },
+  {
+   "url": "https://monzo.com/current-account/personal",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Open a Free Online Bank Account in Minutes with Monzo"
+  },
+  {
+   "url": "https://monzo.com/about",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "About"
+  },
+  {
+   "url": "https://ico.org.uk/ESDWebPages/Entry/ZA108184",
+   "domain": "ico.org.uk",
+   "source_type": "other",
+   "title": "Monzo Bank Limited"
+  },
+  {
+   "url": "https://monzo.com/help/account-and-profile/brexit-general-query",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "How Brexit will impact Monzo"
+  },
+  {
+   "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "We Are Now a Bank"
+  },
+  {
+   "url": "https://monzo.com/index.html",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "Monzo – Online Banking Made Easy | Open An Account Online"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "not_discussed",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "not_discussed"
+    },
+    "evidence": "Monzo is a **real UK bank**, not just an app."
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo is a real UK bank, not just an app.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "Consistent with Monzo being a UK bank authorised by the PRA and regulated by the FCA."
+   },
+   {
+    "text": "Monzo Bank Limited is authorised by the Prudential Regulation Authority and regulated by the PRA and Financial Conduct Authority.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": ""
+   },
+   {
+    "text": "Eligible deposits are protected by the FSCS up to £120,000 per person, per banking licence.",
+    "verdict": "supported",
+    "fact_id": "F5",
+    "note": "The 'per banking licence' condition is not covered by the facts, but the £120,000 per person figure matches."
+   },
+   {
+    "text": "The £120,000 limit applies across your eligible Monzo deposits combined, not separately to each account.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "The facts do not say how the limit applies across accounts."
+   },
+   {
+    "text": "Monzo's firm reference number on the FCA Financial Services Register is 730427.",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": "No fact covers the FCA firm reference number."
+   }
+  ]
+ },
+ "judge_error": null
+}

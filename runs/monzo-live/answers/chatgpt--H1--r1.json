@@ -1,0 +1,34 @@
+{
+ "engine": "chatgpt",
+ "model": "gpt-6.2-astra",
+ "question_id": "H1",
+ "run": 1,
+ "text": "**I’d stick with free Monzo unless a paid plan replaces something you already buy or gives you a budgeting tool you’d happily pay for.** Perks is the first one I’d look at if you regularly use Vue, Greggs or Uber One. Max is a separate decision: would its insurance replace cover you’d otherwise buy?\n\nAt UK prices as of **21 November 2026**, here’s how I’d choose. ([monzo.com](https://monzo.com/help/monzo-max/monzo-plan-price-change?utm_source=openai))\n\n| Plan | Cost | When it’s worth it |\n|---|---:|---|\n| **Extra** | **£3/month · £36/year** | If you’d use virtual cards, custom spending categories, linked bank accounts or automatic Google Sheets exports regularly. If none of those solves a specific problem for you, stay free. ([monzo.com](https://monzo.com/legal/plans/fee-information?utm_source=openai)) |\n| **Perks** | **£9/month · £108/year** | If the annual Railcard, monthly Vue ticket, weekly Greggs treat, Uber One or YouTube Premium Lite replace enough of your normal spending. If you’d already pay for Extra, those benefits only need to justify **another £6/month**. ([monzo.com](https://monzo.com/legal/plans/fee-information?utm_source=openai)) |\n| **Max** | **£19/month · £228/year** | If you’d already choose Perks, the extra **£120/year** buys worldwide travel and phone insurance plus UK and European RAC breakdown cover. Compare that with quotes for the cover you actually need, and check excesses, exclusions and any cover you already have. Max has a three-month minimum; you must be 18–69 to apply. ([monzo.com](https://monzo.com/legal/plans/fee-information?utm_source=openai)) |\n| **Max with Family** | **£23/month · £276/year** | If Max already makes sense, **£48/year extra** extends the insurance and breakdown cover to eligible family members. It’s the cover you’re extending, not a second set of cinema tickets or subscriptions. ([monzo.com](https://monzo.com/legal/plans/fee-information?utm_source=openai)) |\n\n**A quick Perks test:** If you’d otherwise buy a **£35 annual Railcard**, count £35 towards the £108 fee—not all the train fares it saves, because you’d get those discounts either way. That leaves **£73 a year, or £6.08 a month**, to recover. If the Vue ticket replaces a cinema trip you already make most months, Perks could clear that bar. If the Railcard is the only thing you want, buy it separately. ([railcard.co.uk](https://www.railcard.co.uk/?utm_source=openai))\n\n**I wouldn’t upgrade for savings interest alone without comparing free accounts first.** At Monzo’s published variable rates, Perks pays 0.50 percentage points more than Free on Instant Access savings. You’d need roughly **£21,600** sitting there all year just to offset the £108 fee before tax. ([monzo.com](https://monzo.com/current-account/plans?utm_source=openai))",
+ "citations": [
+  {
+   "url": "https://monzo.com/help/monzo-max/monzo-plan-price-change?utm_source=openai",
+   "title": "Monzo Help - Monzo Perks, Max and Max Family: Information about our plan price changes"
+  },
+  {
+   "url": "https://monzo.com/legal/plans/fee-information?utm_source=openai",
+   "title": "Fee Information (Extra, Perks & Max)"
+  },
+  {
+   "url": "https://www.railcard.co.uk/?utm_source=openai",
+   "title": "Official Railcard | Save 1/3 on GB Train Tickets | Railcards"
+  },
+  {
+   "url": "https://monzo.com/current-account/plans?utm_source=openai",
+   "title": "Monzo Plans | Our Take on Packaged Bank Accounts"
+  }
+ ],
+ "search_queries": [
+  "site:monzo.com UK compare plans Extra Perks Max 2026 November railcard weekly treat insurance savings Monzo",
+  "site:railcard.co.uk Network Railcard £35 price 2026"
+ ],
+ "latency_s": 18.37,
+ "asked_at": "2026-11-21T16:59:23.852867+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

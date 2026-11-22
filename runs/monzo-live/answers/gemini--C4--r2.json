@@ -1,0 +1,89 @@
+{
+ "engine": "gemini",
+ "model": "gemini-3.8-flash",
+ "question_id": "C4",
+ "run": 2,
+ "text": "**Chase UK is generally better than Monzo for both cashback and savings** on standard, free accounts. \n\n---\n\n### 1. Cashback Comparison\n\n| Feature | Chase UK | Monzo |\n| :--- | :--- | :--- |\n| **How it works** | **Flat percentage on everyday categories** (groceries, transport, fuel, dining). | **Merchant-specific rotating offers** (e.g., 5% at Argos, 4% at Sainsbury’s). |\n| **Effort required** | **Low:** Automatic cashback credited on eligible spend. | **Medium:** You must browse and activate offers in the app before shopping. |\n| **Caps & Conditions** | Capped at £15–£20/month; requires meeting monthly deposit criteria (e.g., paying in £1,500/month after intro period). | Varies per retailer. Available on free and paid tiers, but depends entirely on participating partners. |\n\n* **Winner: Chase UK.** Chase gives you reliable, automatic cashback on essential everyday spend without needing to check which retailers are participating. Monzo can occasionally beat Chase on a single large purchase if an active partner discount aligns with what you need, but it lacks the consistency of a blanket cashback program.\n\n---\n\n### 2. Savings Comparison\n\n| Account Type | Chase UK | Monzo (Free Account) |\n| :--- | :--- | :--- |\n| **Easy Access** | Consistently competitive with standard and \"Boosted\" promotional rates (typically ~4.0%–4.5%+ AER). | Significantly lower for free accounts (typically ~2.8%–3.8% AER); top rates are locked behind paid tiers. |\n| **Regular Saver** | **6.50% AER** fixed (up to £300/month). | Savings Challenge pots, but usually lower rates unless using third-party fixed terms. |\n| **Round-Up Savings** | **5.00% AER variable** on rounded-up spare change. | Rounds up spend into pots, but round-ups do not earn a boosted high-interest rate. |\n| **Cost** | 100% free. | Free, but its best savings rates require paid plans (*Perks* or *Max*). |\n\n* **Winner: Chase UK.** Monzo relies heavily on partner banks via its savings marketplace, and its own standard instant-access pots offer lower rates unless you pay a monthly fee for Monzo Perks or Max. Chase offers higher easy-access rates for free, alongside a 6.5% regular saver and 5% round-up account.\n\n---\n\n### Where Monzo Still Wins\nWhile Chase wins on raw returns, Monzo is often considered superior for overall banking and day-to-day functionality:\n* **Budgeting tools:** Monzo’s category tracking, Salary Sorter, and shared tabs are significantly more polished than Chase’s tools.\n* **Depositing cash &",
+ "citations": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtFQnE1PbKkC3Yq65SghUjwK38DJLttclWFEbiDUwR_d7m2aa61URpmk7DfqnaULeArZf67GaYsX3JYemzMT55-F6rKjPsJpkEogcWZR0L5WzzRFfaoO3S-q0=",
+   "title": "tryabel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpTp8KE-l1t0QYw9y2_thxyPNpnxNeMAgXMPvgbqIjwkGzibnhGYKHpqO7XkrsWQqqNwAaMHZXEaZ3eEwlBS7FmcrRnRp-cSpKvtK_UahyQb4_KwRAzsWF5Uau6SJdH2wmX44=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG041cSbYfh2Dow0IxXIxhW9vctgEbaNP4Q2mP2I3eTtQCyUlwXwtk34Y5nv9Dh5UqZCt4BYBx2mZhMTVm1mcqaL1cNAoBoSjg3hELbelZa2uoNaHGIZBCNlTLZvylZMZfQrxhaqrr4F6bOD5nIhc2g5XP_3_Ld_io9c7XTspxMG4mI9mjwL4w16C-kxPxZMMpD9z6c2wyR5A==",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg7lzBLINCScHyIoPXkURQBzUjMyFVCudbpVHpF0PcgaYd8vTJUcWSNX6fpUT9Z0fFdII5TkD6kfRwjpcCu0Leh48v6d2v2Y_WMH1d3G27qx1qXCcpOBNpG5ypcU8zGZgcuLspMN_Sa9Nh8_pmZLZOgLNdpIVCYbD7U-lBH3taTwZACoGCU4g5x7752yYH4WG0KA2tre3SnEHFqCVD4w==",
+   "title": "which.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeHDZB04FE96GK11YD1v1psNLpFFG5svsirAxunrYmcDn3D-cnxPqLxzQNyjkRuYtl3hKSY7Pm1WrUx5_WPRcuMYruQIg4i90er8ZvEFr2L6zuf1fNLTcgVbrMgceV0FBtiIww-3NjULGZXgcmOw0SltsUgkz77tqE59aPM5XeIHWBRSQecq6M_5vpbnpkzw==",
+   "title": "moneytothemasses.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW6iFs81ybn4yGsoLPSH_-kAYKOVxvIdY-UkhNW7jmtiNMQIuMKxEoeOa9rJKCaepVF9HyULJRXPWepfswt5HwYvr_TrOpNbFZN0mu9q__HHbzo70HSTsYjcF121BZcNHQ9kZ_-oE=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNCnhHvwVBlhrIF_7pKggieML--v2WAfNA8WoyT1ysaBeq9AQTHpKEYFlMQjy0OP3EItBA7Q8K22XWynWDpyomqx1r0R1lckI56pmtN5j8zCJYsxZg8bbl5tU=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMNhl7GpFJ4VHPGydpRE4isBhG6zIrt--sYw4jKdFywl2ivrvvk9ls2S_Cbyze6oluB1ziTlccJibtOKnFbEWKldGTv_zg_sXiTEsW0L5MfupVyKIw-ksIxFGbpPSVKoQBKuehE9kX8YWJaGzO_d9z",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAfukuALwuopGMGID26Ng43ABjD_0DZv0hE5JKgk1thPFQ_4f6otJ55Wi-ABTidin5Kbiu8ckwuVVZNMFX92LYaqiWFDokghpWtTZ32IEe-iGtAI5eO6Pz0Kb_eUaaA40DCwrNWQZJMciUdIiz8JYCrEU7jQ==",
+   "title": "forbes.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwRLWsrqxeAIQXaLf_A-97gczr2GQSR1TDwruL2MPxo8fYEdDrHdOtnS74wFEnEgZa3Xvp-FFNhMSbgsWNbQwDfp0WYD0HoN-TmLZWlaPv31P-oHjE17-h1uuh-fYMiekFAPMJS-oIjWgO2OYx9TcyGA==",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINpfoqwTqBCo-J45xGFEkOWYL55Tv_potf4ci6EfsMvzmcCwPCaAp6pUQbpNFVkOI6Po2E1RjKKX4-uDRh4p6pN2SW18HKB54LZEwCYRDZdM3_85gEF_uUTLgtDUIDYs7Lz1ranpIsknTgGF1VyaJUIqcIDLfNw==",
+   "title": "finder.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC2Dg1awQNlfw7fVfmrv6LMPD54AqI7R-HdL1hQ0utJe6xMrjwHhJUfPT0ZLriGYFUhzUPuoxxg4aGDTJIrpvjs-MxvNKPWUIf1AImOnbHzwtzw5UrzVbPKkZ9d57WyPWv2MF9kVgQOyHs",
+   "title": "chase.co.uk"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI5pGWhevdUYGutrJdUKz1AlTUNeJQQ4gYEfK424OfsGpEDqR9G4w9dD7f-vjIS8dQt0b6qrAriXW6nT4_Qh50l1uITB-ZnSlY5nGpg1wNtfmeint-xW5uki_D9MIgXQZ2X43klB1TW5h2vBFuIzxmNrGzY6z8BTh-nEaSD2mNWNEVcNEBmmXazJZsqpC4FEhO",
+   "title": "ffnews.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkC99YOjG_P2EmLgWBIJz32umgo8RsBGyHL0LAs6BHsI6xbJf8rOsDFvnZk-BRQaUOrzYG33hRKkmYYrn4Wpqoz2YZb5D-59CTPGiWkSepHwbZ1T_u_OvqvDySg==",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGne-yGUC7IshhcUtB4AR3DJmcz-1U3G0JNQQwOhMysVmG43Af6XnfuzuNI_zCzKurk7GCrBg9uB4YA58V_mpaeLuAY6hmC4KLHUEkkFSOpMxInoWHv6e7BbA8=",
+   "title": "depositscout.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFyUaEsjC1UvmJuCOk6ofQHZVJ7H3u90cAsTtzNDWUghuA-BsaehtdWTYWlEih2LIuQysv433XUcLVQ0Pi90K7-a-CKDJEyq4=",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKPKF7G7GVlduJPwmcAw-XWXjHFk1X4VZZ1ZTKt1HsQV07JskIGCBw7V2vzUE_MNsqHNg-SR3gnvgV4K137SorgouG-VeqQLDlTr9VSlRSopbxE3Y=",
+   "title": "monzo.com"
+  }
+ ],
+ "search_queries": [
+  "Monzo savings interest rate easy access",
+  "Chase UK cashback terms",
+  "Monzo cashback debit card",
+  "Chase UK savings account interest rate"
+ ],
+ "latency_s": 25.24,
+ "asked_at": "2026-11-21T17:54:19.236174+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api",
+ "signed_in": false
+}

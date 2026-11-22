@@ -1,0 +1,166 @@
+{
+ "engine": "gemini",
+ "question_id": "C3",
+ "run": 2,
+ "present": {
+  "Monzo": true,
+  "Starling": false,
+  "Revolut": true,
+  "Chase": false,
+  "Nationwide": false
+ },
+ "sources": [
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_DuNjoFH300dOhhdLMooLSgbWNVs2HU_Vsl-5U5ONArp_rb1t31VQalREOH16G26GYWlA9GOA5OB83wx3t-LK7XtuwJw__CICIXLCKFVGsERf6jZgOQhkYdfTTOwjadAvqarQgPloG6Oj",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrYHTxvQisTeh_90yHqat8J7dswGqecMH0u-JlJEeBvFTekYQoSpaFN-gS_ko6MhU7R8HgQZuF6M-1OwcEgCJGwo0Orq_1DEciKFdIhHefvyH8xk7CCCWjASP07UdivFhlUZmKycsUfRqJyicZXBTPLuMcaJMjIZdJxVyy6-4x9uRw79wNjz93rTKlGpm4",
+   "domain": "reddit.com",
+   "source_type": "forum_social",
+   "title": "reddit.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMWQW5KI1ERD1rl0BRd_CpL3l8_q_By33dM_aFVZ6Uz_v_KGmoqYzGUHRjE8oyGP2p556xVctHYc8wJMfBR3t6OSOkEgAhy2pqSemio5yVTUV1PbBlnVfsWeT8lJ4Bd1pvQoeOtA==",
+   "domain": "gaysthattravel.com",
+   "source_type": "other",
+   "title": "gaysthattravel.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoevZ_3O3SUdLmLpxthYdOwUD-yMzMjg2t4wILfhU6svwLgxdhuWfWLD9HV6xsXhGxuu6FH69yR0NPbuHGpaUhMn-8-IptUjyXiv1Mci9suXO1BwKVspZ1YhpYKDKIEYcWCz-6Gxv39c5lZFX0hJIobB-RFNRNnhnIHktMcW85K7eEW-2FOIafA2Fl3DkJRbVzuqdaxRSqwchfpfSvrpHelohEoBlMtsCvf-S1dU-J6qylz59F_ePNYQhfjaFic56r49JHCpSmSmAeKQ==",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF854H4qMrMf-0htOHB5rkxIz_rXV75Kpt89VS_ulNij_u81Gk7rz8sArF9SWvKJni3-9gYuDXICUmHVDV-ImASOy4GcY9NxV9nWIhwNTpGB1PR9HZo2Is020MjtWq1rg==",
+   "domain": "bankverse.ch",
+   "source_type": "other",
+   "title": "bankverse.ch"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEN3B38hl6JXeUcp1YUEfJVChbFX3D--5FMpqpRJxK2Bg4CuVn1uQ5ZzHe3b_QEvlMnX7iWg1r8QKDLdcAXNK_e_ls-ZUinMUiD7hgSA5-v-xU01jIM5ZXp7kcGJmyU7TGTUD-yFLShkCwo3xWtHTQEmflXm0YvBW48g85EfrK-4phSefY7J0HgA==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvuJ_ECJbukETN4CjxRHfvOZdSv5sEsXA2t_8U2kP0Hu1iubngMD6TTQT5GUYgn_Au3OOYJDfEHGGhoqVbnDOr8pmqtVPGXAFB22rGmTVmxdF8RsFHCkiKI_fn9KUX-GGbgQFJJlM66VOXCst",
+   "domain": "revolut.com",
+   "source_type": "competitor_owned",
+   "title": "revolut.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKzWcu0FUVVJ13FQSpcdFggY0Wp252UTLyBnrtovosHqfn2cdcIPQ8GZeAWpaPnbxdTKlCFhQEkc3w9QKl8cGZbl3Rtw9X8SwDoM1PESDxQQ1dzbP9fqltzxWhM2y9Q54ohQDCeC350T7unjM=",
+   "domain": "wise.com",
+   "source_type": "other",
+   "title": "wise.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHHthVbWgoCnBmjSYBOKYN3WTTbJv864-i9NSG7_sepLF18yfXcF7baUNVZvu526mlSRWpVuISkgG3FrkS0JGh8groRgINMCeVhkVUjXm3ztHA-3jRtxfRzZAJwMEq0S9L",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMqbm3Pgen2eRmjnmZC2QUidEcGF3L-4GIck0EzzUCDfZlwtNyg_KWtIswnEoBiqYIWkXcBtXAYGzS70q2nCqPOMo6ofEMQzfcFPJyNB8UEQ2-AsQG3S8icu2_pk95wDzv",
+   "domain": "youtube.com",
+   "source_type": "forum_social",
+   "title": "youtube.com"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh4GuX7onRAv7BYytUMd8ounH0Y6GlrI7FmSEzBrldMtxqzg226CVNP8xF7advMaSKErK0dfiK-lT7SxzwJsz-2Jt8NW4EV0cXdH06-WefveXf6TCdCSRDInsnSuDkyRaGRAFEr6HRDQV-37qbnwiEO4toWKWPZ6ARawjY6-iV72h1ZywTiYgCJaXWRQ==",
+   "domain": "monzo.com",
+   "source_type": "brand_owned",
+   "title": "monzo.com"
+  }
+ ],
+ "judgement": {
+  "brands": [
+   {
+    "brand": "Monzo",
+    "stance": "recommended",
+    "position": 1,
+    "attribute_sentiment": {
+     "fees": "positive",
+     "savings_rates": "not_discussed",
+     "app_and_features": "neutral",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "positive",
+     "spending_abroad": "positive"
+    },
+    "evidence": "Monzo is the simpler, lower-stress choice"
+   },
+   {
+    "brand": "Starling",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Revolut",
+    "stance": "recommended",
+    "position": 2,
+    "attribute_sentiment": {
+     "fees": "negative",
+     "savings_rates": "not_discussed",
+     "app_and_features": "positive",
+     "customer_service": "not_discussed",
+     "safety_and_trust": "negative",
+     "spending_abroad": "neutral"
+    },
+    "evidence": "Revolut has stronger multi-currency features"
+   },
+   {
+    "brand": "Chase",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   },
+   {
+    "brand": "Nationwide",
+    "stance": "absent",
+    "position": null,
+    "attribute_sentiment": {},
+    "evidence": ""
+   }
+  ],
+  "client_claims": [
+   {
+    "text": "Monzo uses the Mastercard wholesale rate",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": ""
+   },
+   {
+    "text": "Monzo has no fees on weekend card spending / unlimited fee-free card spending abroad",
+    "verdict": "supported",
+    "fact_id": "F6",
+    "note": "No fee on card spending abroad in any currency."
+   },
+   {
+    "text": "ATM cash in EEA: £400 / rolling 30 days fee-free (unlimited if Monzo is main bank); 3% after",
+    "verdict": "supported",
+    "fact_id": "F7",
+    "note": ""
+   },
+   {
+    "text": "Monzo is FSCS protected up to £85,000",
+    "verdict": "contradicted",
+    "fact_id": "F5",
+    "note": "Fact says FSCS protection is up to £120,000 per person."
+   },
+   {
+    "text": "Monzo can't hold Euros; converts automatically from GBP on spend",
+    "verdict": "unverifiable",
+    "fact_id": null,
+    "note": ""
+   }
+  ]
+ },
+ "judge_error": null
+}

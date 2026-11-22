@@ -1,0 +1,41 @@
+{
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "question_id": "H5",
+ "run": 1,
+ "text": "Yes, you can open a joint account with Monzo in the UK.\n\n**Who can open one**\n- You can open a Monzo joint account with anyone you like, such as a partner, friend or flatmate. You don't have to be a couple.\n- You both need your own personal Monzo account. If the other person doesn't have one, they should set one up before you invite them.\n- You both need to be UK residents aged 18 or over. Monzo's help pages also mention needing photo ID.\n\n**How to open one**\n- Tap \"Open a joint account\" in the app and invite the other person.\n- Monzo's app instructions say to find this option from your profile. The exact wording of the button has changed over time.\n- You can pick your co-owner from your phone contacts. That works if they're saved in your phone and you have Payments with Friends switched on.\n\n**How it works**\n- A joint account is separate from your personal account, and you share it with someone you know. You can switch between the two accounts in the app at any time.\n- Both of you get a debit card, and the account has its own unique account number. That means you can use it for shared bills.\n- Only the joint account is shared. Your personal account stays private and isn't visible to the other owner.\n- Your joint account works a lot like a personal current account. You can use Pots and other features.\n- With a joint account overdraft, either of you can change the limits, make repayments or switch it off at any time.\n- You can also open joint savings. You can set up Joint Instant Access Savings Pots if you have a joint account.\n- If you pay for a Monzo plan (Extra, Perks or Max), you can use virtual cards, advanced roundups, custom categories and auto-spreadsheets on your joint account.\n\n**Things to know before you open one**\n- **Equal ownership:** Ownership is split equally and neither person has more access than the other, so only open one with someone you trust. Even if one of you puts in a lot more money, legally everything in the account is split equally.\n- **Credit files:** You each keep your own credit score, but opening a joint account creates a \"financial association\" between you. Missed payments or an unarranged overdraft on the joint account can affect both your individual scores.\n\nFeatures and rates change, so check the Monzo app or monzo.com for the current details before you apply.",
+ "citations": [
+  {
+   "url": "https://monzo.com/current-account/joint-account",
+   "title": "Open a Joint Bank Account"
+  },
+  {
+   "url": "https://monzo.com/savings-isas/joint-instant-access",
+   "title": "Joint Savings Accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
+   "title": "Manage your money together with joint accounts!"
+  },
+  {
+   "url": "https://www.lilachbullock.com/monzo-joint-account/",
+   "title": "Monzo Joint Account: Opening, Switching and Credit Scores"
+  },
+  {
+   "url": "https://monzo.com/help/joint-accounts/what-joint-account",
+   "title": "Monzo Help - Understanding joint accounts"
+  },
+  {
+   "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+   "title": "Advanced tools for joint accounts"
+  }
+ ],
+ "search_queries": [
+  "Monzo joint account how it works eligibility"
+ ],
+ "latency_s": 8.5,
+ "asked_at": "2026-11-21T16:49:46.487544+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "api"
+}

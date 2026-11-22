@@ -1,0 +1,14 @@
+{
+ "engine": "gemini-web",
+ "model": "gemini.google.com · signed out · Auto",
+ "question_id": "T1",
+ "run": 1,
+ "text": "Yes, Monzo is safe, and your money is protected. Because you are in the UK, your deposits are covered by the Financial Services Compensation Scheme (FSCS) up to £85,000 per person (or £170,000 for joint accounts).\n\nIf Monzo were ever to go bust, the FSCS would step in and automatically refund your eligible money, typically within 7 days.\n\nHow Monzo Protects Your Money\n\nFull UK Banking Licence: Unlike some financial apps that operate as \"e-money\" institutions (which don't come with FSCS protection), Monzo is a fully regulated UK bank authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority (FCA). It has the exact same level of legal protection as traditional high-street banks like Barclays, HSBC, or Lloyds.\n\nPartner Savings Pots: If you use Monzo's Savings Pots powered by third-party banks (like OakNorth, Shawbrook, or Paragon), that money is still FSCS-protected—just be aware that the £85,000 limit applies per banking licence, not per app. If you already hold savings directly with one of those partner banks, your combined total with them counts toward that single £85,000 limit.\n\nSecurity & Fraud Controls: Monzo uses standard bank-grade encryption, biometric logins (Face ID/fingerprint), and 3D Secure for online card payments. Features like instant spending notifications, one-tap card freezing, and location-based security help catch unauthorised transactions quickly.\n\nNote on Investment Pots: If you put money into Monzo's Stocks & Shares ISAs or General Investment Accounts, those funds are not protected against market losses. However, your assets are held separately from Monzo's own finances, and if Monzo or its fund partner (BlackRock) were to fail, you are covered by the FSCS investment protection limit of up to £85,000.\n\nKeeping Your Account Secure\n\nWhile your money is safe from the bank failing, your biggest everyday risk is authorised push payment (APP) fraud—being tricked into sending money to a scammer. Keep your account secure by never sharing your PIN or 2FA codes, ignoring unexpected calls claiming to be from Monzo's fraud team, and using virtual cards (if you have a paid plan) when shopping on unfamiliar websites.\n\nWant to explore how Monzo's features or protections compare?\nExplain how FSCS limits work across multiple UK banks\nCompare Monzo with Starling and Chase UK",
+ "citations": [],
+ "search_queries": [],
+ "latency_s": 19.87,
+ "asked_at": "2026-11-21T13:40:24.608850+00:00",
+ "error": null,
+ "synthetic": false,
+ "access": "web"
+}
